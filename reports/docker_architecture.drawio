@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="9RmR5sGBZjWgbp86mxHa">
+    <mxGraphModel dx="2298" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-23" parent="1" style="swimlane;startSize=0;" value="&#xa;DOCKER COMPOSE ENVIRONMENT&#xa;&#xa;" vertex="1">
+          <mxGeometry height="665" width="1200" x="-210" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-1" parent="4I3u9FLf1xtoqpb6qR7I-23" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" value="" vertex="1">
+          <mxGeometry height="150" width="182.93" x="508.54" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-18" parent="4I3u9FLf1xtoqpb6qR7I-23" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/developer/1/Python_Tools_and_SDK.svg" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="220" y="287.66" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-21" parent="4I3u9FLf1xtoqpb6qR7I-23" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.storage;" value="" vertex="1">
+          <mxGeometry height="90" width="90" x="508.54" y="287.66" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-25" parent="4I3u9FLf1xtoqpb6qR7I-23" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/developer/1/Python_Tools_and_SDK.svg" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="800" y="287.6599999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-19" parent="4I3u9FLf1xtoqpb6qR7I-23" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.mysql;" value="" vertex="1">
+          <mxGeometry height="100" width="107.34" x="1060" y="287.66" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-29" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Container: Python Crawler" vertex="1">
+          <mxGeometry height="150" width="150.46" x="200" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-33" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Container: MinIO (Data Lake)" vertex="1">
+          <mxGeometry height="30" width="142" x="482.54" y="394" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-38" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Container: Relational DB (MySQL)" vertex="1">
+          <mxGeometry height="30" width="160" x="1033.67" y="401" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-41" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Container: Cleaning &amp;amp; NLP" vertex="1">
+          <mxGeometry height="30" width="130" x="785" y="394" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-54" parent="4I3u9FLf1xtoqpb6qR7I-23" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" value="" vertex="1">
+          <mxGeometry height="70" width="100" x="70" y="302.65999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-55" parent="4I3u9FLf1xtoqpb6qR7I-23" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" value="" vertex="1">
+          <mxGeometry height="70" width="100" x="364" y="302.65999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-56" parent="4I3u9FLf1xtoqpb6qR7I-23" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" value="" vertex="1">
+          <mxGeometry height="70" width="100" x="650" y="302.65999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-57" parent="4I3u9FLf1xtoqpb6qR7I-23" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" value="" vertex="1">
+          <mxGeometry height="70" width="100" x="930" y="307.65999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-61" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Port: 9000 (API) / 9001 (Console) | Raw JSON/CSV" vertex="1">
+          <mxGeometry height="30" width="201.46" x="464" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-62" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Port: 3306 | Clean Tables" vertex="1">
+          <mxGeometry height="30" width="150.46" x="1043.21" y="431" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-64" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BeautifulSoup / Selenium" vertex="1">
+          <mxGeometry height="30" width="150.46" x="200" y="409" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-65" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pandas / Sentiment Model" vertex="1">
+          <mxGeometry height="70" width="201.46" x="750" y="402.65999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-68" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTML / Web Data" vertex="1">
+          <mxGeometry height="30" width="107.34" x="62.66" y="372.66" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-70" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Raw JSON" vertex="1">
+          <mxGeometry height="30" width="100" x="360" y="372.66" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-71" edge="1" parent="4I3u9FLf1xtoqpb6qR7I-23" source="4I3u9FLf1xtoqpb6qR7I-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="4I3u9FLf1xtoqpb6qR7I-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-72" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Read Raw Data" vertex="1">
+          <mxGeometry height="30" width="107.34" x="642.66" y="372.66" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-73" parent="4I3u9FLf1xtoqpb6qR7I-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Save Clean Data" vertex="1">
+          <mxGeometry height="30" width="120" x="913.67" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-14" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" value="" vertex="1">
+          <mxGeometry height="150" width="130" x="-385" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-15" edge="1" parent="1" source="4I3u9FLf1xtoqpb6qR7I-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;" target="4I3u9FLf1xtoqpb6qR7I-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4I3u9FLf1xtoqpb6qR7I-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Web Sources (ShopeeFood / Foody)" vertex="1">
+          <mxGeometry height="70" width="160" x="-385" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
