@@ -49,7 +49,7 @@ def crawl_foody_reviews(urls, limit_per_url=1000):
     all_reviews = []
     
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(headless=False)
         context = browser.new_context(
             viewport={'width': 1280, 'height': 800},
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -65,13 +65,13 @@ def crawl_foody_reviews(urls, limit_per_url=1000):
                 page.goto(review_url, timeout=60000, wait_until="domcontentloaded")
                 time.sleep(4) 
 
-                for _ in range(10):
+                for _ in range(5):
                     page.evaluate("window.scrollTo(0, document.body.scrollHeight);")
                     time.sleep(2)
 
                 soup = BeautifulSoup(page.content(), 'html.parser')
 
-                cards = soup.select('.micro-home-review-item, .review-item, div[class*="review-item"]')
+                cards = soup.select('.foody-box-review, .review-item')
                 print(f"[Foody] Tìm thấy {len(cards)} khối bình luận hợp lệ.")
 
                 for card in cards[:limit_per_url]:
@@ -100,7 +100,7 @@ def crawl_foody_reviews(urls, limit_per_url=1000):
                     rating = rating_elem.get_text(strip=True) if rating_elem else "N/A"
 
                     comment_elem = card.select_one('.rd-des, .review-text, span[class*="comment"]')
-                    comment = comment_elem.get_text(strip=True) if comment_elem else ""
+                    comment = comment_elem.get_text(strip=True).replace("Xem thêm", "").strip() if comment_elem else ""
 
                     if comment:
                         all_reviews.append({
@@ -119,7 +119,7 @@ def crawl_foody_reviews(urls, limit_per_url=1000):
         browser.close()
 
     return all_reviews
-def get_foody_links_from_category(category_url, max_links=5):
+def get_foody_links_from_category(category_url, max_links=10000):
     """
     Hàm quét trang danh mục trên Foody bằng cách trích xuất trực tiếp thẻ quán.
     """
@@ -139,9 +139,9 @@ def get_foody_links_from_category(category_url, max_links=5):
             time.sleep(5)
             
             # Cuộn trang vài lần để tải thêm danh sách quán
-            for _ in range(15):
+            for _ in range(100):
                 page.evaluate("window.scrollTo(0, document.body.scrollHeight);")
-                time.sleep(3)
+                time.sleep(10)
                 
             # Lấy tất cả các thẻ có thuộc tính href và chứa cấu trúc đường dẫn danh mục ẩm thực
             links = page.eval_on_selector_all(
@@ -155,12 +155,15 @@ def get_foody_links_from_category(category_url, max_links=5):
                     
                 # Đã thêm điều kiện loại bỏ album ở đây
                 if any(city in href for city in ["/ho-chi-minh/", "/ha-noi/", "/da-nang/"]) \
-                   and "/bai-viet/" not in href \
-                   and "/album" not in href \
-                   and "/o-dau/" not in href \
-                   and "/fresh" not in href \
-                   and "/tim-kiem" not in href \
-                   and "/khuyen-mai" not in href:
+                    and "/bai-viet/" not in href \
+                    and "/album" not in href \
+                    and "/o-dau/" not in href \
+                    and "/fresh" not in href \
+                    and "/tim-kiem" not in href \
+                    and "/khuyen-mai" not in href \
+                    and "/thuc-don" not in href \
+                    and "/bai-dau-xe" not in href \
+                    and "/dia-diem-phuc-vu" not in href:
                     
                     if not href.endswith('/binh-luan'):
                         full_link = href.rstrip('/') + '/binh-luan'
@@ -182,8 +185,8 @@ def get_foody_links_from_category(category_url, max_links=5):
     return restaurant_urls
 
 if __name__ == "__main__":
-    target_category_url = "https://www.foody.vn/ho-chi-minh/an-vat"
-    foody_urls = get_foody_links_from_category(target_category_url, max_links=1000)
+    target_category_url = "https://www.foody.vn/bo-suu-tap/nhung-quan-an-vat-duoc-gioi-tre-yeu-thich-nhat-tai-tp-hcm"
+    foody_urls = get_foody_links_from_category(target_category_url, max_links=10000)
     
     if foody_urls:
         print("Bắt đầu tiến trình cào dữ liệu đánh giá hàng loạt...")
