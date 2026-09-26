@@ -11,13 +11,69 @@ PROCESSED_DIR = "data/processed"    # tien trinh: danh sach quan da xu ly, de re
 
 CSV_PATH = os.path.join(RAW_DIR, "gmaps_reviews.csv")
 JSON_PATH = os.path.join(RAW_DIR, "gmaps_reviews.json")
-DONE_PATH = os.path.join(PROCESSED_DIR, "gmaps_done.txt")
+DONE_PATH = os.path.join(PROCESSED_DIR, "gmaps_done.txt")   # quan da xu ly (ke ca quan 0 review)
+DEBUG_PATH = os.path.join(PROCESSED_DIR, "debug_review_no_rating.html")
 
 HANOI_DISTRICTS = [
     "Hoan Kiem", "Ba Dinh", "Dong Da", "Hai Ba Trung", "Cau Giay", "Thanh Xuan",
     "Tay Ho", "Hoang Mai", "Long Bien", "Nam Tu Liem", "Bac Tu Liem", "Ha Dong",
 ]
 KEYWORDS = ["quan an", "nha hang", "quan ca phe"]
+
+
+# JavaScript chay TRUC TIEP trong trinh duyet: doc tung review, dem sao vang theo MAU hien thi
+READ_REVIEWS_JS = r"""
+() => {
+  const isYellow = (el) => {
+    const c = getComputedStyle(el).color.match(/\d+/g);
+    if (!c) return false;
+    const [r, g, b] = c.map(Number);
+    return r > 180 && g > 120 && b < 120;          // vang/cam = sao duoc to; xam = sao trong
+  };
+  const out = [];
+  document.querySelectorAll('div.jftiEf').forEach(block => {
+    // Chi xu ly khoi review TRONG CUNG (bo khoi boc ngoai chua nhieu review)
+    if (block.querySelector('div.jftiEf')) return;
+
+    // Moi tim kiem deu gioi han TRONG block nay -> khong the lay diem chung cua quan
+    let rating = null, method = null;
+
+    // Cach 1: nhan an cua hang sao, vd "5 sao" / "1 star" (bo qua dang thap phan "4,7 sao")
+    for (const el of block.querySelectorAll('[aria-label]')) {
+      const m = (el.getAttribute('aria-label') || '').match(/(?<![\d.,])([1-5])\s*(sao|star)/i);
+      if (m) { rating = +m[1]; method = 'aria-label'; break; }
+    }
+    // Cach 2: dem sao MAU VANG - chi xet dung icon ngoi sao, khong xet icon khac
+    if (rating === null) {
+      let stars = [...block.querySelectorAll('span.hCCjke')];
+      if (stars.length < 5)
+        stars = [...block.querySelectorAll('[class*="google-symbols"]')]
+                  .filter(el => ['star', 'star_half', '★', ''].includes(el.textContent.trim()));
+      if (stars.length >= 5) {
+        const n = stars.slice(0, 5).filter(isYellow).length;
+        if (n >= 1 && n <= 5) { rating = n; method = 'dem-sao-vang'; }
+      }
+    }
+    // Cach 3: chu "4/5" o phan dau review - BO QUA noi dung binh luan va phan hoi chu quan
+    if (rating === null) {
+      const clone = block.cloneNode(true);
+      clone.querySelectorAll('.wiI7pd, .CDe7pd, .MyEned').forEach(el => el.remove());
+      const m = clone.textContent.match(/(?<!\d)([1-5])\s*\/\s*5(?!\d)/);
+      if (m) { rating = +m[1]; method = 'x/5'; }
+    }
+    const name = block.querySelector('div.d4r55');
+    const text = block.querySelector('span.wiI7pd');
+    out.push({
+      user_name: name ? name.innerText.trim() : 'N/A',
+      review_text: text ? text.innerText.trim() : '',
+      rating: rating,
+      method: method,
+      html: rating === null ? block.outerHTML.slice(0, 5000) : null,
+    });
+  });
+  return out;
+}
+"""
 
 
 class BlockedError(Exception):
@@ -62,13 +118,18 @@ def append_reviews(rows):
         return
     os.makedirs(RAW_DIR, exist_ok=True)
     df_new = pd.DataFrame(rows)
-    if os.path.exists(CSV_PATH):
-        df = pd.concat([pd.read_csv(CSV_PATH), df_new], ignore_index=True)
-        df.drop_duplicates(subset=["restaurant_id", "user_name", "review_text"], keep="last", inplace=True)
-    else:
-        df = df_new
-    df.to_csv(CSV_PATH, index=False, encoding="utf-8-sig")
-    df.to_json(JSON_PATH, orient="records", force_ascii=False, indent=4)
+    try:
+        if os.path.exists(CSV_PATH):
+            df = pd.concat([pd.read_csv(CSV_PATH), df_new], ignore_index=True)
+            df.drop_duplicates(subset=["restaurant_id", "user_name", "review_text"], keep="last", inplace=True)
+        else:
+            df = df_new
+        df["rating"] = pd.to_numeric(df["rating"], errors="coerce").astype("Int64")  # so: dung de tinh toan
+        df = df.drop(columns=["rating_text"], errors="ignore")   # xoa cot 4/5 neu lo co tu lan truoc
+        df.to_csv(CSV_PATH, index=False, encoding="utf-8-sig")
+        df.to_json(JSON_PATH, orient="records", force_ascii=False, indent=4)
+    except PermissionError:
+        print("!!! KHONG GHI DUOC FILE - co the dang mo bang Excel. Dong file lai.")
 
 
 def get_gmaps_links_from_search(page, search_url, max_restaurants=120):
@@ -120,6 +181,9 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100):
     if is_blocked(page):
         raise BlockedError()
 
+    h1 = BeautifulSoup(page.content(), "html.parser").select_one("h1")
+    shop_name = h1.get_text(strip=True) if h1 else "N/A"
+
     try:
         tab = page.locator('button[role="tab"]:has-text("Đánh giá"), button[role="tab"]:has-text("Reviews")').first
         if tab.count() > 0:
@@ -135,7 +199,7 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100):
         }""")
         time.sleep(random.uniform(1.5, 3))
 
-    for btn in page.locator('button.w8nwRe').all():
+    for btn in page.locator('button.w8nwRe').all():   # nut "Thêm" mo review dai
         try:
             btn.click(timeout=1000)
         except Exception:
@@ -144,21 +208,24 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100):
     if is_blocked(page):
         raise BlockedError()
 
-    soup = BeautifulSoup(page.content(), 'html.parser')
     key = extract_place_key(place_url)
-    for elem in soup.select('div.jftiEf')[:max_reviews]:
-        text_el = elem.select_one('span.wiI7pd')
-        text = text_el.get_text(strip=True) if text_el else ""
-        name_el = elem.select_one('div.d4r55')
-        rate_el = elem.select_one('span.kvMYJ')
-        if text:
+    for r in page.evaluate(READ_REVIEWS_JS)[:max_reviews]:
+        if r["rating"] is None and r["html"] and not os.path.exists(DEBUG_PATH):
+            os.makedirs(PROCESSED_DIR, exist_ok=True)
+            with open(DEBUG_PATH, "w", encoding="utf-8") as f:
+                f.write(r["html"])
+            print(f"  (!) Khong doc duoc sao - da luu mau HTML vao {DEBUG_PATH}")
+        if r["review_text"]:
             rows.append({
                 "platform": "GoogleMaps",
                 "restaurant_id": key,
-                "user_name": name_el.get_text(strip=True) if name_el else "N/A",
-                "rating": rate_el.get('aria-label') if rate_el else "N/A",
-                "review_text": text,
+                "shop_name": shop_name,
+                "user_name": r["user_name"],
+                "rating": r["rating"],
+                "review_text": r["review_text"],
             })
+    got = sum(1 for r in rows if r["rating"] is not None)
+    print(f"  {shop_name}: {len(rows)} review, doc duoc sao {got}/{len(rows)}")
     return rows
 
 
