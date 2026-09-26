@@ -1,201 +1,200 @@
 import os
-import json
 import re
-import pandas as pd
-import requests
-import csv
-
-import os
-import pandas as pd
-
-def save_data(new_reviews, output_dir="data/raw"):
-    os.makedirs(output_dir, exist_ok=True)
-    csv_path = os.path.join(output_dir, "raw_reviews.csv")
-    json_path = os.path.join(output_dir, "raw_reviews.json")
-    
-    
-    df_new = pd.DataFrame(new_reviews)
-    
-    if os.path.exists(csv_path):
-      
-        df_old = pd.read_csv(csv_path)
-        
-        
-        df_combined = pd.concat([df_old, df_new], ignore_index=True)
-        
-       
-        initial_count = len(df_combined)
-        df_combined.drop_duplicates(
-            subset=["restaurant_id", "user_name", "review_text"], 
-            keep="last", 
-            inplace=True
-        )
-        final_count = len(df_combined)
-        
-        print(f"TỔNG CỘNG DỒN: {final_count} bình luận (Đã lọc {initial_count - final_count} bản trùng lặp).")
-    else:
-        df_combined = df_new
-        print(f"Tạo file dữ liệu mới với {len(df_combined)} bình luận.")
-        
-   
-    df_combined.to_csv(csv_path, index=False, encoding="utf-8-sig")
-    df_combined.to_json(json_path, orient="records", force_ascii=False, indent=4)
-    print(f"Hoàn thành lưu dữ liệu vào thư mục '{output_dir}'!")                 
-from playwright.sync_api import sync_playwright
-from bs4 import BeautifulSoup
 import time
+import random
+import pandas as pd
+from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
-def crawl_foody_reviews(urls, limit_per_url=1000):
-    all_reviews = []
-    
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        context = browser.new_context(
-            viewport={'width': 1280, 'height': 800},
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        )
-        page = context.new_page()
+RAW_DIR = "data/raw"                # du lieu tho: file CSV/JSON cac review that cao duoc
+PROCESSED_DIR = "data/processed"    # tien trinh: danh sach quan da xu ly, de resume
 
-        for url in urls:
-            try:
-                base_url = url.rstrip('/')
-                review_url = base_url if '/binh-luan' in base_url else f"{base_url}/binh-luan"
-                
-                print(f"[Foody] Đang truy cập: {review_url}")
-                page.goto(review_url, timeout=60000, wait_until="domcontentloaded")
-                time.sleep(4) 
+CSV_PATH = os.path.join(RAW_DIR, "gmaps_reviews.csv")
+JSON_PATH = os.path.join(RAW_DIR, "gmaps_reviews.json")
+DONE_PATH = os.path.join(PROCESSED_DIR, "gmaps_done.txt")
 
-                for _ in range(5):
-                    page.evaluate("window.scrollTo(0, document.body.scrollHeight);")
-                    time.sleep(2)
+HANOI_DISTRICTS = [
+    "Hoan Kiem", "Ba Dinh", "Dong Da", "Hai Ba Trung", "Cau Giay", "Thanh Xuan",
+    "Tay Ho", "Hoang Mai", "Long Bien", "Nam Tu Liem", "Bac Tu Liem", "Ha Dong",
+]
+KEYWORDS = ["quan an", "nha hang", "quan ca phe"]
 
-                soup = BeautifulSoup(page.content(), 'html.parser')
 
-                cards = soup.select('.foody-box-review, .review-item')
-                print(f"[Foody] Tìm thấy {len(cards)} khối bình luận hợp lệ.")
+class BlockedError(Exception):
+    pass
 
-                for card in cards[:limit_per_url]:
-                    user_elem = (
-                        card.select_one('.ru-user-name') or 
-                        card.select_one('.ru-row a') or 
-                        card.select_one('a[ng-bind*="User"], a[ng-bind*="name"]') or
-                        card.select_one('.user-name, .owner-name')
-                    )
-                    
-                    user_name = ""
-                    if user_elem:
-                        user_name = user_elem.get_text(strip=True)
-                    
-                    if not user_name:
-                        for link in card.find_all('a'):
-                            text = link.get_text(strip=True)
-                            if text and len(text) > 1 and not text.startswith(('http', 'www')):
-                                user_name = text
-                                break
-                    
-                    if not user_name:
-                        user_name = "Anonymous"
 
-                    rating_elem = card.select_one('.review-points, .highlight, span[class*="point"]')
-                    rating = rating_elem.get_text(strip=True) if rating_elem else "N/A"
+def is_blocked(page):
+    """Google chuyen sang trang /sorry/ khi nghi ngo bot."""
+    return "/sorry/" in page.url or "unusual traffic" in page.content().lower()
 
-                    comment_elem = card.select_one('.rd-des, .review-text, span[class*="comment"]')
-                    comment = comment_elem.get_text(strip=True).replace("Xem thêm", "").strip() if comment_elem else ""
 
-                    if comment:
-                        all_reviews.append({
-                            "platform": "Foody",
-                            "restaurant_id": url,
-                            "user_name": user_name,
-                            "rating": rating,
-                            "review_text": comment
-                        })
+def extract_place_key(url):
+    """Ma dinh danh on dinh cua quan (khong phu thuoc toa do trong URL)."""
+    m = re.search(r'!1s(0x[0-9a-fA-F]+:0x[0-9a-fA-F]+)', url)
+    if m:
+        return m.group(1)
+    m = re.search(r'/place/([^/@]+)', url)
+    return m.group(1) if m else url
 
-                print(f"[Foody] Đã trích xuất thành công {len(all_reviews)} bình luận!")
 
-            except Exception as e:
-                print(f"[Foody] Lỗi khi cào link {url}: {e}")
+def load_done_keys():
+    done = set()
+    if os.path.exists(DONE_PATH):
+        with open(DONE_PATH, encoding="utf-8") as f:
+            done = {line.strip() for line in f if line.strip()}
+    if os.path.exists(CSV_PATH):
+        done |= set(pd.read_csv(CSV_PATH)["restaurant_id"].dropna().astype(str))
+    return done
 
-        browser.close()
 
-    return all_reviews
-def get_foody_links_from_category(category_url, max_links=10000):
-    """
-    Hàm quét trang danh mục trên Foody bằng cách trích xuất trực tiếp thẻ quán.
-    """
-    print(f"[Category] Đang quét danh sách quán từ: {category_url}")
-    restaurant_urls = []
-    
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        context = browser.new_context(
-            viewport={'width': 1280, 'height': 800},
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
-        )
-        page = context.new_page()
-        
+def mark_done(key):
+    """Ghi vao data/processed -> danh dau tien trinh, KHONG phai du lieu tho."""
+    os.makedirs(PROCESSED_DIR, exist_ok=True)
+    with open(DONE_PATH, "a", encoding="utf-8") as f:
+        f.write(key + "\n")
+
+
+def append_reviews(rows):
+    """Ghi vao data/raw -> du lieu tho that. Luu NGAY sau moi quan,
+       dung giua chung khong mat du lieu."""
+    if not rows:
+        return
+    os.makedirs(RAW_DIR, exist_ok=True)
+    df_new = pd.DataFrame(rows)
+    if os.path.exists(CSV_PATH):
+        df = pd.concat([pd.read_csv(CSV_PATH), df_new], ignore_index=True)
+        df.drop_duplicates(subset=["restaurant_id", "user_name", "review_text"], keep="last", inplace=True)
+    else:
+        df = df_new
+    df.to_csv(CSV_PATH, index=False, encoding="utf-8-sig")
+    df.to_json(JSON_PATH, orient="records", force_ascii=False, indent=4)
+
+
+def get_gmaps_links_from_search(page, search_url, max_restaurants=120):
+    """Cuon den khi het danh sach (Google gioi han ~120 ket qua/lan tim)."""
+    print(f"[Search] {search_url}")
+    page.goto(search_url, timeout=60000)
+    time.sleep(random.uniform(3, 5))
+    if is_blocked(page):
+        raise BlockedError()
+
+    try:
+        page.wait_for_selector('div[role="feed"]', timeout=10000)
+    except Exception:
+        print("  Khong thay danh sach ket qua (co the chi co 1 quan hoac sai selector).")
+        return []
+
+    last_count, stuck = 0, 0
+    for _ in range(60):
+        page.evaluate("""() => {
+            const feed = document.querySelector('div[role="feed"]');
+            if (feed) feed.scrollTop = feed.scrollHeight;
+        }""")
+        time.sleep(random.uniform(1.5, 3))
+        count = page.locator('a.hfpxzc').count()
+        text = page.content()
+        if "Bạn đã xem hết danh sách" in text or "reached the end of the list" in text:
+            break
+        stuck = stuck + 1 if count == last_count else 0
+        if stuck >= 3 or count >= max_restaurants:
+            break
+        last_count = count
+
+    if is_blocked(page):
+        raise BlockedError()
+
+    urls = []
+    for link in page.locator('a.hfpxzc').all():
+        href = link.get_attribute('href')
+        if href and href not in urls:
+            urls.append(href)
+    print(f"  -> {len(urls)} quan")
+    return urls[:max_restaurants]
+
+
+def crawl_gmaps_reviews(page, place_url, max_reviews=100):
+    rows = []
+    page.goto(place_url, timeout=60000)
+    time.sleep(random.uniform(3, 5))
+    if is_blocked(page):
+        raise BlockedError()
+
+    try:
+        tab = page.locator('button[role="tab"]:has-text("Đánh giá"), button[role="tab"]:has-text("Reviews")').first
+        if tab.count() > 0:
+            tab.click()
+            time.sleep(random.uniform(2, 4))
+    except Exception:
+        pass
+
+    for _ in range(15):
+        page.evaluate("""() => {
+            const d = document.querySelector('.m6QErb.DxyBCb');
+            if (d) d.scrollTop = d.scrollHeight;
+        }""")
+        time.sleep(random.uniform(1.5, 3))
+
+    for btn in page.locator('button.w8nwRe').all():
         try:
-            page.goto(category_url, timeout=60000)
-            time.sleep(5)
-            
-            # Cuộn trang vài lần để tải thêm danh sách quán
-            for _ in range(100):
-                page.evaluate("window.scrollTo(0, document.body.scrollHeight);")
-                time.sleep(10)
-                
-            # Lấy tất cả các thẻ có thuộc tính href và chứa cấu trúc đường dẫn danh mục ẩm thực
-            links = page.eval_on_selector_all(
-                "a[href]", 
-                "elements => elements.map(e => e.href)"
-            )
-            
-            for href in links:
-                if not href or "&" in href or "(" in href or ")" in href:
-                    continue
-                    
-                # Đã thêm điều kiện loại bỏ album ở đây
-                if any(city in href for city in ["/ho-chi-minh/", "/ha-noi/", "/da-nang/"]) \
-                    and "/bai-viet/" not in href \
-                    and "/album" not in href \
-                    and "/o-dau/" not in href \
-                    and "/fresh" not in href \
-                    and "/tim-kiem" not in href \
-                    and "/khuyen-mai" not in href \
-                    and "/thuc-don" not in href \
-                    and "/bai-dau-xe" not in href \
-                    and "/dia-diem-phuc-vu" not in href:
-                    
-                    if not href.endswith('/binh-luan'):
-                        full_link = href.rstrip('/') + '/binh-luan'
-                    else:
-                        full_link = href
-                        
-                    if full_link not in restaurant_urls:
-                        restaurant_urls.append(full_link)
-                        
-                if len(restaurant_urls) >= max_links:
-                    break
-                    
-        except Exception as e:
-            print(f"[Category] Lỗi khi quét danh mục: {e}")
-            
-        browser.close()
-        
-    print(f"[Category] Đã quét thành công {len(restaurant_urls)} đường dẫn quán từ danh mục!")
-    return restaurant_urls
+            btn.click(timeout=1000)
+        except Exception:
+            pass
+
+    if is_blocked(page):
+        raise BlockedError()
+
+    soup = BeautifulSoup(page.content(), 'html.parser')
+    key = extract_place_key(place_url)
+    for elem in soup.select('div.jftiEf')[:max_reviews]:
+        text_el = elem.select_one('span.wiI7pd')
+        text = text_el.get_text(strip=True) if text_el else ""
+        name_el = elem.select_one('div.d4r55')
+        rate_el = elem.select_one('span.kvMYJ')
+        if text:
+            rows.append({
+                "platform": "GoogleMaps",
+                "restaurant_id": key,
+                "user_name": name_el.get_text(strip=True) if name_el else "N/A",
+                "rating": rate_el.get('aria-label') if rate_el else "N/A",
+                "review_text": text,
+            })
+    return rows
+
+
+def main():
+    queries = [f"{kw} {d} Ha Noi" for d in HANOI_DISTRICTS for kw in KEYWORDS]
+    done = load_done_keys()
+    print(f"Da xu ly truoc do: {len(done)} quan | So tu khoa: {len(queries)}")
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=False, args=["--disable-blink-features=AutomationControlled"])
+        context = browser.new_context(locale="vi-VN", viewport={'width': 1280, 'height': 800})
+        page = context.new_page()
+        total_new = 0
+        try:
+            for q in queries:
+                search_url = f"https://www.google.com/maps/search/{q.replace(' ', '+')}"
+                links = get_gmaps_links_from_search(page, search_url)
+                for url in links:
+                    key = extract_place_key(url)
+                    if key in done:
+                        continue
+                    rows = crawl_gmaps_reviews(page, url)
+                    append_reviews(rows)
+                    mark_done(key)
+                    done.add(key)
+                    total_new += len(rows)
+                    print(f"  [{len(done)}] {key}: +{len(rows)} review (tong moi: {total_new})")
+                    time.sleep(random.uniform(3, 6))
+        except BlockedError:
+            print("!!! GOOGLE DA CHAN. Du lieu da luu den quan cuoi cung. Doi 1-2 tieng roi chay lai, code se tu chay tiep.")
+        except KeyboardInterrupt:
+            print("Da dung bang tay. Chay lai de tiep tuc.")
+        finally:
+            browser.close()
+    print(f"=== XONG. Review moi lan nay: {total_new} ===")
+
 
 if __name__ == "__main__":
-    target_category_url = "https://www.foody.vn/bo-suu-tap/nhung-quan-an-vat-duoc-gioi-tre-yeu-thich-nhat-tai-tp-hcm"
-    foody_urls = get_foody_links_from_category(target_category_url, max_links=10000)
-    
-    if foody_urls:
-        print("Bắt đầu tiến trình cào dữ liệu đánh giá hàng loạt...")
-        all_reviews = crawl_foody_reviews(foody_urls, limit_per_url=1000)
-        
-        if all_reviews:
-            save_data(all_reviews, output_dir="data/raw")
-            print("Hoàn thành toàn bộ tiến trình quét danh mục và lưu dữ liệu thành công!")
-        else:
-            print("Không lấy được bình luận nào từ danh sách các quán trên.")
-    else:
-            print("Không tìm thấy đường dẫn quán nào từ trang danh mục.")
+    main()
