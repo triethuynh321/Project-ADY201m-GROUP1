@@ -44,12 +44,21 @@ def save_data(new_reviews, output_dir="data/raw"):
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import time
-
+import random
 def crawl_foody_reviews(urls, limit_per_url=1000):
     all_reviews = []
     
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        # Thay thế đoạn khởi tạo browser cũ bằng đoạn có thêm các args chống phát hiện bot
+        browser = p.chromium.launch(
+            headless=False,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--disable-infobars",
+                "--no-sandbox",
+                "--disable-setuid-sandbox"
+            ]
+        )
         context = browser.new_context(
             viewport={'width': 1280, 'height': 800},
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -63,7 +72,7 @@ def crawl_foody_reviews(urls, limit_per_url=1000):
                 
                 print(f"[Foody] Đang truy cập: {review_url}")
                 page.goto(review_url, timeout=60000, wait_until="domcontentloaded")
-                time.sleep(4) 
+                time.sleep(random.uniform(5, 10)) 
 
                 for _ in range(5):
                     page.evaluate("window.scrollTo(0, document.body.scrollHeight);")
@@ -127,7 +136,10 @@ def get_foody_links_from_category(category_url, max_links=10000):
     restaurant_urls = []
     
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(
+            headless=False,
+            args=["--disable-blink-features=AutomationControlled"]
+)
         context = browser.new_context(
             viewport={'width': 1280, 'height': 800},
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
@@ -136,12 +148,12 @@ def get_foody_links_from_category(category_url, max_links=10000):
         
         try:
             page.goto(category_url, timeout=60000)
-            time.sleep(5)
+            time.sleep(random.uniform(8, 15))
             
             # Cuộn trang vài lần để tải thêm danh sách quán
-            for _ in range(100):
+            for _ in range(15):
                 page.evaluate("window.scrollTo(0, document.body.scrollHeight);")
-                time.sleep(10)
+                time.sleep(2)
                 
             # Lấy tất cả các thẻ có thuộc tính href và chứa cấu trúc đường dẫn danh mục ẩm thực
             links = page.eval_on_selector_all(
@@ -183,19 +195,176 @@ def get_foody_links_from_category(category_url, max_links=10000):
         
     print(f"[Category] Đã quét thành công {len(restaurant_urls)} đường dẫn quán từ danh mục!")
     return restaurant_urls
+import time
+import random
+from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
-if __name__ == "__main__":
-    target_category_url = "https://www.foody.vn/bo-suu-tap/nhung-quan-an-vat-duoc-gioi-tre-yeu-thich-nhat-tai-tp-hcm"
-    foody_urls = get_foody_links_from_category(target_category_url, max_links=10000)
-    
-    if foody_urls:
-        print("Bắt đầu tiến trình cào dữ liệu đánh giá hàng loạt...")
-        all_reviews = crawl_foody_reviews(foody_urls, limit_per_url=1000)
+def get_gmaps_links_from_search(search_url, max_restaurants=20):
+    """
+    Hàm quét danh sách quán từ trang kết quả tìm kiếm/danh mục của Google Maps
+    """
+    restaurant_urls = []
+    with sync_playwright() as p:
+        browser = p.chromium.launch(
+            headless=False,
+            args=["--disable-blink-features=AutomationControlled"]
+        )
+        context = browser.new_context(
+            viewport={'width': 1280, 'height': 800},
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
         
-        if all_reviews:
-            save_data(all_reviews, output_dir="data/raw")
-            print("Hoàn thành toàn bộ tiến trình quét danh mục và lưu dữ liệu thành công!")
+        print(f"[Google Maps Category] Đang tìm kiếm: {search_url}")
+        page.goto(search_url, timeout=60000)
+        time.sleep(random.uniform(3, 5))
+        
+        # Google Maps chứa danh sách kết quả trong một khung scroll bên trái
+        # Selector khung chứa danh sách kết quả tìm kiếm
+        sidebar_selector = 'div[role="feed"]'
+        
+        try:
+            page.wait_for_selector(sidebar_selector, timeout=10000)
+            
+            # Tiến hành cuộn khung sidebar để tải thêm các quán trong danh mục
+            last_height = 0
+            for i in range(100): # Số lần cuộn để load thêm quán (có thể tăng giảm)
+                page.evaluate(f"""
+                    let feed = document.querySelector('{sidebar_selector}');
+                    if (feed) {{
+                        feed.scrollTop = feed.scrollHeight;
+                    }}
+                """)
+                time.sleep(random.uniform(2, 4))
+                
+            # Lấy toàn bộ các thẻ chứa đường dẫn quán ăn
+            links = page.locator('a.hfpxzc').all()
+            for link in links:
+                href = link.get_attribute('href')
+                if href and href not in restaurant_urls:
+                    restaurant_urls.append(href)
+                    if len(restaurant_urls) >= max_restaurants:
+                        break
+                        
+            print(f"[Google Maps Category] Đã quét thành công {len(restaurant_urls)} đường dẫn quán từ danh mục!")
+            
+        except Exception as e:
+            print(f"[Google Maps Category] Lỗi khi quét danh mục: {e}")
+            
+        browser.close()
+    return restaurant_urls
+
+def crawl_gmaps_reviews(place_url, max_reviews=50):
+    reviews_list = []
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=False, args=["--disable-blink-features=AutomationControlled"])
+        context = browser.new_context(locale="vi-VN")
+        page = context.new_page()
+        try:
+            print(f"[Google Maps Review] Đang truy cập quán: {place_url}")
+            page.goto(place_url, timeout=60000)
+            time.sleep(random.uniform(3, 5))
+            
+            # Tìm và click tab Đánh giá
+            try:
+                reviews_tab = page.locator('button[role="tab"]:has-text("Đánh giá"), button[role="tab"]:has-text("Reviews")').first
+                if reviews_tab.count() > 0:
+                    reviews_tab.click()
+                    print("[Google Maps] Đã click chuyển sang tab Đánh giá thành công!")
+                    time.sleep(random.uniform(3, 4))
+            except Exception:
+                pass
+
+            # Cuộn trang để tải thêm dữ liệu review
+            print("[Google Maps] Bắt đầu cuộn để tải thêm review...")
+            for _ in range(15):
+                try:
+            # Dùng evaluate để cuộn trực tiếp vào khung chứa review của Google Maps
+                    page.evaluate('''() => {
+                let scrollableDiv = document.querySelector('.m6QErb.DxyBCb');
+                if (scrollableDiv) {
+                    scrollableDiv.scrollTop = scrollableDiv.scrollHeight;
+                }
+            }''')
+                except Exception:
+                    pass
+            time.sleep(random.uniform(2, 3))
+
+            # Parse nội dung HTML sau khi cuộn
+            content = page.content()
+            soup = BeautifulSoup(content, 'html.parser')
+
+            review_elements = soup.select('div.jftiEf')
+            print(f"[Google Maps Review] Tìm thấy {len(review_elements)} đánh giá.")
+
+            for elem in review_elements:
+                try:
+                    text_elem = elem.select_one('span.wiI7pd')
+                    text = text_elem.get_text(strip=True) if text_elem else ""
+
+                    rating_elem = elem.select_one('span.kvMYJ')
+                    rating_str = rating_elem.get_attribute('aria-label') if rating_elem else "5"
+
+                    if text:
+                        reviews_list.append({
+                            "source": "google maps",
+                            "rating": rating_str,
+                            "review_text": text
+                        })
+                except Exception:
+                    continue
+
+        except Exception as e:
+            print(f"[Google Maps Review] Lỗi khi cào review: {e}")
+        finally:
+            browser.close()
+
+    # Lưu dữ liệu vào file CSV kho
+    if reviews_list:
+        df_new = pd.DataFrame(reviews_list)
+        df_new.to_csv("data/raw/raw_reviews.csv", mode="a", index=False, header=not os.path.exists("data/raw/raw_reviews.csv"))
+        print(f"[Google Maps] Đã lưu cộng dồn {len(reviews_list)} review vào kho thành công!")
+
+    return reviews_list
+if __name__ == "__main__":
+    print("=== BẮT ĐẦU TIẾN TRÌNH CÀO DỮ LIỆU ĐA NỀN TẢNG ===")
+    
+    all_reviews = []
+    foody_targets = []
+    
+    foody_urls =[]
+    for target in foody_targets:
+        if "/bo-suu-tap/" in target or target.endswith("/ha-noi") or "quan-an" in target or "an-vat" in target:
+            print(f"[Foody Category] Đang quét danh mục: {target}")
+            links = get_foody_links_from_category(target, max_links=1000)
+            if links:
+                foody_urls.extend(links)
         else:
-            print("Không lấy được bình luận nào từ danh sách các quán trên.")
+            foody_urls.append(target)
+
+    foody_urls = list(set(foody_urls))
+
+    if foody_urls:
+        print(f"[Foody] Tổng số quán Foody chuẩn bị cào: {len(foody_urls)}")
+        foody_reviews = crawl_foody_reviews(foody_urls, limit_per_url=1000)
+        if foody_reviews:
+            all_reviews.extend(foody_reviews)
+
+    gmaps_search_url = "https://www.google.com/maps/search/quan+an+quan+1+ho+chi+minh"
+    print(f"[Google Maps Category] Đang quét danh mục tìm kiếm...")
+    gmaps_links = get_gmaps_links_from_search(gmaps_search_url, max_restaurants=1000)
+
+    if gmaps_links:
+        print(f"[Google Maps] Tổng số quán lấy được từ Maps: {len(gmaps_links)}")
+        for g_url in gmaps_links:
+            print(f"[Google Maps Review] Đang cào quán: {g_url}")
+            gmaps_reviews = crawl_gmaps_reviews(g_url, max_reviews=1000)
+            if gmaps_reviews:
+                all_reviews.extend(gmaps_reviews)
+            time.sleep(random.uniform(3, 5))
+
+        save_data(all_reviews, output_dir="data/raw")
+        print(f"=== HOÀN TẤT! Tổng số lượng review thu về từ mọi nguồn: {len(all_reviews)} ===")
     else:
-            print("Không tìm thấy đường dẫn quán nào từ trang danh mục.")
+        print("Không tìm thấy dữ liệu nào được cào về từ các nguồn.")
