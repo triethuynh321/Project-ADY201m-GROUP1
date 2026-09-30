@@ -1,0 +1,13 @@
+services:
+  s3-storage:
+    image: adobe/s3mock:latest
+    container_name: local_s3_storage
+    ports:
+      - "18000:9090"
+    environment:
+      initialBuckets: shopeefood-raw-data
+    volumes:
+      - s3_data:/data
+
+volumes:
+  s3_data:

@@ -14,11 +14,21 @@ JSON_PATH = os.path.join(RAW_DIR, "gmaps_reviews.json")
 DONE_PATH = os.path.join(PROCESSED_DIR, "gmaps_done.txt")   # quan da xu ly (ke ca quan 0 review)
 DEBUG_PATH = os.path.join(PROCESSED_DIR, "debug_review_no_rating.html")
 
-HANOI_DISTRICTS = [
-    "Hoàn Kiếm", "Ba Đình", "Đống Đa", "Hai Bà Trưng", "Cầu Giấy", "Thanh Xuân",
-    "Tây Hồ", "Hoàng Mai", "Long Biên", "Nam Từ Liêm", "Bắc Từ Liêm", "Hà Đông",
+SG_DISTRICTS = [
+    "Quận 1", "Quận 3", "Quận 4", "Quận 5", "Quận 6", 
+    "Quận 7", "Quận 8", "Quận 10", "Quận 11", "Quận 12", 
+    "Bình Thạnh", "Tân Bình", "Phú Nhuận", "Gò Vấp", "Thành phố Thủ Đức"
 ]
-KEYWORDS = ["quán ăn", "nhà hàng", "quán cà phê"]
+KEYWORDS = [
+    "banh trang cuon bo kho",
+    "nem chua ran",
+    "khoai tay chien",
+    "banh mi chao", 
+    "banh xeo mien trung",
+    "muc bo bia", "banh gio", 
+    "banh bot loc", "cuc cu dat",
+    "ga ran"
+]
 
 MAX_PLACES_PER_SEARCH = 70    # chi lay ~70 quan dau moi lan tim (cang ve sau cang lech tu khoa)
 MIN_REVIEWS = 50              # quan co it hon 50 danh gia -> bo qua
@@ -393,7 +403,7 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100):
 
 
 def main():
-    queries = [f"{kw} {d} Ha Noi" for d in HANOI_DISTRICTS for kw in KEYWORDS]
+    queries = [f"{kw} {d} TP.HCM" for d in SG_DISTRICTS for kw in KEYWORDS]
     done = load_done_keys()
     print(f"Da xu ly truoc do: {len(done)} quan | So tu khoa: {len(queries)}")
 
@@ -442,6 +452,45 @@ def main():
     export_json()
     print(f"=== XONG. Review moi lan nay: {total_new} ===")
 
+import boto3
+from botocore.exceptions import NoCredentialsError
+
+def upload_to_s3(local_file_path, bucket_name, s3_file_name):
+    # Khởi tạo kết nối tới kho lưu trữ S3 local trên Docker
+    s3 = boto3.client(
+        's3',
+        endpoint_url='http://localhost:8000',
+        aws_access_key_id='minioadmin',
+        aws_secret_access_key='minioadmin'
+    )
+    
+    try:
+        # Tự động tạo bucket nếu chưa tồn tại
+        try:
+            s3.head_bucket(Bucket=bucket_name)
+        except Exception:
+            s3.create_bucket(Bucket=bucket_name)
+
+        # Upload file từ máy local lên kho chung
+        s3.upload_file(local_file_path, bucket_name, s3_file_name)
+        print(f"Đã đẩy thành công file {local_file_path} lên S3!")
+        
+    except Exception as e:
+        print(f"Lỗi khi upload: {e}")
 
 if __name__ == "__main__":
+    # 1. Chạy hàm cào dữ liệu chính để tạo ra file raw trên máy local
     main()
+    
+    # --- THÊM ĐOẠN NÀY VÀO ---
+    from datetime import datetime
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    s3_filename = f"shopeefood/raw_reviews_{timestamp}.csv"
+    # --------------------------
+
+    # 2. Đẩy lên S3 với tên file có đính kèm thời gian lịch sử
+    upload_to_s3(
+        local_file_path="data/raw/raw_reviews.csv",  
+        bucket_name="shopeefood-raw-data",
+        s3_file_name=s3_filename  # Sử dụng tên file có timestamp ở trên
+    )
