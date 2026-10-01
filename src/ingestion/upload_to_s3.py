@@ -1,7 +1,6 @@
 import os
 import boto3
 from botocore.client import Config
-
 # Cấu hình bắt buộc để boto3 không bị lỗi kết nối với S3Mock
 s3_config = Config(
     s3={'addressing_style': 'path'},
@@ -16,6 +15,11 @@ s3 = boto3.client(
     region_name='us-east-1',
     config=s3_config
 )
+try:
+    s3.create_bucket(Bucket="shopeefood-raw-data")
+    print("Đã tạo bucket thành công: shopeefood-raw-data")
+except Exception as e:
+    print(f"Bucket có thể đã tồn tại hoặc lỗi: {e}")
 
 bucket_name = 'shopeefood-raw-data'
 

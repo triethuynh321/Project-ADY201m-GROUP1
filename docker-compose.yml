@@ -7,7 +7,7 @@ services:
     environment:
       initialBuckets: shopeefood-raw-data
     volumes:
-      - s3_data:/data
+      - ./data/s3_storage:/s3mock-root
 
 volumes:
   s3_data:
