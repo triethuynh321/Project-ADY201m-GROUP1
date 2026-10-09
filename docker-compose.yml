@@ -1,13 +1,17 @@
 services:
-  s3-storage:
-    image: adobe/s3mock:latest
-    container_name: local_s3_storage
-    ports:
-      - "18000:9090"
-    environment:
-      initialBuckets: shopeefood-raw-data
-    volumes:
-      - ./data/s3_storage:/s3mock-root
+  minio:
+    image: minio-local:latest
+    container_name: local_minio
 
-volumes:
-  s3_data:
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+
+    environment:
+      MINIO_ROOT_USER: dat666
+      MINIO_ROOT_PASSWORD: "dat@123456"
+
+    command: server /data --console-address ":9001"
+
+    volumes:
+      - ./data/minio_storage:/data

@@ -5,29 +5,102 @@ import random
 import pandas as pd
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
+from botocore.exceptions import NoCredentialsError
+import json
+import boto3
 
 RAW_DIR = "data/raw"                # du lieu tho: file CSV/JSON cac review that cao duoc
 PROCESSED_DIR = "data/processed"    # tien trinh: danh sach quan da xu ly, de resume
 
-CSV_PATH = os.path.join(RAW_DIR, "gmaps_reviews.csv")
-JSON_PATH = os.path.join(RAW_DIR, "gmaps_reviews.json")
-DONE_PATH = os.path.join(PROCESSED_DIR, "gmaps_done.txt")   # quan da xu ly (ke ca quan 0 review)
+CSV_PATH = os.path.join(RAW_DIR, "gmaps_reviews_hanoi.csv")
+JSON_PATH = os.path.join(RAW_DIR, "gmaps_reviews_hanoi.json")
+DONE_PATH = os.path.join(PROCESSED_DIR, "gmaps_done_hanoi.txt") # quan da xu ly (ke ca quan 0 review)
 DEBUG_PATH = os.path.join(PROCESSED_DIR, "debug_review_no_rating.html")
 
-SG_DISTRICTS = [
-    "Quận 1", "Quận 3", "Quận 4", "Quận 5", "Quận 6", 
-    "Quận 7", "Quận 8", "Quận 10", "Quận 11", "Quận 12", 
-    "Bình Thạnh", "Tân Bình", "Phú Nhuận", "Gò Vấp", "Thành phố Thủ Đức"
+HN_DISTRICTS = [
+    # Các quận nội thành
+    "Quận Ba Đình",
+    "Quận Hoàn Kiếm",
+    "Quận Tây Hồ",
+    "Quận Long Biên",
+    "Quận Cầu Giấy",
+    "Quận Đống Đa",
+    "Quận Hai Bà Trưng",
+    "Quận Hoàng Mai",
+    "Quận Thanh Xuân",
+    "Quận Hà Đông",
+    "Quận Nam Từ Liêm",
+    "Quận Bắc Từ Liêm",
+    
+    # Các huyện và thị xã
+    "Huyện Sóc Sơn",
+    "Huyện Đông Anh",
+    "Huyện Gia Lâm",
+    "Huyện Thanh Trì",
+    "Huyện Mê Linh",
+    "Thị xã Sơn Tây",
+    "Huyện Ba Vì",
+    "Huyện Phúc Thọ",
+    "Huyện Đan Phượng",
+    "Huyện Hoài Đức",
+    "Huyện Quốc Oai",
+    "Huyện Thạch Thất",
+    "Huyện Chương Mỹ",
+    "Huyện Thường Tín",
+    "Huyện Phú Xuyên",
+    "Huyện Ứng Hòa",
+    "Huyện Mỹ Đức"
 ]
 KEYWORDS = [
-    "banh trang cuon bo kho",
-    "nem chua ran",
+    # 1. Đồ ăn nhanh & Ăn vặt
+    "tra sua",
+    "tra chanh",
+    "topping",
+    "banh trang tron",
+    "banh trang nuong",
+    "xoai lac",
+    "ga ran",
+    "pizza",
+    "mi cay",
+    "hamburger",
+    "xien ban",
+    "ca vien chien",
     "khoai tay chien",
-    "banh mi chao", 
-    "banh xeo mien trung",
-    "muc bo bia", "banh gio", 
-    "banh bot loc", "cuc cu dat",
-    "ga ran"
+
+    # 2. Món nước truyền thống
+    "pho bo",
+    "pho ga",
+    "bun bo hue",
+    "bun rieu cua",
+    "mi quang",
+    "hu tieu",
+    "banh canh",
+    "bun dau mam tom",
+    "bun cha",
+
+    # 3. Món cơm & Món chính văn phòng
+    "com tam",
+    "com ga",
+    "com chien duong chau",
+    "com nieu",
+    "com van phong",
+    "com tho",
+    "banh mi chao",
+    "banh mi thit nuong",
+    "banh mi pate",
+
+    # 4. Đồ ngọt, Tráng miệng & Healthy
+    "che thai",
+    "che khuc bach",
+    "che buoi",
+    "banh ngot",
+    "banh kem",
+    "banh flan",
+    "tiramisu",
+    "salad",
+    "nuoc ep trai cay",
+    "sua chua deo",
+    "trai cay to"
 ]
 
 MAX_PLACES_PER_SEARCH = 70    # chi lay ~70 quan dau moi lan tim (cang ve sau cang lech tu khoa)
@@ -80,6 +153,57 @@ FOOD_WORDS = [
 NON_FOOD_STRONG_PATTERN = re.compile("|".join(NON_FOOD_STRONG), re.IGNORECASE)
 NON_FOOD_WEAK_PATTERN = re.compile("|".join(NON_FOOD_WEAK), re.IGNORECASE)
 FOOD_PATTERN = re.compile("|".join(FOOD_WORDS), re.IGNORECASE)
+s3_client = boto3.client(
+    's3',
+    endpoint_url='http://localhost:9000',
+    aws_access_key_id='dat666',
+    aws_secret_access_key='dat@123456'
+)
+def get_next_part_index():
+    """Tự động quét S3 để tìm số part lớn nhất hiện có và trả về số tiếp theo."""
+    try:
+        # Đảm bảo bucket tồn tại trước khi liệt kê
+        s3_client.head_bucket(Bucket='gmaps-raw-data')
+    except Exception:
+        return 1
+
+    try:
+        response = s3_client.list_objects_v2(Bucket='gmaps-raw-data', Prefix='gmaps/raw/HN_part_')
+        if 'Contents' not in response:
+            return 1
+        
+        max_index = 0
+        for obj in response['Contents']:
+            key = obj['Key']
+            # Dùng Regex để bắt số thứ tự trong tên file (VD: HP_part_005.json -> bắt được 5)
+            match = re.search(r'HN_part_(\d+)\.json', key)
+            if match:
+                idx = int(match.group(1))
+                if idx > max_index:
+                    max_index = idx
+        return max_index + 1
+    except Exception as e:
+        print(f"Lỗi khi quét S3 tìm part cũ: {e}")
+        return 1
+def upload_batch_to_s3(data_batch, part_index):
+    """Hàm phụ trợ đẩy từng phần dữ liệu lên S3 ngay lập tức"""
+    filename = f"HN_part_{part_index:03d}.json"
+    file_content = json.dumps(data_batch, ensure_ascii=False, indent=2)
+    # Đảm bảo bucket tồn tại trước khi upload
+    try:
+        s3_client.head_bucket(Bucket='gmaps-raw-data')
+    except Exception:
+        try:
+            s3_client.create_bucket(Bucket='gmaps-raw-data')
+        except Exception:
+            pass
+    # Đẩy lên bucket
+    s3_client.put_object(
+        Bucket='gmaps-raw-data',
+        Key=f'gmaps/raw/{filename}',
+        Body=file_content
+    )
+    print(f"Đã tự động đẩy {filename} lên S3 thành công!")
 
 
 def is_non_food(name):
@@ -168,12 +292,18 @@ EXTRACT_COUNT_JS = r"""
 # Tim TAT CA khoi review, tu leo len tim the CHA THAT SU cuon duoc (khong doan ten class co dinh).
 # QUET CA khoi review, khong chi khoi DAU TIEN: sau khi bam "mo rong danh sach", review moi
 # thuong nam trong 1 khung RIENG, khong phai khung chua khoi review xem truoc dau tien.
+# Cập nhật lại SCROLL_JS trong file crawler.py
 SCROLL_JS = r"""
 () => {
+    const scrollablePane = document.querySelector('div.m6QErb.DxyBCb') || document.querySelector('div.m6QErb');
+    if (scrollablePane) {
+        scrollablePane.scrollTop = scrollablePane.scrollHeight;
+        return true;
+    }
     const blocks = document.querySelectorAll('div.jftiEf');
     for (const block of blocks) {
         let el = block.parentElement;
-        for (let i = 0; i < 8 && el; i++) {
+        for (let i = 0; i < 10 && el; i++) {
             if (el.scrollHeight > el.clientHeight) {
                 el.scrollTop = el.scrollHeight;
                 return true;
@@ -279,7 +409,7 @@ def get_gmaps_links_from_search(page, search_url, max_restaurants=MAX_PLACES_PER
         if "Bạn đã xem hết danh sách" in text or "reached the end of the list" in text:
             break
         stuck = stuck + 1 if count == last_count else 0
-        if stuck >= 3 or count >= max_restaurants:
+        if stuck >= 6 or count >= max_restaurants:
             break
         last_count = count
 
@@ -295,7 +425,7 @@ def get_gmaps_links_from_search(page, search_url, max_restaurants=MAX_PLACES_PER
     return entries[:max_restaurants]
 
 
-def crawl_gmaps_reviews(page, place_url, max_reviews=100):
+def crawl_gmaps_reviews(page, place_url, max_reviews=100,batch_data=None, tracker=None, batch_size=500):
     rows = []
     page.goto(place_url, timeout=60000)
     time.sleep(random.uniform(3, 5))
@@ -307,12 +437,43 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100):
     if is_non_food(shop_name):
         print(f"  Bo qua (khong phai quan an): {shop_name}")
         return []
+    # Click vào tab "Bài đánh giá" trước
+    clicked = False
+    tab_selectors = [
+        'button[tabindex][jsaction*="reviews"]',
+        'button[role="tab"]:has-text("Bài đánh giá")',
+        'button[role="tab"]:has-text("Reviews")',
+        'div[role="tablist"] button:nth-child(2)'
+    ]
+    
+    for sel in tab_selectors:
+        try:
+            element = page.locator(sel).first
+            if element.count() > 0 and element.is_visible():
+                element.click()
+                time.sleep(random.uniform(2, 4))
+                clicked = True
+                break
+        except Exception:
+            continue
 
-    # Cach 1: kieu giao dien co thanh TAB ro rang (Overview | Menu | Reviews | About)
-    # Tim theo dung CHU HIEN THI TRON VEN (^...$), khong phu thuoc loai the HTML
-    # (Google co the dung div/span, khong nhat thiet la button role="tab")
+    # QUAN TRỌNG: Click tiếp vào nút "Xem các bài đánh giá khác (...)" nếu nó xuất hiện trên màn hình tóm tắt
     try:
-        tab = page.get_by_text(re.compile(r"^(reviews|đánh giá)$", re.I)).first
+        see_all_btn = page.locator('button, a').filter(has_text=re.compile(r"xem các bài đánh giá khác|\(\d+[.,]?\d*\)", re.I)).first
+        if see_all_btn.count() > 0 and see_all_btn.is_visible():
+            see_all_btn.click()
+            time.sleep(random.uniform(3, 5))
+    except Exception:
+        pass
+
+    # Chờ khung cuộn xuất hiện
+    try:
+        page.wait_for_selector('div.m6QErb.DxyBCb', timeout=5000)
+    except Exception:
+        pass
+    # Cach 1: kieu giao dien co thanh TAB ro rang (Overview | Menu | Reviews | About)
+    try:
+        tab = page.get_by_text(re.compile(r"reviews|bài đánh giá|đánh giá", re.I)).first
         if tab.count() > 0:
             tab.click()
             time.sleep(random.uniform(2, 4))
@@ -320,8 +481,6 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100):
         pass
 
     # Cach 2: nut mo rong danh sach - Google dung nhieu cach dien dat khac nhau
-    # (da xac nhan tu anh chup that: "Xem các bài đánh giá khác (21.454)"),
-    # nen tim theo CA cau chu LAN mau so co dinh dang, khong doan 1 cau co dinh
     try:
         candidates = page.locator("a, button").filter(
             has_text=re.compile(r"(more reviews|xem (thêm|các bài|tất cả)[^\n]*đánh giá|\d{1,3}[.,]\d{3}\s*\)?\s*$)", re.I)
@@ -334,7 +493,7 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100):
 
     # Cach 3: kieu giao dien cu, tab co gan dung role="tab"
     try:
-        tab2 = page.locator('button[role="tab"]:has-text("Đánh giá"), button[role="tab"]:has-text("Reviews")').first
+        tab2 = page.locator('button[role="tab"]:has-text("Đánh giá"), button[role="tab"]:has-text("Reviews"), button[role="tab"]:has-text("Bài đánh giá")').first
         if tab2.count() > 0:
             tab2.click()
             time.sleep(random.uniform(2, 4))
@@ -344,8 +503,7 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100):
     if is_blocked(page):
         raise BlockedError()
 
-    # Cuon: dem SO LUONG REVIEW THAT tang len, kien nhan vai lan lien tiep khong tang
-    # (mang co the tre, dung ngay 1 lan khong tang se bi thieu review that su van con)
+    
     last_count, stuck = 0, 0
     for _ in range(60):
         page.evaluate(SCROLL_JS)
@@ -354,7 +512,7 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100):
         if count >= max_reviews:
             break
         stuck = stuck + 1 if count == last_count else 0
-        if stuck >= 4:
+        if stuck >= 8:
             break
         last_count = count
 
@@ -389,21 +547,36 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100):
                 f.write(r["html"])
             print(f"  (!) Khong doc duoc sao - da luu mau HTML vao {DEBUG_PATH}")
         if r["review_text"]:
-            rows.append({
+            review_item = {
                 "platform": "GoogleMaps",
                 "restaurant_id": key,
                 "shop_name": shop_name,
-                "user_name": r["user_name"],
+                "user_name": r.get("user_name") if r.get("user_name") and r.get("user_name") != 'N/A' else "Unknown",
                 "rating": r["rating"],
                 "review_text": r["review_text"],
-            })
+            }
+            rows.append(review_item)
+            
+            # --- THÊM ĐOẠN NÀY ĐỂ ĐẨY LÊN S3 REAL-TIME ---
+            if batch_data is not None and tracker is not None:
+                batch_data.append(review_item)
+                if len(batch_data) >= batch_size:
+                    upload_batch_to_s3(batch_data, tracker["part"])
+                    batch_data.clear()
+                    tracker["part"] += 1
     got = sum(1 for r in rows if r["rating"] is not None)
     print(f"  {shop_name}: {len(rows)} review, doc duoc sao {got}/{len(rows)}")
     return rows
 
 
 def main():
-    queries = [f"{kw} {d} TP.HCM" for d in SG_DISTRICTS for kw in KEYWORDS]
+    batch_data = []
+    # Tự động tiếp nối số part từ lần cào trước trên S3
+    part_counter = get_next_part_index() 
+    print(f"-> Sẽ tiếp tục lưu file part bắt đầu từ số: {part_counter:03d}")
+    batch_size = 500  # Cứ đủ 500 review thì đẩy lên S3 một lần
+
+    queries = [f"{kw} {d}" for d in HN_DISTRICTS for kw in KEYWORDS]
     done = load_done_keys()
     print(f"Da xu ly truoc do: {len(done)} quan | So tu khoa: {len(queries)}")
 
@@ -436,7 +609,14 @@ def main():
                     # 50-200 danh gia: lay het | tren 200: chi lay 200
                     target = min(rc, MAX_REVIEWS_PER_PLACE)
                     print(f"  {name}: {rc} danh gia -> lay toi da {target}")
-                    rows = crawl_gmaps_reviews(page, url, max_reviews=target)
+                    tracker = {"part": part_counter}
+                    rows = crawl_gmaps_reviews(
+                        page, url, max_reviews=target, 
+                        batch_data=batch_data, tracker=tracker, batch_size=batch_size
+                    )
+                    
+                    # Cập nhật lại part_counter từ tracker sau khi cào xong một quán
+                    part_counter = tracker["part"]
                     append_reviews(rows)
                     mark_done(key)
                     done.add(key)
@@ -451,46 +631,11 @@ def main():
             browser.close()
     export_json()
     print(f"=== XONG. Review moi lan nay: {total_new} ===")
+    # Đặt ở cuối hàm main():
+    if batch_data:
+        upload_batch_to_s3(batch_data, tracker["part"])
+        print(f"Đã đẩy phần dữ liệu cuối cùng lên S3 thành công!")
 
-import boto3
-from botocore.exceptions import NoCredentialsError
-
-def upload_to_s3(local_file_path, bucket_name, s3_file_name):
-    # Khởi tạo kết nối tới kho lưu trữ S3 local trên Docker
-    s3 = boto3.client(
-        's3',
-        endpoint_url='http://localhost:8000',
-        aws_access_key_id='minioadmin',
-        aws_secret_access_key='minioadmin'
-    )
-    
-    try:
-        # Tự động tạo bucket nếu chưa tồn tại
-        try:
-            s3.head_bucket(Bucket=bucket_name)
-        except Exception:
-            s3.create_bucket(Bucket=bucket_name)
-
-        # Upload file từ máy local lên kho chung
-        s3.upload_file(local_file_path, bucket_name, s3_file_name)
-        print(f"Đã đẩy thành công file {local_file_path} lên S3!")
-        
-    except Exception as e:
-        print(f"Lỗi khi upload: {e}")
 
 if __name__ == "__main__":
-    # 1. Chạy hàm cào dữ liệu chính để tạo ra file raw trên máy local
     main()
-    
-    # --- THÊM ĐOẠN NÀY VÀO ---
-    from datetime import datetime
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    s3_filename = f"shopeefood/raw_reviews_{timestamp}.csv"
-    # --------------------------
-
-    # 2. Đẩy lên S3 với tên file có đính kèm thời gian lịch sử
-    upload_to_s3(
-        local_file_path="data/raw/raw_reviews.csv",  
-        bucket_name="shopeefood-raw-data",
-        s3_file_name=s3_filename  # Sử dụng tên file có timestamp ở trên
-    )
