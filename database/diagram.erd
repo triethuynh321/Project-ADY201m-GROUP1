@@ -1,0 +1,392 @@
+{
+  "$schema": "https://raw.githubusercontent.com/dineug/erd-editor/main/json-schema/schema.json",
+  "version": "3.0.0",
+  "settings": {
+    "originX": 0,
+    "originY": 0,
+    "zoomLevel": 1,
+    "show": 431,
+    "database": 1,
+    "databaseName": "",
+    "canvasType": "ERD",
+    "language": 1,
+    "tableNameCase": 4,
+    "columnNameCase": 2,
+    "bracketType": 1,
+    "relationshipDataTypeSync": true,
+    "columnOrder": [
+      1,
+      2,
+      4,
+      8,
+      16,
+      32,
+      64
+    ],
+    "maxWidthComment": -1,
+    "lockSettings": 63,
+    "ddlScripts": {
+      "before": "\n-- Xóa toàn bộ các bảng cũ nếu tồn tại để làm sạch\nDROP TABLE IF EXISTS \n    restaurant_stats, \n    review_length_stats, \n    reviews_1_star, \n    reviews_north, \n    reviews_central, \n    reviews_south, \n    restaurants \nCASCADE;\n\n-- 1. BẢNG GỐC: restaurants\nCREATE TABLE restaurants (\n    restaurant_id VARCHAR(100),\n    name VARCHAR(255),\n    city VARCHAR(100),\n    total_reviews INT DEFAULT 0,\n    avg_rating FLOAT DEFAULT 0.0,\n    avg_comment_length FLOAT DEFAULT 0.0\n);\n\n-- 2. BẢNG THỐNG KÊ ĐÁNH GIÁ: restaurant_stats (Không có khóa ngoại gắt gao)\nCREATE TABLE restaurant_stats (\n    restaurant_id VARCHAR(100),\n    name VARCHAR(255),\n    total_reviews INT NOT NULL,\n    avg_rating FLOAT NOT NULL\n);\n\n-- 3. BẢNG THỐNG KÊ ĐỘ DÀI: review_length_stats\nCREATE TABLE review_length_stats (\n    restaurant_id VARCHAR(100),\n    name VARCHAR(255),\n    total_comments INT NOT NULL,\n    avg_comment_length FLOAT NOT NULL\n);\n\n-- 4. BẢNG ĐÁNH GIÁ 1 SAO: reviews_1_star\nCREATE TABLE reviews_1_star (\n    restaurant_id VARCHAR(100),\n    name VARCHAR(255),\n    city VARCHAR(100),\n    author_name VARCHAR(255),\n    rating INT,\n    comment_cleaned TEXT,\n    comment_length INT,\n    platform VARCHAR(50)\n);\n\n-- 5. BẢNG VÙNG MIỀN BẮC: reviews_north\nCREATE TABLE reviews_north (\n    restaurant_id VARCHAR(100),\n    name VARCHAR(255),\n    city VARCHAR(100),\n    author_name VARCHAR(255),\n    rating INT,\n    comment_cleaned TEXT,\n    comment_length INT,\n    platform VARCHAR(50)\n);\n\n-- 6. BẢNG VÙNG MIỀN TRUNG: reviews_central\nCREATE TABLE reviews_central (\n    restaurant_id VARCHAR(100),\n    name VARCHAR(255),\n    city VARCHAR(100),\n    author_name VARCHAR(255),\n    rating INT,\n    comment_cleaned TEXT,\n    comment_length INT,\n    platform VARCHAR(50)\n);\n\n-- 7. BẢNG VÙNG MIỀN NAM: reviews_south\nCREATE TABLE reviews_south (\n    restaurant_id VARCHAR(100),\n    name VARCHAR(255),\n    city VARCHAR(100),\n    author_name VARCHAR(255),\n    rating INT,\n    comment_cleaned TEXT,\n    comment_length INT,\n    platform VARCHAR(50)\n);\n\n-- TẠO CÁC INDEX TỐI ƯU HÓA TRUY VẤN\nCREATE INDEX idx_restaurants_city ON restaurants(city);\nCREATE INDEX idx_restaurants_id ON restaurants(restaurant_id);\nCREATE INDEX idx_north_city ON reviews_north(city);\nCREATE INDEX idx_central_city ON reviews_central(city);\nCREATE INDEX idx_south_city ON reviews_south(city);\nCREATE INDEX idx_1star_rating ON reviews_1_star(rating);",
+      "after": ""
+    }
+  },
+  "doc": {
+    "tableIds": [
+      "03h1jrcgzhhmzw1pmwupdex50",
+      "03h1jrcgzhhmzw1pmx93pna0p",
+      "03h1jrcgzhhmzw1pmxf3t7hbt",
+      "03h1jrcgzhhmzw1pmxk8n9lpo"
+    ],
+    "relationshipIds": [
+      "03h1jrcgzmytv1l5yipqgsfv9",
+      "03h1jrcgzmytv1l5yish87o1h",
+      "03h1jrcgzmytv1l5yius5vv4y"
+    ],
+    "indexIds": [
+      "03h1jrcgzmytv1l5yivquetgg",
+      "03h1jrcgzmytv1l5yj048zhmv",
+      "03h1jrcgzmytv1l5yj50a2z6l"
+    ],
+    "memoIds": []
+  },
+  "collections": {
+    "tableEntities": {
+      "03h1jrcgzhhmzw1pmwupdex50": {
+        "id": "03h1jrcgzhhmzw1pmwupdex50",
+        "name": "restaurants",
+        "comment": "",
+        "columnIds": [
+          "03h1jrcgzhhmzw1pmwxuczsgb",
+          "03h1jrcgzhhmzw1pmwy6nh7fv",
+          "03h1jrcgzhhmzw1pmx063q0z1",
+          "03h1jrcgzhhmzw1pmx294b4u7",
+          "03h1jrcgzhhmzw1pmx5gfz44t",
+          "03h1jrcgzhhmzw1pmx6cugipt"
+        ],
+        "ui": {
+          "x": 50,
+          "y": 50,
+          "color": ""
+        }
+      },
+      "03h1jrcgzhhmzw1pmx93pna0p": {
+        "id": "03h1jrcgzhhmzw1pmx93pna0p",
+        "name": "users",
+        "comment": "",
+        "columnIds": [
+          "03h1jrcgzhhmzw1pmxabzwf6v",
+          "03h1jrcgzhhmzw1pmxbwmq7g6"
+        ],
+        "ui": {
+          "x": 94,
+          "y": 304,
+          "color": ""
+        }
+      },
+      "03h1jrcgzhhmzw1pmxf3t7hbt": {
+        "id": "03h1jrcgzhhmzw1pmxf3t7hbt",
+        "name": "platforms",
+        "comment": "",
+        "columnIds": [
+          "03h1jrcgzhhmzw1pmxho0hp7b",
+          "03h1jrcgzhhmzw1pmxhq4euik"
+        ],
+        "ui": {
+          "x": 89,
+          "y": 462,
+          "color": ""
+        }
+      },
+      "03h1jrcgzhhmzw1pmxk8n9lpo": {
+        "id": "03h1jrcgzhhmzw1pmxk8n9lpo",
+        "name": "reviews",
+        "comment": "",
+        "columnIds": [
+          "03h1jrcgzhhmzw1pmxltg46t3",
+          "03h1jrcgzhhmzw1pmxomozc3z",
+          "03h1jrcgzmytv1l5yiew409pn",
+          "03h1jrcgzmytv1l5yih3knmox",
+          "03h1jrcgzmytv1l5yiiiy3m2e",
+          "03h1jrcgzmytv1l5yiklyd5or",
+          "03h1jrcgzmytv1l5yilp02puf",
+          "03h1jrcgzmytv1l5yioeutfki"
+        ],
+        "ui": {
+          "x": 677,
+          "y": 184,
+          "color": ""
+        }
+      }
+    },
+    "tableColumnEntities": {
+      "03h1jrcgzhhmzw1pmwxuczsgb": {
+        "id": "03h1jrcgzhhmzw1pmwxuczsgb",
+        "tableId": "03h1jrcgzhhmzw1pmwupdex50",
+        "name": "restaurant_id",
+        "comment": "",
+        "dataType": "VARCHAR(100)",
+        "default": "",
+        "options": 2
+      },
+      "03h1jrcgzhhmzw1pmwy6nh7fv": {
+        "id": "03h1jrcgzhhmzw1pmwy6nh7fv",
+        "tableId": "03h1jrcgzhhmzw1pmwupdex50",
+        "name": "name",
+        "comment": "",
+        "dataType": "VARCHAR(255)",
+        "default": "",
+        "options": 0
+      },
+      "03h1jrcgzhhmzw1pmx063q0z1": {
+        "id": "03h1jrcgzhhmzw1pmx063q0z1",
+        "tableId": "03h1jrcgzhhmzw1pmwupdex50",
+        "name": "city",
+        "comment": "",
+        "dataType": "VARCHAR(100)",
+        "default": "",
+        "options": 0
+      },
+      "03h1jrcgzhhmzw1pmx294b4u7": {
+        "id": "03h1jrcgzhhmzw1pmx294b4u7",
+        "tableId": "03h1jrcgzhhmzw1pmwupdex50",
+        "name": "total_reviews",
+        "comment": "",
+        "dataType": "INT",
+        "default": "0",
+        "options": 0
+      },
+      "03h1jrcgzhhmzw1pmx5gfz44t": {
+        "id": "03h1jrcgzhhmzw1pmx5gfz44t",
+        "tableId": "03h1jrcgzhhmzw1pmwupdex50",
+        "name": "avg_rating",
+        "comment": "",
+        "dataType": "FLOAT",
+        "default": "0.0",
+        "options": 0
+      },
+      "03h1jrcgzhhmzw1pmx6cugipt": {
+        "id": "03h1jrcgzhhmzw1pmx6cugipt",
+        "tableId": "03h1jrcgzhhmzw1pmwupdex50",
+        "name": "avg_comment_length",
+        "comment": "",
+        "dataType": "FLOAT",
+        "default": "0.0",
+        "options": 0
+      },
+      "03h1jrcgzhhmzw1pmxabzwf6v": {
+        "id": "03h1jrcgzhhmzw1pmxabzwf6v",
+        "tableId": "03h1jrcgzhhmzw1pmx93pna0p",
+        "name": "user_id",
+        "comment": "",
+        "dataType": "SERIAL",
+        "default": "",
+        "options": 2
+      },
+      "03h1jrcgzhhmzw1pmxbwmq7g6": {
+        "id": "03h1jrcgzhhmzw1pmxbwmq7g6",
+        "tableId": "03h1jrcgzhhmzw1pmx93pna0p",
+        "name": "author_name",
+        "comment": "",
+        "dataType": "VARCHAR(255)",
+        "default": "",
+        "options": 4
+      },
+      "03h1jrcgzhhmzw1pmxho0hp7b": {
+        "id": "03h1jrcgzhhmzw1pmxho0hp7b",
+        "tableId": "03h1jrcgzhhmzw1pmxf3t7hbt",
+        "name": "platform_id",
+        "comment": "",
+        "dataType": "SERIAL",
+        "default": "",
+        "options": 2
+      },
+      "03h1jrcgzhhmzw1pmxhq4euik": {
+        "id": "03h1jrcgzhhmzw1pmxhq4euik",
+        "tableId": "03h1jrcgzhhmzw1pmxf3t7hbt",
+        "name": "platform_name",
+        "comment": "",
+        "dataType": "VARCHAR(50)",
+        "default": "",
+        "options": 4
+      },
+      "03h1jrcgzhhmzw1pmxltg46t3": {
+        "id": "03h1jrcgzhhmzw1pmxltg46t3",
+        "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+        "name": "review_id",
+        "comment": "",
+        "dataType": "SERIAL",
+        "default": "",
+        "options": 2
+      },
+      "03h1jrcgzhhmzw1pmxomozc3z": {
+        "id": "03h1jrcgzhhmzw1pmxomozc3z",
+        "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+        "name": "restaurant_id",
+        "comment": "",
+        "dataType": "VARCHAR(100)",
+        "default": "",
+        "options": 0
+      },
+      "03h1jrcgzmytv1l5yiew409pn": {
+        "id": "03h1jrcgzmytv1l5yiew409pn",
+        "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+        "name": "user_id",
+        "comment": "",
+        "dataType": "INT",
+        "default": "",
+        "options": 0
+      },
+      "03h1jrcgzmytv1l5yih3knmox": {
+        "id": "03h1jrcgzmytv1l5yih3knmox",
+        "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+        "name": "platform_id",
+        "comment": "",
+        "dataType": "INT",
+        "default": "",
+        "options": 0
+      },
+      "03h1jrcgzmytv1l5yiiiy3m2e": {
+        "id": "03h1jrcgzmytv1l5yiiiy3m2e",
+        "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+        "name": "city",
+        "comment": "",
+        "dataType": "VARCHAR(100)",
+        "default": "",
+        "options": 0
+      },
+      "03h1jrcgzmytv1l5yiklyd5or": {
+        "id": "03h1jrcgzmytv1l5yiklyd5or",
+        "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+        "name": "rating",
+        "comment": "",
+        "dataType": "INT",
+        "default": "",
+        "options": 0
+      },
+      "03h1jrcgzmytv1l5yilp02puf": {
+        "id": "03h1jrcgzmytv1l5yilp02puf",
+        "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+        "name": "comment_cleaned",
+        "comment": "",
+        "dataType": "TEXT",
+        "default": "",
+        "options": 0
+      },
+      "03h1jrcgzmytv1l5yioeutfki": {
+        "id": "03h1jrcgzmytv1l5yioeutfki",
+        "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+        "name": "comment_length",
+        "comment": "",
+        "dataType": "INT",
+        "default": "",
+        "options": 0
+      }
+    },
+    "relationshipEntities": {
+      "03h1jrcgzmytv1l5yipqgsfv9": {
+        "id": "03h1jrcgzmytv1l5yipqgsfv9",
+        "relationshipType": 4,
+        "onDelete": 1,
+        "onUpdate": 1,
+        "start": {
+          "tableId": "03h1jrcgzhhmzw1pmwupdex50",
+          "columnIds": [
+            "03h1jrcgzhhmzw1pmwxuczsgb"
+          ]
+        },
+        "end": {
+          "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+          "columnIds": [
+            "03h1jrcgzhhmzw1pmxomozc3z"
+          ]
+        }
+      },
+      "03h1jrcgzmytv1l5yish87o1h": {
+        "id": "03h1jrcgzmytv1l5yish87o1h",
+        "relationshipType": 4,
+        "onDelete": 1,
+        "onUpdate": 1,
+        "start": {
+          "tableId": "03h1jrcgzhhmzw1pmx93pna0p",
+          "columnIds": [
+            "03h1jrcgzhhmzw1pmxabzwf6v"
+          ]
+        },
+        "end": {
+          "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+          "columnIds": [
+            "03h1jrcgzmytv1l5yiew409pn"
+          ]
+        }
+      },
+      "03h1jrcgzmytv1l5yius5vv4y": {
+        "id": "03h1jrcgzmytv1l5yius5vv4y",
+        "relationshipType": 4,
+        "onDelete": 1,
+        "onUpdate": 1,
+        "start": {
+          "tableId": "03h1jrcgzhhmzw1pmxf3t7hbt",
+          "columnIds": [
+            "03h1jrcgzhhmzw1pmxho0hp7b"
+          ]
+        },
+        "end": {
+          "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+          "columnIds": [
+            "03h1jrcgzmytv1l5yih3knmox"
+          ]
+        }
+      }
+    },
+    "indexEntities": {
+      "03h1jrcgzmytv1l5yivquetgg": {
+        "id": "03h1jrcgzmytv1l5yivquetgg",
+        "name": "idx_restaurants_city",
+        "tableId": "03h1jrcgzhhmzw1pmwupdex50",
+        "indexColumnIds": [
+          "03h1jrcgzmytv1l5yiyeteaiv"
+        ],
+        "unique": false
+      },
+      "03h1jrcgzmytv1l5yj048zhmv": {
+        "id": "03h1jrcgzmytv1l5yj048zhmv",
+        "name": "idx_reviews_restaurant_id",
+        "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+        "indexColumnIds": [
+          "03h1jrcgzmytv1l5yj1rdouxx"
+        ],
+        "unique": false
+      },
+      "03h1jrcgzmytv1l5yj50a2z6l": {
+        "id": "03h1jrcgzmytv1l5yj50a2z6l",
+        "name": "idx_reviews_city",
+        "tableId": "03h1jrcgzhhmzw1pmxk8n9lpo",
+        "indexColumnIds": [
+          "03h1jrcgzmytv1l5yj6egwzqa"
+        ],
+        "unique": false
+      }
+    },
+    "indexColumnEntities": {
+      "03h1jrcgzmytv1l5yiyeteaiv": {
+        "id": "03h1jrcgzmytv1l5yiyeteaiv",
+        "indexId": "03h1jrcgzmytv1l5yivquetgg",
+        "columnId": "03h1jrcgzhhmzw1pmx063q0z1",
+        "orderType": 1
+      },
+      "03h1jrcgzmytv1l5yj1rdouxx": {
+        "id": "03h1jrcgzmytv1l5yj1rdouxx",
+        "indexId": "03h1jrcgzmytv1l5yj048zhmv",
+        "columnId": "03h1jrcgzhhmzw1pmxomozc3z",
+        "orderType": 1
+      },
+      "03h1jrcgzmytv1l5yj6egwzqa": {
+        "id": "03h1jrcgzmytv1l5yj6egwzqa",
+        "indexId": "03h1jrcgzmytv1l5yj50a2z6l",
+        "columnId": "03h1jrcgzmytv1l5yiiiy3m2e",
+        "orderType": 1
+      }
+    },
+    "memoEntities": {}
+  }
+}

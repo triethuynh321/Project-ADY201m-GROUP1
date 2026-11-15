@@ -38,7 +38,7 @@ HP_DISTRICTS = [
     "Huyện Bạch Long Vĩ"
 ]
 KEYWORDS = [
-    # 1. Đồ ăn nhanh & Ăn vặt
+    # 1. Đồ ăn nhanh & Ăn vặt (cũ)
     "tra sua",
     "tra chanh",
     "topping",
@@ -53,7 +53,7 @@ KEYWORDS = [
     "ca vien chien",
     "khoai tay chien",
 
-    # 2. Món nước truyền thống
+    # 2. Món nước truyền thống (cũ)
     "pho bo",
     "pho ga",
     "bun bo hue",
@@ -64,7 +64,7 @@ KEYWORDS = [
     "bun dau mam tom",
     "bun cha",
 
-    # 3. Món cơm & Món chính văn phòng
+    # 3. Món cơm & Món chính văn phòng (cũ)
     "com tam",
     "com ga",
     "com chien duong chau",
@@ -75,7 +75,7 @@ KEYWORDS = [
     "banh mi thit nuong",
     "banh mi pate",
 
-    # 4. Đồ ngọt, Tráng miệng & Healthy
+    # 4. Đồ ngọt, Tráng miệng & Healthy (cũ)
     "che thai",
     "che khuc bach",
     "che buoi",
@@ -86,7 +86,35 @@ KEYWORDS = [
     "salad",
     "nuoc ep trai cay",
     "sua chua deo",
-    "trai cay to"
+    "trai cay to",
+
+    # 5. Nhóm Đồ uống & Cafe thịnh hành (mới bổ sung)
+    "ca phe muoi",
+    "tra mang cau",
+    "tra sua tran chau duong den",
+    "sinh to bo",
+    "nuoc mia",
+
+    # 6. Nhóm Ăn vặt & Street Food đặc trưng (mới bổ sung)
+    "pha lau",
+    "bap xao",
+    "chan ga sa tac",
+    "banh trang cuon",
+    "banh bot loc",
+
+    # 7. Nhóm Lẩu, Nướng & Buffet (mới bổ sung)
+    "lau thai",
+    "lau bo",
+    "buffet nuong",
+    "do nuong",
+    "lau ga la giang",
+
+    # 8. Nhóm Món ăn dân dã & Đặc sản (mới bổ sung)
+    "banh xeo",
+    "bun mam",
+    "hu tiu nam vang",
+    "banh cuon",
+    "xoi man"
 ]
 
 MAX_PLACES_PER_SEARCH = 70    # chi lay ~70 quan dau moi lan tim (cang ve sau cang lech tu khoa)
@@ -145,6 +173,18 @@ s3_client = boto3.client(
     aws_access_key_id='dat666',
     aws_secret_access_key='dat@123456'
 )
+def safe_goto(page, url, timeout=120000, max_retries=3):
+    """Hàm tải trang an toàn, tự động thử lại nếu gặp lỗi timeout hoặc mạng nghẽn"""
+    for attempt in range(max_retries):
+        try:
+            page.goto(url, timeout=timeout, wait_until="domcontentloaded")
+            time.sleep(random.uniform(2, 4))  # Nghỉ ngắn sau khi tải trang thành công
+            return True
+        except Exception as e:
+            print(f"  (!) Timeout hoặc lỗi tải trang (thử lần {attempt+1}/{max_retries}): {e}")
+            time.sleep(random.uniform(5, 10))  # Chờ lâu hơn một chút trước khi thử lại
+    print(f"  (x) Không thể tải trang sau {max_retries} lần thử: {url}")
+    return False
 def get_next_part_index():
     """Tự động quét S3 để tìm số part lớn nhất hiện có và trả về số tiếp theo."""
     try:
@@ -374,7 +414,8 @@ def export_json():
 def get_gmaps_links_from_search(page, search_url, max_restaurants=MAX_PLACES_PER_SEARCH):
     """Tra ve list [{href, name, review_count}] cua ~70 quan DAU TIEN (du so thi dung cuon)."""
     print(f"[Search] {search_url}")
-    page.goto(search_url, timeout=60000)
+    if not safe_goto(page, search_url):
+        return []  # Nếu thử lại hết số lần vẫn lỗi thì bỏ qua từ khóa này
     time.sleep(random.uniform(3, 5))
     if is_blocked(page):
         raise BlockedError()
@@ -412,11 +453,59 @@ def get_gmaps_links_from_search(page, search_url, max_restaurants=MAX_PLACES_PER
     print(f"  -> {len(entries)} quan")
     return entries[:max_restaurants]
 
+def open_reviews_tab(page):
+    """Hàm dự phòng tự động thử nhiều cách khác nhau để mở tab/khung đánh giá"""
+    strategies = [
+        'button[tabindex][jsaction*="reviews"]',
+        'button[role="tab"]:has-text("Bài đánh giá")',
+        'button[role="tab"]:has-text("Reviews")',
+        'button[role="tab"]:has-text("Đánh giá")',
+        'div[role="tablist"] button:nth-child(2)',
+        'div.i0Ctb',
+        'button:has-text("Bài đánh giá")',
+        'button:has-text("Reviews")',
+        'a:has-text("Đánh giá")'
+    ]
+    for sel in strategies:
+        try:
+            element = page.locator(sel).first
+            if element.count() > 0 and element.is_visible():
+                element.click()
+                time.sleep(random.uniform(2, 4))
+                return True
+        except Exception:
+            continue
+    try:
+        see_all_btn = page.locator('button, a').filter(
+            has_text=re.compile(r"xem các bài đánh giá khác|tất cả đánh giá|\(\d+[.,]?\d*\)", re.I)
+        ).first
+        if see_all_btn.count() > 0 and see_all_btn.is_visible():
+            see_all_btn.click()
+            time.sleep(random.uniform(3, 5))
+            return True
+    except Exception:
+        pass
+    return False
 
-def crawl_gmaps_reviews(page, place_url, max_reviews=100,batch_data=None, tracker=None, batch_size=500):
+def crawl_gmaps_reviews(page, place_url, max_reviews=100, batch_data=None, tracker=None, batch_size=500):
     rows = []
-    page.goto(place_url, timeout=60000)
+    if not safe_goto(page, place_url):
+        return []  
     time.sleep(random.uniform(3, 5))
+    dismiss_login_popup(page)
+    if "/place/" not in page.url:
+        print("  (!) Phát hiện bị văng ra trang chủ, đang tải lại trang quán...")
+        if not safe_goto(page, place_url):
+            return []
+        time.sleep(3)
+        dismiss_login_popup(page)
+    try:
+        back_btn = page.locator('button[aria-label="Trở lại"], button[aria-label="Back"], button.VfPpkd-icon-LgbsSe').first
+        if back_btn.count() > 0 and back_btn.is_visible():
+            back_btn.click()
+            time.sleep(1.5)
+    except Exception:
+        pass
     if is_blocked(page):
         raise BlockedError()
 
@@ -425,86 +514,44 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100,batch_data=None, tracke
     if is_non_food(shop_name):
         print(f"  Bo qua (khong phai quan an): {shop_name}")
         return []
-    # Click vào tab "Bài đánh giá" trước
-    clicked = False
-    tab_selectors = [
-        'button[tabindex][jsaction*="reviews"]',
-        'button[role="tab"]:has-text("Bài đánh giá")',
-        'button[role="tab"]:has-text("Reviews")',
-        'div[role="tablist"] button:nth-child(2)'
-    ]
     
-    for sel in tab_selectors:
-        try:
-            element = page.locator(sel).first
-            if element.count() > 0 and element.is_visible():
-                element.click()
-                time.sleep(random.uniform(2, 4))
-                clicked = True
-                break
-        except Exception:
-            continue
-
-    # QUAN TRỌNG: Click tiếp vào nút "Xem các bài đánh giá khác (...)" nếu nó xuất hiện trên màn hình tóm tắt
-    try:
-        see_all_btn = page.locator('button, a').filter(has_text=re.compile(r"xem các bài đánh giá khác|\(\d+[.,]?\d*\)", re.I)).first
-        if see_all_btn.count() > 0 and see_all_btn.is_visible():
-            see_all_btn.click()
-            time.sleep(random.uniform(3, 5))
-    except Exception:
-        pass
+    # Gọi cơ chế tự động mở tab đánh giá thông minh
+    opened = open_reviews_tab(page)
+    if not opened:
+        print("  (!) Không tìm thấy nút mở tab đánh giá chuẩn, tiếp tục thử cuộn trực tiếp...")
 
     # Chờ khung cuộn xuất hiện
     try:
         page.wait_for_selector('div.m6QErb.DxyBCb', timeout=5000)
     except Exception:
         pass
-    # Cach 1: kieu giao dien co thanh TAB ro rang (Overview | Menu | Reviews | About)
-    try:
-        tab = page.get_by_text(re.compile(r"reviews|bài đánh giá|đánh giá", re.I)).first
-        if tab.count() > 0:
-            tab.click()
-            time.sleep(random.uniform(2, 4))
-    except Exception:
-        pass
-
-    # Cach 2: nut mo rong danh sach - Google dung nhieu cach dien dat khac nhau
-    try:
-        candidates = page.locator("a, button").filter(
-            has_text=re.compile(r"(more reviews|xem (thêm|các bài|tất cả)[^\n]*đánh giá|\d{1,3}[.,]\d{3}\s*\)?\s*$)", re.I)
-        )
-        if candidates.count() > 0:
-            candidates.first.click()
-            time.sleep(random.uniform(2, 4))
-    except Exception:
-        pass
-
-    # Cach 3: kieu giao dien cu, tab co gan dung role="tab"
-    try:
-        tab2 = page.locator('button[role="tab"]:has-text("Đánh giá"), button[role="tab"]:has-text("Reviews"), button[role="tab"]:has-text("Bài đánh giá")').first
-        if tab2.count() > 0:
-            tab2.click()
-            time.sleep(random.uniform(2, 4))
-    except Exception:
-        pass
 
     if is_blocked(page):
         raise BlockedError()
 
-    
     last_count, stuck = 0, 0
     for _ in range(60):
+        try:
+            pane_visible = page.locator('div.m6QErb').is_visible()
+            if not pane_visible:
+                print("  (!) Phát hiện bảng thông tin quán bị đóng, đang tải lại trang...")
+                safe_goto(page, place_url)
+                time.sleep(3)
+                dismiss_login_popup(page)
+                open_reviews_tab(page)
+        except Exception:
+            pass
         page.evaluate(SCROLL_JS)
-        time.sleep(random.uniform(1.5, 3))
+        time.sleep(random.uniform(2, 4))
         count = page.locator('div.jftiEf').count()
         if count >= max_reviews:
             break
         stuck = stuck + 1 if count == last_count else 0
-        if stuck >= 8:
+        if stuck >= 15:
             break
         last_count = count
 
-    for btn in page.locator('button.w8nwRe').all():   # nut "Thêm" mo review dai
+    for btn in page.locator('button.w8nwRe').all():   
         try:
             btn.click(timeout=1000)
         except Exception:
@@ -512,6 +559,7 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100,batch_data=None, tracke
 
     if is_blocked(page):
         raise BlockedError()
+    
 
     # Neu van bi ket o so qua thap (nghi ngo chua mo dung khung review) -> tu chup lai bang chung
     stuck_count = page.locator('div.jftiEf').count()
@@ -555,7 +603,17 @@ def crawl_gmaps_reviews(page, place_url, max_reviews=100,batch_data=None, tracke
     got = sum(1 for r in rows if r["rating"] is not None)
     print(f"  {shop_name}: {len(rows)} review, doc duoc sao {got}/{len(rows)}")
     return rows
-
+def dismiss_login_popup(page):
+    """Tự động tìm và bấm nút 'Loại bỏ' nếu popup đăng nhập của Google xuất hiện"""
+    try:
+        btn = page.locator('button:has-text("Loại bỏ"), button:has-text("Dismiss"), button[aria-label="Đóng"]').first
+        if btn.count() > 0 and btn.is_visible():
+            btn.click(timeout=2000)
+            time.sleep(random.uniform(1, 2))
+            return True
+    except Exception:
+        pass
+    return False
 
 def main():
     batch_data = []
@@ -564,7 +622,7 @@ def main():
     print(f"-> Sẽ tiếp tục lưu file part bắt đầu từ số: {part_counter:03d}")
     batch_size = 500  # Cứ đủ 500 review thì đẩy lên S3 một lần
 
-    queries = [f"{kw} {d}" for d in HP_DISTRICTS for kw in KEYWORDS]
+    queries = [f"{kw} {d} Hải Phòng" for d in HP_DISTRICTS for kw in KEYWORDS]
     done = load_done_keys()
     print(f"Da xu ly truoc do: {len(done)} quan | So tu khoa: {len(queries)}")
 
@@ -610,7 +668,7 @@ def main():
                     done.add(key)
                     total_new += len(rows)
                     print(f"  [{len(done)}] {key}: +{len(rows)} review (tong moi: {total_new})")
-                    time.sleep(random.uniform(3, 6))
+                    time.sleep(random.uniform(5, 10))
         except BlockedError:
             print("!!! GOOGLE DA CHAN. Du lieu da luu den quan cuoi cung. Doi 1-2 tieng roi chay lai, code se tu chay tiep.")
         except KeyboardInterrupt:

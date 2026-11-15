@@ -15,3 +15,18 @@ services:
 
     volumes:
       - ./data/minio_storage:/data
+  postgres:
+    image: postgres:15-alpine
+    container_name: postgres-db
+    restart: always
+    environment:
+      POSTGRES_USER: dat666
+      POSTGRES_PASSWORD: dat@123456
+      POSTGRES_DB: gmaps_reviews_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
