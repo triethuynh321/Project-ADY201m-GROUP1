@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Kimngan Nguyen",
+    "rating": 5,
+    "review_text": "Quán ăn ngon\nPhục vụ chu đáo\nChỗ để xe rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Trần Bá Đội (Nam Việt Quân)",
+    "rating": 5,
+    "review_text": "Bà chủ dễ thuơng ...cho phép bán hàng rong mưa sinh là ok nhất rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Nakio 8800",
+    "rating": 4,
+    "review_text": "Đồ ăn tươi mà đợi hơi lâu vì quán đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Phong Quang",
+    "rating": 5,
+    "review_text": "Quán ngon mà giá cả phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Trung Tín Nguyễn",
+    "rating": 5,
+    "review_text": "Hải sản tươi sạch, giá cũng ok, phục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Nguyễn Thanh Sử",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Hoa Tran",
+    "rating": 1,
+    "review_text": "Đồ ăn dở, làm không sạch, không quay lại lần 2"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Trung Phạm",
+    "rating": 3,
+    "review_text": "Đồ ăn tạm được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Chu San - Local Guide",
+    "rating": 3,
+    "review_text": "Đồ uống khá đắt, 1 loong ken 26k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Văn Duy Đinh",
+    "rating": 4,
+    "review_text": "Quán thoáng mát đồ ăn rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Tam Le",
+    "rating": 5,
+    "review_text": "Quán nấu ngon phục vụ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "nguyễn nhi",
+    "rating": 1,
+    "review_text": "nhân viên thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Tanluc Nguyen",
+    "rating": 4,
+    "review_text": "Cần không gian thoải mái hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Gia Huy Nguyễn",
+    "rating": 1,
+    "review_text": "Quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Thị Bảo Ngọc Nguyễn",
+    "rating": 5,
+    "review_text": "Rât ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Hoàng Bá",
+    "rating": 1,
+    "review_text": "Nhân viên quá thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "GOLDSILVER PNJ",
+    "rating": 5,
+    "review_text": "Bình Dân, ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Hiếu Thiên",
+    "rating": 1,
+    "review_text": "Làm lâu vc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "John Peter",
+    "rating": 4,
+    "review_text": "Tạm ổn trong tầm giá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Thanh Thuan Tran",
+    "rating": 4,
+    "review_text": "Nói chung mọi thứ cũng tạm ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Kien Nguyen",
+    "rating": 5,
+    "review_text": "Ngon.giá hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Ngoc Minh Bach",
+    "rating": 5,
+    "review_text": "Ngon, rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Huyen Tran",
+    "rating": 5,
+    "review_text": "Ngonnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Thiếu Soái",
+    "rating": 4,
+    "review_text": "Ok ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Mai Xuân Hòa",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Anh Võ Văn Tuấn",
+    "rating": 1,
+    "review_text": "Nv thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Hai Luan",
+    "rating": 5,
+    "review_text": "Ổn trong tầm giá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "TRẦN HIẾU (Cụt Vương)",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Minh Ho Van",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Lê Ngọc",
+    "rating": 3,
+    "review_text": "Tạm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "BÙI VĂN HIẾU",
+    "rating": 5,
+    "review_text": "Tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Tuấn Anh lê",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Phú Phan Văn",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Lê Nguyễn Ngọc Trân",
+    "rating": 1,
+    "review_text": "Chiều hôm qua tôi đến quán ăn vừa tới chúng tôi chỉ hỏi chú bảo vệ là :” Có ghi vé xe ko ạ” thì chú bảo vệ đã chửi thẳng vào mặt chúng tôi và ko có ý muốn dừng lại. Thái độ bảo vệ ở đây là vô cùng tệ với khách mặc dù ngay từ đầu vấn đề …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Chí Trần",
+    "rating": 1,
+    "review_text": "ly chén mất vệ sinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Ngânn Kim",
+    "rating": 1,
+    "review_text": "Quán phục vụ chậm chờ hơn 1 tiếng chưa có đồ ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "2004 Kiều Trang",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Duy Ngo",
+    "rating": 4,
+    "review_text": "Thoáng mát, vui vẻ nhưng đồ ăn lên chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Ben Chowlah",
+    "rating": 5,
+    "review_text": "Đây là địa điểm ăn uống được người dân địa phương ưa thích và thường rất đông khách vào giờ ăn tối."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "David Kim",
+    "rating": 5,
+    "review_text": "Không gian ở đây rất dễ chịu và đồ ăn thì ngon tuyệt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Tony Vo",
+    "rating": 5,
+    "review_text": "Tuyệt vời, sẽ rẻ hơn nếu bạn đi cùng bạn bè."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Yến Nguyễn Thị",
+    "rating": 4,
+    "review_text": "Pop.\n\nBb"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Band Hong Anh",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "hướng hoàng xuân",
+    "rating": 4,
+    "review_text": "Tốt 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Nguyen Duc Dong",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Dung Le Anh",
+    "rating": 4,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Trang Dai City",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df9815c910a5:0x983110f39ef0dab4",
+    "shop_name": "Quán Ốc Thu Vân",
+    "user_name": "Le Dh",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Bảo Mây Lê",
+    "rating": 5,
+    "review_text": "Đậu ở đây quán tự chế biến nên  ăn rất tươi và béo.\nTopping ăn kèm rất ngon, vị lạ đặc biệt so với mấy quán mình từng ăn, nước chắm ăn kèm rất ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Thanh Nguyen",
+    "rating": 5,
+    "review_text": "Lần đầu ghé châc cũng hồi 2014-15\nCòn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Tân Nhật",
+    "rating": 1,
+    "review_text": "Cho dĩa rau nhìn cứ tưởng là rau ăn rồi, nhìn rất mất thiện cảm. Rau thì dập nát, không còn tươi, quán nên chú ý hơn đến chất lượng món ăn trước khi phục vụ khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Nhat Thao Le",
+    "rating": 2,
+    "review_text": "Quán nên chú ý chất lượng thức ăn, bill 1 ng 79k ko quá rẻ và mình biết mặt bằng Q1. Đậu mềm ngon còn lại ko quá đặc biệt, chất lượng thì như ảnh. Chắc chắn sẽ ko quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Thanh Duy",
+    "rating": 5,
+    "review_text": "Sống từng ấy năm, từng vui từng buồn từng khóc từng cười chứ chưa từng ăn đậu hủ ở đâu tươi ngon béo như ở A Vừng luôn đó. Lúc trc Duy còn ăn mặn thì cũng có ăn full menu ở quán nha, ngon, sạch sẽ, các bạn nv dễ thương lắm, đậu hủ dc làm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Rio Luong",
+    "rating": 4,
+    "review_text": "quán buổi trưa hơi nóng nhẹ, nếu làm cái cửa và có máy lạnh thì ăn uống dễ chịu hơn, chứ cái thời tiết nóng như hôm nay làm cảm giác ăn không trọn vẹn ngon, mẹt 1 người ăn 85K nhiều và phong phú, bao no. mắm tôm chưa ngon lắm nhưng có thể tự điều chỉnh thêm do trên bàn có đường và ớt tắc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Tran Nguyen",
+    "rating": 5,
+    "review_text": "Quán thoáng mát, sạch sẽ ✨\nMust-try: bún tá lả, chả hến, ốc nhồi – ngon xỉu luôn 😋\nNhân viên dễ thương, phục vụ nhanh. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Vân Khánh Hoàng Trần",
+    "rating": 4,
+    "review_text": "Nước uống rất không ngon (uống 1 ngụm rùi thôi). Tổng bill như trên hình tầm hơn 100 cá. Đậu chiên giòn khá mới, các topping còn lại cũng ok. Nhưng tổng quan hong có gì đặc biệt về hương vị so với phân khúc giá này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Như Ngọc Nguyễn",
+    "rating": 3,
+    "review_text": "Nhân viên pha chế và phục vụ của quán hời hợt sau khi nhận ý kiến của khách ko xử lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "HA TRAN",
+    "rating": 3,
+    "review_text": "Sau nhiều năm quay lại ăn, mình có những đánh giá sau đây về quán:\n\n- Quán vẫn sạch sẽ, rộng rãi, thoáng mát và luôn đông khách. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Hạnh VTM",
+    "rating": 4,
+    "review_text": "Tương xứng với tầm giá. Đậu mơ béo, giòn, ngon, nghe bảo là tự làm. Các món ăn kèm khác như chả cốm, chả hến, thịt luộc, cuống họng luộc, nem chua rán cũng khá ổn. Mắm tôm thơm nhưng bị ngọt. Các đồ chấm và đồ uống của quán bị thiên ngọt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Nam Nguyen Phuong",
+    "rating": 5,
+    "review_text": "Cập nhật 2/2/2026 11h30\nNhân lực trẻ năng động, phục vụ nhanh\nĐậu nóng hổi, giòn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Phong Nguyen",
+    "rating": 5,
+    "review_text": "Quán bún đậu đã lâu mình ăn từ hồi đi học.\nQuán vẫn ngon như xưa, đậu làm ngay tại quán, tươi ngon.\nTông thể như hình là 1 phần tá lả 5 món, ốc chiên thì là, nem chiên. Quá no cho …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Hải Vy Nguyễn",
+    "rating": 2,
+    "review_text": "Đậu mềm ngon, nhưng phần ăn khá nhỏ bình thường mình ăn tá lả 5 món, ăn không no\nThêm nữa là tính thêm phí giữ xe, mặc dù để ngay quán, nhân viên giữ xe cũng là …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Vinvin",
+    "rating": 5,
+    "review_text": "Thích quán này vì có làm đậu hủ tại quán\nXứng danh đậu hủ nàng mơ nè\nCắn miếng đậu hủ thấy khác biệt liền so với nhiều quán ngoài kia …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Justin",
+    "rating": 3,
+    "review_text": "Giá thành cao do ở trung tâm, đồ ăn thì bình thường thôi, chỗ đậu xe bé và thu 3k gửi xe. Menu có chả hến khá lạ miệng, thành phần là mọc + hến. Mình có kêu ốc nhồi nhưng khi kéo ra miếng xả ra thì thịt bị bở trong khi đáng lẽ nó phải kéo được cả khối thịt ra ngoài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Jane Juli",
+    "rating": 5,
+    "review_text": "quán có món mới - chả hến rất ngon - chả có thì là, ai không ăn được vị này coi như mất 1/2 cuộc đời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Khanh Lại",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon\nĐậu ngon, thơmm\nChả cốm thơmmm\nNên ghé trải nghiệmmm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Minh Ngo",
+    "rating": 4,
+    "review_text": "Quán chiên đậu hũ tại chỗ khá ngon, cắn vào khác hẳn mấy nơi dùng đậu làm sẵn, mềm, thơm, lớp ngoài giòn nhẹ. Chả hến và chả mộc vị lạ, ăn bắt miệng. Mắm tôm pha vừa, dễ ăn, không bị gắt. Phần thập cẩm nhiều món: thịt luộc, nem, chả… khá no …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Nhi Nham",
+    "rating": 5,
+    "review_text": "Lâu rồi mới có dịp thử lại. Thấy đậu xanh bên này khá bắt mắt nên đã gọi bún đậu xanh (do mình ko ăn thịt nên phần hình có hơi khác). Đồ vẫn tươi ngon như xưa. Nhân viên dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Linh Pham",
+    "rating": 4,
+    "review_text": "Một trong những quán bún đậu ngon ở Quận 1, Tp. Hồ Chí Minh. Không gian quán tương đối thoáng, dùng quạt không có khu vực máy lạnh. Bạn nên ngồi xa khu vực chiên rán xíu do bếp mở nên bạn có thể bị ảnh hưởng bởi mùi vị thức ăn. Giá các món khá bình dân, vị ổn, các bạn phục vụ thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Tâm Nguyễn",
+    "rating": 4,
+    "review_text": "Ngon theo khẩu vị mình rất thích\nĐậu ở đây ăn rất ngon\nChả ốc cũng ngon …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Khoa.HN29",
+    "rating": 4,
+    "review_text": "Quán nên bỏ cái phần thu tiền vé xe. Nó không đáng so với khoản tiền ăn nhưng lại cho cảm giác khó chịu. Tự nhiên cái xe để ngay vỉa hè, bên cạnh bàn mình đang ngồi ăn mà lúc về thu tiền. Giây phút cuối đó đã làm tụt hết mood cả bữa.\nĐồ ăn thì nếu thèm bún đậu HN quá thì đến ăn tạm cungz được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Hương Nguyễn Thanh",
+    "rating": 4,
+    "review_text": "Đậu vs chả cá nóng hổi\nMình gọi phần 2 người (như trong video + 2 ly trà tắc) là 139k\nNhân viên dễ thương, không gian rộng rãi\nMiếng thịt cắt mỏng vữ lun á"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Hữu Lộc",
+    "rating": 4,
+    "review_text": "Quán ngon, đồ ăn ra nhanh, giá hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Thích Vi Vu",
+    "rating": 5,
+    "review_text": "Thức ăn ngon, đa dạng từ các set mẹt cho đến các món vặt. Quán đẹp và thoáng mát, không bị ám mùi. Có khu làm đậu hũ và bếp mở sạch sẽ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Bin",
+    "rating": 4,
+    "review_text": "● Quán thu 3k tiền gửi xe\n❌️ 1 số nhân viên mặt lúc order rất khó chịu. Mặt bí xị như bị bồ đá vậy. Nhất là bạn nam da đen lùn lùn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Brian Black",
+    "rating": 1,
+    "review_text": "Lần đầu tiên đến quán bún đậu không có rau diếp cá, món ăn lèo tèo mà lấy giá 179k ngang với A Chảnh, Mẹt, nguyên 1 phần chỉ có mỗi đậu hủ là ăn đc, còn lại thịt thì khô, nguội, ốc nhạt, nem bị hôi, tệ hết sức. Mong quán xem xét lại nhắm làm ăn được không chứ 2 mặt tiền mà đồ ăn như vầy thì..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Phuc Duong",
+    "rating": 2,
+    "review_text": "Review ngày 25/03/2024\n\n*Lưu ý trước khi chọn quán: …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Thanh Nguyên Lê Trần",
+    "rating": 5,
+    "review_text": "Quán trung tâm khá tiện, dễ tìm\nGiá : hơi cao so với tầm giá. Mình đi 3 người hết 350 thì mình thấy hơi mắc, tụi mình phải gọi nhiều phần vì mỗi phần có số lượng hơi ít …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Rachel",
+    "rating": 4,
+    "review_text": "Đậu ở đây ngon, chiên mới liền lúc khách đặt nên nóng hổi, béo, ráo dầu.\nRau cho nhiều, cũng lặt sẵn, bún cũng ngon, ko bở.\nMắm tôm cho nhiều, hơi mặn và ko có mỡ sẵn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Hannah Thanh Truc",
+    "rating": 4,
+    "review_text": "Bún đậu mắm tôm là món dễ ăn và dễ nghiện bậc nhất. Vừa giản dị, mộc mạc lại vừa tinh tế. Bún đậu ở đây đặc trưng ở chỗ là đậu hũ được làm tại quán luôn, cắt miếng vừa ăn rồi chiên nóng lên ăn liền. Thêm bún tươi, rau sống, thịt luộc, chả …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Thắng Lê",
+    "rating": 4,
+    "review_text": "Quán ăn ổn, đậu k thơm lắm. Chả cốm ổn ổn. Có thêm mấy món lạ lạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "dua hau",
+    "rating": 3,
+    "review_text": "Lại là một trải nghiệm, không gian khá thoáng, đánh giá cao nhân viên giữ xe, nhưng không đánh giá cao nhân viên phục vụ, về món ăn, khẩu phần ăn nhỏ so với mặt bằng chung, món ăn không đánh giá cao, duy nhất đậu hũ chiên ở đây, lớp ngoài giòn tan nhưng khi ăn vào trong thì độ béo của đậu vẫn còn , mặt đậu khá mịn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "vu pham",
+    "rating": 3,
+    "review_text": "Không gián quán rộng, ngồi và để xe thoải mái. Đồ ăn và nước uống vừa phải, giá tầm trung, không có gì xuất sắc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Phuong Nguyen",
+    "rating": 4,
+    "review_text": "1 set 139 k chỉ có như này\nĐậu thì rất ngon, có lẽ ngon nhất trong các quán bún đậu mình ăn\nNhưng đồ hơi ít. Trước phải mất tiền gửi xe nên nghe bảo mặc dù giờ nghe không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Thiện Nguyễn",
+    "rating": 4,
+    "review_text": "Quán không gian thoáng, sạch sẽ, mắm tôm ngon, đồ ăn nóng hổi vừa thổi vừa ăn! Ăn một người món khoảng 60-70k, combo 2 người 4 món 170-180k, trà đá 5k, tính tiền có kẹo singgum free!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Thị Hồng Nhung Nguyễn",
+    "rating": 4,
+    "review_text": "Đậu chiên mềm ẩm bên trong, giòn bên ngoài. Nên trang trí thành mẹt thay vì đĩa để cho đẹp mắt và ngon miệng hơn. Mắm tôm mặn mặc dù bỏ rất nhiều đường và tắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Tu Duong",
+    "rating": 3,
+    "review_text": "Quán nằm ở hẻm trung tâm, dễ tìm, gửi xe có phí, không gian tầng dưới quần áo dễ ám mùi đậu chiên, tầng trên có máy lạnh, không gian không quá chật.\nNên gọi bún đậu tá lả 3 món rồi kêu thêm món khác. Nước tắc pha nhạt nhẽo, nước …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f22bfb01d4d:0x61e87bbec5a8667c",
+    "shop_name": "Bún Đậu A Vừng",
+    "user_name": "Minh Khánh",
+    "rating": 4,
+    "review_text": "Bún đậu rất chuẩn vị Bắc, món ốc ăn ổn. Không gian quán tương đôi thoáng mát. Ai muốn trải nghiệm có thể ghé qua thử. Giá 75k suất như trên ảnh. Ốc thì 65k."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Trương Ánh Hồng",
+    "rating": 3,
+    "review_text": "phần 1 người 57k bún nhiều mắm tôm ko ngon rất mặn, rau thì cho 1 lá sà lách đậu thì khô queo cứng còng nhiều dầu nem chua rán thì bị đậu đè lên nên cũng mềm iểu nói chung ko ngon cho lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "hongnhung nguyen",
+    "rating": 5,
+    "review_text": "Gọi một phần đầy đủ để thử mình thích topping nào nhất. Hóa ra ngon đều, thịt là phần giò ko béo ko khô, dồi ngon bá cháy, đậu hũ giòn còn béo béo bên trong. Rau ăn kèm ko quá nhiều với mình vừa đủ, rau sạch giòn, ráo nước,chỉn chu. Tất cả …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Nguyễn Thành Đạt",
+    "rating": 4,
+    "review_text": "Mình nhận xét cá nhân thôi ạ:\n- Đồ ăn thì vừa, bình thường, không quá tuyệt vời, 8/10₫.\n- Nhân viên, anh giữ xe thân thiện, vui vẻ với khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Tuyết Hạnh",
+    "rating": 5,
+    "review_text": "Chất lượng, ngon. Từng topping đều ngon. Quán có cả lòng chiên và lòng luộc. Góp ý với quán là rau dưa hơi ít với đợi hơi lâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phương Bùi",
+    "rating": 5,
+    "review_text": "Mình ăn thấy đồ ăn ngon, bố trí bắt mắt, mấy cô phục vụ nhiệt tình dễ thương lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Duyen Pham",
+    "rating": 5,
+    "review_text": "- Thức ăn: Đồ ăn bài trí khá bắt mắt. Không bị nguội hay đông lạnh, ăn rất ngon và vừa miệng.\n- Dịch vụ: Các chị phục vụ khá tận tình và tốt tình. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hao Huynh Anh Vinh",
+    "rating": 5,
+    "review_text": "Bún đậu ngon, toping nóng hổi, cảm giác đồ luôn mới chứ k chiên đi chiên lại, mắm tôm thơm, ăn ở đây rất nhiều lần rồi, k ăn được chỗ khác luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Quỳnh Nguyễn",
+    "rating": 4,
+    "review_text": "Đồ ăn trình bày đẹp mắt. Phần 2 người vừa vặn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "quoc vu",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, nhân viên dắt xe nhiệt tình, khách đã nói không cần để tự dắt rồi nhưng vẫn 2-3 lần gằn giọng “đá chống, để dắt xe đi a”. Tôi không cần vì đang cần mở cốp cất đồ, lâu nên tự làm đc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "trương thái thanh triều",
+    "rating": 5,
+    "review_text": "Quán bún đậu chân ái nhất đối với mình ở Thủ Đức, đồ ăn tươi ngon đầy đặn, đậu chiên ngoài giòn nhưng bên trong vẫn mềm mọng không bị khô, mắm tôm cũng rất hạp vị.\nMng nên thử nha!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "An Hoài",
+    "rating": 4,
+    "review_text": "Mẹt đa dạng, đầy đặn, mình gọi phần đặc biệt 2 người ăn no căng. Nước mơ với sấu hơi ngọt với khẩu vị mình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Trần Thị Tuyết Chinh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian đẹp, sẽ giới thiệu bạn bè và quay lại lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Jenna Jenna",
+    "rating": 5,
+    "review_text": "Đồ ăn nhiều, ngon, lên món nhanh, phục vụ tận tình ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "LPK Minh",
+    "rating": 5,
+    "review_text": "Quán ăn sạch sẽ, không gian rộng rãi\nMắm tôm\nMẹt 2 người ăn thoải mái, có rau + bánh tráng miễn phí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Ánh Kim",
+    "rating": 4,
+    "review_text": "bún đậu ngon, nhưng chưa đa dạng rau, thịt ít mỡ hơn xíu sẽ ok hơn.\nCác bạn nhân viên dễ thương, nhiệt tình.\nKhông gian sạch, giá cả phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Yến Như",
+    "rating": 5,
+    "review_text": "Bún đậu rất ngon, phục vụ ổn. Sẽ ủng hộ nhiều lầnn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thư Võ Minh",
+    "rating": 4,
+    "review_text": "Mình thấy bún đậu cũng ok, dồi hơi khô xí, rau đa dạng thêm tí nữa là ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thuần Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon lắm but sẽ tuyệt dời hơn nếu có ớt xay ạ hihi. Ăn sạch trơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Linh Nguyễn",
+    "rating": 5,
+    "review_text": "Giá cả hợp lí, mắm nhon với đồ ăn lúc nào cũng nóng giòn 🌸 mìn ăn từ hồi còn ở địa chỉ bên Tô Vĩnh Diện tới giờ lun …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "hoang Hang",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, đồ ăn ngon vừa miệng, không gian thoáng đãng mát mẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Đoàn Huỳnh Nhân",
+    "rating": 2,
+    "review_text": "Tất cả giá đã lên 10k so với ảnh trên gg maps tính đến thời điểm review, quán nhiều ruồi, đồ ăn quá bình thường so với giá và vị trí quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Trọng Nguyên Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nóng, chất lượng, giá cả hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Mai Đặng",
+    "rating": 5,
+    "review_text": "Không gian sạch sẽ , nhân viên siêu nhiệt tình , mắm tôm ngon nhức cai nách 🥰🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "My Nguyen",
+    "rating": 1,
+    "review_text": "Quá ít cho phần 79k, dặn không lấy bún bù chả ram nhưng chỉ đc 1-2 cục. Mắm mặn và dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Ngọc Hùng Huỳnh",
+    "rating": 5,
+    "review_text": "Rất ngon, mấy năm chỉ ăn chỗ này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Huy CooKie",
+    "rating": 5,
+    "review_text": "Mình cảm nhận đồ ăn sẽ là mới, khá nóng và không cảm nhận là chiên đi chiên lại 🥰\nMắm tôm ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thuỳ Dung Bùi",
+    "rating": 5,
+    "review_text": "Ngon , sạch sẽ , nv phục vụ dễ thương lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phát Trần",
+    "rating": 5,
+    "review_text": "Từ khi biết quán này do 1 người bạn giới thiệu, thì mình không đi ăn các bún đậu A C, bún đậu V nữa vì ở đây ngon, chất lượng và món luôn nóng. Thích nhất mắm tôm ở đây, highly recommended!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Rosemery Rose",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi, ngon , nhân viên dễ thương\nPhải thử cà pháo ở đây nha ngon điennnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "baohan nguyenngoc",
+    "rating": 5,
+    "review_text": "ngon, sạch sẽ, mấy cô phục vụ 10đ luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Yến Mary",
+    "rating": 4,
+    "review_text": "Tưởng không ngon mà ngon không tưởng.\nTính ghé ăn đại thôi nhưng ghé ngay quán ngon.\nBún và mắm thơm, chả cốm và đậu chiên vừa tới và rất ngon. Có thêm củ đậu ăn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "hồng tú uyên nguyễn",
+    "rating": 5,
+    "review_text": "Bún đậu ngonnn, ra món nhanh, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Minh Tuấn Trần",
+    "rating": 5,
+    "review_text": "Quán ruột mấy năm nay , Ăn bún đậu nhiều chỗ rồi nhưng chỗ này vẫn là chân ái nhất\nĐiểm trừ duy nhất có lẽ là phải chờ hơi lâu vì khi tới mình gọi món người ta mới bắt đầu làm nhưng bù lại ăn rất là nóng hỏi không bị nguội lạnh nhé mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phương Thanh",
+    "rating": 5,
+    "review_text": "Ăn ngon hong để lại cọng rau 🤤 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hoa Văn",
+    "rating": 5,
+    "review_text": "Quán bún đậu mắm tôm Phúc Kỳ theo mình ăn thì hợp khẩu vị, đậu hủ mới chiên nóng hỏi, bún tươi, thịt cũng nhiều.\nĐặc biệt chả cốm ơn quán rất ngon, mùi thơm dai dai nong hỏi khi mới chiên đem …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Galyna Store",
+    "rating": 5,
+    "review_text": "Ngon, rẻ, đã ăn nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Trâm Nguyễn",
+    "rating": 2,
+    "review_text": "Phục vụ sạch sẽ. Tuy nhiên mắm tôm khá ngọt. Mình gọi combo 2 ngừoi thấy ít bún chỉ đủ 1 người ăn. Rau thơm hơi ít . Đồ ăn mình thấy bình thường ko ngon lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thuận Hồ",
+    "rating": 4,
+    "review_text": "Đậu hũ nóng, giòn. Các topping còn lại ăn ok nhen.\nMấy cô phục vụ tuy lớn tuổi nhưng rất dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "SAIGON DOME",
+    "rating": 5,
+    "review_text": "Quán ruột nha , ăn từ thời bên Tô Vĩnh Diện , nay chuyển qua Đặng Văn Bi vẫn fan trung thành , số 1 , ngon lắm mọi người nên thử nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phạm Thảo",
+    "rating": 5,
+    "review_text": "Quán này ăn rất ngon nha mấy ní , mình ăn từ đc tô vĩnh viễn sang đc mới hiện h mà hiểu dồii henn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Helen Nguyễn",
+    "rating": 5,
+    "review_text": "Quán nhỏ nhưng thoáng mát, dễ kiếm ngay ngã 3.\nCó nhân viên giữ xe. Phục vụ nhanh, gọn, lẹ.\nNước sấu cũng ngon nữa, ko ngọt nhiều như 1 số quán khác. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Tiến Trần Minh",
+    "rating": 5,
+    "review_text": "Ngon xiểu luôn trời\nMẹt 2 người ăn vừa đủ 10 điểm\nSạch sẻ là chiệu rồi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Nguyễn Quỳnh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nóng . Phục vụ ok ạ sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hiệp Thanh",
+    "rating": 1,
+    "review_text": "Tệ đến mức phải lên đây đánh giá, đồ ăn chưa chín, nhiều TÓC"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Gia Linh",
+    "rating": 5,
+    "review_text": "Ngon, sạch sẽ, chuẩn vị mắm tôm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Trân Phạm",
+    "rating": 5,
+    "review_text": "đã ăn nhiều lần, món ngon chuẩn vị, sạch sẽ, nhân viên chu đáo\nsẽ ủng hộ lâu dài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "thich thu thich",
+    "rating": 5,
+    "review_text": "Món ăn ngon, combo người ăn rất nhiều, dịch vụ nhanh, nhiẹt tình, sàn ko có rác, nhưng không khí hơi nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Quốc Đạt Trần",
+    "rating": 5,
+    "review_text": "phải nói là rất ấn tượng với quán này, với tình vào ăn trưa mà quán mát mẻ sạch sẽ, mắm tôm bắt vị, mấy cô nhiệt tình nữa chớ, từ nay thêm 1 quán trưa rồi kkk"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Ngo Phuc Hoang",
+    "rating": 4,
+    "review_text": "Quán ăn siêu ngon từ trước tới nay nhưng bảo vệ thì thái độ quá nên xem xét lại không thì mất khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "DuyHai97. Pham",
+    "rating": 3,
+    "review_text": "Hello cả nhà nhé, lại là Hải đây.\nHôm nay mình sẽ chia sẻ cho cả nhà một quán bún đậu mắm tôm ở TP Thủ Đức luôn nha. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hiền Ngọc",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, sạch sẽ. Đây là quán bún đậu ngon và sạch nhất mình từng ăn. Đáng để thử nhé mn ơi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "CHIN PHAN",
+    "rating": 5,
+    "review_text": "Phần 2 người ăn đủ no. Các món ăn đều ngon. Cà pháo rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "tuyền thanh",
+    "rating": 5,
+    "review_text": "Không gian quán thoáng mát, có người giữ xe mặc dù chỗ để xe hơi chật.\nNhân viên phục vụ nhanh nhẹn.\nĐồ ăn cũng ngon, phù hợp với vị của mình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "T. Puzo",
+    "rating": 5,
+    "review_text": "Quán ruột, giá như bảng trong hình. Quán gọn gàng, hợp vệ sinh. Nhân viên phục vụ rất chuyên nghiệp. Bãi để xe máy phía đối diện, có các bạn giữ xe riêng. Thái độ rất tốt, rất đáng đến trải nghiệm nơi đây. Quán thường đông vào tầm giờ tối, đặc biệt cuối tuần. Buổi trưa số lượng nhân viên ít hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thêu Tạ Thị",
+    "rating": 1,
+    "review_text": "Nghe rv trên thấy phần 2 người cũng nhiều mà đến thấy cái mẹt mình thất vọng ngang nhân viên phục vụ thì chậm. Chạy 7km để ăn mà bị thất vọng thế không đáng coi như trải nghiệm để sau không đến nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thuý Linh Nguyễn",
+    "rating": 4,
+    "review_text": "Thức ăn tạm ổn. Không gian quán khá thoải mái, giá cả hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Vu Trang",
+    "rating": 5,
+    "review_text": "Món ăn ngon miệng, mắm tôm đậm đà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "thuy dang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, tươi ,giá phù hợp. Sẽ quay lại nhiều lần sau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Ái Nguyễn",
+    "rating": 5,
+    "review_text": "quán ăn ngon, se ghé lại nhiều lần hơn 😍😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thủy Nguyễn",
+    "rating": 4,
+    "review_text": "Đã ăn ở đây rất nhiều lần rồi nhưng giờ mới search ra tên quán để review :))\nNói chung ăn bún đậu ở thủ đức thì nên đến đây vưa ngon vừa rẻ máy lạnh phà phà mát mẻ hihi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Tùng Trần Thanh",
+    "rating": 5,
+    "review_text": "Lần đầu tiên trải nghiệm ở quán này, khách hàng ăn khá đông. Vị trí ngay mặt tiền đường Thống Nhất thuận tiện giao thông đi lại. Quán phục vụ nhanh nhẹn nhiệt tình. Món chính tại quán là bún đậu mắm tôm, bún giò heo giả cầy, bún chả giò, bún nem cua bể. Giá cả phù hợp, khẩu vị tương đối ngon. Có cơ hội chắc chắn sẽ ghé lại quán."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "boy tke",
+    "rating": 5,
+    "review_text": "Bún đậu ngon, quán sạch sẽ được xin thêm rau với đồ dùng, nhân viên phục vụ nhanh gọn. Okla"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Xuan Truc",
+    "rating": 5,
+    "review_text": "Sau 2 năm quay lại thì quán vẫn ngon như lần đầu.\nMắm tôm ở đây là linh hồn của quán.\nNhân viên dễ thương, giá cả bình dân.\nSẽ quay lại nếu có dịp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Kha Chris",
+    "rating": 3,
+    "review_text": "Món ăn cũng tạm ổn nhưng giá khá đắt, ăn combo 115k , quán không có sẵn khăn giấy mà phải mua, trà đá uống kèm chất lượng dở. Nói chung tạm ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Ngô Tâm",
+    "rating": 4,
+    "review_text": "Quán trước ở bên Tô Vĩnh Diện hơi chật nay chuyển qua bên Đặng Văn Bi rộng rãi sạch sẽ, qua chỗ mới đồ ăn ngon hơi luôn, mắm tôm bên này rất là okie đó. Nhân viên dth"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Quang Le",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cả tầm trung, phục vụ ok, không khí ấm cúng, yên tĩnh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Daa Nguyen",
+    "rating": 3,
+    "review_text": "Quán trang trí đẹp mắt, kiến trúc cổ điển.\nHương vị ý kiến cá nhân cũng như các nơi khác không gì nổi bật"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Bích Trần Nguyên",
+    "rating": 4,
+    "review_text": "Bún đậu ngon, quán rộng sạch sẽ, nhân viên đông, phục vụ tốt, dưới đây là đĩa combo 2 người 119k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Ngoc Yen Tran",
+    "rating": 4,
+    "review_text": "Phục vụ nhiệt tình dễ thương.M. Phần Bún đậu khá ổn nhưng chưa được ngon lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thuận Trương",
+    "rating": 4,
+    "review_text": "Không gian thoáng, sạch sẽ\nĐồ ăn ngon giá cũng không quá cao. Tuy nhiên trình bày đôi lúc hơi lộn xộn và chưa được đẹp lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Huong Thuy",
+    "rating": 5,
+    "review_text": "Ngon, sạch sẽ, dồi sụn ngon lắm, đậu hũ giòn, nhưng mình thích cắt dày hơn nữa để vẫn cảm nhận đc đậu xốp mềm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phát Lâm",
+    "rating": 5,
+    "review_text": "Quán có concept Hội An cổ kính, bún đậu ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "muoihai anh",
+    "rating": 4,
+    "review_text": "Khách gọi quán mới làm nên ra món nóng giòn,giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "eng mayy",
+    "rating": 5,
+    "review_text": "quán view ăn oke á , nhuma trên lầu hong có sọt rác ☺️😔😭 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Happy Life Chanel",
+    "rating": 4,
+    "review_text": "Về giá cả thì tương đương với a chảnh và những chổ khác. Chất lượng ngon.  Đây là combo đặc biệt 2 người ăn 115k. Chưa bao gồm trà đá và khăn giấy. Hồi trước mình thích ăn ở đây do có ram tôm đất. Mà nay quay lại chả ram nhiều thịt quá ăn k …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Triều Nguyễn hải",
+    "rating": 1,
+    "review_text": "Tết nghĩ không bán qua tết lên món. Ăn hẳng 10k 1 phần vãi quán. Lần cuối ghé bye."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Mai Trương",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá tiền hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Trần Thị Loan Thảo",
+    "rating": 5,
+    "review_text": "Món ngon, không gian đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "phuong nguyen",
+    "rating": 3,
+    "review_text": "Quán sạch sẽ, hơi tối\nĐồ ăn ổn, cũng giống giống mấy quán khác, không có gì đặc biệt cả\nPhục vụ nhanh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Tmt Trần",
+    "rating": 4,
+    "review_text": "Quán sạch sẽ, bún đậu khá ngon...\nCombo x2 mà bún hơi ít, phải kêu thêm\nMình thấy giá thì hơi cao tí, chắc do mình ăn bên khu sinh viên nên khi qua đây thấy cao..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "N",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ k tốt, đồ ăn thì như trong hình, trong hủ ớt có gián. Sau khi báo thì k nhận dc lời xin lổi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Superlunary",
+    "rating": 4,
+    "review_text": "Quán khá ngon, tuy nhiên thứ nào trên bàn cũng tính tiền cả, giá cả cho món của tui là 45k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Nguyễn Đình Minh",
+    "rating": 1,
+    "review_text": "Mồng 7 tết tới ăn thử do quán mình hay ăn full bàn. Trên bàn chẳng có gì ngoài hủ đường (không có muỗn để múc đường luôn) với 1 thau đựng mớ lộn xộn như đũa, khăn, kẹo. Không ớt, không tắc (quất) tới hũ đường cũng không có muôn để lấy đường …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thủy Nguyễn",
+    "rating": 3,
+    "review_text": "So với những quán mình đã ăn thì cũng chỉ ở mức tạm được.. không có gì đặc sắc.. nhưng nhìn hủ đường là cảm giác không hợp vệ sinh chút nào.."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thanh Vy Do Nguyen",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, đồ ăn ngon, nóng hổi, giá phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Emy Wu",
+    "rating": 4,
+    "review_text": "Số lượng so với giá thành hơi ít so với mặt bằng Thủ Đức.\nCòn lại mọi thứ rất tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "vo Thi Thom",
+    "rating": 5,
+    "review_text": "Món ngon đầy đủ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thắng Nguyễn",
+    "rating": 4,
+    "review_text": "Bún đậu giá ổn, ăn ngon, nhiều topping, gần như là đầy đủ với 1 set thập cẩm. Đáng để thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Nhi",
+    "rating": 5,
+    "review_text": "bún đậu siu ngon, ngon nhất trong những chỗ từng ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phương Phạm",
+    "rating": 5,
+    "review_text": "Đồ ăn nóng, vừa ăn, vừa khẩu vị. Ok nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "hiền hồ",
+    "rating": 5,
+    "review_text": "Bún đậu ở đây ngon, mình ăn 1 phần đầy đủ chỉ 60k no ú nụ, điều mình thích ở đây là chả cốm dẻo và đậu hũ được chiên nguyên miếng giòn bên ngoài, mọng nước bên trong nói chung là chất lượng. Một phần mình thấy rất ưng là vì quán sạch sẽ và chị chủ đón tiếp rất niềm nở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Máy Hút Sữa Medela Hồ Chí Minh",
+    "rating": 4,
+    "review_text": "Bún đậu mắm tôm Mẹt Quán từ lâu đã trở thành người bạn thân thiết với nhiều bạn trẻ Sài Gòn có tình yêu lớn dành cho món ăn này. Đặt chân đến quán bạn sẽ cảm nhận được ngày hình ảnh của 1 mái nhà xưa, với bộ bàn ghế gỗ tối màu, bên tường …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "tran quoc huy",
+    "rating": 5,
+    "review_text": "Món ăn nóng hổi vừa thổi vừa ăn. Lên món nhanh không phải đợi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thu thương Nguyễn",
+    "rating": 5,
+    "review_text": "Bún đậu rất ngon, phục vụ nhiệt tình. Ngoài ra còn có ram bắp và chả ram tôm đất. Sẽ ghé quán dài dài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "CHIEN TVT",
+    "rating": 4,
+    "review_text": "Quán ăn rộng, sạch sẽ, có nhiều combo lựa chọn, không gian phù hợp với đi ăn gia đình bạn bè hoặc người yêu, dưới đây là combo 2 người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Man Thai",
+    "rating": 5,
+    "review_text": "Mình ghé tầm 4g ngày thường. Quán vắng phục vụ nhanh mèo dth, có miếng che cho xe mình. Đồ ăn ngon, đậu giòn. Combo 2 ng 119k giá tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thu Hong",
+    "rating": 5,
+    "review_text": "Bún đậu đặc biệt ngon, khẩu phần vừa vặn, giá hợp lý!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "linh võ",
+    "rating": 5,
+    "review_text": "Mắm tôm ngon đến nỗi mình k giám thử đi ăn bún đậu mắm tôm quán khác luôn, phục vụ nhiệt tình, dễ thương, lần nào ăn cũng phải gọi thêm bún để ăn cùng với mắm tôm vì ngon quá. Mỗi tội chả ram tôm đất bữa gọi ăn thử thì không ngon, còn mắc nữa, chả có gì ăn kèm nên đến đây chỉ ăn bún đậu mắm tôm thôi, giá cả rất phải chăng hợp lý. 5*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Nguyễn Văn Lực",
+    "rating": 5,
+    "review_text": "Hãy thử 1 lần tới đây bạn sẽ bất ngờ...\nMắm tôm ở đây cực ngon cùng mẹt bún đậu ngất ngây cực nhìu\nĐậu hủ non chiên ngoài giòn tan trong tan chảy..mẹt đầy đủ chỉ gần 60k bao no"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Uyen Huynh",
+    "rating": 5,
+    "review_text": "Mẹt như hình là 260k cho 4 người ăn nhưng tụi mình đi 5 người ăn vẫn rất no. Quán rộng rãi thoáng mát. Menu đa dạng. Ngon lắm mọi người nên thử nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phạm Hồng Thái",
+    "rating": 5,
+    "review_text": "Quán ngon phục vụ tốt mọi thứ khá ok nước sấu hơi Sài 😂 giá cả phải chăng.chúc quán thành công hơn nữa thủ đức 12/10/2019 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Quan Mach",
+    "rating": 1,
+    "review_text": "Đồ ăn tạm được. Giá hơi mắc. 1 sao cho sự thiếu trung thực. Menu ghi thịt giò rút xương trong thực tế là thịt nạc. Mình cố tình nói rõ cho 1 phần thịt giò rút xương thêm thì nhân viên mang ra vẫn là thịt đó. 28k cho dĩa thịt mìn để hình phía dưới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Ông cao Vlog",
+    "rating": 5,
+    "review_text": "Giâ cả hợp lí ...ngon tuyệt vời\nMenu đầy đủ..............\nĐồ uống cũng ngon\nKhông gian đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hồng Vân",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, thoáng mát, mấy cô phục vụ tận tình. Ăn từ lúc mới mở quán, mỗi lần thèm ăn bún đậu là đi ăn ở đây. Nói chung là ngon, hợp khẩu vị với mình, phần hai người ăn vừa đủ no."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thư Nguyễn",
+    "rating": 4,
+    "review_text": "Đồ ăn nóng, phục vụ nhanh, giá hợp lý. Không gian rộng nhưng hơi nóng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hằng Nhật",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Chung Lê Hoàng",
+    "rating": 5,
+    "review_text": "Ăn từ khi còn ở đường Dân Chủ, giờ vẫn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Ánh Ngọc",
+    "rating": 5,
+    "review_text": "Lần nào đi sg cũng phải ghé ăn, ngon với sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Rich Nguyen",
+    "rating": 5,
+    "review_text": "Quán rất gọn gàng, món hợp khẩu vị, hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Duc Jbs Trading",
+    "rating": 5,
+    "review_text": "Mình gọi bún đậu đặc biệt mà hết lòng non nên tiệm bù chả ram tôm đất thì phải. tiệm có điện cho mình mà mạng yếu nghe chữ đc chữ không @@\ntiệm đóng hộp rất cẩn thận, hẳn 3 cái hộp mà lại quên bỏ đũa cho mình -___- phần …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hoàng Anh Nguyễn Linh",
+    "rating": 5,
+    "review_text": "Món ăn ngon, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Khang",
+    "rating": 2,
+    "review_text": "bún đậu ngon, nóng, quán sạch sẽ không gian thoáng mát có tầng 2 nhưng mắm tôm rất ít, rau và bánh tráng cũng ít mặc dù được xin thêm miễn phí, đồ ăn tương đối mắc so với những quán gần khu vực. Lần đầu tiên ăn mà mắm tôm hết trước cả đồ ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "tuyen tranthinhu",
+    "rating": 5,
+    "review_text": "Ghiền cà pháo bên này, cốm mắm ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Tú Trần",
+    "rating": 3,
+    "review_text": "Bún, đậu nhiều, không gian quán rộng rãi tuy không ngon bằng quán bún đậu Cô 3 góc đường Khổng Tử, Bình Thọ, Thủ đức từ nước chấm đến giải khát(nước mơ) hơi đục và uống không đậm đà lắm n phần 35k thì khá rẻ, hợp lý cho 1 phần bún đậu chả cốm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "HongHa Tran",
+    "rating": 5,
+    "review_text": "Thề luôn, ngon vãi chưởng!!! Đồ ăn chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hưng Long",
+    "rating": 5,
+    "review_text": "Ngon , đầy dặn và rất rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "VAN CHINH LANG",
+    "rating": 4,
+    "review_text": "Bên ngoài nhìn bình thường, trong có phòng máy lạnh ok, ăn ngon, giá tốt, phục vụ ok..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "DUY TV",
+    "rating": 5,
+    "review_text": "Mình mua về rất ứng bụng rau xếp đẹp mắt .\nNhân viên chu đáo .\nTuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "thi tran",
+    "rating": 4,
+    "review_text": "Đồ ăn cũng được, nhưng không nên đi vào sáng sớm. Vì toàn là đồ cũ hôm qua."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Huong Dong",
+    "rating": 5,
+    "review_text": "Món ngon, giá hợp lí 2 người chỉ 100k nhưng ăn không hết."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Giang Hoàng",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, đồ ăn ngonnn nhân viên phục vụ nhiệt tình.10₫ 10₫"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Lợi Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và vừa khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Vy Hải",
+    "rating": 5,
+    "review_text": "Mắm tôm ngon. Quán trang trí tông vàng khá bắt mắt. Giá khá ổn vs sinh viên học sinh 😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "tuananh nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon mà giá lại phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "duy vu",
+    "rating": 5,
+    "review_text": "Bún đậu ăn rất ngon, ngon chứ không rẻ nha các bạn, tiền  nào của đó thôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Vang Pham",
+    "rating": 5,
+    "review_text": "Ăn sạch sẽ, ngon, vị mắm tôm đậm đà, đánh lên mắm sôi hấp dẫn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Khang Hy Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon,sạch,chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Chizu Miruu",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon lắm ạ💝 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thanh Vy Đỗ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phương Anh",
+    "rating": 5,
+    "review_text": "Mình đi ăn trưa ngày thường. Nhân viên thân thiện, phục vụ nhanh. Mặt bằng mới sạch sẽ, thoáng mát. Quán mới dời mặt bằng về đây nên khách còn chưa biết đến nhiều. Sẽ thêm vào quán ăn yêu thích. Vote 5 sao cho quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Quỳnh Trần ngọc như",
+    "rating": 5,
+    "review_text": "Đồ ăn ăn ngon đầy đủ topping"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Trần Thị Thanh Trúc",
+    "rating": 5,
+    "review_text": "Ăn từ hồi sinh viên, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Than Le Xuan",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý, chả cốm ngon, chất lượng!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Nhất Đỗ Minh",
+    "rating": 4,
+    "review_text": "Quán ăn ngon nhưng chất lượng món ăn ngày càng giảm theo thời gian"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Kim Quỳnh Auto Admin",
+    "rating": 5,
+    "review_text": "Giá hơi cao nhưng mà tương xứng chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Văn Minh Lê",
+    "rating": 1,
+    "review_text": "Vào quán gọi món 38 nghìn (đậu, lòng non) thì bảo hết. Gọi 55 nghìn (đậu, lòng non, thịt, chả cốm) mới phục vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hương Thanh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon k gian sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Tân Hoàng",
+    "rating": 1,
+    "review_text": "Quán không tôn trọng khách mua về. Đã ăn nhiều lần. Khách đến mua về nhân viên bảo sang bàn khác ngồi nhường cho khách. Nhận order xong rồi làm cho khách mới vào ăn ở quán trước. Sau đó quên mới ra hỏi lại. Thái độ và cách phục vụ quá tệ. Coi thường khách hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Loan Châu",
+    "rating": 4,
+    "review_text": "Combo 2 người 130k, nước chấm ổn. Giờ trưa hơi vắng. Đậu xe ô tô trước quán sợ bị phạt 😞 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Nguyễn Minh Quân",
+    "rating": 5,
+    "review_text": "Chủ quán thân thiện, phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hoang Trinh Nguyen",
+    "rating": 2,
+    "review_text": "Món ăn ổn thôi, phần đặt sắc là chiếc lá có những chấm bi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Huỳnh Thị Thu Thúy",
+    "rating": 5,
+    "review_text": "Rất ngon ,nước sấu cũng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Tan Thanh Dang",
+    "rating": 5,
+    "review_text": "Quán thoáng, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Loc Bui",
+    "rating": 5,
+    "review_text": "Ngon nha đồ ăn nhiều nhân viên lịch sử ăn 3 ng no nê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Lệ Phan",
+    "rating": 1,
+    "review_text": "Đồ ăn ta nói nó dở thôi rồi luôn\nChả cái vị nào ra cái vị nào\nMắm cũng chả ngon …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Môi Trường Thành Đô",
+    "rating": 5,
+    "review_text": "Bún đậu rất ngon. Phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "netflix lg",
+    "rating": 5,
+    "review_text": "Quán đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Priscilla",
+    "rating": 5,
+    "review_text": "Là một trong những quán bún đậu ngon nhất mình đã ăn. Quán rất sạch sẽ, đông khách nhưng nhân viên luôn cố gắng phục vụ chu đáo. Giá cả thì khỏi bàn, 2 mâm này của mình là cho 4 người chỉ có 280k kèm free 4 nước.\nHighly recommend ạ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Dragoni",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon!\nNước sấu đặc biệt ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Người Lạ ơi",
+    "rating": 5,
+    "review_text": "lòng chiên ngon nhân viên cực kỳ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hà Minh",
+    "rating": 5,
+    "review_text": "Ăn từ hồi còn ở gần Hoàng Diệu, ngol"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thảo Thanh",
+    "rating": 5,
+    "review_text": "Bún đậu ở đây 10 đỉm nha, ăn lần nào cũg ngon hết á, điểm trừ là bàn hơi dơ thui"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Trần Hằng",
+    "rating": 5,
+    "review_text": "Quán có bún đậu ngon, này là phần tá lả 45 k . Mình nghĩ ai ghiền bún đậu thì phù hợp cho một người thôi . Còn ăn ít thì 2 người vẫn ok. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Mai Đặng Nguyễn Xuân",
+    "rating": 5,
+    "review_text": "Quán RẤT SẠCH SẼ , RẤT NGON, RẤT CHU ĐÁO"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Diệu Ngô",
+    "rating": 4,
+    "review_text": "Bún đậu mắm tôm thập cẩm ngon giá 119k 2 người ăn no lắm. Không gian quán cũng sạch sẽ, nhân viên thân thiện. Mỗi tội cái anh giữ xe có vẻ không thích làm nghề lắm. Khách vô mà không dắt xe cho khách kêu khách tự đỗ. Có người bên trong quán nhắc thì ổng mới chịu dắt xe cho mình, mặt mày thì không vui vẻ, thân thiện gì cả. Trừ điểm nhẹ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Sang Sang",
+    "rating": 5,
+    "review_text": "Bún ngon, chuẩn vị, đầy đủ topping"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Trúc Phương Nguyễn Thị",
+    "rating": 5,
+    "review_text": "ngon nv phục vụ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Tran Dieu (Dieunik)",
+    "rating": 4,
+    "review_text": "1 phần như trên 2 người ăn, ăn no luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Nguyễn Văn Quý",
+    "rating": 5,
+    "review_text": "Chỗ để xe chật. Đồ ăn ngon.\nMỗi tội khi thanh toán momo. Phải nhập số điện thoại. Hơi mất thời gian. Quét mã QR nhanh và tiện hơn rất nhiều. Hy vọng quán sớm khắc phục"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Đen Kho Tiêu",
+    "rating": 3,
+    "review_text": "Ngay mặt đường dễ tìm, chỗ đậu xe khá ít, hơi mắc nhưng ăn khá ngon. Thịt giò ăn rất săn chắc, ngon hơn chỗ khác nhiều. Quán không có nước mắm chua ngọt cho những bạn không ăn được mắm tôm.     Không có khăn giấy khô là một điểm trừ lớn, bán khăn giấy ướt miếng 2k. Rau khá ít nhưng có thể kêu thêm rau thêm (free)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Huong Thuy",
+    "rating": 2,
+    "review_text": "Sợi bún nhỏ,  mềm.  Nước mắm mặn, chua. Ghé 1 lần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Chúp",
+    "rating": 4,
+    "review_text": "Quán khá ngon nhưng giá hơi chát. Có một số món gọi kèm ở quán khác sẽ không tính tiền như rau sống thì ở đây cũng tính tiền luôn. Nhưng vẫn ở mức chấp nhận được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Nguyên Nguyễn",
+    "rating": 1,
+    "review_text": "Nhân viên nam 27/10 thái độ cực kì (mặc đồ full đen quần rách) nhờ ghép bàn lại cũng bị thái độ, đi ăn trả tiền chứ k phải xin"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thư",
+    "rating": 5,
+    "review_text": "Quán thoáng mát, sạch sẽ. Đồ ăn ngon, điểm cộng lớn là chả cốm, đậu và chả ram đều chiên nóng lại rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Dũng Trí",
+    "rating": 5,
+    "review_text": "Không gian rông rãi thoáng nát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Minh Vũ Đức",
+    "rating": 5,
+    "review_text": "Bún đậu mắm tôm ngon  Nếu bạn muốn ăn no thì nên gọi phần đặc biệt 65k. Còn đi 2 người thì combo là 110"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Huỳnh Đắc An (Zeru Atlas)",
+    "rating": 5,
+    "review_text": "hơi nongs nhưng ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phát Lê",
+    "rating": 4,
+    "review_text": "Quán này giá cả hợp lý khá ok , 2 người ăn 100k no nê luôn\nQuán rất sạch sẽ . Món ra hơi lâu nên 4 Star thôi nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phuơng Thảo Vũ Thị",
+    "rating": 5,
+    "review_text": "Chỗ này ăn ngon 8/10. Cho hơi ít rau Giá cả cũng tạm ổn. Nhân viên tận tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Mask Nguyễn",
+    "rating": 4,
+    "review_text": "qúan ăn rất ok. phục vụ rất tốt. và đồ ăn cũng ngon.\nchỉ duy nhất một cái bạn nên chú ý thôi. đó là ko nên đến trễ wá, vì bạn sẽ chẳg còn j để mà gọi món đâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "TUẤN LÊ THANH",
+    "rating": 5,
+    "review_text": "đồ ăn ngon ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Mi Na",
+    "rating": 4,
+    "review_text": "Mình thấy đậu hủ ở đây ngon, giá cũng khá hợp lý, có điều hình như đem lộn món cho mình, mà thôi ngon là được. Chả cốm ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Long Nguyễn Hoàng",
+    "rating": 5,
+    "review_text": "Bún đậu đây ngon nhưng giá hơi mắc tý.\nĐi ăn ở đây 3 lần. Có 1 lần gọi nước từ đầu mà không thấy đưa trong khi các bàn khác gọi sau vẫn có trước."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Trọng Nghĩa Lê Nguyễn",
+    "rating": 4,
+    "review_text": "Thức ăn ổn, phục vụ tốt.\nGiá hơi cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phương Phạm",
+    "rating": 1,
+    "review_text": "Đồ ăn ngon. Nhân viên bảo vệ rất thái độ khó chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Minh Trí Nguyễn",
+    "rating": 2,
+    "review_text": "Nhìn ngon mà ăn dỡ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Huyen Nguyen",
+    "rating": 2,
+    "review_text": "Bún đậu ăn ngon, nhưng nhân viên phục vụ khách hàng tới ngồi chờ không thèm oder, trong khi 3 nhân viên đang ở trong bếp, quán không có khách nào. Mình ăn nhiều lần ở đây rồi, lần nào khách không đông mà nhân viên bạn nào cũng thái độ thờ ờ. Chủ quán nên xem lại nhân viên phục vụ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Quỳnh Như",
+    "rating": 1,
+    "review_text": "Món ăn thì ok đấy nhưng dịch vụ thì xem lại. Hôm nay (13/1) mình có vào quán ăn, lúc đó cũng không đông lắm, 3 dãy bàn thì chỉ có khoảng 4, 5 bàn ngồi thôi. Mình vào cùng lúc với 2 anh chị nữa, anh nhân viên order không để ý đến tụi mình mà …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Lê Gia Huy",
+    "rating": 1,
+    "review_text": "Mình thiết nghĩ quán nên xem lại nhân viên của quán về thái độ phục vụ khách. Mình vào thấy quán khá đông và không còn bàn, nên chủ động nói nhân viên cho mình ngồi đợi để khi có bàn thì vào. Nhưng nhân viên tỏ thái độ không quan tâm và trả …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Minh Trí Nguyễn",
+    "rating": 1,
+    "review_text": "Lầu đầu đến khá ấn tượng vì thoáng và sạch sẽ nhưng khi nhìn menu lại khá chán, mình kêu combo 2 người giá 130k nhưng lại cảm thấy khá ít, chủ quán bảo quán đông nên không pha nước chấm nhưng thực chất chỉ có vài ba người,một điểm trừ nữa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hà Nguyễn",
+    "rating": 1,
+    "review_text": "Đặt trên grabfood mấy lần. Lần nào cũng mua kèm nc mà giao thì lại k. Hỏi tài xế, tài xế nói quán là quán yêu thích nên chỉ cần đặt đơn quán sẽ tự chuẩn bị. Tx chỉ việc đến nhận k biết thiếu. Khôn lỏi có mười mấy ngàn chi vậy? Nếu 1 tx nói thì k tin. Nhưng 3 tx khác nhau giao đều nói như nhau. Khôn lỏi khôn vặt😒 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Thu Vu",
+    "rating": 1,
+    "review_text": "Hôm nay mình đi ăn tại quán Bún đậu Quỳnh đường Tô Vĩnh Diện. Không may làm đứt dây khẩu trang, mình xin quán xem có khẩu trang không cho mình 1 cái. Nó không có, mình nói trời hộp khẩu trang có 20 ngàn mà sao không chuyên nghiệp vậy. Gặp ngay con nhá nhiên quay qua chửi mình liền. Không biết là chủ mà đối xử với khách kỳ vậy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Dung Doan",
+    "rating": 1,
+    "review_text": "Mọi thứ đều tệ. Tệ từ phục vụ cho đến thái độ từ bé phụ vụ đến cô chủ quán.\nĐồ ăn ko xuất sắc lắm nhưng vs giá 60k/ phần thì quá sức ko đáng tiền."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "David",
+    "rating": 5,
+    "review_text": "Ngon và rẻ hơn rất nhiều quán mà mình từng ăn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Phan Anh Yoga",
+    "rating": 5,
+    "review_text": "Yeah! Chỗ này ăn rất ngon. Mình gọi món bún chả đặc biệt, đúng là ngon tuyệt. Ko gian giống Hà Nội."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "nguyên khắc",
+    "rating": 5,
+    "review_text": "Đây là nơi tôi thường xuyên tới, quán ngon theo kiểu của người hà nội, đến đây tôi rất thích món cà pháo cùng vị mắm tôm rất thơm làm cho tôi cảm giác như đang dùng mâm cơm của các gia đình bắc việt, khẩu vị của tôi đấy, bạn thì sao?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Tuyen Dang",
+    "rating": 5,
+    "review_text": "Theo vị của mình thì vị khá ổn, giá tương đối nhỉnh hơn so với mặt bằng chung, 45k cho phần bình thường và 60k cho phần đặc biệt, mình ko chịu trách nhiệm nếu lên giá nhé. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "thái nguyễn nhật",
+    "rating": 4,
+    "review_text": "Hôm trước đi ăn quả thật rất là ngon. Hương vị và cả thái độ nhân viên đều rất tốt, giá cả cũng hợp lí lắm nhé mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Hoài Phong Nguyễn",
+    "rating": 4,
+    "review_text": "Quán được\nNhân viên ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Uyên Cao",
+    "rating": 5,
+    "review_text": "Bún khá ngon đặc biệt là mắm tôm của quán hương vị rất vừa miệng, mình gọi phần đặc biệt hai người nhìn thấy ít mà ăn no căng, thái độ phục vụ của nhân viên nhiệt tình, không để khách đợi lâu, không gian quán thoáng đãng, nhược điểm là quán …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Lồng Đỗ",
+    "rating": 1,
+    "review_text": "Giá cả k hợp lý kém chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "My Dang",
+    "rating": 4,
+    "review_text": "Bún đậu ở đây là quá ngon rồi, mắm tôm đậm đà, vừa khẩu vị nhưng gọi phần ăn cho 1 người thì sẽ khá ít  :3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "congtuan vole",
+    "rating": 1,
+    "review_text": "Đến đây lần đầu đến và mong là không có lần hai. Gọi món combo mà giao thiếu nước uống. Lên mạng tìm số ông chủ hỏi thì đươc anh giọng bắc trả lời với thái độ né tránh trách nhiệm. Đỗ lỗi cho quán đông người nhưng thực tế thì quán vắng hơn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Ngan Duong",
+    "rating": 2,
+    "review_text": "Bún mấy lần đặt về có mùi thiêu, trước gọi nói một lần chủ quán nói sẽ sửa nhưng giờ vẫn đâu vào đấy. Ko nên lấy rau dư rửa lại cho khách ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Trịnh Thị Thanh Giang",
+    "rating": 5,
+    "review_text": "Bún đậu mắn tôm ở đây rất ngon, nhất mắn tôm ăn một lần sẽ ghiền mãi, bạn hãy đến vs quán tiểu muội để thưởng thức đi nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "An Trần",
+    "rating": 5,
+    "review_text": "đồ ăn nóng hổi, ngonnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Yến Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon, một trong những quán bún đậu mắm tôm ưa thích của mình, giá vừa phải hơn những quán khác, mặt bằng khá rộng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "Long Ly Bao",
+    "rating": 4,
+    "review_text": "Thường ăn phần 2 người ăn, giá 110k chưa bao gồm đồ uống, dễ ăn, nếu ai ko thích dầu mỡ thì nên bỏ nem và lòng chiên,quán sẽ bù cho món khác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "VO LIEU HA",
+    "rating": 1,
+    "review_text": "Món an bình thường, cách  phục vụ của quan quá tệ , những ai mua đem về đừng bao giờ vào quán này nhé họ sẽ cho bạn ngồi chờ đến khi nào họ bán hết cho những người vào quán ăn thì sẽ đến lượt bạn, tôi không bao giờ bước chân vào quán này lần thứ 2 🙏🙏🙏 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175279e5049faad:0x997dec939dd79611",
+    "shop_name": "Quỳnh Bún đậu mắm tôm",
+    "user_name": "uyen dang",
+    "rating": 4,
+    "review_text": "Thức ăn ngon, sạch sẽ, nhân viên rất vui vẻ thân thiện và phục vụ nhiệt tình. Gía cả hợp lý. Chỉ có nhược điểm là không gian nóng, không được thoáng do bị ảnh hưởng bởi bếp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Dan Anh",
+    "rating": 5,
+    "review_text": "Ngonnnn, ko bị ngán, có hũ đồ chua ăn dính dữ lắm. Nhưng ai ăn thì làm ơn lấy đũa mới mà gắp, cứ thọt cái đũa mình ăn vô dơ lắm má 🙂 lịch sự đi.\n30k 1 phần …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Sea Daniel",
+    "rating": 5,
+    "review_text": "Gà rất giòn,  ngon,  thêm 1 lớp nước mắm phủ ngoài ăn rất vừa miệng mà không ngán. Quán bình dân, chỉ 25k nhưng sẽ làm hài lòng người ăn khó tính nhất."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "ADBK Bách Khoa",
+    "rating": 5,
+    "review_text": "Có anh chủ quán cao to đẹp trai, vừa ăn cơm gà vừa ngắm trai đẹp cho mấy chị em 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Trang Nguyễn Thị",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Thuong Hoang",
+    "rating": 5,
+    "review_text": "10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "nguyễn văn tuân",
+    "rating": 5,
+    "review_text": "Em xin sdt ship cơm ạ\n0"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Nguyen Tuan Anh",
+    "rating": 5,
+    "review_text": "Gia re phu hop vs ng lao dong. Len gia"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "suakhoadongnai suakhoakhancap",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Lăng Cha Cả",
+    "rating": 4,
+    "review_text": "cơm gà ăn ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Tiến Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon. Rẻ !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Đăng Khoa",
+    "rating": 4,
+    "review_text": "cơm gà ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Em Nguyễn",
+    "rating": 3,
+    "review_text": "Ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Đạt Tất",
+    "rating": 4,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Ngọc Tiến Nguyễn",
+    "rating": 4,
+    "review_text": "ngon, rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Bao Nguyen",
+    "rating": 5,
+    "review_text": "Ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfe6e39265a9:0xfa070ca2a9359639",
+    "shop_name": "Cơm Gà Ty Ty",
+    "user_name": "Dung Vu Anh",
+    "rating": 4,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "ngan nguyen",
+    "rating": 5,
+    "review_text": "Gà tươi ngon, da giòn sần sật. Mì xào lòng cọng nhỏ đúng ý mình nha, xào khô gia vị vừa ăn, ngon, không nhão. Giá cả hợp túi tiền.  Đặt nguyên con giao hàng tận nơi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "hai vo",
+    "rating": 5,
+    "review_text": "Món gà ở quán là ngon hết xảy! Phục vụ nhanh, giá cũng hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Đinh Toàn (Paul Dinh)",
+    "rating": 5,
+    "review_text": "Chuyên về gà nhé các bạn, giá tốt, riêng mình thì món gà ở đây ngon nhất Biên Hoà về Gà nấu cháo và gỏi thoi nhe …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Vương Đào Duy",
+    "rating": 5,
+    "review_text": "Một điểm đến mang hương vị của một thành phố công nghiệp. Đơn giản nhẹ nhàng nhưng không kém phần thú vị. Hãy đến và thưởng thức hương vị tuyệt vời này một lần các bạn nhé. Thanks😀😀😀😀 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Trung Thành Nguyễn",
+    "rating": 3,
+    "review_text": "Bình dân, gà là món đặ  sản của quán. Gà thịt dai, thơm. Quán hơi chật chội xíu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Thịnh Hoàng",
+    "rating": 5,
+    "review_text": "Chuyên về gà, gỏi và gà rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Mẹ Hằng ham chơi",
+    "rating": 3,
+    "review_text": "Gà ở đây không phải gà ta. Kiểu gà dai. Ai thích gà dai thì hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "dung ha",
+    "rating": 1,
+    "review_text": "Điện thoại lần đầu đặt hàng ok, 5p qua kêu hết hàng.\nLần 2 đã dt đat truoc lên cũng y zay.. thua."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Mai Nguyễn",
+    "rating": 5,
+    "review_text": "Gà ngon. Giá cả phải chăng. Mà cháo hơi ngọt  chắc mình khẩu vị miền trung nên hơi khó."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Van Ngo",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon. Phục vụ hơi chậm xíu. Món gà xé rau càng cua là ngon nhất."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Duy thiện Vũ",
+    "rating": 2,
+    "review_text": "Quán cũ nên ngồi hơi nóng. Đồ ăn cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Đạt Phạm",
+    "rating": 4,
+    "review_text": "Chuyên về món gà, có món miến khá ngon. Giá cả phải chăng!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Nghĩa Nguyễn Văn",
+    "rating": 4,
+    "review_text": "Gà ngon, giá cả hợp lý, quán hơi nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Thái Trần",
+    "rating": 5,
+    "review_text": "Nằm trên đường 4 ở biên hòa . Quán bán gà ăn rất ngon , rẻ ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Credit Huỳnh",
+    "rating": 4,
+    "review_text": "Hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Hung Vi Nguyen",
+    "rating": 3,
+    "review_text": "Đồ ăn ngon nhưng thái độ phục vụ chưa tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Hui-Fang Wu",
+    "rating": 4,
+    "review_text": "Gà ta còn ngon, có gỏi và cháo ăn kèm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Tai Hoang",
+    "rating": 4,
+    "review_text": "Gà ngon bà chủ phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Alex Nguyễn",
+    "rating": 4,
+    "review_text": "Gà ngon, quán hơi nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Manh Le",
+    "rating": 2,
+    "review_text": "Quán bình dân, không phải gà thả vườn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Mai Tân Thanh",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ không gian thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Nhan T. Cao",
+    "rating": 1,
+    "review_text": "Buôn bán không rõ ràng. Nói giá này bán giá khác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Trong Tan",
+    "rating": 3,
+    "review_text": "Không còn ngon như những ngày đầu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Hung Macdv",
+    "rating": 3,
+    "review_text": "Giá bình dân, gà, cháo, gỏi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Nhất Chi mai",
+    "rating": 1,
+    "review_text": "Buôn bán mà nói chuyện chả ra gì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Thanh Nguyễn",
+    "rating": 5,
+    "review_text": "Ok. Ngon họp túi tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Anh Tho Bui",
+    "rating": 5,
+    "review_text": "Ngon ngon nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Tha Kim",
+    "rating": 3,
+    "review_text": "Binh dan ma đô an rat ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Vinh Tran Vu",
+    "rating": 4,
+    "review_text": "Ngon giá rẻ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Mv Hoà",
+    "rating": 1,
+    "review_text": "Ko ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "DANG DUNG",
+    "rating": 4,
+    "review_text": "Món ăn rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Triet Ho",
+    "rating": 1,
+    "review_text": "Quá đơn điệu và đồ chấm quá dở."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "hong phong",
+    "rating": 5,
+    "review_text": "Ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Phạm Viết Thắng",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Hưng Vũ",
+    "rating": 3,
+    "review_text": "Ga ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Hai Hoang",
+    "rating": 5,
+    "review_text": "Cafe ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Ryan Tran",
+    "rating": 4,
+    "review_text": "Gà ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Huỳnh Trân Thái Dương",
+    "rating": 5,
+    "review_text": "Gà ta chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Văn Định Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Nhung Nguyen",
+    "rating": 5,
+    "review_text": "Ga ngon lam"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Nhóc Huy",
+    "rating": 4,
+    "review_text": "Gà ta ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Nguyen Yen",
+    "rating": 5,
+    "review_text": "Rất hài lòng\n."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Hai Tran",
+    "rating": 1,
+    "review_text": "Mới đến lần đầu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Record Tâm's",
+    "rating": 5,
+    "review_text": "nhà cô tui"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Phan minh trung",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Crit ronedo Bach",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Trung Phạm",
+    "rating": 5,
+    "review_text": "Món gà ngon nhất tôi từng ăn. Nhân viên phục vụ rất tuyệt. Nhất định phải đến thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Bùi Hiếu Thảo",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Patrick A",
+    "rating": 5,
+    "review_text": "Gà ngon tuyệt. Giá cả phải chăng cho một con gà hoàn hảo. Làm cho bụng tôi kêu \"bụp\" vui vẻ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Binh Phan",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Trường Giang.",
+    "rating": 3,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "TỔNG QUỐC (ALU BIÊN HÒA)",
+    "rating": 1,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2f57b0475f:0x114b7dccc408edc2",
+    "shop_name": "Gà Trường Sơn",
+    "user_name": "Thai Nguyen",
+    "rating": 3,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Bảo Hoàng Gia",
+    "rating": 1,
+    "review_text": "tokbokki quá tệ , mình ăn nhiều lần rồi nhưng lần này quá tệ , nước dùng thì lỏng , nhạt nhẽo như nước lọc , còn bánh gạo nhão nhoẹt , bở không ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Đẹp Iam",
+    "rating": 1,
+    "review_text": "11:30 nhân viên vân anh làm việc thái độ, thiếu chuyên nghiệp, vệ sinh trên lầu thì dơ, lúc tính tiền xong thì nhân viên không chủ động tích điểm cho khách hàng mà để nhắc đã thế còn thể hiện là lỗi của khách do không nhắc sớm. Đơn 1xx thì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Hoài Ng thanh",
+    "rating": 1,
+    "review_text": "bình thường mình rất ít khi trải nghiệm gs25 nhưng hôm nay vì tình cờ tiện đường nên có ghé vào chi nhánh này và rất thất vọng về thái độ phục vụ của nhân viên, từ khi bước vô nhân viên không thèm nhìn khách mà lúc nào cũng chỉ chăm chăm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Cẩm Tú Trương",
+    "rating": 1,
+    "review_text": "Nết bà nội nhân viên thái độ, mua cái thẻ zing mà chọi tờ thẻ vô khách coi được không? mua bằng tiền thật của mình chứ có phải tiền giấy tiền mã tiền rách đâu mà thái độ cái kiểu đó, in còn sai thẻ nữa làm lỗ tiền người ta, ăn nói thì không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Linh Nguyễn Khánh",
+    "rating": 1,
+    "review_text": "Con nhân viên thái độ chị của mình và nấu ăn chưa chín tokpokki cứng nấu trong lò vi sóng chưa đến 10 giây đi chơi kiểu này mà bị người ta đi về không ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "tiểu thư ngốc bạch ngọt",
+    "rating": 1,
+    "review_text": "mình đi mua chè bắp, lúc tính tiền nv có hỏi mình dùng ở đây hay mang đi mình bảo là ở đây, v mà cũng không nói là hết có muỗng luôn, tính để mình bóc ăn hay sao ? tính tiền xong mình xin muỗng mới bảo là hết rồi, mình đơ cái mặt ra luôn :)) hên là mình hỏi muỗng sữa chua hoặc muỗng kem mới cứu vớt được hộp chè của mình 😠😠 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Dong Pham",
+    "rating": 1,
+    "review_text": "Nhân viên thì đùa giỡn tài xế tới lấy đơn thì không có hàng giao chủ quán đi bar chơi không có hàng giao mà bắt chờ đợi. Toàn nhờ tài xế gọi điện thoại để huỷ đơn với đổi đơn khách không lên trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "The Trung Dang",
+    "rating": 4,
+    "review_text": "Sạch sẽ thoáng mát hợp vệ sinh,  có khu vực ăn uống với nhiều tiện ít đi kèm,  rất tiện lợi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Giang Giang",
+    "rating": 5,
+    "review_text": "Bé nhân viên trực ca có 1 mình thôi, xử lý công việc và hỗ trợ khách hàng rất tốt, cửa hàng thật may mắn vì có những nhân viên ưu tú như vậy ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "jully",
+    "rating": 5,
+    "review_text": "bạn nv nữ hay búi tóc rất dễ thương luôn, thân thiện và rất nhiệt tình hỗ trợ khách luôn á"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Trọng Minh",
+    "rating": 5,
+    "review_text": "Chị liễu dễ thương đẹp gái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "An Huynh",
+    "rating": 1,
+    "review_text": "Trải nhiệm tôi và bạn tôi không được vui vẻ vì nv thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Bánh mì",
+    "rating": 5,
+    "review_text": "Giá ok, nhiều món, có chỗ ngồi, sạch sẽ\nNhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Hoang Khoi Nguyen",
+    "rating": 1,
+    "review_text": "mua ly trà chanh size lớn thì rót đc 2/3 ly,nhân viên thì lúng túng chả đc cái gì,tới lúc bỏ ly vào bịch thì cho cái bịch nhỏ xíu ko đựng vừa tới lúc về tới nhà thì rớt luôn.Thế là mất luôn ly trà chanh còn mang theo cục tức"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Thúy Kiều",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ nhiệt tình, nhất là bạn nv nữ cột tóc đuôi gà hay làm ca 7h tối"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "11 - Ngô Gia Hân",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, mình đánh giá cho shop 5 ⭐️, nhân viên Văn Minh 5 ⭐️💯💯💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Nhân Nguyễn",
+    "rating": 1,
+    "review_text": "Mình đến thì thấy hết chỗ để xe cái mình hỏi bác bảo vệ là xe con để ở đâu giờ bác , bác kêu để ở dưới mà mình không biết là ở dưới là ở đâu cái mình hỏi bác là ở dưới khúc nào bác cái bác nói là không biết ở dưới vậy đi bộ đi đừng đi xe ???"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Lê Nguyễn Hà My",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, hòa đồng, cửa hàng sạch sẽ, mát mẻ, quá là okela rất hài lòng ưng bụng hihi :)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Bích Hạ",
+    "rating": 5,
+    "review_text": "dịch vụ tốt, thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Huy Huy",
+    "rating": 5,
+    "review_text": "Mình thấy nhân viên ở đây nhiệt tình lắm nè, mọi feedback đều được giải quyết triệt để rồi nè mọi người ở gần ghé ở đây nhen ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "An Thiên",
+    "rating": 5,
+    "review_text": "Mình mua đồ ở đây nhiều rùi, đối với mình thì cả chất lượng và phục vụ đều tốt. Mình thấy chú bảo vệ rất dễ thương, mặc dù chú ko dùng những lời hay nhưng thật sự chú ko có ý gì xấu đâu mọi người. Cho shop 5 sao 🤩🤩🤩 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Dang Nhut Duy 17010027",
+    "rating": 1,
+    "review_text": "Nhân viên làm việc thiếu tránh nhiệm, thái độ không tốt với khách hàng. Mua hàng trả tiền mà làm như xin đồ từ thiện vậy, đã vậy còn tính tiền đồ của mình mua xong mà không bỏ bịch cho mình đem về nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "hoang phu",
+    "rating": 1,
+    "review_text": "Khách đang ngồi mà nhân viên tới tắt đèn cái bụp. Ý là có miệng s k ra nhắc mà làm hạnh động kiểu khinh thường khách như vậy. Lần cuối cùng mình ghé cửa hàng ở chỗ này!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "낫후이",
+    "rating": 5,
+    "review_text": "CH ai ai cũng thân thiện đặc biệt là bạn NH giấu tiên, sẽ quay lại cửa hàng nhiều lần💓💓 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "『Ҩß』 김연화_VI",
+    "rating": 5,
+    "review_text": "Cửa hàng sạch sẽ, thoáng mát. Nhân viên thì nhiệt tình, vui vẻ, hòa đồng. 💗💗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Nguyễn Thái",
+    "rating": 1,
+    "review_text": "Bảo vệ phân biệt khách hàng. Xe ô tô mình ghé vào mua hàng trước mà khi có xe ô tô khác đến sau thì lại đuổi mình đi cho xe đến sau đậu?  Con mình thường ghé vào đây mua đồ ăn chiều lúc 17h để đi học thêm (tuần ghé mua ít nhất 3 lần). Từ nay ko bao giờ ghé GS25 ở bất cứ nơi đâu để mua đồ bữa!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Oanh Kiều",
+    "rating": 5,
+    "review_text": "Đồ ăn đa dạng, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "thaohien Doanle",
+    "rating": 1,
+    "review_text": "Kêu nhân viên tính tiền thì bắt đợi. Thà khách đông thì k nói. Đây có mỗi 1 mình cũng bắt đợi. Nhân viên trong ca không phối hợp với nhau làm việc à ? Khách đợi tính tiền mà nhân viên đi rửa mâm. Đi luộc toppoki. Thiếu chuyên nghiệp, tính …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Tấn Tính",
+    "rating": 5,
+    "review_text": "Cửa hàng nhân viênn tốt, nhiệt tình, thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Như Thanh",
+    "rating": 1,
+    "review_text": "Bảo vệ nói những lời miệt thị với khách bảo vô đây ngồi là ko có tương lai ko học hành gì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Nhu Nguyen",
+    "rating": 5,
+    "review_text": "bạn nhân viên Cẩm Tiên hỗ trợ mình khá nhiệt tình, nhất định mình sẽ ghé lại 💗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Vương Thị Ngọc Thu",
+    "rating": 5,
+    "review_text": "Trải nghiệp tốt, nhân viên quá đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Thảo Thu",
+    "rating": 5,
+    "review_text": "Nhân viên gọi khách qua tính tiền như NẠT vào mặt khách. Có bạn nhân viên nữ \"thân thiện\" NẠT vô mặt khách là thấy khó chịu rồi. Bỏ tiền ra mua đồ rồi còn bị chị nhân viên ấy thái độ nữa chứ. Trải nghiệm âm điểm, thái độ vậy là đuổi khách …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "ms .A",
+    "rating": 5,
+    "review_text": "Cửa hàng ở đây mọi người dễ thương xĩuuuuu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Quy Nguyễn",
+    "rating": 5,
+    "review_text": "Cửa hàng sạch sẽ, nhân viên nhiệt tình thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Kiệt Gia",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương phục vụ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Nhi Y",
+    "rating": 5,
+    "review_text": "trải nghiệm tốt,nv nhiệt tình, cửa hàng sạch sẽ,ưng lắmm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Dieubon Charnelson",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Trọng Phúc 0738_Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, cửa hàng sạch sẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Huỳnh văn Trưởng",
+    "rating": 1,
+    "review_text": "Bảo vệ đẩy xe vào mà ko chú í làm trầy hết dàn áo vừa thay xong ra bảo là ko biết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Tea Mee",
+    "rating": 3,
+    "review_text": "Cửa hàng tiện lợi nhiều chi nhánh mà không có nổi 500k tiền lẻ để thối cho khách hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "789 Happyhappy",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện chu đáo tận tình chăm sóc khách hàng luôn tươi cười nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Tuyết Hân",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương và nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Trân Hoàng Bảo",
+    "rating": 1,
+    "review_text": "nhân viên thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Pha PC",
+    "rating": 4,
+    "review_text": "mong gs mở nhà vệ sinh đêm tối ngồi có nhu cầu mà hong đi được :(("
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "33 Cẩm Tú",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện lắm mn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Trinh Louis Phương",
+    "rating": 5,
+    "review_text": "Nhân viên siu dễ thưnnnnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Trung Đặng",
+    "rating": 5,
+    "review_text": "Dịch vụ vs nhân viên Linh phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Le Kim Hoang",
+    "rating": 1,
+    "review_text": "Bảo vệ có thái độ cực kì tệ với khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Vante Kv",
+    "rating": 1,
+    "review_text": "Nhân viên tỏ thái độ,làm lơ khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Charlie Wind",
+    "rating": 5,
+    "review_text": "Quá trời quá đất, nhiều ctkm lắm đó =))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Khiêm Vi",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình🥰🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Tiến Trương Minh",
+    "rating": 4,
+    "review_text": "Có ghé mua đồ cần thiết khi đi ngang qua đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Tiên Nguyễn Thị Ngọc",
+    "rating": 5,
+    "review_text": "Mọi người nhiệt tình thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "thuỳ linh cao vũ",
+    "rating": 1,
+    "review_text": "nhân viên thái tộ với khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Duc Viet",
+    "rating": 5,
+    "review_text": "NV vui vẻ,thân thiện, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "010_Nguyễn Quốc Chánh",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "somie dươngg",
+    "rating": 5,
+    "review_text": "Hai anh nhân viên ca đêm siêu vuiii tính luôn íiii =)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Kiệt Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên hòa đồng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Văn Bảy Nguyễn",
+    "rating": 1,
+    "review_text": "Không có đủ 2 thùng cọp bạt. trứng Không có để giao khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Văn Thị Thảo Ngân 4-9-2003",
+    "rating": 5,
+    "review_text": "GS25 quá tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "0008_Trương Nguyên An",
+    "rating": 5,
+    "review_text": "Sẽ quay lại lần tới 🫰🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Thanh Như Tô",
+    "rating": 1,
+    "review_text": "Bảo vệ không tôn trọng khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Phạm Vũ Thiên An",
+    "rating": 1,
+    "review_text": "nvien rất thái độ với khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Loc Phan",
+    "rating": 5,
+    "review_text": "❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Lê Vi Khương 2501_",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "3540_ Nguyễn Hồng Nhung",
+    "rating": 5,
+    "review_text": "Cũng cũng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Phạm Thái Thành",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Lieu Huỳnh thị bich",
+    "rating": 3,
+    "review_text": "Nhân viên gặp khách không chào !!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Binn Gaming",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Yến Bùi",
+    "rating": 5,
+    "review_text": "❤️❤️❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Hoài Phong Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Ch thật tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Nhật Hiếu Lê",
+    "rating": 5,
+    "review_text": "Hihii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Hằng Nguyễn",
+    "rating": 5,
+    "review_text": "2 b nam ca tối dễ huông lắm lun á , thân thiện quá tr"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Trần Huỳnh Quốc Đại",
+    "rating": 1,
+    "review_text": "Chiều nay 18h hơn, bạn mình có mua dùm mình tok truyền thống nhưng mà khi mik ăn thì mik chưa thấy tok của chi nhánh gs25 nào mà dở như này. Nước dùng múc nhiều đến nửa ly nhưng lại quá dở và còn bị hậu chua như muốn hư vậy. Mik đã bỏ hết …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Anh Hoàng",
+    "rating": 5,
+    "review_text": "10₫"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Anh Hoàng",
+    "rating": 5,
+    "review_text": "Bạn nhân viên Xuân Liễu dễ thương ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Tuyết Ngọc",
+    "rating": 5,
+    "review_text": "Chj liễu nhân viên nhiệt tình dễ thw đáng yêu 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Vũ Catlor",
+    "rating": 1,
+    "review_text": "Trải nghiệm tệ về đồ ăn (Hâm chưa chín) . Lẫn dịch  vụ. Cần nước nóng để nấu mì thì nhân viên báo hết. Từ trên lầu lẫn dưới quầy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Hoàng Anh Tạ",
+    "rating": 5,
+    "review_text": "NV nhiệt tình, dễ thương, tư vấn rõ chương trình sale hàng tháng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Hoàng Anh Tạ",
+    "rating": 5,
+    "review_text": "Cửa hàng sạch sẽ, nhân viên tên Liễu tư vấn nhiệt tình, pusl sale các sản phẩm khuyến mãi trong tháng.  Có đầy đủ các sản phẩm trưng bày. Sẽ quay lại ủng hộ tiếp tục"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Tường Vi Hồ",
+    "rating": 5,
+    "review_text": "Cửa hàng đầy đủ món.Bạn nv tên Liễu dễ thương và rất nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Ha Ha",
+    "rating": 5,
+    "review_text": "Mình đã nhiều lần trải nghiệm tại gs25 này, nhân viên tên Liễu tư vấn khách nhiệt tình, nhanh nhẹn dễ thương với khách rất ấn tượng. Sẽ quay lại ủng hộ 💯💯💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Ban Truyền Thông Hội Sinh Viên Tỉnh Đồng Nai",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Yumi Lang",
+    "rating": 1,
+    "review_text": "Giá tiền 1 đằng, tính tiền 1 nẻo , đến khi mình hỏi nhân viên thì được trả lời như nhân viên đã biết trước mà vẫn không sửa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Gia Hân",
+    "rating": 1,
+    "review_text": "Nhân viên nam đứng quầy 22h16p thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Mỹ Hà Nguyễn",
+    "rating": 1,
+    "review_text": "làm ơn đi má, gs25 chỗ nào cũng 2 nv đứng ca còn đây 1 nv, làm lâu như quỷ còn chạy chỗ này chỗ khác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "tuyen le",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, cửa hàng đa dạng hàng hoá. Có cơ hội sẽ ghé lại nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Nhất Huy Nguyễn",
+    "rating": 5,
+    "review_text": "Cửa hàng sạch sẽ, nhân viên thân thiện tư vấn nhiệt tình. Chăm sóc khách hàng tốt, sẽ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Phương Mai",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương phục vụ ok lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Ngân Thùy",
+    "rating": 5,
+    "review_text": "Ở đây nhân viên vui vẻ, nhiệt tình, thanh toán nhanh gọn 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Phan Thị Xuân Liễu",
+    "rating": 5,
+    "review_text": "Cửa hàng vệ sinh tốt, nhân viên thân thiện, hàng hoá đầy đủ. Nhân viên có giới thiệu các ctr khuyến mãi trong tháng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Minh Đức Phạm",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "O D",
+    "rating": 1,
+    "review_text": "Nhân viên lười biếng. Quản lý thô lỗ và thiếu đạo đức."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df0257a7821b:0x11a0b0cb101dc2fa",
+    "shop_name": "GS25 Võ Thị Sáu",
+    "user_name": "Aaron",
+    "rating": 5,
+    "review_text": "Mọi thứ bạn cần và hơn thế nữa, mở cửa 24/24."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Công Tử Hứa",
+    "rating": 5,
+    "review_text": "Có nhiều món dùng okey giá lại mềm hơn trê \"Sàn\""
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Trương Trọng Nghĩa",
+    "rating": 5,
+    "review_text": "Nhiều thiết bị, đồ dùng để lựa chọn, giá cả phải chăn, lấy đơn nhanh khi mua tại chổ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "nguyen the hai",
+    "rating": 5,
+    "review_text": "Giá siêu tốt. Dịch vụ ngon lành"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Linh Phan Trúc",
+    "rating": 1,
+    "review_text": "Shop chỉ biết ăn tiền của khách, rất thiếu trách nhiệm, bắt chuyển khoản trước, khi bị bưu điện lạc đơn hàng, khách không nhận được hàng vừa mất tiền.\nLần thứ hai, không có hàng cũng không trả tiền, ghim hàng mấy ngày, khách không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Thức Huy",
+    "rating": 4,
+    "review_text": "Sản phẩm đa dạng, chất lượng hàng thì tuỳ thuộc vào giá tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Văn Phú Phong",
+    "rating": 1,
+    "review_text": "HỎI NHÂN VIÊN LÊN ĐƠN ĐÃ RỒI, LẤY HÀNG RỒI, NAY LẠI NÓI HÀNG THẤT LẠC, MẤT UY TÍN"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Hòa Nguyễn",
+    "rating": 4,
+    "review_text": "Nhiều đồ lựa chọn phù hợp với giá cả, nhưng nhiều mặt hàng hộp đựng bị móp méo ko thiện cảm cho người mua hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Kha Minh",
+    "rating": 5,
+    "review_text": "Bán hàng rẻ, chủ shop nhiệt tình, shop có nhiều hàng lắm các bạn ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Đức Huy Nguyễn",
+    "rating": 5,
+    "review_text": "Cái gì cũng có, như shopee thu nhỏ, giá cả ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Lê Nguyễn Hoàng Sa",
+    "rating": 5,
+    "review_text": "Mua lẻ với giá sỉ,chất lượng hàng ổn,dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Ngọc Nguyễn ,",
+    "rating": 5,
+    "review_text": "Mua lẻ với giá sỉ giá tốt nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Hồng Đào Lê Thị",
+    "rating": 5,
+    "review_text": "Tốt giá rẻ Mn nên mua nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Lộc Nguyễn Hữu",
+    "rating": 5,
+    "review_text": "sản phẩm đa dạng và tuỳ thuộc vào giá tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Thọ Tiển Lê",
+    "rating": 4,
+    "review_text": "Bán đồ giá rẻ nhưng địa chỉ hơi khó tìm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Thiện Nguyễn",
+    "rating": 5,
+    "review_text": "Đa dạng mặt hàng , giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "NGUYỄN QUANG ÁNH",
+    "rating": 5,
+    "review_text": "Giá cả tốt nhất trong các shop online."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Real Marid",
+    "rating": 4,
+    "review_text": "Sản phẩm xài khá ổn với túi tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Omicron Hoàng",
+    "rating": 3,
+    "review_text": "Giá rẻ,nhưng đa số hàng dỏm!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Lê Thanh Xuân",
+    "rating": 5,
+    "review_text": "Hàng ổn,giá sỉ,chính sách đổi trả nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Studio Dung bro",
+    "rating": 5,
+    "review_text": "Giá cả phải chăng nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Yun Yun",
+    "rating": 5,
+    "review_text": "Tốt hàng giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "yo san",
+    "rating": 1,
+    "review_text": "Chất lượng giải quyết khiếu nại kém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Minh Đức Phùng",
+    "rating": 3,
+    "review_text": "Giá rẻ phụ kiện đồ tiện dụng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Nguyễn Đức Dũng (vodanhbmt)",
+    "rating": 5,
+    "review_text": "Rất hài lòng, đã mua rất nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Hoang Vu",
+    "rating": 5,
+    "review_text": "Giá tốt, rất nhiều hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Trinh Daohuu",
+    "rating": 5,
+    "review_text": "Được, dịch vụ tốt, ủng hộ shop."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "15 Hồng phạm",
+    "rating": 5,
+    "review_text": "Tốt giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Thanh Lê",
+    "rating": 5,
+    "review_text": "Tot gia re phu hop gia tien"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Chiếc Bụng Đói",
+    "rating": 5,
+    "review_text": "Rất Ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Long Hồ",
+    "rating": 5,
+    "review_text": "Đồ nhiều rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "ISUZU Tấn Phát",
+    "rating": 5,
+    "review_text": "Rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Cao Minh (Max)",
+    "rating": 5,
+    "review_text": "Đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Duy Khuong Nguyen",
+    "rating": 5,
+    "review_text": "Giá tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Tuan Huy Pham Duong",
+    "rating": 4,
+    "review_text": "ok hàng tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Son Le",
+    "rating": 5,
+    "review_text": "Tot gia re"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Minh Vu",
+    "rating": 4,
+    "review_text": "Đc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df4e672eed11:0x87ab8aff1c204d2d",
+    "shop_name": "Giá Sỉ Biên Hòa",
+    "user_name": "Dao Trần Minh",
+    "rating": 4,
+    "review_text": "ĐƯỢC RỒI"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de433ad55707:0xa7d96f96ab578f0e",
+    "shop_name": "Khu Công Nghiệp Biên Hòa 2",
+    "user_name": "Hồ Sỹ Hùng",
+    "rating": 4,
+    "review_text": "Khu công nghiệp Biên Hòa 2 chính thức được thành lập vào năm 1995. Đây là một trong những khu công nghiệp đầu tiên tại tỉnh Đồng Nai, được quy hoạch để phát triển các ngành công nghiệp chế biến, chế tạo và thu hút đầu tư nước ngoài, đặc biệt là từ các quốc gia như Nhật Bản, Hàn Quốc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de433ad55707:0xa7d96f96ab578f0e",
+    "shop_name": "Khu Công Nghiệp Biên Hòa 2",
+    "user_name": "Ngọc Thám Phan",
+    "rating": 4,
+    "review_text": "Gia hạn Visa USA Khu vực Biên Hòa thì nộp đây 😄😄😄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de433ad55707:0xa7d96f96ab578f0e",
+    "shop_name": "Khu Công Nghiệp Biên Hòa 2",
+    "user_name": "Quang sumo Trần",
+    "rating": 5,
+    "review_text": "nơi này có rất nhiều kỉ niệm , và giúp cho mọi người có đưọc công việc , nhất là mình thời còn sinh viên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de433ad55707:0xa7d96f96ab578f0e",
+    "shop_name": "Khu Công Nghiệp Biên Hòa 2",
+    "user_name": "Thuy Hang NTH",
+    "rating": 4,
+    "review_text": "Vị trí và diện tích Biên Hòa 2\n\nĐịa điểm: Phường Long Bình Tân, TP. Biên Hoà, tỉnh Đồng Nai …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de433ad55707:0xa7d96f96ab578f0e",
+    "shop_name": "Khu Công Nghiệp Biên Hòa 2",
+    "user_name": "Nguyễn Trung",
+    "rating": 5,
+    "review_text": "Khu công nghiệp có rất nhiều công ty lớn. Mang lại rất nhiều việc làm cho người dân Đồng Nai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de433ad55707:0xa7d96f96ab578f0e",
+    "shop_name": "Khu Công Nghiệp Biên Hòa 2",
+    "user_name": "DC",
+    "rating": 3,
+    "review_text": "✅ KCN Biên Hòa 2 là một trong những khu công nghiệp hình thành sớm nhất trong thời kỳ mở cửa thu hút đầu tư của tỉnh Đồng Nai. Có vị trí địa lý chiến lược, cận kề cửa ngõ đầu mối giao thông khu vực tứ giác kinh tế (Đồng Nai – Bình Dương – …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de433ad55707:0xa7d96f96ab578f0e",
+    "shop_name": "Khu Công Nghiệp Biên Hòa 2",
+    "user_name": "Toan Nguyen",
+    "rating": 5,
+    "review_text": "Rất tốt. Và giúp cho mình di chuyển dễ dàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de433ad55707:0xa7d96f96ab578f0e",
+    "shop_name": "Khu Công Nghiệp Biên Hòa 2",
+    "user_name": "Trần Thị Minh",
+    "rating": 4,
+    "review_text": "Hương vị riêng không bị pha tạp như vài nơi khác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de433ad55707:0xa7d96f96ab578f0e",
+    "shop_name": "Khu Công Nghiệp Biên Hòa 2",
+    "user_name": "Thành Lê",
+    "rating": 5,
+    "review_text": "Là 1 trong những khu công nghiệp  xanh sạch đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de433ad55707:0xa7d96f96ab578f0e",
+    "shop_name": "Khu Công Nghiệp Biên Hòa 2",
+    "user_name": "Nhan Ho",
+    "rating": 3,
+    "review_text": "Đường khá sạch đẹp, nhưng ít có chỗ cho các bác tài dừng chân nghĩ ngơi"
+  }
+]

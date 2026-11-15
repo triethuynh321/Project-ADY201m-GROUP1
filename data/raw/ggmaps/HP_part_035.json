@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "hieu tran",
+    "rating": 5,
+    "review_text": "đồ ăn ngon , nhân viên vui vẻ , nhiệt tình. nhất là bạn nhật nam"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Ngân Nguyễn",
+    "rating": 4,
+    "review_text": "Bánh không quá ngon nhưng đáng thử vì giá không đắt. Lại có khuyến mãi mua 1 tặng 1 vào thứ 3 hàng tuần. Có bánh kết hợp 2 vị, thực khách có thể thử được nhiều vị mà không cần phải ăn quá nhiều bánh. Không gian thoải mái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thi Hoa Tran",
+    "rating": 4,
+    "review_text": "Pizza ngon\nĐế dày ngon hơn đế mỏng.\nĐi chủ nhật mua 1 tặng 1.\nGiá cả phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Phuong Kim Nguyen",
+    "rating": 2,
+    "review_text": "Bánh mặn , khét quá lửa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thái Ngọc Nguyễn Hoàng",
+    "rating": 5,
+    "review_text": "Thức ăn được đặt hàng rất nhanh, nhân viên tư vấn qua tổng đài thân thiện, chỉ dẫn tận tình. Pizza rất ngon, vẫn còn nóng khi giao hàng, có nhiều chương trình khuyến mãi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Yen Yến",
+    "rating": 5,
+    "review_text": "Đồ án hợp vị không gian sạch sẽ phục vụ vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "24_0059 Trương Huỳnh Khánh Ngọc",
+    "rating": 1,
+    "review_text": "Đồ ăn ổn, nhân viên cũng ok nhưng giữ xe quá tệ. Mình gửi xe bên ngoài có chiếc vali, tưởng trời mưa thì như những chi nhánh khác sẽ che xe khách lại, nhưng k có. Vali về ướt đồ bên trong hết🥲 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "HUONG GIANG DO",
+    "rating": 5,
+    "review_text": "Thứ 7 mua 1 tặng 1 từ size M (169k)\nPizza ngon, không gian thoáng,sạch sẽ. Sẽ quay lại ^^"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Anh Tú Châu",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá hợp lý, nhân viên phục vụ nhiệt tình, thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Duy Hảo",
+    "rating": 5,
+    "review_text": "Không gian quán thoáng view đẹp, nhân viên nhiệt tình. Rất hài lòng và sẽ quay lại vào lần sau!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Bình Minh Lý Lâm",
+    "rating": 1,
+    "review_text": "Bảo vệ khách hỏi chỗ để xe không trả lời, khách tự dẫn xe thì phía sau sấn tới đẩy người mình rõ đau. Không hiểu sao bỏ tiền ra đi ăn để phải nhận những điều này? Không bao giờ khuyến khích mn ghé ạ. Trải nghiệm cực tệ. Bảo vệ bận nói chuỵen với đồng nghiệp chứ mở miệng với khách thì khó."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "16-Nam Vũ",
+    "rating": 5,
+    "review_text": "quán ăn rất ngon, mình rất thích bạn nhân viên ở đây, và sẽ còn ăn nhiều nữa . rất yêu domino nguyễn tri phương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Hoang Do",
+    "rating": 4,
+    "review_text": "Thức ăn, chỗ ngồi , nhân viên nói chung ổn. Đang dich Covid đợt 3 nên quán khá vắng, thấy chủ yếu là giao hàng. Chỉ cho 4 sao vì vấn đề thanh toán: Cà thẻ tín dụng. Thanh toán Zalopay thì bị lỗi. Nếu không áp dụng những loại hình thanh toán này thì dẹp cho rồi, trưng bày, cà tới,  cà lui mất thời gian."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Lịnh Chau",
+    "rating": 5,
+    "review_text": "Không gian quán ấm cúng, decor đẹp và sạch sẽ. Trải nghiệm ẩm thực trên cả tuyệt vời, tôi sẽ quay lại thường xuyên.\nThực đơn đa dạng, món nào cũng chất lượng. Đặc biệt ấn tượng với tốc độ phục vụ nhanh và đồ ăn nóng hổi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Diễm Khánh Hoàng",
+    "rating": 5,
+    "review_text": "Không gian rộng rãi , mát , nv nhiệt tình dthuong 💓💓 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Jkery",
+    "rating": 5,
+    "review_text": "Đi ăn xong mọi thứ cũng không có gì cũng chẳng định đánh giá nhưng mà khi bước ra bạn nhân viên giao hàng mình thấy cậu ta cũng khá gấp đấy nhưng mà vẫn lịch sự nhường cho mình lấy xe ra trước . Nói ra thì thấy không có gì nhưng mà nghe câu “dạ a lấy xe trước đi” nói thật chứ ấm lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Huỳnh Thiệu Anh Thư",
+    "rating": 5,
+    "review_text": "Đang có km đặt hàng pizza lớn tính tiền giá pizza vừa. 1 pizza 1 chai nước hết 169k mà 2 đứa ăn è ạch mớihết. Bánh ngon lắm. Chịu khó đặt hàng online rồi lại ăn hoặc lại ăn rồi dc mấy bạn phụ vụ hướng dẫn rất tận tình. Like like like!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Sora Satou",
+    "rating": 5,
+    "review_text": "Quán sạch, đẹp, sáng, sang 1000000 đỉm. Đồ án ok. Đặc biệt là nhân viên siêu dễ thương và niềm nở nha 😍🌹 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Khanh Phương",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, quán có gọi check lại đơn trước khi giao. Pizza nhà mình hay order nhất. Đặc biệt bánh socola lava siêu ngon. Nên thử hết các món tại quán nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Phat Tran",
+    "rating": 5,
+    "review_text": "Phục vụ tốt nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Phúc Huỳnh Gia",
+    "rating": 1,
+    "review_text": "Theo các bạn thấy mik đặt từ 11:54\nBạn nhân viên có nói mik đợi 40p\nMà chờ mãi tới 1:30 mới giáo xog còn ko hiện đã giao đơn để mik vào đánh gía 1 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Nguyễn Hà An",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ nhanhhh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Bằng Thái",
+    "rating": 3,
+    "review_text": "Bánh mini mỏng quá nhân thì ít, thời gian đợi lâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Xuân Sang Phạm",
+    "rating": 1,
+    "review_text": "Bác bảo vệ kiếm chuyện với khách , chửi khách , nhân viên dễ thương , bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "My Tuyết",
+    "rating": 5,
+    "review_text": "Nhân viên rất nhiệt tình và thân thiện. Tư vấn món ăn chu đáo, phục vụ nhanh nhẹn, lịch sự với khách. Mình cảm thấy hài lòng về cách các bạn hỗ trợ và chăm sóc khách hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Anh Thư Châu",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình dễ thương, bánh ngon hợp khẩu vị, quán sạch sẽ thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thinh Ngô",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon không gian mát mẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Minh Phu Pham",
+    "rating": 5,
+    "review_text": "Bánh ngon, vừa miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Trân Phạm",
+    "rating": 5,
+    "review_text": "Pizza phô mai ngon, nhiều chương trình khuyến mãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thiên Ngọc",
+    "rating": 5,
+    "review_text": "hay có deal mua 1 tặng 1 , pizza ngon ổn với tầm giá nha bây 9,5 đỉm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Việt Nam Lê Vũ",
+    "rating": 2,
+    "review_text": "22h mới đóng cửa, mình vào khoảng 21:45, bảo vệ thấy mình vào cũng k nói gì, vào hỏi bạn cash có order đc k thì bạn nhìn 1 lượt các bạn đang đứng ở đó với trong bếp rồi mới nói là nghỉ làm rồi! Mình k hiểu bạn nhìn vô bếp làm gì? nếu đã hết …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Quốc Bảo Nguyễn",
+    "rating": 5,
+    "review_text": "Tốt! Tôi ăn sạch sẽ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "24600128 Phan Nguyen Thanh Truc",
+    "rating": 5,
+    "review_text": "Sạch sẽ, mát, nhân viên tận tình dễ thương, có bánh muffin và hải sản sốt kem rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Mai Thyy",
+    "rating": 1,
+    "review_text": "Hời ơi:))) ăn 2 loại 1 pizza sốt gì xanh lá 9\" 1 pizza thơm gì gì á 7\" :))) về đau bụng. Chưa kể tiệm làm rất lề mề, hứa 30' cả làm cả giao mà phải gần 1 tiếng sau mới tới mặc dù đã nhờ giao sớm nhất có thể, quá thất vọng, k muốn quay lại lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Lương Nguyễn Bá",
+    "rating": 1,
+    "review_text": "Trải nghiệm cực tệ với Domino, quán hết món thì không có vấn đề gì, nhưng việc nhờ đặt hàng ở chi nhánh khác giao trực tiếp về địa chỉ của mình thì không được. Gọi trực tiếp tổng đài thì không ai bắt máy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "dien nguyen",
+    "rating": 5,
+    "review_text": "Có phòng tiệc riêng trên lầu 2 cũng khá thoải mái, bánh muffin ngon nhưng hơi nhỏ, làm to chút thì ngon :d"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thiên Ân Nguyễn Ngọc",
+    "rating": 5,
+    "review_text": "Pizza rất ngon, món ăn làm rất nhanh. Nhân viên nhiệt tình, dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Hiếu Chu",
+    "rating": 5,
+    "review_text": "Ngon. Hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Vu Annie",
+    "rating": 3,
+    "review_text": "Bạn nữ oder ca tối thái độ,đi ăn về rồi đọc phần đánh giá mới thấy,bên chi nhánh này training tệ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "tu dieu",
+    "rating": 5,
+    "review_text": "pizza rất ngon nhân viên quán rất nhiệt tình rất toẹt zời 10 trên 10 không gì để bàn cả sẽ ghé lại lần nữa for sure"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Sen Lê Văn",
+    "rating": 5,
+    "review_text": "Bánh ngon, phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Huy Phương",
+    "rating": 5,
+    "review_text": "đồ ăn ngon giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Nguyễn Lê Quốc Duy",
+    "rating": 1,
+    "review_text": "để số hotline xong gọi k ai bắt máy ???? thế thì dẹp đi chứ để làm gì ???"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Lê Phương Tuyền",
+    "rating": 4,
+    "review_text": "Mình ăn Domini: chỉ có vị socola và thịt muối là ngon thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Loan Fung",
+    "rating": 4,
+    "review_text": "Thích pizza thương hiệu này nên hay ăn ở đây. Nhưng phần lớn là gọi giáo đến nhà."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Dung Huynh",
+    "rating": 1,
+    "review_text": "Trải nghiệm vô cùng tệ hại đối với nhân viên quầy order lúc 20h ngày 16/10/2025. Tẩy chay."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Tuan Hoang Nguyen",
+    "rating": 1,
+    "review_text": "Đồ ăn ngon. Nhưng mà 2 lần mình đến đây nhân viên đứng quầy đều tỏ thái độ và lớn tiếng với khách hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thanh Danh",
+    "rating": 5,
+    "review_text": "Giờ ok rồi. Decor đẹp sạch sẽ ngon lành"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Hiếu Nguyễn",
+    "rating": 1,
+    "review_text": "Ăn quen nên ko để ý bill có nhiêu món , đi 2 người gọi 2 món rõ ràng nhưng cuối cùng chỉ 1 món ra, nhân viên mà k để ý kỹ khách gọi gì, 1 sao cho nhớ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "TUAN Lê",
+    "rating": 1,
+    "review_text": "nhân viên rất coi thường khách hàng khi khách gọi các combo khuyến mãi, chắc khi khách order khuyến mãi không đủ target nên khinh thường ra mặt. Mình đi mua chứ không có xin mà nhiều nv tỏ thái độ lắm. Có nhiều thương hiệu ok hơn mọi người nên cân nhắc. Sẽ không bao giờ quay lại..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "kỳ trần",
+    "rating": 5,
+    "review_text": "Các bạn nhân viên tuyệt vời , nên tăng lương ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "26.Thành Phú",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon ,đế bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Như Lê",
+    "rating": 1,
+    "review_text": "Trải nghiệm quá tệ và k ghé lại thêm một lần nào, od 50p mới đưa món lên, đồ ăn nguội tanh. Nhân viên xốc xược, khách hỏi k thèm tl mặt câng câng.biết tết đông khách nv tuy mệt nhưng khách hỏi cần tl vd c đợi e xíu hay a đợi e tí, đây khách hỏi nó lườm khách và k tl.Không phải 1 lần mà tận 3 lần.QUÁ TỆ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "063_ Đặng Tùng Nam",
+    "rating": 5,
+    "review_text": "Quán ăn mà tôi luon yêu thích. Nhân viên nhiệt tình thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thomas Bui",
+    "rating": 5,
+    "review_text": "Nhân viên thật tình, kiểm tra cùng địa chỉ mà 2 đơn đặt cùng lúc liền gọi kiểm tra. Phục vụ siêu tốt, giao hàng trời mưa ngập đường, nhân viên cầm bánh đi bộ vào nhà giao tận nơi. Quá đáng yêu!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Anh Anh",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Anh Pham",
+    "rating": 4,
+    "review_text": "Đã ăn nhiều lần, mua onl sẽ đc giảm giá, thanh toán ví giảm tận 40%"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thuy Linh",
+    "rating": 5,
+    "review_text": "ngon  nv tư vấn dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Q LH",
+    "rating": 5,
+    "review_text": "Chổ này không quá tệ nhân viên dễ thương đồ ăn cũng rất ngon ( tùy theo khẩu vị mỗi người ) giá hơi cao một chút nhưng đáng giá không gian mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Xuân",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên dth, dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Quyên Phương",
+    "rating": 5,
+    "review_text": "Mấy bạn nhân viên nhiệt tình , dễ thương 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Hà Phương Hồ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình nhưng có bạn Nhut Minh mặt hơi nham nhở."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Tường Vi Thái",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "baosden",
+    "rating": 5,
+    "review_text": "Pizza ngon, có khuyến mãi mua 1 tặng 1 đi 2 người ăn no nốc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Phan Vũ Hải Ly",
+    "rating": 2,
+    "review_text": "Chất lượng về bánh thì mình không bàn tới nhưng về thái độ và cách phục vụ không hài lòng 1 chút nào. Bánh đã xong mà ngồi đợi 15p không mang ra cho KH. Hỏi thì báo có bánh rồi nhưng cũng không mang bánh cho khách. Không hiểu có muốn bán hay không"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Havanas",
+    "rating": 5,
+    "review_text": "Trải nghiệm cho bé làm bánh quá tuyệt vời tôi rất thích 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Khởi Nguyễn",
+    "rating": 5,
+    "review_text": "Phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thanh Trúc Phan Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian rộng rãi, thoáng mát, đồ ăn ngon hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Châu Bảo",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon không gian rộng rãi thoáng mát nhân viên nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thành Lê",
+    "rating": 1,
+    "review_text": "Đợi hơn 1 tiếng nhân viên không gọi báo gì hết. Gọi tổng đài thì mới gọi lại hẹn thêm 30p trong khi cách mình có 800m. Đói đã quạu lại còn gặp quả nv tệ hết chổ nói. Lại còn không một câu xin lỗi 🙃 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thanh Truc",
+    "rating": 2,
+    "review_text": "trải nghiệm cực kì tệ, các bạn để mình đợi hơn một tiếng đồng hồ, tới lúc đưa bánh thì đưa thiếu 1 cái, khi mình hỏi lại thì bạn kêu bánh làm 7p xong rồi vậy sao mình phải chờ trong 1 tiếng hơn vậy ạ? mình ăn ở đây cũng nhiều, mua đem đi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Công tạo Nguyễn",
+    "rating": 1,
+    "review_text": "Nhân viên phục vụ tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Kim Hang",
+    "rating": 1,
+    "review_text": "Thức ăn là hàng đông lạnh , đế bánh có sẵn bỏ nhân lên nướng sơ xài . Dỡ nhất là mì Ý 1 phần gần cả 100k mà cho vào cái hộp nhỏ mang lên phục vu , mì cũng là đồ lạnh làm nóng lại . Phần mý ý của mình đem lên bên trong con lạnh phải trả lại …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Huy Nguyễn",
+    "rating": 5,
+    "review_text": "Quán ăn ngon nha, đồ ăn xịn xò nè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Nam Phương Bùi",
+    "rating": 5,
+    "review_text": "Không gian thoáng mát trang trí đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Cẩm Lưu Vĩ",
+    "rating": 1,
+    "review_text": "Dịch vụ đặt hàng qua web quá tệ\nĐặt pizza qua web và thanh toán zalopay. Zalopay thì trừ tiền và đơn hàng đặt thành công nhưng chờ cả tiếng đồng hồ không thấy ai giao hàng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thư Huỳnh",
+    "rating": 5,
+    "review_text": "rất ngon, thu ngân dễ thương, phục vụ nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Gia Linh Võ Phúc",
+    "rating": 5,
+    "review_text": "Bánh ngon, phục vụ nhiệt tình, tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Phùng Việt Song Thư",
+    "rating": 5,
+    "review_text": "Quán khá sạch sẽ, nhân viên nhiệt tình, bánh nào cũng ngon số dzách, chai sprite ban đầu mua mình hơi sốc vì nó bự mụt cách bất ngờ :> noái chung là ghé ăn thử rất có ấn tượng tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Hồng Phúc Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian thoáng mát, sạch sẽ, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "thuong nguyen",
+    "rating": 1,
+    "review_text": "Má tao đặt trên grab kêu thời gian dự kiến 19h5 đến 19h15 mà giờ là 20h16 rồi kêu hủy ko cho tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Phan Minh Thư",
+    "rating": 5,
+    "review_text": "thấy nhân viên dễ thương nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Lê Vòng",
+    "rating": 2,
+    "review_text": "Bánh nhỏ hơn so với các chi nhánh khác, mặc dù đã order super nhân mà vẫn không khác gì bánh bình thường của các quán khác, nhân viên thái độ tệ, đây là lần THẤT VỌNG NHẤT trong các lần đi ăn ở domino."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "thuy loan ngo",
+    "rating": 5,
+    "review_text": "Quán hơi nhỏ, chờ hơi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Vinh Quang Phan",
+    "rating": 3,
+    "review_text": "Loại bánh đặc trưng!\nKM đến 50% vào ngày thứ ba hàng tuần. Nên khi thèm ăn vào một ngày khác sẽ thấy khó chịu vì phải mua giá cao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Duy Pham",
+    "rating": 4,
+    "review_text": "View nhìn từ trên cao xuống đẹp vì ngay ngã tư. Không gian đẹp so với KFC. Lối đi lên cầu thang được trang trí ảnh nhìn thích mắt cũng là nơi cho tín đồ sống ảo làm vài phô cúng phây búc. Nhưng nhớ là đừng gây cản trở lưu thông là ok hết. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Tú Hoàng",
+    "rating": 5,
+    "review_text": "Đi ăn mà ngon u mai gót thêm nhân viên tuyệt dừi nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Yến Xuân",
+    "rating": 5,
+    "review_text": "ngon, phục vụ thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Võ Thị Mai Khanh",
+    "rating": 5,
+    "review_text": "nhân viên thân thiện, nhà hàng sạch sẽ ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Hà Phương Hồ",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, nhân viên siêng dọn dẹp, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Hoàng My Nguyễn Ngọc",
+    "rating": 3,
+    "review_text": "- Không gian ổn, nhiều tầng. Không khí nhộn nhịp, thường xuyên đông đúc. Có view ngồi cửa kính ngắm đường.\n- Pizza ở mức ổn, nên gọi đế mỏng cho đỡ ngán. Bánh size lớn hay size vừa theo mình đều hơi bé. Gà nướng BBQ ăn okela."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Minh Trí Ngô",
+    "rating": 4,
+    "review_text": "Ngon. Sạch sẽ. Lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Trang Dang",
+    "rating": 5,
+    "review_text": "Pizza ngon, giá hợp lý, chương trình khuyến mãi cụ thể rõ ràng không mập mờ đánh đố, gà viên phô mai rất ngon và khá rẻ 69k/phần quá ok. Sẽ ủng hộ tiếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "TCT gaming",
+    "rating": 5,
+    "review_text": "Nhà hàng sang trọng thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Lợi Dương",
+    "rating": 5,
+    "review_text": "Bánh ngon luôn coa giảm giá . Tuy bánh giảm giá hơi nhỏ nhưng củng ăn được. Giao hàng nhanh chóng. Nhân viên nhiệt tình . Delicious cakes always have discounts.  Although the cake is a bit small, it can be eaten.  Fast shipping.  Enthusiastic staff ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Ivan Dương",
+    "rating": 2,
+    "review_text": "Trưa nay mình có mua 2 bánh tại đây, bên cửa hàng nói mua 1 bánh tặng 1 bánh, nhưng rồi vẫn tính tiền cả 2 bánh. Bánh ở đây khá ngon, topping OK. Mình là khách thường xuyên ở đây. Nhưng chắc sắp tới sẽ  đổi qua 1 thương hiệu khác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Que Tran",
+    "rating": 5,
+    "review_text": "Mình hay ăn vào ngày t3.mua 1 tặng 1.bánh rất ngon mình thêm 1 lớp phủ phomai.và mua thêm chai nước ngọt giá 285k cho 2 bánh.hương vị cực ngon mix đủ loại vs nhau sẽ có bị khác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "n Nippon",
+    "rating": 5,
+    "review_text": "các bạn nhân viên dễ thương, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Phuc Nguyen Hoang",
+    "rating": 5,
+    "review_text": "Món ăn ngon , phục vụ tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Nguyên Nguyễn",
+    "rating": 1,
+    "review_text": "Đặt 2 đơn hủy hết 2 đơn tốn thời gian 1 tiếng ngồi đợi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "cam cam",
+    "rating": 1,
+    "review_text": "Nhân viên phục vụ rất tệ, không theo thứ tự khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "JOAN",
+    "rating": 4,
+    "review_text": "Giá trung bình nhưng thời gian sau này bánh đã bị giảm chất lượng. Hy vọng quán nâng cấp lại chất lượng bánh hơn như ban đầu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Trang Le",
+    "rating": 4,
+    "review_text": "Chỗ ngồi khá ổn. Nhân viên phục vụ nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Owl Girl",
+    "rating": 2,
+    "review_text": "Bánh ra nhanh, nhân viên nhanh nhẹn. Bánh ổn. Tuy nhiên bữa mình ăn thì bạn nhân viên bảo là không có đá cho uống nước ngọt, ở đây uống không thôi. Mình cảm thấy khó hiểu ở việc này kinh khủng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Lê Quốc Huy",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ tệ vào đứng nhân viên thấy nhưng cứ đứng nói chuyện không quan tâm tới khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thuylinh Khuong",
+    "rating": 5,
+    "review_text": "Mình rất thích quán này. Ăn rất ngon, vn nhiệt tình, vui vẻ hòa đồng. ..mọi thứ đều rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Phương Dung Nguyễn",
+    "rating": 3,
+    "review_text": "Ko ngon như ngày trước mình ăn cách đây 5 năm. Quán cũng vắng hơn so với trước nhiều.\nThứ 3 hàng tuần có mua 1 tặng 1"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "051_Đặng Thị Ngọc Mai",
+    "rating": 5,
+    "review_text": "quán ăn ok, phục vụ tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Minh Đỗ",
+    "rating": 5,
+    "review_text": "Quán mát, đồ ăn thì ngon luôn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "khai dieu",
+    "rating": 5,
+    "review_text": "quán quá toẹt vời có cơ hội sẽ ghé nữaaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Anna Lê",
+    "rating": 3,
+    "review_text": "Domino Pizza  Nguyễn Tri Phương là một trong những chuỗi nhà hàng ăn nhanh tại Việt Nam.\nĐầu tiên, có thể nói đến không gian của Domino : Không gian nơi đây khá nhỏ, chủ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Nguyen Minhphu",
+    "rating": 5,
+    "review_text": "Rất ok và ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Hao",
+    "rating": 5,
+    "review_text": "nhân viên dễ thương, quán ruột tháng ăn 2 lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thanh Lê",
+    "rating": 3,
+    "review_text": "1) Pizza : Pizza chỉ là ăn ổn thôi không ngon lắm.\n2) Nhân viên nhây:  Mình mua mỗi pizza vs nước lọc để tí nữa đi uống chỗ khác ( vì chỉ là pesi,coca,... )  nhưng nhân viên cứ tư vấn thêm phần ăn thêm với nước …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Nhím Xù",
+    "rating": 5,
+    "review_text": "Không gian khá thoải mái, 2 tầng, nhà vệ sinh đầy đủ, sạch sẽ. Cơ mà buổi trưa hơi đông và ồn 1 xíu, nếu đi đông người thì nên né buổi trưa và lúc tan tầm ra"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "VinFast Vĩnh Long",
+    "rating": 5,
+    "review_text": "Rất ngon\nBánh mềm không wa ngán thích nhất ở đây là bánh đế mỏng\nGiá cx ko đắt cho lắm đặc biệt ở wan vào ngày thứ ba nào cũng đông cả chắc do chương trình mua một tặng một"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Way Dy",
+    "rating": 4,
+    "review_text": "Đồ ăn rất ngon. Tôi thích nhất món gà phô mai vì thịt vừa mềm lại vừa đậm đà. Mọi thứ rất tốt, tôi chỉ hơi lạ vứa việc phục vụ đồ ăn trong hộp chứ không để ra dĩa dù ăn tại bàn. Đây là nơi phù hợp để đi ăn với gia đình và bạn bè 😎 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Trần Ngọc Hải Yến",
+    "rating": 5,
+    "review_text": "nhân viên cute dth hỗ trợ nhiệt tình , bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Phong Phan",
+    "rating": 4,
+    "review_text": "Tiệm ăn được khá đông vào giờ cao điểm, nên đặt trước nếu có ý định họp nhóm tổ chức ăn uống trò chuyện. Có thể chọn chỗ trên lầu để ngắm phố."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "TỐ NỮ CUTIE KELLY",
+    "rating": 1,
+    "review_text": "Nước rửa tay hôiiii kinh khủng, rửa tay trước khi ăn mà rửa xong cái mùi mắc ói"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Quang Bui truong",
+    "rating": 2,
+    "review_text": "vừa mua hàng về, đưa 500k thì nói kg đủ tiền, lát sau thối tiền thì lại kg có 1000 để đưa, nói cho thiếu, thấy bực bội rồi, kd mà sao kg chuẩn bị gì hết."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "An Tuấn",
+    "rating": 5,
+    "review_text": "ăn rất ngon nv rất vv và nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Huỳnh Văn Duy Thanh huynhvanduythanhmailcom",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon. Dịch vụ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Tiên Phan Thị Thuỷ",
+    "rating": 5,
+    "review_text": "Thức ăn ngon, nvien vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Duy Nguyen",
+    "rating": 4,
+    "review_text": "Domino pizza bánh và nhân ăn vừa phải, không khô như một số nhà hàng pizza khác. Quán hay có chương trình promotion mua 1 tặng 1. Trong mấy nhà hàng pizza ở TP, mình thích Domino nhiều hơ n cả!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Học Khiêm Ngụy",
+    "rating": 1,
+    "review_text": "Quá tệ.bánh nướng chưa tới.bột bở. Khô khốc. Mua mì ý thì hâm chưa tới, còn đông đá ở trong.Bảo vệ giữ xe thì như ông chủ. Một phong cách phục vụ quá tệ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "JULAYBIB Gaming",
+    "rating": 1,
+    "review_text": "Lề mề lâu lắc. Cảm giác không được tôn trọng khi sử dụng dịch vụ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Minh Tiến",
+    "rating": 4,
+    "review_text": "Không gian hơi nhỏ. Quầy oder rất hẹp . bảo vệ giữ xe k tập trung cho công việc\nĐồ ăn ok. Mang ra nhanh tầm 10p. Nv phục vụ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Thu Nguyen",
+    "rating": 5,
+    "review_text": "Nhà hàng sạch, mát, dịch vụ rất tốt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Yến Vy",
+    "rating": 5,
+    "review_text": "Không gian thoáng, nhân viên làm nhanh dù rất đông, chất lượng thì ngon, giá lại rẻ so với những quán khác 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Trinh HUA",
+    "rating": 4,
+    "review_text": "Thức ăn Ngon . phục vụ chu đáo nhân viên bán hàng rất Vui tươi nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Trường Nguyễn Xuân",
+    "rating": 4,
+    "review_text": "mình vẫn tự hỏi tại sao phải mua về mới đc mua 1 tạng 1 nhỉ, ngồi lại thì không.\ncó ai giải thích dùm mình chiến dịch kinh doanh này có ý nghĩa gì ko"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Linh Kim",
+    "rating": 5,
+    "review_text": "nhân viên vui vẻ nhiệt tình ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "Bảo Ngọc",
+    "rating": 4,
+    "review_text": "Pizza ngon, nhân viên trả lời thắc mắc của khách hàng nhưng ko được nhiệt tình cho lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "TaMin Vii",
+    "rating": 3,
+    "review_text": "Ăn tại chỗ nhưng bánh lại nguội tanh. Muốn gọi thêm rau nhưng ở đây lại không có. Rất thích pizza dominos nhưng hôm đó khá thất vọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ee444e238f3:0xf6d107c2f69b0b2d",
+    "shop_name": "Domino's Pizza Nguyễn Tri Phương",
+    "user_name": "YHằng Hồng",
+    "rating": 1,
+    "review_text": "Đánh giá 1 sao vì ông bảo vệ. Nhìn thái độ người bảo vệ là biết quán như nào rồi, bảo vệ quá dữ luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Food Sai Gon",
+    "rating": 3,
+    "review_text": "Nghe nhiều lời khen nên mình ghé trải nghiệm thử, nhưng thực sự cảm thấy chất lượng chỉ dừng ở mức bình thường và không như kỳ vọng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thu Dang",
+    "rating": 3,
+    "review_text": "fomo đi ăn thử thì khá thất vọng về vị bánh\nmình đánh giá chủ quan thui nhen\nbanh half half hải sản + cabonara …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Ryn Ryn",
+    "rating": 4,
+    "review_text": "Ăn pizza lề đường cũng khá thú vị. Trước nay pizza toàn ăn trong nhà hàng. Mình biết quán từ lâu, cũng khá nổi tiếng gần nhà mình.\nHnay mới có dịp đi thử, chỗ để xe sát bên, lúc đến mình đợi tầm 10’ thì có bàn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Vivian",
+    "rating": 4,
+    "review_text": "Ở đây có pizza phô mai là must try nha. Nhưng hình như quán đổi loại phô mai hay sao á chứ vợ chồng mình đi ăn trước Tết thì pmai ngon hơn. Nhưng vẫn đáng thử, hợp túi tiền hssv nữa. Nên đi sớm chứ quán đông nha, chờ có bàn cũng 10 phút á. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Phan Nguyễn Như Ngọc",
+    "rating": 4,
+    "review_text": "Mình tới vào chủ nhật lúc 6h, quán không đông lắm. Tới gần 7h thì kín bàn.\nMình gọi 1 pizza margherita size S.\nQuán có bếp mở nên thấy được từng công đoạn luôn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Mèo 168",
+    "rating": 5,
+    "review_text": "Quán pizza rất nhỏ và đông khách. Quán chỉ chuyên pizza nên không có những món khác, menu chỉ toàn là pizza thôi. Mèo đến vào dịp cuối tuần nên phải đợi rất lâu mới có bàn và sau khi vào ngồi bàn cũng phải chờ rất lâu mới có pizza. Pizza ở …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Delwyn Nguyen",
+    "rating": 2,
+    "review_text": "Bột chưa nở hết, đế bị nhũn còn viền thì khét đắng 🫩🫩🫩. Pizza phô mai ổn nhất, pizza hải sản khá nhạt, mình cảm thấy như bếp chỉ bỏ phô mai lên đế ngoài ra không thêm sauce gì khác, mùi hành tây thì át hết các vị còn lại. Pizza Cabonara làm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Yen Nhu",
+    "rating": 4,
+    "review_text": "Một trải nghiệm chỉn chuui\nNhân viên phục vụ dth, lịch sự nhiệt tình. Không gian đủ thoáng mát, sạch sẽ, đủ tương ớt tương cà, mật ong dầu ớt, đặc biệt có cả khăn khô khăn ướt rất tiện. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Bin",
+    "rating": 4,
+    "review_text": "● Quán nhỏ , vibe hủ tiếu nhưng đồ ăn lại rất Tây. Bàn ghế nhựa. Menu full pizza, chỉ hợp ai muốn thưởng thức pizza thôi nha. Chứ mấy món salad mỳ ý ko có đâu\n● Các món pizza thì có trong menu mình chụp. Hương vị nói chung khá là ổn , giá …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thị Huỳnh Giao Tô",
+    "rating": 5,
+    "review_text": "Quán đơn giản bàn ghế giống quán hủ tiếu gõ 😆 nhưng pizza ngon. Làm thủ công quầy làm bánh mở có thể thấy bếp đang nhào bột luôn. Quán nhỏ nên không gian hơi hạn chế mn nên đặt bàn trước hẳn tới. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Ngan Ha (Violet)",
+    "rating": 5,
+    "review_text": "Quán nhỏ pizza ngon và giá siêu mềm, sẽ còn quay lại nữa. Tuy nhiên vị hải sản có rong biển thực sự ko phải gu mình và những người bạn mình ăn cũng không thấy hợp, các bạn cân nhắc trước khi gọi món đó. Còn lại mình thấy khá oke, giá vậy là quá oke với mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Phát Nguyễn",
+    "rating": 2,
+    "review_text": "Bồ mình đi ăn ở đây nhiều rồi nên mới đây có rủ được mình đi ăn chung. Trải nghiệm lần này tệ nha.\nMình có gọi cái half-half như hình và 1 cái carbonara mà thất vọng quá mình quên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Trần Ngọc Khánh Linh",
+    "rating": 5,
+    "review_text": "Vỏ pizza ở đây là cái ngon nhất mình ăn trong SG luôn á, mình có thử nhiều quán rồi nhưng vẫn ưng vỏ ở đây nhất. Nhìn viền bánh phồng vậy chứ bột nở rất tốt, nhiều lỗ khí, dai mềm và dẻo nhẹ ăn rất mê. Nhân phô mai ăn với mật ong siêu cuốn, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Hân",
+    "rating": 1,
+    "review_text": "mình thấy giá này cũng ngang ngang domino mà sao làm chán quá, đế k giòn còn hơi khét khét, vị nhạt toẹt ra.\nnvien dễ thương, chỗ ngồi chán. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Quyên Võ",
+    "rating": 5,
+    "review_text": "Vô tình đi ngang thấy bán pizza mà ngồi ghế nhựa thú vị quá sau đó mình lên xem review rồi ghé ăn thử.\nPizza tự làm tại chỗ rồi nướng nên bột rất mềm, là kiểu như 4Ps mà phiên bản …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Minh Vũ Hạ",
+    "rating": 5,
+    "review_text": "Tiệm làm đế bánh rất mỏng nha, lại còn vừa ăn nữa. Mình có sử dụng thêm dầu ớt và mật ong cho phần half half Cinque Formaggi và Pescatore nhma mình có cảm giác kh thêm 2 cái đấy vào thì vẫn vừa ăn rồi ấy. Siêu rcm mn thử Cinque Formaggi, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "My Hoàng Thảo",
+    "rating": 5,
+    "review_text": "Mình ăn nhiều lần từ thời quán còn nằm trên đường Bùi Hữu Nghĩa, nay dời qua địa chỉ mới trên đường Bạch Đằng rồi, quán sáng hơn, rộng rãi hơn. Và quan trọng là chất lượng vẫn vậy vẫn rất rất yummy nha 100 điểm 🩷 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Hậu Nguyễn Chí",
+    "rating": 1,
+    "review_text": "Hôm nay tôi có mua mang về. Tuy nhiên, khi đến cửa hàng, nhân viên không hề đề cập đến size bánh dù có nhiều lựa chọn. Tôi ngồi chờ khoảng 20 phút nhưng không được phục vụ một cốc nước, cũng không có lời hỏi thăm hay thông báo gì. Trong khi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "nhi lê",
+    "rating": 5,
+    "review_text": "Pizza ngon giá khá phù hợp cho hssv, có thể thấy ng làm bánh trực típ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Hà My - HR",
+    "rating": 5,
+    "review_text": "Siêu ngon. Theo quán từ Bùi Hữu Nghĩa đến Bạch đằng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Ngọc Bảo",
+    "rating": 4,
+    "review_text": "Quán đông nhưng cũng có bàn nhanh, vibe bàn ghế rất Vietnamese nhưng pizza có vẻ hơi nhỉnh so với phong cách của quán …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Glucose",
+    "rating": 5,
+    "review_text": "📷 Về di chuyển: quán nằm ở mặt tiền đường, tuy nhiên độ nhận diện chưa cao, cần để ý nếu không chạy hút mất phải quay lại tìm như mình.\n📷 Về không gian: …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Duyên Hà",
+    "rating": 5,
+    "review_text": "Tiệm pizza xì tai dân giã vi en, mình đã trải nghiệm cả mua mang về lẫn ăn tại quán rùi, rcm mng ngồi ăn tại quán lun sẽ nóng ngon hơn. Mình thử qua vài vị rồi thấy ổn áp hết, mình thích cinque formaggi (ước j mua mang về tiệm cho nhìu mật …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Janie Le",
+    "rating": 5,
+    "review_text": "This homemade pizza is absolutely next-level, seriously! It's so addictive, good prices. 100 points, just like its name! Plus, the owner is super sweet and friendly 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Tuan Nguyen",
+    "rating": 4,
+    "review_text": "Tiệm pizza nhỏ theo phong cách đường phố, giá bán và cách hoạt động dễ tiếp cận với nhiều khách hàng trẻ. Không gian ngồi trong nhà và ngoài trời, bố trí cơ bản và tối giản. Mà không khí rất là nóng nha. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Tiểu Myy Trần",
+    "rating": 5,
+    "review_text": "WOWWWWW VL!!\nLàm mình wow 9.5/10 (trừ nửa điểm tại phải order nước quán kế bên).\nMình ăn half-half five cheese & hải sản rong biển …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyên Lê Cao",
+    "rating": 5,
+    "review_text": "pizza ăn ngon như Ý mà vibe rất local VN nhoeeeee. Recommend cho bạn bè hội tụ nèee."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Kan P",
+    "rating": 4,
+    "review_text": "mình ghé ăn thấy cũng được hợp túi tiền. Pizza đế làm mềm quá chắc do mình ko hợp, mật ong loãng quá nên cải thiện nhé quán!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "QTrang Trang",
+    "rating": 2,
+    "review_text": "Pizza dở điên luôn . Bột còn chưa nở hết . Nv phục vụ niềm nở ok . Nhưng để quay lại thì khônggggggggggggg . Giá cả cũng ko phải thấp , thêm 1 xíu mà đi ăn quán pizza tử tế hơn đi tr ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Quỳnh Trần Thị Diễm",
+    "rating": 5,
+    "review_text": "Không gian quán sạch sẽ, decor vibe local.\nPizza ngon, đế mỏng, nhân nhiều topping. Giá hợp lý, phù hợp đi ăn cùng bạn bè hoặc gia đình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Anh Thy Trương Ngọc",
+    "rating": 4,
+    "review_text": "Mua mang về và mình chụp trong môi trường thiếu sáng. Quán nằm trên mặt tiền đường Bùi Hữu Nghĩa nên khá dễ tìm, quán nhỏ xinh khoảnh 4-5 bàn. Menu cũng kha khá các loại pizza để lựa chọn với giá mình cảm thấy dễ tiếp cận nhiều tệp đối …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "winnie",
+    "rating": 5,
+    "review_text": "Ngon nhe mng. Đặc điểm của pizza thì hầu như ở đâu cũng sẽ đợi hơi lâu tí xíu, nma ra món thì xứng đáng công đợi nhen. Mình ăn half half như hình đều ngon cả nha, vị lạ lạ béo béo. Size M cũng khá to á. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Bảo Minh Phạm Lê",
+    "rating": 5,
+    "review_text": "Quán pizza ngon nhất mình từng ăn, giá cả hợp lý, nhớ gọi pizza phô mai ăn với mật ông nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Quỳnh Thy",
+    "rating": 4,
+    "review_text": "Tiệm bánh sát nhà mình luôn, nay mới có dịp đi ngang ăn thử. Nhân bánh ngon, đủ các loại nhân cơ bản của pizza nà. Giá cả hợp lý với chất lượng đi kèm. Mình order size M (8 miếng to),half-half (hải sản + carbonara), chỉ -0,5đ (đối với mình) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Uyên Thư Hồ",
+    "rating": 5,
+    "review_text": "Lưu quán từ lâu nay được đi ăn quả thật đúng như 60 đánh giá 5 sao!\nPizza siêu ngon, mọi người nhiệt tình, dễ thương\nThích quá nên mình rì viu chi tiết luôn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Tùng Nguyễn",
+    "rating": 4,
+    "review_text": "Pizza ở đây mình thấy giá bình dân nhưng mà chất lượng khá okkki đối với mình có thể nói là vượt ngoài mong đợi, do đây là quan lề đường nên chỗ ngồi hơi nhỏ xí nhaaa. Mình rất rcm các bạn quán nìij."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Hoàng Văn Hiệp",
+    "rating": 5,
+    "review_text": "Mừng 50 năm ngày nước mình lên sóng dữ dội, tiệm quẩy toàn nhạc đỏ cháy máy – nghe xong auto lòng yêu nước tăng x2. Pizza đỉnh chóp, vị ngon tới nóc, chủ quán thì bao nhiệt tình – vibe đúng kiểu người chơi hệ cống hiến!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Dương Hoàng",
+    "rating": 4,
+    "review_text": "Pizza ngon xuất sắc, bác và anh chủ nhiệt tình, giá oke mà pizza quá chất lượng.\nTuy nhiên thái độ bạn nhân viên nữ không ok tí nào, mình gọi pizza half - half, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Katt Ng",
+    "rating": 5,
+    "review_text": "Không gian nhỏ xinh, ấm cúng, pizza rất ngonnnn. Pizza carbonara mặn mặn và béo, chicken & bacon    thơm sốt pesto, pescatore thơm hải sản và béo nhẹ của phô mai. Thích nhất là checken bacon và pescatore ạ highly recommend 🤤🤤🤤 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Quyên Nguyễn",
+    "rating": 1,
+    "review_text": "Nướng đế bánh còn sót lại bột nướng đen dính hết vào bánh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyễn Thị Mỹ Hà",
+    "rating": 5,
+    "review_text": "ngon rẻ\nphù hợp ăn 1-3 người\nk biết quán có làm đế dày k ta"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thuy Tran",
+    "rating": 5,
+    "review_text": "Pizza lề đường nhưng chất lượng nhà hàng nha.\nQuán ngay gần nhà mình, thấy nên ghé vào ăn luôn. Quán nằm ven đường, được khoảnh 3 bàn. Mình hỏi chủ quán thì bán từ 10am -10pm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Han Acoustic",
+    "rating": 5,
+    "review_text": "Quán nhỏ không quá pz rất ngon các bạn rất thân thiện ! Thích pz nên ghé ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Minh Tú Nguyễn",
+    "rating": 5,
+    "review_text": "🍽️Món ăn: chuyên pizza và không có mì ý hay salad ăn kèm nhé. Pizza ở đây ngon, vừa vị, 💯 điểm, bánh ra lò nhanh, nóng, đế bánh mỏng, không dày bột. Gia vị đầy đủ từ tương cà, tương ớt cho đến mật ong. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Minh Hằng Lưu Huỳnh",
+    "rating": 5,
+    "review_text": "Cộng 1 khách tới quài quài tại pizza ngon, giá hợp svien và anh chủ dthw vô cùng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Sam Sam",
+    "rating": 5,
+    "review_text": "Cái bánh sz S mà nó bự lắm ý, ăn 2 người là vừa khít, vị mình ăn mà Ma ma gì hay sao á, có hải sản, vị rất là vừa ăn, có mua vị có nhiều xx vs thịt ham thì thấy k vừa miệng bằng nhưng ngon, bùng nổ giá lại rẻ nữa, có điều không gian để xe và bàn thì hạn chế thoai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Trọng Đức Hoàng",
+    "rating": 3,
+    "review_text": "Là quán ruột của mình, từng đi ăn rất nhiều lần lúc quán còn ở Bùi Hữu Nghĩa. Nhưng lần đầu mình đi ăn lại ở chỗ mới thì khá thất vọng.\n1. Mình đi vào cuối tuần và lúc 7-8h nên khách khá đông. Bếp chỉ có 1 lò nên làm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Phương Thúy",
+    "rating": 5,
+    "review_text": "Pizza khá ngon, đế bánh vừa mỏng, không quá bột, nhân bánh mặn oke, mình gọi half half nên ăn không bị ngán. Nên thử áaaaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Ngọc Bích",
+    "rating": 5,
+    "review_text": "mình rất hay ăn pizza ở đây và đã thử hết tất cả loại trong menu…mọi thứ đều hợp khẩu vị của mình, có cả khăn ướt và bao tay để ăn ko bị dơ tay.\nbạn nhân viên nam hay đội nón rất vui tính, luôn niềm nở với khách. Mong bạn vẫn mãi giữ được phong độ như vậy ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thuy Van Vo",
+    "rating": 5,
+    "review_text": "Phần đế bánh và các nguyên liệu ngon nhe. Có điều quán hơi nhỏ nên mn nên mua mang về. Ngồi tại chỗ ăn hơi nóng xíu :v giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Mea",
+    "rating": 5,
+    "review_text": "Quán nhỏ ngồi bàn nhựa và ghế xúp nhưng chất lượng thì phải ồ quao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "nguyen duyen",
+    "rating": 3,
+    "review_text": "1 cái size M 220k ăn 2 ng, ko ngon như mình mong đợi ăn tới miếng thứ 2 quá là ớn huhu ( thịt bò và hải sản) , bánh cháy, mềm nhũn và đắng cũng ko biết có phải khẩu vị quán như vậy không, hơi thất vọng, không đề xuất cũng ko quay lại. Đi vì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Trang Thu",
+    "rating": 5,
+    "review_text": "Mình nghe bạn giới thiệu nên đặt thử mà kiểu uầy ngon á mọi người, style giống pizza 4ps ăn ko ngán, ko sợ mập 🤣, topping cũng rất xởi lời. Cái margherita đúng kiểu đơn giản mà ăn cuốn vl, chấm mật ong lại càng cuốn (ko biết chấm mật ong …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Viên Đặng",
+    "rating": 5,
+    "review_text": "Quán pizza hơi nhỏ nhưng ngon nha mấy má 😋 ai thích ăn vỏ bánh mỏng với giòn như tui là quẹo dô đây luền. Tui ăn pizza gà vs bò á, siu ngonnnnn. 2 anh nhân viên ở đây dễ thương lắm vs cũng nhiệt tình nữa. Cũng hơi tiếc khi quán hơi vắng, mn ghé ủng hộ quán ikkk. Đi đi hok tiếc douuuuu >< …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Hiền Trần",
+    "rating": 5,
+    "review_text": "Mình và bạn ghé vào quán tầm 6h chiều\nQuán bị khuất nên dễ đi lố nên gần tới địa chỉ thì mọi người chạy chậm chậm.\nVề đồ ăn: mình gọi pizza half half veggie và Hải sản, gia vị nêm vừa vừa lắm, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Tâm Nguyễn",
+    "rating": 5,
+    "review_text": "Bạn chủ quán và nhân viên vui vẻ nhiệt tình. Pizza ăn ngon, đặc biệt là đế bánh tiệm làm mỏng , mềm , khác hẳn mấy quán mình từng ăn . Nên mọi người ai chưa ghé tiệm bao giờ thì nên ghé ăn thử 1 lần nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Linh Mai Khánh",
+    "rating": 3,
+    "review_text": "bánh thì cũng ngon á đi theo tiktok tới đây topping ko tươi lắm , mà nhân viên xem lại cách phục vụ khách tới hỏi bàn thì đứng cà rỡn khách ngồi ăn mà giỡn la um xùm lun lạy lun:)) , đi trải nghiệm th chứ ko tới lần 2"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Bùi Nguyễn Như Ý",
+    "rating": 5,
+    "review_text": "Đã đi ăn tại quán pizza nhỏ xinh, mới trong khu vực này gần đây.\n\nMình là người khá thích pizza lò củi, thích coi các bạn làm ra những chiếc pizza …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Hưng Nguyễn",
+    "rating": 5,
+    "review_text": "Trải nghiệm trên cả tuyệt vời, a chủ quán vs a làm bánh thân thiện (nào buồn qua đây ăn cũng vui lên). Ko PR quảng cáo tại mình cũng coi tiktok rồi chạy qua ăn, tg thất vọng nhưng ko hề. Có tiền sẽ quay lại đây ăn tiếp vì ăn ko khác mấy cái brand pizza nhưng ngon hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Truong Tran",
+    "rating": 5,
+    "review_text": "Pizza tiệm nhỏ xíu , hơi chật . Nhưng chất lượng thì quá 👌 , mình ăn thấy giống pizza 4’P , bạn làm bánh dễ thương thân thiện …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "kiki",
+    "rating": 5,
+    "review_text": "Pizza 10/10 – thật sự không có gì để chê! Mình gọi phần Margherita, vị béo, ngọt, mặn hòa quyện rất vừa miệng. Hai người ăn size M là vừa đủ no.\nKhông gian quán nhỏ gọn, xinh xắn, tạo cảm giác ấm cúng. Tuy nhiên, khu vực phía …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Vy Pham",
+    "rating": 4,
+    "review_text": "Mình thích đế bánh, không dày quá cũng không mỏng quá, rất vừa miệng. Có điều là topping ít quá, phần của mình nhìn không giống các bạn review. Tiệm nhỏ, tầm 6-7 bàn được cái rất dễ tìm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Như Bùi",
+    "rating": 3,
+    "review_text": "“M mới ghé tiệm hôm qua vì thấy khá nhiều bài đăng trên TikTok khen pizza ở đây ngon nên cũng tò mò đến thử. Theo cảm nhận cá nhân, phần bột bánh ăn khá ổn, nhưng tổng thể hương vị pizza chỉ ở mức tạm được. Mọi thứ khá bình thường, không có …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thanh Binh Tran",
+    "rating": 5,
+    "review_text": "Tới thì bất ngờ vì quán nhỏ quá... Nhìn như quán cá viên chiên. Nhà mình cũng hơi sốc nên đứng chần chừ 2p mới dô …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "dung lam",
+    "rating": 5,
+    "review_text": "Pizza ngon, mềm. Anh chủ phục vụ nhiệt tình. Sẽ là 1 địa điểm lựa chọn mỗi khi thèm pizza"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Lam Nguyen",
+    "rating": 2,
+    "review_text": "Mình đi vào thứ 7 quán khá đông mình cũng thông cảm, tuy nhiên bàn đến sau mình đã có món trước.\nMình có bảo nhân viên check lại order mà chỉ nhận lại được câu trả lời là \"còn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Duyen Pham",
+    "rating": 5,
+    "review_text": "Pizza ngồi bàn ghế bệt nhưng quán sạch sẽ, đồ ăn rất ngon. Mng thử trải nghiệm nhé. Mua take away sẽ okila hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Doan Khanh",
+    "rating": 5,
+    "review_text": "Có thể là 4p thứ 2 của lòng mình luông đóo!!!!✨ ngon khũng mà giá rẻee nữa🫰🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Linh Khánh",
+    "rating": 5,
+    "review_text": "Tiệm này là lí do duy nhất để mình thích ăn pizza\nReview tóm tắt:\n- Rất rất ngon k nơi nào sánh bằng. Đa dạng vị và sốt chấm. Menu đẹp và chỉnh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "vy nguyen",
+    "rating": 5,
+    "review_text": "Pizza nặn tay mà mình đi cuối tuần nên chờ hơi lâu ~40p  nhma pizza ngon và đáng nhaa, pizza như hình của mình 8 miếng là 195ka"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thiên Nguyễn",
+    "rating": 5,
+    "review_text": "Bánh ngon nha, mình gọi half half hải sản với chicken and bacon tổng 250k cho 2 ng. Đế bánh mỏng, ăn cảm nhận rõ hải sản, thịt với sốt.\nQuán nhỏ tầm 4-5 bàn, ngồi ngoài mát mẻ, đường nhỏ cũng ko nhiều xe lắm. Có đầy đủ tương ớt, tương cà, dầu ớt và mật ong. Có trà đá free."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Uyên trần",
+    "rating": 5,
+    "review_text": "Quán nhiệt tình, có mật ong tương ớt đầy đủ, bánh ngon nha, viền phồng, đế thủ công nên mỏng vừa phải, ăn tại chỗ nóng hổi, có nước ngọt , trà đá miễn phí. Quán có cho áo mưa miễn phí nữa. Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyễn Nghi",
+    "rating": 5,
+    "review_text": "Lần đầu tới thử, nhân viên thân thiện, dễ thương, service tốt. Anh bếp trưởng tập trung mặt hơi căng :)) nên mình tưởng ảnh khó gần mà ai ngờ dth, take care khách tốt. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Ngân Nguyễn",
+    "rating": 5,
+    "review_text": "- Quán dễ tìm , không gian nhỏ xinh\n- Giá trung bình không quá mắc cũng không quá rẻ nà ( có thể trải nghiệm thử)\n- Thời gian đợi 1 phần pizza cũng nhanh lắm tầm 15-20p là có òi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Momo To",
+    "rating": 5,
+    "review_text": "Ngon nha trờiiiiii 😘😘😘\nGiá cả oki, chỗ ngồi ít bàn nhưng mà mình thích nó lowkey chill chill như z hehe. Bạn chủ dth lắm nè, phục vụ tận tình. Nhưng vì có 1 mình bạn gánh nên đợi đồ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Peanut butter 12345",
+    "rating": 1,
+    "review_text": "Bánh mỏng dính, topping rất ít. Ăn xong phải mua thêm cái gì khác ăn thêm chứ không đủ để lót bụng. Xô trà free rất bẩn, vòi bám cặn trà uống không mạnh miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "sụp lơ",
+    "rating": 5,
+    "review_text": "Bột mỏng, ăn không ngán, mình gọi half hải sản half cheese ăn 2 người vừa đủ no. Giá mình thấy quá ổn so với chất lượng👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thái Trác",
+    "rating": 4,
+    "review_text": "Mình order Half carbonara + Half beef & broccoli, chỉ có điểm trừ vì:\n- Đế bánh cảm giác chưa nở hết, chai nhẹ\n- Viền bánh xẹp\nTopping tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Võ Thị Thúy Ngân",
+    "rating": 5,
+    "review_text": "Pizza được làm từ đế pizza tươi siêu ngon. Chủ quán nhiệt tình, vui vẻ. Đi ăn pizza còn được xem anh đầu bếp làm từ lúc nặn bột đến lúc bánh ra lò. Tuyệt ạ. Chúc quán đắt khách nhé!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Quoc Nguyen",
+    "rating": 5,
+    "review_text": "Tình cờ lên thăm bạn ở Sài Gòn , đi ngang thấy quán chill chill ghé vào thì ra là pizza , làm thử một chiếc xem sao ai dè ngon vãi , quán khá ấm cúng nhạc lofi du dương , thấy các bạn nhân viên nhiệt tình giới thiệu các loại sốt cho mình …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Minh Lê",
+    "rating": 5,
+    "review_text": "Một tiệm pizza mang chất lượng nhà hàng với mức giá street food. Mình khá bất ngờ khi tiệm bán pizza 5 cheese, ai thích phô mai chắc chắn phải thử, chất lượng 10/10. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "quyen bui",
+    "rating": 5,
+    "review_text": "Đợt trước vào Sài Gòn đi business trip nghe hội chị em bảo trong khu gần bà chiểu có tiệm pizza mới mở phong cách Ý khá ngon, vốn là tín đồ của pizza và phô mai nên phải tới thử liềnnn🤣, vào tiệm cảm giác ấm cúng như một gia đình, khá nhỏ, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Yen Nhi Vo",
+    "rating": 5,
+    "review_text": "mình đi 2 người ăn 1 phô mai size S và 1 M half half hải sản vs margherita. phô mai thì nvien có hỏi trc là coa ăn đc phô mai xanh vs phô mai dê hong. tổng quan bánh đều ngon nhen. ăn no căng bụng. bánh pmai ăn ko bị ngán mà rất cuốnnn. nchung là okii tầm giá này mình sẽ quay lại!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Huy Pham",
+    "rating": 1,
+    "review_text": "Hôm nay mình đi ăn vs bạn, trải nghiệm phải là âm điểm với bạn nữ nhân viên đeo kính. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Yến Bùi",
+    "rating": 5,
+    "review_text": "Phần này là 200 cá nha.\nPizza ăn ngon lắm á, mình cắn vô mà tưởng được lên thiên đường 🤣. Bột bánh ngon, topping tròn vị, nhạc quán mở hay, vibe ấm cúng lắm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Lê Huỳnh Ny",
+    "rating": 5,
+    "review_text": "Quá ngon, đổi chỗ mới r nhưng hương vị vẫn giữ nguyên. Recommend half half seafood vs phô mai nhe. Nên ăn tại chỗ cho nóng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thuy Quynh Chau",
+    "rating": 5,
+    "review_text": "Pizza ngon, thời gian phục vụ món nhanh, ngồi ven đường chil"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Anh Tuấn",
+    "rating": 5,
+    "review_text": "Mười điểm không có nhưng về chất lượng đồ ăn, rất tương xứng với giá tiền, các chai gia vị cũng rất đầy đủ, có cả khăn giấy ướt và khô. Chỉ là quán có hơi ít bàn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "lê dương Dương",
+    "rating": 5,
+    "review_text": "Mấy chai đựng gia vị. Hơi bẩn. Còn lại ok. Pizza ngon và chuẩn vị. Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Tuyen Nguyen",
+    "rating": 5,
+    "review_text": "Hôm qua mới đi ăn nè, bánh ngon, đế mỏng viền dày, giá phù hợp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Dao Dan",
+    "rating": 5,
+    "review_text": "Pizza rẻ và ngon, mình thích đế bánh tươi, nướng k quá giòn, đáng để ăn thường xuyên mng ơiii. Chất lượng tuyệt vời từ món ăn tới các anh phục vụ hỏi han khách nhiệt tình lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Xen Mi",
+    "rating": 5,
+    "review_text": "Pizza ngon như review nha. Mà quán phục vụ cũng tốt lắm, dễ thương. Trời mưa quán còn tặng áo mưa nữa. Akelo akelo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Tuấn Nguyễn",
+    "rating": 5,
+    "review_text": "Bánh ra nhanh. Bột bánh men chua ăn rất khác so với mặt bằng chung. Giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "khánh trịnh",
+    "rating": 5,
+    "review_text": "Pizza ngon,nhân viên dễ thương nhiệt tình.Mình thích kiểu nhân viên vậy á.Khách tới không biết đã ăn hay chưa ăn,cứ tư vấn là ăn với sốt gì,món nào ngon cho khách đã"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Khanh Võ",
+    "rating": 5,
+    "review_text": "Ko gian nhỏ nhắn dễ chịu, Pizza ngon cả gia đình mình đều thích đặc biệt Pizza 5 loại phô mai lần nào cũng gọi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Ngọc Mai Thảo Nguyễn",
+    "rating": 5,
+    "review_text": "Pizza siu ngon lunn, mấy a chủ siêu thân thiện có điều chỗ ăn hơi nhỏ thui😍😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Linh Đoàn",
+    "rating": 5,
+    "review_text": "bánh pizza thủ công với 10 loại khác nhau.\n\nhương vị thì các bạn thấy đấy, hốc còn ko kịp chụp chiếc ảnh tử tế. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Maika Miniwa",
+    "rating": 5,
+    "review_text": "Siu ngon lun mà rẻ nữa , 2 người ăn half half size M là no , rcm mn thử carbonara nha 🫶 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Quế Trân Đinh",
+    "rating": 5,
+    "review_text": "nhân viên vui vẻ nhiệt tình, pizza ngon lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nghi Phuong",
+    "rating": 5,
+    "review_text": "ngon lắm ạ 🥹🥹 giá cả phải chăng mọi ng nhiệt tình có bếp mở nữa, chúc quán mua may bán đắt ạ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Fươn Fươn",
+    "rating": 3,
+    "review_text": "Pizza ở mức trung bình, tạm ổn . Nhưng về chỉn chu sản phẩm thì âm điểm. Dù quán có đông khách đâu cũng ko thể để sản phẩm ntn đến tay khách. Có thể ko cần làm lại nhưng thâý cháy ở phần rìa thì khi cắt bánh cũng phải biết đường cắt phần cháy đi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Quỳnh Võ Ngọc Như",
+    "rating": 5,
+    "review_text": "Quán dễ thương, sạch sẽ, nhân viên nhiệt tình. Khoảng 15 - 20p cho 1 phần pizza, giá ổn, ngonnnn 💯💯💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "knight death",
+    "rating": 5,
+    "review_text": "Quán không gian đường phố VN. Nhân viên quán nhiệt tình dễ thương. Pizza ăn ngon trong tầm giá, mình thích vị bluecheese ở đây thơm lắm. Đáng để thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "PlatinumSocial",
+    "rating": 5,
+    "review_text": "Pizza rất rất ngon, anh bán pizza tư vấn và phục vụ rất tận tình chu đáo. Sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyen Duc Tho (Nhims)",
+    "rating": 5,
+    "review_text": "Trùm nhạc Sơn Tùng MTP kkk, bánh ngon, giòn, thân thiện, nước bên cạnh cũng ngon nốt , li trà nhãn 25k mà chắc 15 quả nhãn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Truc Ly",
+    "rating": 5,
+    "review_text": "pizza ngon, quán bé bé xinh xinh, vừa ăn vừa xem anh chủ ảnh múa bột"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Khang Hu",
+    "rating": 5,
+    "review_text": "Cũng từng ăn nhiều chỗ pizza lò củi có ngon hơn nhưng với mức giá này ko đòi hỏi gì thêm ở một chiếc bánh pizza nguyên bản italia 🇮🇹, đầy đủ nước chấm từ mật ong tabasco dầu ớt các kiểu, ăn tại chỗ thấy cha đầu bếp múa bánh khá nghệ, khá …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Ngọc Đặng Nữ Minh",
+    "rating": 5,
+    "review_text": "Vuýp, phù hợp cho ai thích ăn đế mềm, ngon😍😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Đức Tín Trương",
+    "rating": 5,
+    "review_text": "Pizza ngon, gần gủi, bếp mở có thể quan sát quá trình làm bánh 🥰 siu recommend pizza Cinque Formaggi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "vân nguyễn",
+    "rating": 5,
+    "review_text": "Pizzaa ngon lắm ạ\nMấy anh nhân viên nhiệt tình với dthww lắm ạ\nMọi người nên ăn thử nhaaaa 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "LOAN NGUYEN",
+    "rating": 5,
+    "review_text": "Bánh ngon, đế mềm, dịch vụ tốt, nhất định sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Dong Nghi",
+    "rating": 5,
+    "review_text": "Mình mới ghé ăn và cảm thấy hài lòng lắm nha, giá ổn áp tuy nhiên 2 người ăn 1 cái size M cũng hong no bụng lắm, lần sau sẽ ăn nhiều hơn nữa, mn ghé trải nghiệm nhen"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Đồng Phục Công Ty",
+    "rating": 5,
+    "review_text": "Pizza 100 đúng chuẩn Neapolitan, vỏ bánh nướng vàng giòn nhưng vẫn giữ được độ dẻo. Topping vừa miệng, mình thử Meat Lover và Margherita đều rất ổn. Không gian nhỏ nhưng mang vibe đường phố Sài Gòn nên ăn pizza mà cảm giác rất chill. Giá cả …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Hai Trieu",
+    "rating": 5,
+    "review_text": "Chủ quán dễ thương, bếp mở nhìn sạch sẽ okela. Phần bánh ngon và nhân hấp dẫn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "binhan mai",
+    "rating": 5,
+    "review_text": "Quán còn hơi nhỏ nhưng đồ ăn ngon, giá cả cũng hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Kim Xuân (Daria)",
+    "rating": 5,
+    "review_text": "Quán hơi nhỏ nhưng bù lại pizza ngon, nv siêu tận tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Khoa Đỗ Tuấn",
+    "rating": 5,
+    "review_text": "Mình đã trải nghiệm quán được 4 lần nhưng đây là lần đầu mình ăn tại quán và hương vị thực sự ngon hơn rất nhiều khi mua mang về. Trên hình là pizza half pepperoni và half pescatore. Peperoni k quá ấn tượng so với pescatore -mọi nguyên liệu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "marcherz (Spuft)",
+    "rating": 5,
+    "review_text": "Quán hơi nhỏ, có vẻ là quán gia đình, anh chị chủ quán nhiệt tình, lúc về còn tặng tụi mình voucher giảm giá lần sau. Giá các món khá hợp lý, mì ý và món khoai Tây (gì đó mà mình quên mất, hnhu cũng là món signature) khá ngon. Pizza thì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Minh Nhật Nguyễn",
+    "rating": 3,
+    "review_text": "Chỉ đánh giá món ăn\nOrder: nửa Pescatore nửa Cinque Formaggi ( không phô mai xanh) size M và Carbonara size S …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "MinhKhoa Đỗ",
+    "rating": 5,
+    "review_text": "Quán có tâm, nguyên liệu tươi nên bánh ngon 100 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "dzoi dze",
+    "rating": 5,
+    "review_text": "Mua mang về quán có cho hũ mật ong và dầu để chấm rìa bánh. Xuất sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Phương Thảo Lương",
+    "rating": 5,
+    "review_text": "Pizza 5 cheese đỉnh của chóp, giá oke, anh cheft siêu thân thiện ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Anh Bui",
+    "rating": 5,
+    "review_text": "Bánh ngon, mùi vị dễ ăn, sẽ ủng hộ Quán  nhiều lần nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Tam Cao Thi My",
+    "rating": 5,
+    "review_text": "LẦN ĐẦU TRẢI NGHIỆM STREET PIZZA 😂\n\nMình đi ô tô đến quán, anh canh xe nhanh chóng dắt tất cả xe máy sang 1 chỗ gọn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thanh Nguyen",
+    "rating": 5,
+    "review_text": "Pizza ngon mà giá lại quá phải chăng ạ 🥹😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Khoa Hoang",
+    "rating": 2,
+    "review_text": "Nhìn quán đẹp tấp vô ai ngờ ngồi nhà kế bên 😂\n150K 1 chiếc bánh size nhỏ mà:\n- mềm èo, nhỏ hơn bánh size nhỏ tiệp khác, muốn cuộn lại giống gỏi chấm xốt ăn 😭 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Tấn Phát",
+    "rating": 5,
+    "review_text": "Pizza nấu ngay tại chỗ, siêu ngon, các anh nhân viên siêu dễ thương. 10đ, chắc chắn sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Bui Nguyen Mai Uyen",
+    "rating": 5,
+    "review_text": "Recommend mọi người thử Pizza 04 loại phô mai nha. Ngon cực kỳ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Dương Lê",
+    "rating": 5,
+    "review_text": "Có cơ hội trải nghiệm ở đây. Pizza phomai 10/10"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyễn Trần Ngọc Trâm",
+    "rating": 5,
+    "review_text": "Pizza ngon, sạch sẽ, không gian bếp mở dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Kim Đàm Thụy Hoàng",
+    "rating": 5,
+    "review_text": "Quán khá đông nên mình mua mang về. Quán nướng bánh cũng khá nhanh. Mình mua bánh phô mai thì quán có gói kèm mật ong và dầu ớt để ăn chung. Bánh rất ngon có dịp lại ghé ủng hộ quán."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thạch Anh Lê Quang",
+    "rating": 5,
+    "review_text": "Quán hơi hẹp nhưng chỗ ngồi về cơ bản là khá oke. Phục vụ chu đáo, quán có khăn ướt để lau tay. Pizza rất ngon, dù phải đợi hơi lâu, tầm 15 - 20 phút tuỳ thời điểm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Tri Duy Phan",
+    "rating": 5,
+    "review_text": "Chất lượng đồ ăn ngon nha, nên thử pizza 5 loại phô mai.\nCác bạn nhân viên cực kì thân thiện và hiếu khách, phục vụ tận tình.\nCó thể mua mang về hoặc ăn tại chỗ, nhưng quán có diện tích không quá rộng nên mọi người cân nhắc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "LinhChi Trần",
+    "rating": 5,
+    "review_text": "Đế thơm, mỏng. Pizza tươi, order xong mới làm nhưng cũng không phải đợi lâu tầm 10 phút. Mình ăn 4 vị đều ổn, giá cả phải chăng. Không gian quán dễ thương. Service ổn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "23_7141_Nghi Ngọc Kiều Phương",
+    "rating": 5,
+    "review_text": "quán ngon, đồ ăn ra nóng hổi!!\na nhân viên take care khách lắm\nquán hơi nhỏ, dễ bị khuất tầm nhìn nên để ý kỹ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Bao Ngoc Nguyen Hoang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon lém. Giá siuuuu đáng iu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "phong dương",
+    "rating": 5,
+    "review_text": "Không gian mới rộng rãi. Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "quý nguyễn",
+    "rating": 5,
+    "review_text": "Ngon, rẻ, 2 người ăn 1 cái no lun"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nhi Pham",
+    "rating": 5,
+    "review_text": "Nếu có thể đánh 10 sao cho quán, tôi tình nguyện . Bánh quá ngon, trọn vị, phục vụ dễ thương tinh tế"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Rollie SMG",
+    "rating": 5,
+    "review_text": "Rất ngon, bột bánh mềm dai, nhân dễ ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Ăn uống và Vui chơi",
+    "rating": 4,
+    "review_text": "Pizza rất ngon, giá mềm so với chất lượng\nEm trai phục vụ vui vẻ dễ thương, 5☆ cho dịch vụ vì có đầy đủ khăn giấy ướt, khăn giấy khô, đầy đủ gia vị ăn kèm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "th.tai042",
+    "rating": 5,
+    "review_text": "vỏ bánh dai, thơm, nhiều gia vị ăn kèm đa dạng hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Phú Nguyễn",
+    "rating": 5,
+    "review_text": "Pizza ăn ok , tươi hương vị thơm ngon và giá cả phải chăng 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Traam Anhh Do",
+    "rating": 5,
+    "review_text": "TUYỆT VỜI (no booking)\ndịch vụ 10₫ khăn giấy ướt khô đều có\ntrà đá refill\npizza ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyễn Thiện",
+    "rating": 4,
+    "review_text": "1 trong những tiệm pizza napotalian khá ổn với mình. Tuy chưa đạt mức xuất sắc nhưng mình thấy có nhiều cơ hội để nâng cấp. Hôm qua mình có gọi 1 pizza M half/half formaggi với beef and brocoli. Bánh tổng thể khá ổn, tuy nhiên mình có 2 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Hoàng Nguyễn",
+    "rating": 5,
+    "review_text": "Quán làm bánh ngon lắm 💯💯 mọi người ở quán rất nhiệt tình , lịch sự và hoà đồng vui vẻ nchung chất lượng trên cả 10 😁😁❤️ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Trực Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn vừa miệng , phục vụ ok, bánh làm khá đẹp , 5 phô mai ăn vs mật ong 10đ , cuối tuần hơi đông nên đợi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nhat Thai Sanh Hoang",
+    "rating": 5,
+    "review_text": "chỗ ngồi hơi chán đời nhưng mà khứa này làm bánh chiến lắm nha bà con. Quất luôn 5 sao cho thằng nhỏ mau lớn.\nủ bột rất có tâm, nướng xong ngoài giòn trong mềm xốp lõi thì dẻo dẻo. Đế bánh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Hải Ân Đặng Ngọc",
+    "rating": 5,
+    "review_text": "Giá quá trời rẻ luôn, rẻ mà hốt hoảng. Mình gọi half carbonara half chicken bacon thì thấy carbonara rất vừa miệng rất ngon. Cái chicken thì hơi tiếc sốt pesto, cảm giác hơi thiếu vị một chút. Thêm chút gia vị thì đảm bảo bùng nổ bùm chíu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Chi Phan",
+    "rating": 5,
+    "review_text": "Quán dạng local thôi nhưng mà đồ ăn rất ngon và giá phải chăng nè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Huy Nguyen",
+    "rating": 5,
+    "review_text": "Đì li sợt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Cam Ly",
+    "rating": 5,
+    "review_text": "ngonnn, chủ zới nhân viên dth, giá cả hợp lý,\nsẽ quay lại kekekke 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thai Nguyen",
+    "rating": 5,
+    "review_text": "Ngon, không có gì phải bàn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyen Thanh Truc",
+    "rating": 5,
+    "review_text": "Ngon rẻ, ăn k bị ngán, nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "trần ngọc bảo long",
+    "rating": 5,
+    "review_text": "Tưởng không ngon ai ngờ ngon không tưởng\nChủ quán thân thiện cười nhiều =))))\nMn có thể gọi nửa này nửa kia cho mấy cđl không quyết định được. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Vân Hàn Mỹ",
+    "rating": 5,
+    "review_text": "Chất lượng pizza rất ngon nhé. Mình tình cờ tìm thấy và đã thử, cực lực đề cử quán. Bánh ngon và giá mềm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Hoàng Long",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, ra món nhanh, nhân viên vui vẻ với khách hàng. Tuy nhiên quán chỉ có 1 cây quạt nên còn khá nóng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Le HL (J. Lee)",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, nhân viên thân thiện, chỉ là quán nhỏ, công suất bếp cũng hạn chế nên mình đo tối chủ nhật phải đợi khá lâu mới được ăn, vừa đợi có bàn vừa đợi bếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyễn Tài",
+    "rating": 5,
+    "review_text": "Must try 😘 không gian thì hơi nhỏ xí nhưng nhân viên rất vui vẻ, pizza thì là đế sourdough ăn rất dễ ăn mà không ngán nha 😗😗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyen Mon",
+    "rating": 5,
+    "review_text": "Quên chụp hình 🥹🥹🥹\nOrder nữa mà quán hết bánh\nQuán 5 sao mà khách có sao 🥲🥲🥲 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Phuong Huynh",
+    "rating": 5,
+    "review_text": "Pizza ngon, thích nhất là 5 cheese, chủ dễ thương, nhiệt tình chia sẻ kiến thức với khách hàng 🔥🍕👌 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Khoa Nguyen",
+    "rating": 5,
+    "review_text": "9.75/10\n-0.25 anh đầu bếp không tự giác biểu diễn tung bột nắn bánh phải đợi nhắc 🤣 đế bánh mỏng, ra bánh nhanh, dầu ớt sử dụng dầu olive, rau húng chuẩn mùi đặc trưng của basil 💯💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thịnh Bùi Phú",
+    "rating": 5,
+    "review_text": "Quán không gian không quá lớn nhưng được cái ấm cúng, gần gũi với những cặp đôi đi ăng.\nTổng quan: Áu ki"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Xuân Nhã",
+    "rating": 4,
+    "review_text": "Pizza cháy nha shop ơi 🥲 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Trường Phan",
+    "rating": 5,
+    "review_text": "gần nhà , ngon , mọi người nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Khoa To Anh",
+    "rating": 5,
+    "review_text": "Pizza rất ngon, ra món cũng nhanh, anh chủ nói chuyện vui, nhiệt tình, 10/10"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Cát Nguyễn",
+    "rating": 4,
+    "review_text": "nên có chỗ ngồi rộng hơn một chút"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Kiệt Nguyễn",
+    "rating": 5,
+    "review_text": "Quán rất ok nha, làm món nhanh,dịch vụ tốt,thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "triet bui minh",
+    "rating": 5,
+    "review_text": "Bạn chủ nhiệt tình, pizza ngon hợp khẩu vị mình và bạn mình. sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Bao Gia",
+    "rating": 1,
+    "review_text": "Dở tệ vs quá mặn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Võ Đức Huy",
+    "rating": 1,
+    "review_text": "Quán giờ mở cửa không chính xác, lúc mở lúc đóng.mất khách cũng đúng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Phát Ngô",
+    "rating": 5,
+    "review_text": "Mấy ae nhân viên vui tính nhiệt tình, bánh ngon + giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Huỳnh Thị Mỹ Thọ",
+    "rating": 5,
+    "review_text": "Pizza giá mềm, ngon. Lần sau quay lại ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Tùng Nguyễn Tấn",
+    "rating": 5,
+    "review_text": "Bột bánh cán và nhào tại chỗ. Nguyên liệu tươi ngon. Giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Kim Tiến Trần Thị",
+    "rating": 5,
+    "review_text": "Quán pizza rất là local, ngon, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Anh Tú Trà",
+    "rating": 5,
+    "review_text": "Pizza ngon giá hợp lý, nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Huyen Pham",
+    "rating": 5,
+    "review_text": "100đ không có nhưng ❤️❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyễn Lưu Công Khanh",
+    "rating": 5,
+    "review_text": "Pizza ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Anh Kiệt",
+    "rating": 5,
+    "review_text": "10₫\nChắc chắn sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Lai Leon",
+    "rating": 5,
+    "review_text": "Pizzza ngon, hợp vị, rẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "nhung cao",
+    "rating": 5,
+    "review_text": "Ngon lắm lun á, anh chị ở đây nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nhat Trieu Mai",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyễn Thị Ngọc Linh",
+    "rating": 5,
+    "review_text": "đã ăn, ngon, ship nhanh sạch sẽ\nchuẩn vị nên mua"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyễn Thanh Tâm Hiền",
+    "rating": 5,
+    "review_text": "Ngon 🍕 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Vi Lê",
+    "rating": 5,
+    "review_text": "Pizza ok, phù hợp giá tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Uyen Nguyen",
+    "rating": 5,
+    "review_text": "^^ ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Vo Ngan",
+    "rating": 5,
+    "review_text": "Rất ngon!  Mải ăn quên chụp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Dung Npv",
+    "rating": 5,
+    "review_text": "Bánh ngon rất hợp vs mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyễn Quân",
+    "rating": 5,
+    "review_text": "Quán ngon nha mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Nguyen Minh",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ là có thật!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Huy Tong",
+    "rating": 5,
+    "review_text": "Hôm nay ăn gì ba? Đi ăn pì zza"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "minh phong nguyễn",
+    "rating": 2,
+    "review_text": "Đề nghị xem lại thời gian mở cửa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "My La",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon mười điểmmmm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Phi Long Nguyen",
+    "rating": 5,
+    "review_text": "siu ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Duc Huynh",
+    "rating": 5,
+    "review_text": "đồ ăn ngon rẻ nên thử ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "ân đỗ hoài",
+    "rating": 5,
+    "review_text": "Quán này rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thoa Lu",
+    "rating": 5,
+    "review_text": "Siêu siêu siêu ngon lun ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Thanh Phuc",
+    "rating": 5,
+    "review_text": "Quán ăn ngon nhoa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Hồng Phước",
+    "rating": 5,
+    "review_text": "nên trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752900311e5d1d:0xb329a627794a92eb",
+    "shop_name": "Pizza 100",
+    "user_name": "Anh Quỳnh",
+    "rating": 5,
+    "review_text": "Ngon 🥹🥹🥹🤌💕💖 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Arnaud",
+    "rating": 5,
+    "review_text": "Quán mở đến khuya, nhân viên thân thiện và pizza rất ngon!\n→ Le restaurant est ouvert tard, le personnel est sympathique et les pizzas sont très bonnes !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Thư Lê",
+    "rating": 5,
+    "review_text": "Pizza ngon nha, mình đặt size 43 thì phải 3 người mới hết á"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Steven Gerrard",
+    "rating": 5,
+    "review_text": "Tụi mình đi tìm quán ăn mở cửa trễ, tình cờ ghé vào đây mà không kỳ vọng nhiều, ai ngờ bất ngờ thật sự luôn 🥹\nAnh chủ cực kỳ thân thiện, còn pizza thì phải nói là ngon nhất trong mấy tiệm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Hana Himiko",
+    "rating": 5,
+    "review_text": "Pizza bánh mỏng ăn hong có bị ngán , đa dạng size , bánh như trong hình là mình ăn đủ 5 người nheee , bánh rất ngon , mở tới 4g sáng lựn 🌟 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Giang Hương",
+    "rating": 5,
+    "review_text": "pizza ngon,giá cả phải chăng!\nmình bầu bì gọi luôn 6 vị mà ăn rất vừa miệng!quán mở tới 4h sáng nha mn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Duyên Hà",
+    "rating": 5,
+    "review_text": "Nửa đêm lượn lờ Thảo Điền tìm món ăn thì phát hiện quán, bán đến tận 4h sáng, quán chuyên bán mang đi nhưng vẫn có chỗ ngồi tuy hơi hạn chế, đậu xe ngay trước quán luôn. Mình gọi 3 bánh ăn đều ổn, must try tropical seafood nha, bánh ăn tại …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Lê Xuân Trường",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon luôn, còn được tặng nước và discount nữa, anh chị phục vụ rất nhiệt tình, không gian nhỏ xinh ấm cúng, còn có nhạc rất chill. Chắc chắn sẽ quay lại nhiều nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Triều Trần",
+    "rating": 5,
+    "review_text": "Quán có cách làm Pizza ngon, chỉ đơn giản là ăn và cảm nhận pizza .\n\nRất phù hợp cho một buổi chiều nhẹ nhàng hoặc mua về xem phim …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Nguyễn Ích Anh Khôi",
+    "rating": 5,
+    "review_text": "Random mình tìm thấy quán pizza này. Có gọi half half supreme với cheese gì không nhớ nữa. Mình thấy vỏ bánh cán vừa ăn không bị ngán, supreme siêu fresh luôn ăn vô rất là ngạc nhiên không nghĩ spot này làm ngon vậy. Gọi 1 cái size bự cỡ share 3 người ăn là vừa đủ no. Mọi người nhớ ghé ủng hộ, chị chủ và bạn làm bánh rất dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Nhu Hoa",
+    "rating": 5,
+    "review_text": "Pizza siêu ngon bất ngờ. Size 42cm to khổng lồ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Hoài Băng Trần",
+    "rating": 5,
+    "review_text": "Bánh ngon, anh chủ dễ thương, mở khuya, mọi người nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Trang Huyền",
+    "rating": 5,
+    "review_text": "Pizza ở đây siu ngonnnn, nhất là phần bột bánh và Peperoni 🤤🤤🤤 đã ăn lần thứ 5 vì bánh pizzal Peperoni …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "boi boi mai",
+    "rating": 5,
+    "review_text": "tụi mình đi 5 người tới cũng trễ, nhưng vẫn được phục vụ rất tốt, các bạn ở đây rất nhiệt tình nhen"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "ToKee",
+    "rating": 5,
+    "review_text": "Quán nằm ngay trong nội lòng khu Thảo Điền, khu vực yên tĩnh dễ chịu, bánh ngon, bánh tự làm tự nướng tại chỗ nên luôn nóng, bọn mình ăn 2 người mà gọi bánh 42cm thì có hơi to, nói chung thì xứng đáng với mức giá."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Thành Phan",
+    "rating": 5,
+    "review_text": "Pizza ở đây ngon đúng kiểu local, mát mẻ, đường xá yên tĩnh, có chỗ đậu xe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Lan Xuyên",
+    "rating": 5,
+    "review_text": "pizza ngon, nhân viên take care khách quá nhiệt tình còn được tặng hai lon nước, recommend nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Tuyên Vy",
+    "rating": 5,
+    "review_text": "pizza ở quán ngon, chủ dễ thương và có chú chó dễ thương 💗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Jack Nguyen",
+    "rating": 5,
+    "review_text": "Bánh ngon,phục vụ tận tình. Đáng dùng nhé mn :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "châu huỳnh",
+    "rating": 5,
+    "review_text": "Bánh ngon, giá phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Danh Băng Tâm",
+    "rating": 5,
+    "review_text": "Thường mình ăn những pizza quán khác thì cũng tạm. Riêng ở Kin Pizza thì mình thấy vừa miệng mình nhất, nói chung đồ ăn ngon. Không gian thì hơi nhỏ, mình thấy quán sẽ theo kiểu mang đi nhiều hơn, nhưng nếu mọi người muốn ngồi lại ăn thì vẫn có chỗ bên ngoài nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Thanh Khongminh",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhân viên nhiệt tình. Nên đến nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "bi bi",
+    "rating": 5,
+    "review_text": "Pizza ở đây ngon ,anh chị chủ dễ thương ♥️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Hong Vinh Shin",
+    "rating": 5,
+    "review_text": "Chủ quán dễ thương, không gian ấm cúng, dịch vụ chu đáo ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Huỳnh Hằng Hữu official",
+    "rating": 5,
+    "review_text": "Ngon à nha. Tại chỗ có bàn ăn, ăn lúc nóng rất ngon. Ngon hơn nhiều Domino luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Vân Mỹ",
+    "rating": 5,
+    "review_text": "Pizza ở đây có đế giòn, Phần nhân rất đầy đặn, topping tươi ngon, kết hợp hài hòa giữa các nguyên liệu. Nước sốt đậm đà, cân bằng giữa vị chua nhẹ của cà chua và hương thơm của các loại gia vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "regina. joy",
+    "rating": 5,
+    "review_text": "ngon, đc free đồ uống hi, anh nvien dth"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Holiday Khanh",
+    "rating": 5,
+    "review_text": "Phải nói là tuyệt vời khi ấn tượng đầu của mình là tìm hiểu sở thích vị giác khách hàng tư vấn hợp ý. mình khó ăn nhưng cảm giác vào miệng 1 phần vừa hợp gị 1 phần vì được bầu không khí tốt nên  cũng ngon thêm.\nChúc chủ quán và nhân viên buổi tối vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Tú Nguyễn (Jin cánh cụt)",
+    "rating": 5,
+    "review_text": "đồ ăn soooo ngon! cắn cái là giòn tan! phô mai béoooo ngậyyyy làm cho tôi không muốn tập gym hay giảm mỡ nữa!! tôi yêu quán này! sẽ quay lại nhiều lần sau!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Duyen Hao Nguyen",
+    "rating": 5,
+    "review_text": "Bánh ngon lắm , cảm ơn shop"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Phúc Hoàng",
+    "rating": 1,
+    "review_text": "Phomai ăn rất hôi topping như bị thiu nói chung bánh dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "An Phan",
+    "rating": 5,
+    "review_text": "Bữa tối ngon miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Yến Yến",
+    "rating": 5,
+    "review_text": "Ngon nhe mn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Linh Văn",
+    "rating": 5,
+    "review_text": "Ăn ngon, giá rẻ, anh chủ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Khanh Le Huy",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Đức Đinh Thiện",
+    "rating": 5,
+    "review_text": "yên tĩnh , pizza ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Vinh Nguyễn",
+    "rating": 1,
+    "review_text": "Làm lâu vcl"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Phạm Thị Bích Liễu",
+    "rating": 5,
+    "review_text": "Ăn hợp vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Thịnh Đặng",
+    "rating": 1,
+    "review_text": "bánh ăn ngấy, phục vụ tệ, quán bẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Gian Nguyen",
+    "rating": 5,
+    "review_text": "Siêu ngonnnnn!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Dung Hạnh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "21, Gia Nghĩa",
+    "rating": 1,
+    "review_text": "dịch vụ tệ, bánh cứng ăn ngấy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Thảo Trần Thảo",
+    "rating": 5,
+    "review_text": "Ngonnn điêngg khỏi pànnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Thanh Hà Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon Hết xảy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Nguyễn Thùy",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Dzung Thien",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Minh Thư Nguyễn Ngọc",
+    "rating": 1,
+    "review_text": "Topping rất ít"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Nghiem Mai Quang",
+    "rating": 5,
+    "review_text": "Quán nhỏ ít chỗ, chủ yếu bán mang đi. Pizza rất giòn ngon, thơm phức, quán làm rồi nướng trực tiếp trước mặt khách luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Dmitrii Burmistrov",
+    "rating": 5,
+    "review_text": "Đây có thể là quán pizza ngon nhất thành phố. Phần ăn rất lớn và ngon tuyệt vời. Tôi thích hương vị phức tạp và đậm đà, không chỉ mặn như nhiều quán giao pizza khác. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Incrediemble H",
+    "rating": 5,
+    "review_text": "Đây là quán ruột của tôi mỗi khi thèm pizza, đặc biệt là vào đêm khuya vì họ mở cửa đến 4 giờ sáng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Анастасия",
+    "rating": 5,
+    "review_text": "Tôi rất thích ủng hộ các doanh nghiệp gia đình! Mọi thứ ở đây đều tuyệt vời: pizza ngon, không khí gia đình ấm cúng và những người tuyệt vời! Pizza ở đây to đến nỗi bạn không thể ăn hết một lúc, nguyên liệu hảo hạng và phô mai ngon tuyệt! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Nguyễn Duy Nhân",
+    "rating": 5,
+    "review_text": "Quay lại sau vài năm kể từ lần cuối, pizza nhà làm ngon nhất.\n\nMột viên ngọc quý ẩn giấu chưa từng được biết đến. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Quang Tri TRAN",
+    "rating": 5,
+    "review_text": "⭐️⭐️⭐️⭐️⭐️ Pizza Bốn Loại Phô Mai thật sự làm tôi bất ngờ\nBan đầu tôi không kỳ vọng nhiều, nhưng pizza hóa ra lại rất ngon. Vỏ bánh mỏng và nướng vừa phải — hơi giòn bên ngoài nhưng vẫn mềm mại khi cắn vào. Còn phô mai …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Nguyễn Thanh Tú",
+    "rating": 5,
+    "review_text": "Cửa hàng dễ tìm và thuận tiện khi bạn đi vào con hẻm 216. Tôi đánh giá cao sự kiên nhẫn và chu đáo của nhân viên. Chúng tôi vào thẳng cửa hàng để đặt hàng, sau đó đi dạo một vòng trước khi họ xác nhận đơn hàng. Một nhân viên đã phải ra …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Idris Shahrin",
+    "rating": 5,
+    "review_text": "Là một du khách đang thèm một miếng pizza ngon, Kin Pizza ở Thành phố Hồ Chí Minh đã thực sự làm tôi kinh ngạc. Chắc chắn đây là chiếc pizza ngon nhất tôi từng ăn trong kỳ nghỉ. Vỏ bánh giòn tan hoàn hảo, nhân bánh tươi ngon và đậm đà hương …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Artyom Mokretsov",
+    "rating": 5,
+    "review_text": "Tôi thực sự rất thích chiếc pizza này! Đế bánh giòn tan, nước sốt có hương vị tuyệt vời, và các nguyên liệu phủ lên trên tươi ngon và cân bằng tốt. Nhìn chung, đó là một bữa ăn ngon miệng và thỏa mãn. Chắc chắn tôi sẽ giới thiệu quán này và hy vọng sẽ quay lại lần nữa!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Rusty Shackleford",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời với chiếc pizza này. Một trong những loại pizza ngon nhất Sài Gòn, một viên ngọc quý cần phải tìm ra. Phần ăn lớn, nhiều nhân, giá cả hợp lý, mang đậm phong cách pizza New York. Nhân viên thân thiện và chuyên nghiệp, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Everlee Random",
+    "rating": 5,
+    "review_text": "Khuyên dùng cho bất cứ ai muốn ăn nhẹ vào đêm khuya vì pizza ở đây thực sự là pizza đúng nghĩa!! Đế mỏng ngon, phô mai tuyệt vời, nhiều hương vị!!❤️❤️❤️❤️ Họ cũng có một chú chó dễ thương nhưng rất hiếu động nên hãy cố gắng tránh để nó nhảy lên người bạn!!! Nhân viên tuyệt vời!\n10000 trên 10!!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Kyle Gobey",
+    "rating": 5,
+    "review_text": "Pizza ngon nhất TP.HCM!! Siêu ngon! Đế mỏng kiểu Mỹ, lúc nào cũng tuyệt vời! Không thể nào mua pizza ở chỗ khác được nữa 🔥 Pizza Kin's đã chiếm trọn trái tim, dạ dày và ví tiền của tôi! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Eman _ Luzia Marilac",
+    "rating": 5,
+    "review_text": "Chúng tôi đã tự tay làm một chiếc pizza đặc biệt dành cho người yêu thích sầu riêng và thịt! Họ làm bột và tất cả nguyên liệu đều tươi ngon ngay tại chỗ, ngon tuyệt vời! Và quán mở cửa đến 4 giờ sáng!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Russell H",
+    "rating": 5,
+    "review_text": "Các đánh giá đều tốt nên tôi đã thử. Không hề thất vọng, pizza rất tuyệt vời. Quán chủ yếu phục vụ giao hàng nên không gian khá yên tĩnh trên một con phố thao điện vắng vẻ. Nhân viên thân thiện và đây là một nơi tốt để đến."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "ᄋᄒᄉᄒ",
+    "rating": 5,
+    "review_text": "Giá cả phải chăng, món ăn ngon và phục vụ cũng tuyệt vời!\n\nNhân viên nói tiếng Anh rất tốt và rất thân thiện. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Joslyn Armstrong",
+    "rating": 5,
+    "review_text": "Món này thực sự rất ngon và nhân viên thân thiện. Bánh được nướng chín đều và hương vị vừa phải. Giá cả khá hợp lý và hương vị thì xứng đáng với giá tiền. Chắc chắn sẽ quay lại và thử thêm nhiều món khác 😊 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "My La",
+    "rating": 5,
+    "review_text": "Chúng tôi đến đây khá muộn vì đói bụng. Pizza ngon, đặc biệt là pizza pepperoni. Giá cả hợp lý so với chất lượng. Chắc chắn sẽ quay lại!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Loan Sindy",
+    "rating": 5,
+    "review_text": "Pizza khổng lồ!!! Chúng tôi gọi một chiếc pizza 42cm (dành cho người thích thịt) và nó rất ngon. Nhân viên cũng rất tốt bụng và thân thiện nữa 🕺 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Alex bao Michot",
+    "rating": 5,
+    "review_text": "Thành thật mà nói, đây là đội ngũ chân thành nhất và quán pizza ngon nhất Việt Nam. Phải ủng hộ những doanh nghiệp địa phương tài năng. Quán này vừa địa phương lại vừa tài năng nên quá hoàn hảo 🫶 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Jean-Jacques Mielecki",
+    "rating": 5,
+    "review_text": "Tôi gọi một chiếc pizza 42cm - một nửa gorgonzola, một nửa thập cẩm. Nó rất ngon, nướng hoàn hảo, giá cả hợp lý, không gian yên tĩnh và đơn giản, nhân viên thân thiện. Tôi chấm 5/5 điểm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Bob Johnson",
+    "rating": 5,
+    "review_text": "Đây là chiếc pizza ngon nhất tôi từng ăn ở Việt Nam. Đế bánh rất ngon, nhân bánh nhiều, nói chung là một chiếc pizza tuyệt vời! Tôi đã ở Thượng Điền một tuần và đã ăn ở đây 2 lần. Hãy thử nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Adam Cope",
+    "rating": 5,
+    "review_text": "Pizza và cánh gà ở đây tuyệt vời, và không gian ăn uống nhỏ xinh cũng rất dễ thương. Rất đáng để thử và nhân viên thì tuyệt vời 🤩 Họ còn có một chú mèo để bạn chơi cùng nữa 😻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Olivier",
+    "rating": 5,
+    "review_text": "Quán pizza ngon nhất Thảo Điền. Mở cửa đến 4 giờ sáng. Pizza ngon tuyệt, khẩu phần lớn và chủ quán rất thân thiện. Thêm vào đó, đồ uống còn được khuyến mãi nữa. Đúng là thiên đường 😁🤗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Hansol Park",
+    "rating": 2,
+    "review_text": "Tôi đặt món này vì nhớ là đã rất thích nó ở Lễ hội Pizza, nhưng đây là lần đầu tiên tôi ăn một chiếc pizza ít phô mai đến vậy... Phô mai không kéo sợi được, phần nhân thì thưa thớt, và trông có vẻ khô... Ít nhất họ cũng nên rắc đủ phô mai …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Thomas Delta",
+    "rating": 5,
+    "review_text": "Pizza ngon tuyệt, có lẽ là ngon nhất tôi từng ăn ở Việt Nam!\n\nChắc chắn sẽ đặt hàng thường xuyên nếu chất lượng luôn tốt như vậy :D"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Freddie Cove",
+    "rating": 5,
+    "review_text": "Đây chắc chắn là quán pizza ngon nhất Thành phố Hồ Chí Minh. Dịch vụ tuyệt vời và mở cửa rất muộn. Chắc chắn đáng để ghé thăm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Frank Turner",
+    "rating": 5,
+    "review_text": "Nơi này tuyệt vời. Đúng là một viên ngọc quý của khu phố. Mặc dù là một thành phố lớn, TP.HCM thường đóng cửa sớm, đặc biệt là Thảo Điền, nhưng quán này mở cửa đến 4 giờ sáng!!! Họ rất tốt bụng và thân thiện. Và pizza thì ngon tuyệt! Hãy đến thử nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Anoop Kapukotuwa",
+    "rating": 5,
+    "review_text": "Pizza tuyệt vời và giá cả rất phải chăng. Có khá nhiều lựa chọn và họ cũng khá linh hoạt trong việc thêm topping. Quan trọng nhất là, họ mở cửa đến 4 giờ sáng!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Nekopootis",
+    "rating": 5,
+    "review_text": "Đây là chiếc pizza ngon nhất mà tôi từng ăn ở TP.HCM, đế bánh được nướng rất ngon và nhân bánh thì đầy đặn, tôi rất khuyên dùng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Wahib Elwardi",
+    "rating": 4,
+    "review_text": "Pizza ngon, chủ quán rất thân thiện dù chúng tôi đến khá muộn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Леонид Слюсарь",
+    "rating": 5,
+    "review_text": "Quán pizza này rất dễ tìm trong con hẻm 216. Nhân viên thân thiện và kiên nhẫn. Tôi thường đến đây ăn pizza trong nửa năm qua. Lần nào pizza cũng hoàn hảo, với sự cân bằng hương vị tuyệt vời. Tôi thực sự thích pizza phô mai. Giá cả hợp lý + …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Thanh Long Pham",
+    "rating": 5,
+    "review_text": "Chỗ ngồi có hạn, đồ ăn ngon (phần ăn lớn, nhiều topping)."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Rob Roddy",
+    "rating": 5,
+    "review_text": "Pizza kiểu New York tuyệt vời. Bột bánh, nước sốt và phô mai đều rất ngon. Thực sự hoàn hảo cho khẩu vị của tôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Elena Uspenskaia",
+    "rating": 5,
+    "review_text": "Pizza ngon nhất từ ​​trước đến giờ!! Chúng tôi lặn lội từ Govap đến đây chỉ để thưởng thức món pizza chất lượng cao, nguyên liệu tươi ngon, giòn tan và hấp dẫn này!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Nile Mughal Thornberry",
+    "rating": 5,
+    "review_text": "Pizza ngon nhất Thành phố Hồ Chí Minh! Ngon tuyệt, mở cửa đến khuya, giá cả phải chăng và nhân viên rất thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Thanh Lam",
+    "rating": 5,
+    "review_text": "Tôi yêu thích món ăn Việt Nam! Nhưng nếu bạn nhớ món pizza New York, hãy đến đây!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Tiep Tran",
+    "rating": 5,
+    "review_text": "Chủ quán thân thiện và pizza ngon với giá cả phải chăng, quán nằm khuất trong khu Thảo Điền."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "I K",
+    "rating": 5,
+    "review_text": "Tôi thực sự nghiện món Meat Lovers của họ. Và nhân viên thì rất dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Damian Rule",
+    "rating": 5,
+    "review_text": "Đây là quán pizza ngon nhất TP.HCM/Việt Nam, và tôi đã thử hầu hết các quán pizza rồi!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "James Kapassa",
+    "rating": 5,
+    "review_text": "Nhân viên rất thân thiện và chu đáo. Họ mở cửa đến 4 giờ sáng và rất nhiệt tình giúp đỡ. Bánh pizza có kích thước KHỔNG LỒ và chất lượng thì tuyệt vời! Tôi không hề nói dối khi nói rằng đó là chiếc bánh pizza ngon nhất mà tôi từng ăn trong đời!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Xavier Gb32",
+    "rating": 5,
+    "review_text": "Pizza ngon và đế bánh cũng ngon, chỉ cần thêm dầu ớt cay nữa là tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "hugh smith",
+    "rating": 5,
+    "review_text": "Một chiếc pizza hoàn hảo cho lúc 1 giờ sáng. Không ngọt như nhiều loại pizza khác mà đậm đà và ngon tuyệt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Deniz Ermolinz",
+    "rating": 5,
+    "review_text": "Nguyên liệu chất lượng tốt, hương vị tuyệt vời và khẩu phần ăn vừa phải. Và họ mở cửa rất muộn, đó là một điểm cộng lớn cho những người bận rộn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Mai Han Le",
+    "rating": 5,
+    "review_text": "10/10 cho quán này. Giá cả phải chăng và khẩu phần ăn rất lớn. Mình cực kỳ khuyên bạn nên đến thử <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Vũ Minh Nhật Thân",
+    "rating": 5,
+    "review_text": "Một quán pizza tuyệt vời để gọi món ăn khuya. Chắc chắn sẽ quay lại lần nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Tuan Nguyen",
+    "rating": 5,
+    "review_text": "Pizza thượng hạng ở đây ngon tuyệt vời! Tôi thích lớp vỏ mỏng và các nguyên liệu siêu tươi ngon! Nhân viên ở đây cũng rất tuyệt vời! Tôi chắc chắn sẽ quay lại và rất khuyến khích mọi người yêu thích pizza đến đây!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "HongTuoi Ly",
+    "rating": 5,
+    "review_text": "Chủ quán tuyệt vời, pizza Gorgonzola và gà nướng BBQ cũng rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Dan The Man",
+    "rating": 5,
+    "review_text": "Pizza tuyệt vời! Họ thực sự đã sáng tạo ra một loại pizza nửa nọ nửa kia chưa từng có, với phô mai chỉ phủ một mặt, nhưng họ đã làm rất tốt và chắc chắn tôi sẽ quay lại!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Vadim",
+    "rating": 5,
+    "review_text": "42 cm Thịt giăm bông và nấm thật tuyệt vời phải không nào!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Ryan Dussold",
+    "rating": 1,
+    "review_text": "Đã đặt hàng ở đây nhiều lần, lần cuối cùng tôi ăn ở đây là bị ngộ độc thực phẩm tồi tệ nhất đời. Đau không chịu nổi. Đã một tuần trôi qua mà tôi vẫn chưa hoàn toàn bình phục. Đã phá hỏng nhiều việc quan trọng tôi cần làm vì sự mất vệ sinh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Arlo Bailey",
+    "rating": 5,
+    "review_text": "Pizza tuyệt vời và dịch vụ xuất sắc, 10/10 như mọi khi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "C D",
+    "rating": 1,
+    "review_text": "Tối qua chúng tôi chỉ mua pizza này vì chuyến bay đến Thành phố Hồ Chí Minh bị trễ và mọi thứ đều đóng cửa. Đây chắc chắn là chiếc pizza tệ nhất mà chúng tôi từng ăn. Chúng tôi gọi hai chiếc pizza Margarita, loại này dễ làm, nhưng thực sự …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Liqiu Guo",
+    "rating": 5,
+    "review_text": "Mọi người ở đây đều rất thân thiện và đồ ăn thì rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Brandon Vehrs",
+    "rating": 5,
+    "review_text": "Có lẽ đây là quán pizza ngon nhất Sài Gòn. Chú chó nhỏ rất phấn khích. Chủ quán rất tốt bụng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Гузель Сайфутдинова",
+    "rating": 5,
+    "review_text": "Đó là một chiếc pizza thực sự ngon tuyệt!!!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Tuan Tran",
+    "rating": 5,
+    "review_text": "Không gian ấm cúng, nhân viên thân thiện và phục vụ nhanh chóng khiến nơi đây luôn là địa điểm yêu thích của tôi ở Thảo Dien."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Colbert Woods",
+    "rating": 5,
+    "review_text": "Mình thích lắm 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Vickneswaran Rabindran",
+    "rating": 5,
+    "review_text": "Sự hiếu khách tuyệt vời, nhiều lựa chọn hương vị và hương vị thực sự tuyệt vời. Nhất định phải ghé thăm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "J's Stories",
+    "rating": 5,
+    "review_text": "Pizza ở đây được làm thủ công rất ngon và đặc biệt dành riêng cho từng khách hàng. Bánh mì có lớp vỏ mềm và nhiều phô mai. Tôi không thể cưỡng lại việc liên tục đặt hàng ở đây. Nhất định phải thử!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Abishan Jeya",
+    "rating": 5,
+    "review_text": "Pizza cực ngon. Nhân viên thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "fred mac",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và không gian thư giãn tuyệt vời. Còn gì hơn thế nữa?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Le Hoang Nhat Nam",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon và giá cả cũng không quá đắt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "O Alexavier (A.O.C.)",
+    "rating": 5,
+    "review_text": "Tôi thường xuyên đến đây ăn pizza, họ có một trong những loại pizza ngon nhất, nếu không muốn nói là ngon nhất theo kiểu Mỹ ở Thảo Điền."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "陳詳燊",
+    "rating": 4,
+    "review_text": "Dịch vụ của ông chủ rất tốt. Pizza được phục vụ rất thơm. Rất đáng để thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Duy Nguyễn Quang",
+    "rating": 4,
+    "review_text": "Pizza ngon và phục vụ chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Tiger Lee",
+    "rating": 5,
+    "review_text": "Vừa mới đặt một chiếc pizza phô mai giao tận nhà. Giá cả rất hợp lý, một trong những chiếc pizza cỡ lớn nhất ở đây và rất ngon. Chắc chắn sẽ đặt hàng lại từ đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "elle",
+    "rating": 5,
+    "review_text": "Pizza ngon và dịch vụ cũng tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Chris Galvez",
+    "rating": 1,
+    "review_text": "Tôi đã đặt món Kin Specialty, mô tả ghi là Thịt & Thịt với ớt chuông và ô liu đen. Tôi rất không hài lòng với phần nhân bánh pizza. Chỉ có vài miếng giăm bông, vài quả ớt chuông và phần nhân chủ yếu là ô liu. Tôi rất thất vọng về số lượng nhân bánh cho một món được gọi là \"Đặc biệt của quán\"!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Jen Bucalo",
+    "rating": 5,
+    "review_text": "Đây chắc chắn là pizza ngon nhất Sài Gòn!! 💯 Tôi đã từng ăn pizza ở New York rồi, và đây chỉ là ý kiến ​​cá nhân thôi, nhưng với tôi thì pizza ở đây ngon hơn nhiều 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Jake Bate",
+    "rating": 5,
+    "review_text": "Quán Kin Pizza thật tuyệt vời. Đồ ăn ngon tuyệt và nhân viên còn tuyệt vời hơn nữa. Họ rất tốt bụng và nhiệt tình giúp đỡ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Ruslan Fakhrislamov",
+    "rating": 5,
+    "review_text": "Đây là một nơi tốt. Tôi thực sự thích pizza ở đây. Nhân viên thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Broos Industrial Floors SIA",
+    "rating": 5,
+    "review_text": "Quán rất đẹp, giao hàng nhanh và nhân viên thân thiện! Chất lượng pizza cũng rất tuyệt vời. Rất đáng để thử!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Matthew Yeow",
+    "rating": 5,
+    "review_text": "Những chiếc pizza tự làm ở đây rất ngon. Tôi đã gọi pizza phô mai truyền thống. Phải nói là khá ngon :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Han Hyunjin",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý và pizza thì ngon tuyệt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Quang Tran",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhất ở Thảo Điền 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Ryan Tadjou",
+    "rating": 5,
+    "review_text": "Chúng tôi đã gọi một chiếc pizza 42 cm 🍕 nửa hải sản nửa thập cẩm. Và giờ chúng tôi đang gọi thêm một chiếc nữa. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Alexavier Collado",
+    "rating": 5,
+    "review_text": "Đế pizza tuyệt vời và lớp phủ béo ngậy. Tôi thường đến tiệm pizza giao hàng tận nơi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Fizzy Hafiz",
+    "rating": 5,
+    "review_text": "Không khí tuyệt vời cùng kỹ năng làm pizza xuất sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Daniel Le",
+    "rating": 5,
+    "review_text": "Tôi luôn ghé qua đây mua pizza mang về, ngon tuyệt vời, bạn sẽ không hối hận đâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Martin Soriot",
+    "rating": 5,
+    "review_text": "Quán pizza tuyệt vời ngay gần căn hộ của tôi, dịch vụ khách hàng hoàn hảo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Mark DaVinci",
+    "rating": 5,
+    "review_text": "Tôi đã ăn pizza ở đây 3 lần rồi. Lần nào cũng ngon tuyệt. Giá cả rất phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Augustin Aubry",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời, cảm ơn rất nhiều, pizza ngon tuyệt ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Phuong Thao Nguyen",
+    "rating": 5,
+    "review_text": "Pizza ở đây là ngon nhất Sài Gòn, hương vị giống như pizza ở Pháp và Ý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Garth Randall",
+    "rating": 4,
+    "review_text": "Pizza ngon, thậm chí vượt mong đợi. Nhưng giá thì sao? Quá đắt nếu mua mang về."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Benjamin Carraud",
+    "rating": 5,
+    "review_text": "Đội ngũ điều hành cửa hàng pizza này rất tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Lise Fournial",
+    "rating": 5,
+    "review_text": "Nhân viên rất thân thiện và nhiệt tình, đồ ăn ngon, trải nghiệm tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Jan Wujec",
+    "rating": 5,
+    "review_text": "Cảm ơn vì bữa ăn ngon ;)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "david lui",
+    "rating": 5,
+    "review_text": "Hương vị tuyệt vời. Phục vụ chu đáo 👍🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Umehani Khan",
+    "rating": 5,
+    "review_text": "Đó là một gợi ý tuyệt vời… rất đáng để thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Captain Bigsy",
+    "rating": 5,
+    "review_text": "Pizza ngon, phục vụ nhanh, nhân viên thân thiện, mọi thứ đều tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Pierre Desdevises Yves Francois",
+    "rating": 5,
+    "review_text": "Pizza tuyệt vời được giao nhanh chóng và cả vào đêm khuya."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Quynh Anh",
+    "rating": 2,
+    "review_text": "Bánh pizza của tôi bị cháy và bột bánh có vị như bánh mì ướt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Sandy Fargus",
+    "rating": 5,
+    "review_text": "Pizza tuyệt vời, người dân thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Papifoolio",
+    "rating": 5,
+    "review_text": "Nhân viên rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Lucas Lee",
+    "rating": 1,
+    "review_text": "Chi nhánh Quân đoàn 1. Không có phản hồi thỏa đáng nào sau khi thực đơn sai được giao. Tôi cảm thấy mình bị lừa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Alicia Moran",
+    "rating": 5,
+    "review_text": "Địa điểm tuyệt vời, pizza ngon, mở cửa đến khuya."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Jun Wei Yee",
+    "rating": 5,
+    "review_text": "Địa điểm ăn tối tuyệt vời, không gian thoáng đãng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Tyler Kooy",
+    "rating": 5,
+    "review_text": "Tuyệt vời. Pizza ngon tuyệt và nhân viên phục vụ tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Ward Conor",
+    "rating": 5,
+    "review_text": "Pizza tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Maika",
+    "rating": 5,
+    "review_text": "Pizza ngon, nhân viên thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Education Center MLC",
+    "rating": 5,
+    "review_text": "Đồ ăn tuyệt vời ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Tân Lê",
+    "rating": 5,
+    "review_text": "Tuyệt vời! Hương vị rất đặc biệt!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Livio Esposito",
+    "rating": 5,
+    "review_text": "Mọi thứ đều hoàn hảo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Đình Phương Nguyễn",
+    "rating": 5,
+    "review_text": "Rất ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Thien Thien",
+    "rating": 5,
+    "review_text": "Ngon tuyệt <3 <3 <3 <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Thái Văn",
+    "rating": 5,
+    "review_text": "Pizza ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Chief L",
+    "rating": 5,
+    "review_text": "Lần đầu tiên đặt pizza từ Kin Pizza và mình cực kỳ thích! 🍕 Mình đến từ Toronto và luôn là fan cuồng của pizza kiểu New York. Mình đã đến NYC gần 20 lần rồi, nên mình biết mình thích gì, và thật sự rất tuyệt khi cuối cùng cũng tìm được một …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "Etienne Lachese",
+    "rating": 5,
+    "review_text": "Ông chủ tiệm pizza khổng lồ rất thân thiện! Một nơi tuyệt vời. Tôi chân thành khuyên mọi người nên ghé qua đây!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527c719ebe435:0x9b16f23cb771694c",
+    "shop_name": "Kin Pizza - Thảo Điền",
+    "user_name": "bobmarcy 0408",
+    "rating": 1,
+    "review_text": "Trải nghiệm tồi tệ nhất từ ​​trước đến giờ. Đây là những gì họ giao, và cửa hàng hoàn toàn phớt lờ tôi và từ chối hoàn tiền. Họ mất trí rồi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f46720ca3cd:0x8cb52ca3ca93de1f",
+    "shop_name": "Xéooo Nhattao - Pizza & Pasta",
+    "user_name": "Phạm Trọng",
+    "rating": 2,
+    "review_text": "Do tụi mình lười đi xa nên chọn quán ăn gần nhà, mình search thì thấy quán 4.8 sao nên đi ăn thử. Sau khi ăn xong mình về đánh giá thì có vẻ là tiệm sử dụng dịch vụ đánh giá ảo. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f46720ca3cd:0x8cb52ca3ca93de1f",
+    "shop_name": "Xéooo Nhattao - Pizza & Pasta",
+    "user_name": "Nghi Xuan",
+    "rating": 5,
+    "review_text": "Quán decor rất ấm cúng và dễ thương, mấy anh chị nhân viên phục vụ và tư vấn món siêu nhiệt tình 🫶✨💖 Món ăn ra nhanh, hợp khẩu vị gia đình của mình, có đầy đủ món mặn và chay luôn nên cũng tiện, giá rất hợp lý. Nhất định mình sẽ quay lại, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f46720ca3cd:0x8cb52ca3ca93de1f",
+    "shop_name": "Xéooo Nhattao - Pizza & Pasta",
+    "user_name": "Quỳnh Phạm",
+    "rating": 5,
+    "review_text": "Món ăn ngon quán nêm nếm theo khẩu vị người Việt Nam , mỗi món ăn đều rất nhiều  mình đi 2 người kêu 4 món nên ăn còn thừa lại quán cũng rất chu đáo đóng gói đồ ăn mang về cho mình . Phần decor nên chọn gói decor 199k rất đáng tiền có đầy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f46720ca3cd:0x8cb52ca3ca93de1f",
+    "shop_name": "Xéooo Nhattao - Pizza & Pasta",
+    "user_name": "Kypu Dương",
+    "rating": 4,
+    "review_text": "Here is my honest and complete review of my experience here:\nThe Food: Both the Pizza and Pasta are delicious and flavorful. The absolute highlight for me was the Matcha pizza crust—it is super unique, fragrant, and a …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f46720ca3cd:0x8cb52ca3ca93de1f",
+    "shop_name": "Xéooo Nhattao - Pizza & Pasta",
+    "user_name": "Yến Nhi",
+    "rating": 4,
+    "review_text": "1. Quán nằm trên đường dễ tìm thấy, không gian quân thì nói thật hơi nhỏ nhưng nếu bạn nào thích không gian ấm cúng thì có thể cân nhắc.\n2. Tuy đi vào cuối tuần nhưng quán chuẩn bị đồ ăn cũng khá nhanh, không phải đợi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f46720ca3cd:0x8cb52ca3ca93de1f",
+    "shop_name": "Xéooo Nhattao - Pizza & Pasta",
+    "user_name": "Mỹ Mỹ",
+    "rating": 1,
+    "review_text": "Đồ ăn RẤT DỞ & MẮC, mng nghĩ sao đĩa salad trong hình gần 100k? nchung ai kêu rẻ chứ tui thấy giá này thêm 200 nữa đi ăn 4p thì xứng đáng hơn, trong hình 400 hơn (tính thêm 5% phí đặt bàn là tui chán dữ á)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f46720ca3cd:0x8cb52ca3ca93de1f",
+    "shop_name": "Xéooo Nhattao - Pizza & Pasta",
+    "user_name": "Bạch Kim",
+    "rating": 1,
+    "review_text": "Tớ mới đi ăn ở quán lúc 19h30-20h ngày 11/7 ạ.Thật sự rất hụt hẫng. Tớ tình cờ thấy quán trên tiktok và thấy vibe khá ok nên quyết định đặt bàn luôn ko nghĩ nhiều. Tớ đã nhắn thẳng fanpage tớ muốn ngồi bàn như hình, tớ gửi 2 lần, quán nói …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f46720ca3cd:0x8cb52ca3ca93de1f",
+    "shop_name": "Xéooo Nhattao - Pizza & Pasta",
+    "user_name": "Linh Yến",
+    "rating": 1,
+    "review_text": "Hôm nay mình tới quán sau khi đã ăn 1 bữa thịt nướng nhẹ rồi, nên chỉ gọi 1 pizza half half. Nhân viên hỏi mình và bạn đi cùng có gọi nước ko thì tụi mình đều từ chối và ok với phần gọi món rồi, nhưng ko hiểu sao bạn nv nữ áo trắng tóc vàng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f46720ca3cd:0x8cb52ca3ca93de1f",
+    "shop_name": "Xéooo Nhattao - Pizza & Pasta",
+    "user_name": "Nhu Ho",
+    "rating": 5,
+    "review_text": "quán khá chill, mình đi tầm lúc chiều có góc nhỏ decor khá xinh rcm các cặp đôi hẹn hò tới Xéo nha, giá cũng khá ổn và đồ ăn ngon ạa"
+  }
+]

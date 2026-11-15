@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f46c439db49:0x2e273cbe3518b4cb",
+    "shop_name": "Sài Gòn Garden",
+    "user_name": "Vu Thuong",
+    "rating": 5,
+    "review_text": "rât thích tới đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f46c439db49:0x2e273cbe3518b4cb",
+    "shop_name": "Sài Gòn Garden",
+    "user_name": "Anh Duc Doan",
+    "rating": 4,
+    "review_text": "không tồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Thanh Huynh",
+    "rating": 4,
+    "review_text": "Xôi mới nón, ăn ngon, topping không quá đầy đủ, chủ yêu vị đến từ pate. Không quá xuất sắc nhưng ăn ngon ok."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Tuan Nguyen",
+    "rating": 5,
+    "review_text": "Thương hiệu xôi nổi tiếng suốt hàng chục năm ở tphcm. Từ tiệm đầu tiên ở q6 đã mở rộng ra khắp thành phố, chi nhánh mình hay ghé là Lý Thái Tổ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Lam Tran",
+    "rating": 1,
+    "review_text": "Thịt có mùi thiu ! cẩn trọng khâu bảo quản ! bỏ đi ko bán những sản phẩm có thể gây ngộ độc thực phẩm ! thân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Minh Trần",
+    "rating": 1,
+    "review_text": "Trc giờ ăn nhiều làn rồi, lần này mới ăn lại bị trúng thực, đau bụng sáng giờ, thật sự làm ăn quá thất đức"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "HẰNG NGUYỄN",
+    "rating": 4,
+    "review_text": "Xôi thập cẩm Bình Tiên (đường Lý Thái Tổ) mềm dẻo, topping đầy đặn gồm pate, thịt xá xíu, lạp xưởng, củ cải muối, chả, trứng, mỡ hành, dăm bông và đậu phộng, tạo hương vị thơm ngon, hòa quyện.\nQuán đông khách, giá hợp lý 30,000 đồng/phần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "VLOG TẤN TRẦN",
+    "rating": 4,
+    "review_text": "Xôi cũng ok không phải là ngon lắm nhưng xôi nhiều ăn no luôn. 1 phần xôi mặn 20-25 ngàn\nPhần 25 ngàn giá cả hợp lý …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Quốc Hưng Chung",
+    "rating": 5,
+    "review_text": "Tôi mua gói xôi lá Cẩm, đậu xanh nước cốt dừa (loại ngọt). Thật bất ngờ, giá rất rẻ mà gói xôi thì nhiều mà lại ngon nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Phuong Mai Vo",
+    "rating": 4,
+    "review_text": "mình gọi xôi mặn nhỏ 25k dặn ít xôi, hộp xôi gần như full topping với sốt pate đặc trưng, gần như là sốt sệt, kh đặc thịt gan như pate truyền thống …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Trúc Phương Lê",
+    "rating": 4,
+    "review_text": "Mình đã ăn ở chi nhánh bình tiên và tỉnh lộ 10, ăn thử phần xôi mặn ở đây thấy topping và xôi dẻo, nóng hổi, rẻ, nhiều nhưng phần sốt pate cho ít và ko thơm bằng. Đây là phần 25k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Quang Le",
+    "rating": 1,
+    "review_text": "Mua 3 hộp xôi , nói đi nói lại : không bỏ đậu phộng , thoăn thoắt làm 3 hộp đầy đậu như chưa nghe gì , bị rất nhiều lần từ đây . ĂN ĐẬU SẶC BỎ MẸ !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Dung Bui",
+    "rating": 5,
+    "review_text": "Mình order phần xôi mặn lớn + add thêm 1 mớ topping mà ăn quài ko hết luôn 😭😭\n\nNhưng mà xôi ngon lắm nha quý dị. Must try 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "mộng mơ",
+    "rating": 1,
+    "review_text": "Xôi cũ ngày hôm trước mùi hơi bị thiu đậu phộng đắng khó ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Phương Huỳnh",
+    "rating": 3,
+    "review_text": "Ngày xưa ở q6 hay ra mua xôi BT, giờ chuyển nhà ghé chi nhánh này mua thử xôi mặn thì thấy không ngon bằng xôi BT chính gốc, xôi không nóng, thịt khô!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Minh Khánh",
+    "rating": 3,
+    "review_text": "Mua ở cơ sơ trên phố Nguyễn Đình Chiểu nhưng k tìm dc định vị, về tổng quan thì xôi ăn đc nhưng gạo nấu chưa phải loại ngon, phần topping thì ở mức ổn. Gọi suất thập cẩm 40k."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Linh Đỗ Quang",
+    "rating": 1,
+    "review_text": "Thức ăn có sâu mình bỏ cả hộp, mình nhắn tin phản ánh lên fanpage nhưng đây là cách cửa hàng giải quyết không có bất cứ lời xin lỗi nào với khách hàng, trãi nghiệm thật sự tệ, không bao giờ quay lại!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Nguyen Yuni (Thi Thanh Mai Nguyen)",
+    "rating": 5,
+    "review_text": "Xôi ngon, 1 phần ăn khá nhiều, nhân viên làm nhanh và nhiệt tình với khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Windy Trịnh",
+    "rating": 5,
+    "review_text": "mình hay order xôi mặn ở đây,\nngon mà rẻ nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Jkery",
+    "rating": 4,
+    "review_text": "Mua ăn đi làm nhanh xôi cũng khá ok chất lượng rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Nguyên Lê",
+    "rating": 1,
+    "review_text": "Chủ hành xử như thiếu học . Xôi dở. Giải quyết vấn đề thiếu chuyên nghiệp . Block khách. Xôi co dòi . Chụp gửi tiệm mà tiệm hỏi dò xong block luôn k giải quyếtm hộp xôi với bill đặt app rành mà nói k thấy hạt nếp nào . Tưởng có cái mác \"xôi ng hoa\" bán chảnh ỉa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Van Nguyen",
+    "rating": 5,
+    "review_text": "Xôi mặn chỉ 25k mà ăn no lắm nha. Topping nhiều, có thêm sốt đậu phộng hay sao đó, ăn rất thơm và béo. Nếu thuận đường thì cho ăn sáng mỗi ngày cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "The Wandering Surgeon",
+    "rating": 5,
+    "review_text": "Xôi mềm, dẻo, không bị khô. Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Phuc Truong",
+    "rating": 4,
+    "review_text": "Quán xôi nổi tiếng, hương vị ngon lành\nQuán có hơi nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "ani seo",
+    "rating": 5,
+    "review_text": "hộp xôi gà xé nhìu vậy mà có 25,30 gì thôi á, ngon lắm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Man Wol",
+    "rating": 1,
+    "review_text": "Hôm nay bạn mình có mua hộp xôi ở đây, ôi trời đấc ơi nó có dòi mn ạ. Thay vì up phốt thì bạn mình quá nhân từ mà nhắn tin riêng cho quán, nhưng thay vì xin lỗi quán đổi lỗi ngược cho bạn mình và block :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Duy Ngo",
+    "rating": 4,
+    "review_text": "Cũng tạm được, nhiều chỗ ngon hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Thảo Tô",
+    "rating": 4,
+    "review_text": "Mình hay ăn chi nhánh BT nhưng có việc chạy ngang nên mua lun\nNhân viên làm khá nhanh chóng\nCá nhân mình ăn thấy bên BT ngon hơn và topping nhìu hơn\nVề phần nếp thì mình thấy có hơi khô một xíu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Dzuy Ng",
+    "rating": 3,
+    "review_text": "xôi ngon, nước chan làm vừa ăn, ko quá nhiều dầu mỡ nên k bị ngán. thịt gà có lúc hơi cứng nhưng chấp nhận. có 1 chị nhân viên hơi mất lịch sự, hỏi giá bao nhiêu thì chị ta trả lời cộc lốc k chủ ngữ vị ngữ, mà chị ta hỏi khách cũng với giọng điệu đó. lúc khách đưa tiền thì lấy cái tay giựt giựt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Amazing Music",
+    "rating": 5,
+    "review_text": "Có mấy má nhà bán xôi hay gì vô đánh giá như đb. Xôi ở các chi nhánh của BT ngon và rẻ nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Defak",
+    "rating": 4,
+    "review_text": "Xôi ăn cũng bình thường, hơi ngấy một chút. Giá cả ổn hợp với món ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Linda To",
+    "rating": 1,
+    "review_text": "Xôi ăn đc, nhưng mà tay đeo bao tay lại cầm tiền. Rồi bốc topping bỏ vô xôi. Mất vệ sinh. Ăn vô sẽ đau bụng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Đỗ Đại Lâm",
+    "rating": 5,
+    "review_text": "Xôi ngon. Mới ăn thử xôi mặn. Giá mềm. Người bán thân thiện, vui vẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "tien nhat",
+    "rating": 1,
+    "review_text": "Train lai 2 thái đô 2 bà bán buổi tối, dịch vụ sẽ tốt hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Hung",
+    "rating": 3,
+    "review_text": "Bớt bỏ mấy cái lá chuối xàm loll cái, đồng ý trông đẹp á mà vướng vcl sao ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Truong Hai",
+    "rating": 3,
+    "review_text": "Nước sốt không ngon, nếu cho nước tương truyền thống sẽ ngon hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Phong Nguyen",
+    "rating": 2,
+    "review_text": "Không bỏ đường xôi ngọt mà bị lạt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Quỳnh Nguyễn Phương Gia",
+    "rating": 5,
+    "review_text": "Xôi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Minh Anh Nguyễn",
+    "rating": 1,
+    "review_text": "Xôi ngon thái độ nhân viên tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "zcr n",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Hùynh Thiên Phạm",
+    "rating": 5,
+    "review_text": "Rẻ ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Phạm Cao Hoàng Huy",
+    "rating": 5,
+    "review_text": "Xôi ngon 😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Thao Nguyen",
+    "rating": 4,
+    "review_text": "Phần xôi đầy ú nu luôn á. Ăn bao no luôn. Xôi ở đây dẻo, phần topping mình thấy quán làm ngon, sạch sẽ. Thích cái hộp lót thêm miếng lá chuối, nhìn cảm thấy ngon hơn hẳn luôn. Mình thích ăn xôi mặn nên thích ăn ở đây. Nhưng mà xôi mua ăn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Duy Diệp",
+    "rating": 1,
+    "review_text": "Xôi đùi gà quá dở. Đùi gà không phải đùi rô ti, thịt bở. Pate cũng dở ẹc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Loan Anh",
+    "rating": 1,
+    "review_text": "Mình đánh giá 1 sao để tiệm có thể mở cam check xem có sai sót trong quá trình bán hàng hay không, hôm qua tầm 12h trưa mình có đặt app 2 phần xôi gà và xôi mặn, như hình mọi người có thể thấy thì đầy đủ topping, nhưng ăn vô có vị lạ và có …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "My Nguyễn",
+    "rating": 5,
+    "review_text": "Xôi ngon nhiều topping, mấy cô bán dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Wei Showpond",
+    "rating": 5,
+    "review_text": "Cơm nếp ngon, giá cả rất phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fe6e2fd1e23:0xa76c54858589c14e",
+    "shop_name": "Xôi Bình Tiên (chi nhánh 2)",
+    "user_name": "Hung Long",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Sao Mai",
+    "rating": 3,
+    "review_text": "View ngắm pháo hoa đẹp, dịch vụ khá ổn\nThực đơn không đa dạng, món ăn không ngon, có thể gọi là dỡ, hải sản cực kỳ tươi qua bàn tay bếp trở nên khô và cứng... với mức giá hơn 2 triệu cho một người quả thực không xứng đáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Khanh Do Duy",
+    "rating": 4,
+    "review_text": "Nằm trên tầng thượng khách sạn Grand Saigon, đi vào trong khách sạn gặp thang máy bấm tầng 20 để đi thẳng lên quán ăn.\nKhông gian thoáng, rất mát mẻ, có khu vực ngồi ngoài trời và ngồi trong nhà, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Nguyen Uyen",
+    "rating": 5,
+    "review_text": "View đẹp, món súp lươn khá ngon 😌 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Hanh Bao Phuc Nguyen",
+    "rating": 5,
+    "review_text": "Khung cảnh bên trong và xung quanh đẹp, rất thích hợp ăn sáng thư giãn cuối tuần cùng gia đình và bạn bè. Món ăn và thức uống ngon, đặc biệt các món trong thố đá."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Bụi-hồng-trần",
+    "rating": 4,
+    "review_text": "Đồ uống ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Cong Nguyen Xuan",
+    "rating": 5,
+    "review_text": "Ăn sáng ngon, view rất đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "thuha pham",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon chất lượng dịch vụ cao cấp. Nhân viên rất chuyên nghiệp luôn chuc ý săn sóc nhu cầu khách hàng tốt nhất niềm nở dễ thương và hỗ trợ tốt. Đồ ăn nấu rất ngon khẩu vị đậm đà và chuẩn vị cả đồ Việt lẫn đồ tây. View tuyệt vời không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Nguyen Dac Thinh",
+    "rating": 5,
+    "review_text": "Đẳng cấp. View sông Sài Gòn rất đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "lyly nguyen",
+    "rating": 1,
+    "review_text": "Siêu tệ. Nhân viên tư vấn không chính xác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Quang Tri Ho Huynh",
+    "rating": 5,
+    "review_text": "Vị trí đẹp, phục vụ tốt, thức ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Sarah Thu",
+    "rating": 5,
+    "review_text": "Tất cả ca ok k có chụp hình ảnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Minh khoa Tran",
+    "rating": 5,
+    "review_text": "Khoáng mát sạch sẽ vị trí ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Hoàng Anh ngo",
+    "rating": 5,
+    "review_text": "Tôi rất thích ở đây, nhân viên phục vụ nhiệt tình và món ăn ngon vừa, trang trí rất đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Vũ Nguyễn",
+    "rating": 5,
+    "review_text": "Một trải nghiệm rất đáng nhớ tại Grand Hotel Saigon. Khách sạn có vị trí đẹp, không gian mang nét cổ điển đặc trưng và dịch vụ chu đáo. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Tu Nguyen",
+    "rating": 5,
+    "review_text": "Ăn sáng tầng 20 ở đây nhiều lần mới review nè, view gom hết SG trong tầm mắt luôn. Ngồi trước 8:30 thì mát mẻ lắm, gió hiu hiu đã lắm. Thực đơn thì phong phú lắm nha, đủ món các vùng miền, làm trong thố nên giữ nóng lâu. Rất đáng để thử và trải nghiệm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Yến Nguyễn",
+    "rating": 5,
+    "review_text": "Set trà đẹp, giá ổn. View đẹp nhìn toàn cảnh thành phố, pv nhiệt tình, không gian thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Mogens Thorborg",
+    "rating": 4,
+    "review_text": "Một trong những quán bar trên sân thượng yêu thích của chúng tôi ở Sài Gòn. Đồ ăn rất ngon. Chúng tôi đã gọi cocktail tôm, súp bò, mì Ý sốt bolognese và lasagna. Rất ngon miệng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Ph. Sangsawang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhưng không có gì đặc biệt, chỉ là các món ăn phương Tây bình thường. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Oswaldo Merida",
+    "rating": 2,
+    "review_text": "Đồ ăn không tệ, nhưng dịch vụ khách hàng thì tệ hại. Nhân viên đã mắc lỗi khi mang cho tôi hai món tôi không gọi và thay vì sửa sai, họ lại bắt tôi trả tiền cho một trong hai món đó với lý do là họ đang \"làm ơn\" cho tôi bằng cách không tính …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Chow Qwing",
+    "rating": 1,
+    "review_text": "Trải nghiệm rất tệ. Chúng tôi là một nhóm 12 người và phải chờ đồ ăn rất lâu. Thức ăn được phục vụ từng món một, mỗi món cách nhau 10 đến 15 phút. Tôi đến trước 6 giờ, đã gọi món, giờ (khi tôi đang viết bài này) là 8:15 mà tôi vẫn chưa nhận …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Marco Barbaccia",
+    "rating": 4,
+    "review_text": "Chúng tôi đã gọi đồ uống, sân thượng rất đẹp, tiếc là hơi bị các tòa nhà chọc trời gần đó che khuất một phần, nhưng rất đáng để đến."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Christophe Mirabile",
+    "rating": 5,
+    "review_text": "Quán bar trên tầng thượng của một khách sạn tuyệt đẹp (Khách sạn Grand Saigon). Tầm nhìn tuyệt đẹp ra một phần thành phố, nhạc sống và không khí sôi động, nhiều lựa chọn cocktail có cồn và không cồn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "P. Y. ([ Adv. ])",
+    "rating": 5,
+    "review_text": "Tầm nhìn tuyệt vời và thực đơn hấp dẫn với nhiều món ăn khác nhau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Raluca Stef",
+    "rating": 4,
+    "review_text": "Đến nhà hàng này để thưởng thức bữa sáng với tầm nhìn tuyệt đẹp và nó đúng như vậy.\nNgoài ra, cháo cũng có nhiều loại và nước ép tươi ngon.\nLưu ý là họ không có lựa chọn sữa thay thế."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Nguyet Thanh Ho",
+    "rating": 5,
+    "review_text": "1. Tầm nhìn tuyệt vời\n2. Món ăn ngon\n3. Nhân viên tận tâm và chu đáo …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Henry Barfoot",
+    "rating": 3,
+    "review_text": "Chúng tôi thấy khá thất vọng. View đẹp và nhân viên dễ chịu, nhưng giá cả quá cao và đồ ăn thì không ngon lắm. Một chai nước nhỏ giá 105.000 VND. Có lẽ nên đến vào giờ khuyến mãi để tận hưởng view và chỗ ngồi ngoài trời thì hơn?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "ケートフィアッテ",
+    "rating": 5,
+    "review_text": "Thật không may, hôm đó thời tiết xấu. Tuy nhiên, cảnh sông về đêm rất đẹp. Tôi cho 3 sao vì chỉ uống bia chứ không ăn gì cả."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "조윤아",
+    "rating": 5,
+    "review_text": "Rất nhiều người lớn tuổi gốc Âu đến đây. Tôi đến vào cuối tuần và thực sự rất thích uống nước ép dưa hấu trong khi nghe nhạc violin và piano. Quang cảnh trung tâm thành phố Hồ Chí Minh thật ngoạn mục, và không khí thì tuyệt vời. Đây là nơi mà bất cứ ai tôi dẫn đến đều luôn hài lòng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Ursina Kilburn",
+    "rating": 2,
+    "review_text": "Tôi đến đây uống nước. Cocktail Old Fashioned khá ngon. Tầm nhìn bị che khuất bởi cửa sổ bẩn. Nhìn chung, giá cả cực kỳ đắt đỏ. Hơn 10 đô la cho một chai nước khoáng có ga là quá đắt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Daniel Wolf",
+    "rating": 4,
+    "review_text": "Tầm nhìn tuyệt vời và không gian rất dễ chịu. Đồ ăn ngon, nhưng không xuất sắc.\n\nDịch vụ chu đáo nhưng hoàn toàn bị quá tải. Không ai thực sự nói được tiếng Anh, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Youngjoon Lee",
+    "rating": 3,
+    "review_text": "Quán bar trên tầng thượng này, nằm trên tầng 10 của khách sạn Grand Saigon, mang một cảm giác khá cổ điển. Điểm thu hút duy nhất là những chỗ ngồi cạnh cửa sổ, nơi có tầm nhìn ra sông Sài Gòn, nhưng ngay cả những chỗ đó cũng không nhiều. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "dongmin kim",
+    "rating": 5,
+    "review_text": "View đẹp, thỉnh thoảng có nhạc vào ban đêm. Đồ ăn cũng ngon. Và nhân viên lễ tân rất thân thiện. Đôi khi họ quên mất là tôi đang ở khách sạn Grand Saigon. Dù sao thì vẫn rất tuyệt. lol"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Manuel Nicaise",
+    "rating": 5,
+    "review_text": "Một địa điểm độc đáo và có vị trí rất thuận lợi. Tầm nhìn tuyệt đẹp ra hồ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Евгения А.",
+    "rating": 5,
+    "review_text": "Cảnh đẹp tuyệt vời. Mọi thứ đều ngon tuyệt 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "jy Sim",
+    "rating": 5,
+    "review_text": "Một quán bar sang trọng trên tầng thượng của một khách sạn lịch sử. Thưởng thức một ly bia trong khi chiêm ngưỡng khung cảnh đêm tuyệt đẹp của dòng sông!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Ian McLeod",
+    "rating": 2,
+    "review_text": "Quay lại với chuyên mục \"Khá khắt khe nhưng không quá cầu kỳ\"\n\nTóm tắt: Toàn calo nhưng cần cải thiện đáng kể mới được gọi là thức ăn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Lady C",
+    "rating": 3,
+    "review_text": "Là khách lưu trú tại Khách sạn Grand Saigon, chúng tôi đã đến thẳng Grand Lounge trên tầng thượng để dùng bữa đầu tiên tại Thành phố Hồ Chí Minh. Không gian rất đẹp. Tuy nhiên, chất lượng món ăn không đạt kỳ vọng và giá cả lại khá đắt. Rau …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "nori",
+    "rating": 4,
+    "review_text": "Giá có vẻ hơi cao cho một bữa ăn nhẹ, nhưng khung cảnh thì đẹp, nhân viên thân thiện, và bánh hamburger thì to và ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Kiat Siong Ng",
+    "rating": 3,
+    "review_text": "Dịch vụ vào tối thứ Sáu của chúng tôi khá chậm. Có những món không nên có trong thực đơn vì chúng thực sự rất tệ, ví dụ như pizza Margherita và súp đá bào. Gordon sẽ chê bai chúng. Phần bít tết thì rất lớn, cá hồi thì tạm được. Nên chọn những món đó nhưng đừng kỳ vọng quá cao. Nhà hàng cần phải cải thiện hơn nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Cuong Nguyen",
+    "rating": 1,
+    "review_text": "Thức ăn được phục vụ ở vị trí quá thấp! Phải chờ khoảng 2 tiếng đồng hồ mới có được miếng bít tết!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Antonia",
+    "rating": 2,
+    "review_text": "Quán bar này có vẻ hơi cũ, chắc hẳn đã từng huy hoàng hơn 10 năm trước ;-) Những loại cocktail chúng tôi gọi đều không có sẵn. Thật không may, cả hai chúng tôi đều không thích những loại cocktail cuối cùng được phục vụ. Nhưng tầm nhìn ở đây thì thực sự rất đẹp!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Margie G",
+    "rating": 2,
+    "review_text": "Cảnh quan tuyệt đẹp. Tuy nhiên, người phục vụ rất thiếu kiên nhẫn. Anh ta nhầm lẫn hóa đơn. Cố gắng tính tiền cả một chai rượu vang đỏ thay vì một ly 🤔 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Moritz Ka",
+    "rating": 4,
+    "review_text": "Đồ uống rất ngon, đồ ăn tạm được, nhưng theo tôi thì dịch vụ không thể tốt hơn được nữa 👍🏼 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Valerie Sijat",
+    "rating": 5,
+    "review_text": "Khung cảnh tuyệt vời, hoàn hảo để nhâm nhi vài ly đồ uống."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "박성환",
+    "rating": 3,
+    "review_text": "Nơi này giống như mấy chỗ ở Hàn Quốc, nơi đàn ông và phụ nữ trung niên khoảng 50 tuổi trở lên phân vân không biết có nên đến hay không. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Glenda McLellan",
+    "rating": 5,
+    "review_text": "Thật tuyệt khi được ngồi ở vị trí cao như vậy. Tầm nhìn tuyệt vời. Đồ uống và thức ăn ngon. Nhạc sống hay."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Tanya Harris",
+    "rating": 5,
+    "review_text": "Khách sạn cổ kính do người Pháp xây dựng này có tầm nhìn tuyệt đẹp. Từ thứ Năm đến thứ Bảy, họ có ban nhạc Philippines biểu diễn và sau đó chuyển sang hát karaoke, rất vui."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Kishin Wadhwani",
+    "rating": 5,
+    "review_text": "Cảnh quan tuyệt đẹp và dịch vụ xuất sắc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Vitalii",
+    "rating": 5,
+    "review_text": "Giá cả khá đắt đỏ, nhưng tầm nhìn thì hoàn toàn xứng đáng. Cocktail tạm được, phục vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Jason Pine",
+    "rating": 1,
+    "review_text": "Chúng tôi đang ở khách sạn Grand, được cho là khách sạn 5 sao??? Vào khoảng hơn 10 giờ tối, chúng tôi định mua đồ uống nhưng được thông báo là quán đã đóng cửa! Thông tin trên thẻ chìa khóa khách sạn ghi rằng quán bar trên tầng thượng mở …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Barry Hodgetts",
+    "rating": 5,
+    "review_text": "Cảnh đẹp và làn gió mát vào buổi tối"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Rosy",
+    "rating": 1,
+    "review_text": "Tôi không nghĩ đó là một nơi tốt vì hầu hết tầm nhìn đều bị các tòa nhà khác che khuất. Phong cách trang trí rất tệ và đồ uống cũng không có gì đặc biệt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Alfredo Amaral",
+    "rating": 5,
+    "review_text": "Nhạc sống.\n\nCảnh quan tuyệt đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Gabriela Geiculescu",
+    "rating": 5,
+    "review_text": "Một nơi tuyệt vời với những thức uống độc đáo nhất."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "渡邉國夫",
+    "rating": 5,
+    "review_text": "Không khí khá dễ chịu, nhưng nhạc của ban nhạc quá to khiến khó mà nghe được cuộc trò chuyện của người khác!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "이용주",
+    "rating": 5,
+    "review_text": "Tầm nhìn từ sảnh tầng 20 thật tuyệt vời 👍👍👍👍👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Mikhail Moskov",
+    "rating": 4,
+    "review_text": "Vị trí rất đẹp ở trung tâm Sài Gòn, chỉ cách nhà hát Opera và trung tâm mua sắm vài bước chân."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Luis Emilio Lecaros Donoso",
+    "rating": 3,
+    "review_text": "Đồ ăn tạm được, nhưng phục vụ quá chậm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "shih yuan huang",
+    "rating": 4,
+    "review_text": "Một nơi tuyệt vời để thư giãn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Julie Carlaw-Hillary",
+    "rating": 5,
+    "review_text": "Đồ ăn và dịch vụ tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "JTC Intl",
+    "rating": 3,
+    "review_text": "Giá quá cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fa58ef3aa2d:0x2d32977e85cc77f8",
+    "shop_name": "Rooftop GRAND Lounge",
+    "user_name": "Le Anh Tung",
+    "rating": 5,
+    "review_text": "Quán GRAND Lounge trên tầng thượng đã mang đến một trải nghiệm tuyệt vời! 🤩 Món ăn, đặc biệt là món súp cá, vô cùng đậm đà và tươi ngon. 🍜 Không gian tuyệt vời, hoàn hảo cho một buổi tối thư giãn. Tuy phục vụ tốt nhưng có thể chu đáo hơn một chút. Nhìn chung, một địa điểm tuyệt vời! ✨👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Mây lang thang",
+    "rating": 5,
+    "review_text": "Các món gia đình mình gọi đều ngon, vừa miệng. Giá cả hợp lý, phục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Toon Tran",
+    "rating": 4,
+    "review_text": "Mì Cay Naga Thủ Đức\nDù đã có mặt tại Thủ Đức từ lâu nhưng chi nhánh tại số 2 Hàn Thuyên vẫn giữ vững phong độ và mang lại trải nghiệm rất dễ chịu cho thực khách: …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "HoangLan Tran",
+    "rating": 4,
+    "review_text": "Đã ăn ở đây rất nhiều lần rất ngon nha.  Nhân viên siêu nhiệt tình. Thích nước uống soda hơn( Ý kiên cá nhân nha). Nên tới thử nha mọi người. Giá cả phải chăng!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Minh Thư",
+    "rating": 1,
+    "review_text": "Mình đã suy nghĩ rất nhiều trước khi cho 1 sao bởi các lí do sau:\n\nChất lượng: mì nở toét bét …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phúc Thiên",
+    "rating": 5,
+    "review_text": "lâu lâu ghé lại vẫn ngon, nhân viên phục vụ nhiệt tình đặc biệt anh order nhiệt tình tươi cười dễ chịu 10điểm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "10-Hùng Quốc",
+    "rating": 5,
+    "review_text": "Các bạn phục vụ rất nhiệt tình với thái độ rất niềm nở với khách hàng , quán ăn rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Minh Châu Nguyễn",
+    "rating": 1,
+    "review_text": "1 tô 80k có 1 con tôm cũng không ra hồn. Thịt bở, có mùi hôi, Tôm thì không biết bao nhiêu ngày rồi. Chưa bao h ăn cái takoyaki nào nó bột mà nó dở vậy. Bột quá nhiều mong quán xem và cải thiện cho những người đến sau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tài Nguyễn",
+    "rating": 2,
+    "review_text": "Quán nên để ý kĩ những dị vật này nhé. Quá nguy hiểm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Vy Nguyễn",
+    "rating": 5,
+    "review_text": "Ở Thủ Đức lâu ròii mà giờ mới trải nghiệm Naga. Không gian rất chi là Hàn Quốc, ấm cúng, sạch sẽ. Nhân viên nhanh nhẹn, tận tình. Đồ ăn giao nhanh, nhiều điểm cộng tinh tế ở menu. Cấp 1 nhưng cay ngang cấp 3 ở những quán khác, có quầy nước chấm và nước lọc. Ăn uống ở đây rất thoải mái. 10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "lan ngọc",
+    "rating": 5,
+    "review_text": "Tui đi với ny cỡ 8h tối vô thì khách vẫn còn kha khá đồ ăn lên cũng nhanh nhưng có cái là bọn tui đi lần đầu nên ko rõ lẩu ở quán ntn tụi tụi gọi cái lẩu nhỏ 199k nghĩ là nó nhỏ xíu xíu thui nên bọn tui gọi thêm đồ ăn khá nhiều kiểu rau …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tho Nguyen Thi",
+    "rating": 3,
+    "review_text": "mì cay nước kiểu nhạt nhạt k đậm vị ai thích nhạt thì oki\ntakoyaki toàn bột dày cui k nuốt nổi bên trong có tóc nữa\nlần đầu mình ăn takoyaki mà cục bột như thế\nsẽ k quay lại dù mì trông nhìu topping"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nguyen Minh Tri",
+    "rating": 5,
+    "review_text": "Mì Cay Naga Thủ Đức mang đến trải nghiệm ẩm thực cay nồng đầy thú vị. Mình gọi món mì trộn xá xíu với giá 59k và hoàn toàn hài lòng. Sợi mì dai, thấm đều gia vị, kết hợp với thịt xá xíu mềm thơm và nước sốt đậm đà. Phần thịt xá xíu được tẩm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tan Danis",
+    "rating": 1,
+    "review_text": "Ngồi đợi hơn 25p từ lúc gọi món, quán không quá đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Hải Yến Nguyễn Trần",
+    "rating": 1,
+    "review_text": "31/05/26 --- 19:47\nMình đi ăn hôm nay cũng hơi lâm râm mưa, sát lễ thiếu nhi nên cũng thông cảm sai sót nhưng không hiểu được mấy bạn nhân viên ghét 2 vợ chồng mình hay sao ý ?! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tien Dang",
+    "rating": 2,
+    "review_text": "Ngày xưa mình là fan ruột của naga tại chi nhánh này, nhưng dạo gần đây mình quay lại ăn thì chất lượng giảm xuống cực tệ lun. Sợi mì ăn siêu bở, không ngon như ngày xưa, giống như để lâu lắm mặc dù ăn liền, mình ăn được mấy gắp k ăn nổi mì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "An Nguyễn Thúy",
+    "rating": 1,
+    "review_text": "Vô thì bị nhân viên ngó lơ, giơ tay rõ thấy rồi, giơ tận mấy lần vẫn lơ, ra mở cửa cho khách khác k order. Tới lúc order thì gọi mỳ bò cuộn nắm mang ra bò hải sản, cấp độ cũng sai luôn. Ăn ở đây nhiều lần rồi k thể nào có vị như vậy được, chắc chắn đổi sai cấp độ, lần đầu ăn mà phải bỏ giữa chừng vì k ăn nổi. Rõ chán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Minh Thanh Châu",
+    "rating": 5,
+    "review_text": "Mì ngon, nhưng mà tăng cấp độ cay lên xíu nha quán, chắc do mình ăn cay được nên order c5 ko thấy cay huhu\nNhân viên dễ thương take care khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "đếy tệ thật",
+    "rating": 5,
+    "review_text": "dạ ý là mì ngon, e ăn mấy lần r ngon lắm, nm rau mấy đợt sau bị ít á 😭 2ng ăn mà dĩa này ăn k đủ ạ.. e kêu thêm dĩa rau thì nó nhiều hơn gấp 2 🥺🥺 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Hoài Thương",
+    "rating": 4,
+    "review_text": "mình ăn cũng nhiều lần ở đây và cảm thấy ngon nhưng kh hiểu sao lúc cay lúc kh. hôm qua mình gọi mì cay cấp 1 mà lại cay khủng khiếp, cay hơn tô cấp 2 của ngyeu mình nhiều luôn. mong quán xem lại nha quán huhu ,cay quá mình ăn xong đau bao tử luôn. còn về nhân viên thì rất nhiệt tình và dthuong nên kh ý kiến =))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tôm-mì Toàn",
+    "rating": 4,
+    "review_text": "Quán dễ tìm, đầu đường luôn. Vị hơi nhạt, và độ đậm đà hình như tỉ lệ thuận theo độ cay hay sao ý (cấp 0 thì lạt, cấp 1 thì có chua có đậm đà hơn tí). Gia vị thêm thì chỉ có xin được tương ớt, không có nước mắm hay xì dầu gì cả (bạn nhân …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Thanh Sang Nguyễn",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, không gian thoải mái, mát mẻ. Nhân viên lịch sự, chỗ giữ xe có bảo vệ tốt. Nhà vệ sinh sạch sẽ. Giá cả hợp lý, bình dân. Sẽ ghé ủng hộ quán lần tới. Mình đã ghé nhiều chi nhánh Naga rồi. Chúc quán làm ăn phát đạt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nguyễn Ngọc Như Huỳnh",
+    "rating": 2,
+    "review_text": "Đi 2 người, ăn 2 mì mà cho một dĩa rau nhỏ xíu, 2 người thì 2 phần rau chứ, mình có gọi thêm 1 phần rau nữa 5k, mình chỉ không thích kiểu dĩa rau chung mà nhỏ xíu, hình có khăn giấy ướt là phần rau giành cho 2 người ăn đó mọi người, còn phần không có giấy ướt thì 5k ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Sĩ Nguyễn",
+    "rating": 4,
+    "review_text": "Sau vài lần ghé thì cảm nhận quán nấu mì ngon, đậm đà. Rau thêm cho kèm thấy hơi đơn giản, nên bổ sung thêm loại rau khác. Quán lúc trưa khá vắng nhân viên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tâm Trần",
+    "rating": 1,
+    "review_text": "Nhân viên phục vụ kém!\nBàn bị bấp bênh nhờ chỉnh lại còn tỏ thái độ với khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nhi Suri",
+    "rating": 3,
+    "review_text": "Các món ăn kèm ngon\nĐồ ăn được\nNhưng mà đồ dùng cũ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Van Ha",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, món ăn đa dạng, phục vụ tốt, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tho Pham",
+    "rating": 4,
+    "review_text": "Nay mình đi ăn. Thấy bánh takoyaki bị bột rất đặc ăn rất ngán. Mong quán  điều chỉnh lại như trước. Độ cay cũng bị giảm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Candy Bui",
+    "rating": 5,
+    "review_text": "mình là fan của NAGA từ hồi mì cay mới ra rồi mà nay mới đi bên chi nhánh này, thấy vị trí đắc địa và dễ tìm, ko gian quán rộng rãi có cả bàn ngồi bệt và ngồi ghế cao, vị mì ngon, nhiều topping, nhân viên phục vụ okila, chỗ giữ xe cũng rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "ciga",
+    "rating": 5,
+    "review_text": "Mình đến Naga chi nhánh Thủ Đức ghé ăn mì nhiều lần rồi, ăn lại ship về cũng có,món ăn rất ngon miệng ạ có ship về thì ko có sẵn rau như ở quán. Hôm đó mình đi buổi tối không gian thoải mái mát mẻ, quán đông nhưng món ra nhanh. Nhiều thương hiệu về mì cay nhưng Naga hợp khẩu vị ăn của mình nhất. Có dịp sẽ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Lộc Nguyễn",
+    "rating": 2,
+    "review_text": "Mình đến đây ăn trên dưới 10 lần nhưng mỗi lần đến là có một trải nghiệm khác nhau. Có lúc đồ ăn ngon nhưng có những hôm tệ cực kì, có hôm mình gọi thì mì cay đem ra đã nguội - lạnh, hôm thì mình gọi mì cay cấp độ 2 nhưng không giống với …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Lê Văn Đức (leduckt86)",
+    "rating": 2,
+    "review_text": "Gọi mì cấp 0 cho bé mà làm cay như cấp 2. Hỏi nhân viên thì thái độ hờ hững không trả lời. Chủ quán nên coi lại. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Ánh Vân Trần Kiều",
+    "rating": 1,
+    "review_text": "Mình đi ăn lúc chiều, gọi cấp 4 nhưng rất cay so với những quán mình từng ăn, ăn kh nỗi luôn đến giờ vẫn còn đau bụng, rau thì đi 2 ng gọi thêm 1 phần cũng tính, nước mỳ ít… mong quán khắc phục"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nguyễn Đạt",
+    "rating": 1,
+    "review_text": "Phụ vụ chán, khách vô sau phục vụ trước, đợi lâu, rõ là xác nhận bill rồi, hỏi lại kêu mất bill??? Đợi lâu mất thời gian"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Ngọc Mai",
+    "rating": 5,
+    "review_text": "Mì ngon và vừa khẩu vị mình . Nước chấm ngon nha . Chú bảo vệ giữ xe oke nhân viên cũng tận tâm lắm lunnnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Anh Lã Ngọc",
+    "rating": 5,
+    "review_text": "trông quán uy tín nên ghé ăn thử, mì rất ngon và cay bùng nổ 🔥 nhân viên trai xinh gái đẹp, dễ thương,.. không có chỗ nào để chê nhé, sau có tiền ghé ăn tipp …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Koi Koi",
+    "rating": 4,
+    "review_text": "đồ ăn ngon, quán phục vụ oke, không gian rộng rãi, thoáng, có vách ngăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Do tran",
+    "rating": 4,
+    "review_text": "Dễ vô nhầm quán. Vì có quán cùng tên thương hiệu kế bên. Quán hơi cũ là một điểm trừ. Còn lại đều ổn. nên ăn thử 1 lần nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phạm Tường Vi",
+    "rating": 5,
+    "review_text": "Ngon rẻ chất lượng. Quán to rộng nhưng lưu ý cẩn thận nhầm quán đạo nhái sát bên 2A Hàn Thuyên.\nQuán đúng là số 2 Hàn Thuyên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "dat nguyen tan",
+    "rating": 1,
+    "review_text": "Mỳ cay naga quán bên phải khi từ bên kia đường nhìn qua, \"KHÔNG\" nên ghé khi quán đông và có lẽ mình cũng không ghé lại đây nữa. Khi quán đông là nhân viên không biết ghi thời gian bill nào tới trước bill nào tới sau, mình đi 2 người đến …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Thien Zeno",
+    "rating": 4,
+    "review_text": "Mì ngon, phục vụ OK, điểm trừ là thố và đĩa lót thố bị mẻ tùm lum làm giảm độ ngon của mì lại, thay thố mới, đĩa mới giúp nhé chủ quán, please please"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "phạm hùng",
+    "rating": 1,
+    "review_text": "Phần mỳ cay hải sản \"tôm bở, bóc con tôm không dám ăn\". Được cái không gian ok."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Thái nguyễn",
+    "rating": 5,
+    "review_text": "Ngon còn hỗ trợ rất nhiệt tình khi gặp sự cố nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Chi Pham",
+    "rating": 1,
+    "review_text": "Quán cũ dơ, tô dĩa nứt mẻ. Đồ ăn dở mắc ko tương đương giá. Đang ngồi sụp pc cúp điện, chạy lẹ chứ thấy sợ quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Gia Huy Danh",
+    "rating": 5,
+    "review_text": "ăn ở đây nhiều lần rồi nma không hiểu sao lần này xắt xúc sính mỏng như bà bán hủ tiếu như vậy.cả hai miếng luôn nhé.hương vị vẫn ok nch đừng keo kiệt với khách quen như vậy chứ.mình mua mì thậm cẩm nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Khanh Le Thi Kim",
+    "rating": 4,
+    "review_text": "Mì cay rất ngon. Đặc biệt còn kèm theo rau quế và ngò gai làm cho món mì thêm hương vị đặc biệt. Giá mì cay thì không đắt nhưng những món khác khá đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tính Nguyễn",
+    "rating": 4,
+    "review_text": "Có món mì cay bò kim châm là món mới cũng ok\nGiá 54k/ phần\nMùa này đi ăn trưa phòng máy lạnh nhưng vẫn nóng 😂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Mỹ Anh Lê",
+    "rating": 5,
+    "review_text": "Nvien dethuong hiền lắm, mì cay vữ luôn á có cái topping bò hơi bở 🤗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "03_Trong phuc Phan",
+    "rating": 2,
+    "review_text": "Đồ ăn dở , nước mì làm kiểu dở dở như người mới mở quán hoặc coi tiktok rồi làm theo . Nên học hỏi theo các quán khác như sasin để làm lại nước mì . Giá như vậy mà so với chất lượng đồ ăn thì hơi mắc . Nước chấm ở mấy chỗ mì cay khác là màu xanh rất ngon . Chỗ này làm màu vàng vàng ăn rất dở và chát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tuyền Nguyễn",
+    "rating": 5,
+    "review_text": "Bát của mình có 4 con tôm vì ăn cắp của con bợn bên cạnh nhá, kaka. Mình thấy ăn ở đây ngon á, ko bị khé khé, phục vụ khá nhanh, ở ngoài còn có quả khế cu đơn và ngồi thì vách ngăn riêng, cảm thấy riêng tư hơn, anh bảo vệ cũng rất dt nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phú Bùi Đức",
+    "rating": 3,
+    "review_text": "Mì cay ăn ngon, giá vừa phải. Phòng ăn đẹp, vừa ngồi bệt vừa ngồi bàn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tấn Tài Nguyễn",
+    "rating": 5,
+    "review_text": "Dc: 2 Hàn Thuyên, Bình Thọ, Thủ Đức, Hồ Chí Minh\nNước mì ngon, vừa ăn, topping trong mì rất nhiều.\nTrà đào thơm, ngọt vừa, có nhiều miếng đào bên trên và có thêm đào nhuyễn trg …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Kien Do",
+    "rating": 1,
+    "review_text": "Mì gà không chín dù nói quán tận 2 lần , cái đùi lần đầu còn lạnh buốt như trong tủ đông mới lấy ra"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nguyễn Tín (Tn)",
+    "rating": 5,
+    "review_text": "Mì cay kim chi bò 49k 1 phần ăn ngon ba chỉ bò, có xúc xích, cá viên. Ăn đc thêm 1 chén muối ớt xanh và 1 ca nước đá."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nga Nguyễn",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon nhân viên phục vụ nhiệt tình\nGiá cả phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Trúc Thanh",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, không gian thoáng, nhân viên nhiệt tình, quán mở nhạc Taylor nữa :3 10 điểm ehe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Xuyen Huynh",
+    "rating": 5,
+    "review_text": "Lần 2 quay lại ăn quán bán ngon hơn, nhân viên dễ thương, nhóm mình đi 3 ng, mì kim chi hải sản tươi ngon, còn mì kim chi gà gà hơi bở xíu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Hop Dung Do Trang Diem",
+    "rating": 4,
+    "review_text": "Quán có không gian rộng. Món mỳ cay nhìu thịt. Mà hơi dai. Phục vụ cũng dễ chịu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Trung nguyễn",
+    "rating": 5,
+    "review_text": "My nước dùng ngon, đồ ăn tươi\nKhông gian thoáng, chứ trưa thì chưa mát lắm.\nThích cái có ngò gai, rau sống và nước đá.\nSẽ ủng hộ quán."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Đăng khoa Nguyễn",
+    "rating": 4,
+    "review_text": "Thức ăn thì không quá là đặc biệt hay phá cách. Chỉ được mỗi chỗ quán sạch và có nhân viên trông xe an tâm hơn khi vào dùng bữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Ý Vy Trần",
+    "rating": 1,
+    "review_text": "Mực và tôm không được tươi, bò cứng không mềm, nước dùng nhạt, khá thất vọng 😕 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Hue Tran",
+    "rating": 1,
+    "review_text": "Đợi thì lâu trong khi quán không đông, cấp 4 mà mình tưởng cấp 0 😅 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nam Đỗ",
+    "rating": 1,
+    "review_text": "Trà đào đen thui. Có mùi mốc. Nhân viên tính tiền có phản ánh mà dạ cái rồi cho qua. Uống đúng 1 hớp không dám uống nữa. Mì thì ok."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Khương Trần",
+    "rating": 5,
+    "review_text": "Nhân viên chăm sóc khách nhiệt tình, ai cũng dễ thương hết, mỳ ngon nha, không quá ngọt như những chỗ khác, highly recommend mọi người đến đây thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "thanh luan nguyen",
+    "rating": 5,
+    "review_text": "Lâu lâu đi ăn ở đây. Nay đi ăn thì quán làm lại có máy lạnh. Ăn cay ngồi máy lạnh thì chả thấy cay nữa. Nhân viên phục vụ ok. Đồ ăn ngon vừa miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Kala Jung",
+    "rating": 4,
+    "review_text": "Mì và các món ăn vặt khá ngon nhưng thái độ của nhân viên hơi không tốt, hôm trước mình đi ăn với bạn, bàn không có ống đua mình chờ cả buổi cũng chẳng ai mang ra, phải ra quầy tự lấy, có hôm đi mới hơn 6h tối mà rau ăn kèm lại hết, xin cái gì cũng không có."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phát Lê",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon ,  Hy vọng có bạn nào dùng thử tô cấp 7 . mình cấp 4 thôi nha , 2 ly sữa yeah !\nPhục vụ nhiệt tình , chu đáo  !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tài Sờ Mai",
+    "rating": 5,
+    "review_text": "chỗ ngồi sạch sẽ\nđồ ăn hợp giá tiền rất nhiều topping , nước rễ chanh ngon mà hơi ngọt xíu tạm được …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Kiều Nguyễn",
+    "rating": 5,
+    "review_text": "Naga Hàn Thuyên ở đây không hiểu sao bị chơi xấu trên Grabfood bị nhiều thành phần đánh giá thấp chứ mình ăn từ lúc học lớp 10 đến giờ, bao nhiêu năm vẫn rất ngon. Ở đây, đồ ăn cho rất nhiều, thịt, rau củ đều cho rất nhiều. Muốn gia giảm vị …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "son phan",
+    "rating": 5,
+    "review_text": "Quán mì ngon. Nêm nếm đậm đà. Thích hợp cho những bạn sinh viên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Lê Nguyễn Trọng Hiếu (Marco)",
+    "rating": 1,
+    "review_text": "Quán nên thấy xấu hổ vì kỹ năng training yếu kém của mình. Ngày 20/6 mình có ghé quán cùng bạn mình để dùng bữa nhưng đến lúc thanh toán thì lại bẽ mặt vì lời lẽ của bạn nhân viên lúc ấy. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Bích Vân",
+    "rating": 4,
+    "review_text": "Naga từng là trend mì cay một thời làm sục sôi cả giới trẻ. Thật ra thì mình cũng biết là mì gói này hãng nào có thể tự nấu được nhưng vị nhà làm sẽ khác vị ngoài làm lắm nè. Có các cấp độ từ 0 đến 7 luôn mà mình thường ăn cấp 2,3 thôi là …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Hà Vy Trần",
+    "rating": 1,
+    "review_text": "Kêu nhân viên cho nhiều nước mỳ thì nhân viên thái độ vô bếp lấy chắc nửa tiếng :))) gọi mỳ hải sản thì được 2 con tôm chết từ 70 đời, ăn xong về muốn bệnh luôn, nói chung không quay lại nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phú Minh",
+    "rating": 5,
+    "review_text": "Cấp 3 như cấp 7.Trước còn ăn được cấp 5 mò"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Vy Lê",
+    "rating": 1,
+    "review_text": "mì cay hải sản mà chỉ có vài ba cục cá viên,không có nổi 1 con tôm😃tưởng ăn mì 20k (bỏ từ luôn hộ cái,nếu đủ đã không có cái đánh giá như này,nói để rút kinh nghiệm chứ không phải để cố chấp rồi nhận mình đúng) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Khoi Nguyen",
+    "rating": 3,
+    "review_text": "lần thứ 3 ghé quán lần này thất vọng hơn so với 2 lần trước vì quán đổi mì gà thành gà luộc thay vì chiên , nhân viên thiếu tinh tế rất đông khách nhưng không bật quạt rất nóng luôn , tác phong chậm chạp quên mang nước chấm gọi đem ra nhưng ăn xong rồi mới mang ra :<"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tèo Mr",
+    "rating": 5,
+    "review_text": "- Không gian ổn, món ăn khá ngon, nhân viên lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Vinh Ngô",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon,hợp khẩu vị sẽ quay lại ăn nữa🥰🥰🥰nay căng bụng rồi,hẹn ngày gặp lại❤ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Dung Nguyễn",
+    "rating": 1,
+    "review_text": "Mình ăn mì cay của quán từ năm 2018 đến bây giờ. Hôm nay mình rất k hài lòng, trước giờ mình và bạn mình ăn ở naga toàn gọi cấp 3 và 4. Nay tụi mình đi lm về tiện đường ghé ăn hơi trễ nên gọi mì cay cấp 1 và 2 kb tại s ăn lại cay như cấp 4 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nguyễn Thế Tài",
+    "rating": 3,
+    "review_text": "Cá viên có mùi hôi và bị bở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Hwang Myung (Sol Nguyễn)",
+    "rating": 1,
+    "review_text": "Hôm nay mình ghé chi nhánh này ăn, khi vào thì  xe mình để ở chỗ không có phun sương, khi đi ăn ra cũng vị trí đó nhưng bên cửa hàng có bật phun sương. May là 2 nón bảo hiểm của mình úp, phun sương cũng khá lâu và trực tiếp ngay xe mình nên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Reki Lam",
+    "rating": 2,
+    "review_text": "Bây giờ mì cay naga đã k còn như xưa, mất đi cái bình uống nước đặc trưng, mất đi loại xúc xích mềm cay vì quá nóng của nước dùng, mất đi mấy cái combo đặc biệt ngày nào, ngay cả vị nước dùng cũng k còn mặn mà như xưa được nữa. Tảm biệt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Vo An",
+    "rating": 5,
+    "review_text": "Nhân viên đem nhằm món bàn khác cho mình , hy vọng nhân viên cẩn thận hơn ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Johnny Vu",
+    "rating": 1,
+    "review_text": "Nhân viên nữ mặt tròn, dáng thấp làm ca tối ngày 9/5 có thái độ không đúng mực với khách hàng. Mình ăn xong. Mà trời mưa chưa về được, mình có nói bạn cứ dọn bàn đi mình ngồi lại tí thì mặt nặng mài nhẹ, dọn bàn kiểu dằn mặt mình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Trọng Hiếu Trương",
+    "rating": 4,
+    "review_text": "Quán nhìu chỗ, rộng, giá cả hợp lý, lên món nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Trần Thị Tâm Thương",
+    "rating": 3,
+    "review_text": "Đồ ăn ngon, nhưng cần cải thiện về vệ sinh, đặc biệt là mấy cái ly uống nc ko biết có rửa bao giờ ko?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Enrose Lavie",
+    "rating": 2,
+    "review_text": "Ăn ở đây cũng nhiều lần, chất lượng món ăn thì ổn. Chỉ có không thích thái độ trả lời đánh giá của chủ quán. Cảm thấy quán không tôn trọng khách lắm nhỉ?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nguyễn Trang",
+    "rating": 5,
+    "review_text": "Ngon hợp vị với mình. Có cái phục vụ hơi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nguyễn Linh",
+    "rating": 1,
+    "review_text": "Đề nghị quán thay bát và rửa bát sạch hơn nhìn cái bát bưng ra mà sứt mẻ tùm lum, nhìn xung quanh bát rất dơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phương Nguyễn Mai",
+    "rating": 4,
+    "review_text": "Có thể trải nghiệm thử nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Broccoli",
+    "rating": 5,
+    "review_text": "Mì cay thập Cẩm 59k cấp 0.5 Ko cay lắm thích hợp cho người ăn cay ít."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Liên Mai",
+    "rating": 1,
+    "review_text": "Chào bạn!\nTrước hết mình muốn dùng lời lẽ của 1 khách hàng thân thiết đã gắn bó với quán từ chi nhánh PVĐ cho đến Q12 sau này là dùng tại chỗ ở Hàn Thuyên và vô số lần …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Linh Ngọc",
+    "rating": 3,
+    "review_text": "Đồ ăn hợp khẩu vị của mình, mình thấy cách làm việc của quán chưa được tốt lắm, nó thể hiện qua những bài đánh giá mà mình đã đọc qua, khi ai chê quán thì quán kiểu muốn combat lại, mình chỉ thấy làm về dịch vụ mà thái độ vậy không hợp nên mình chỉ nêu ra quan điểm riêng thôi, nhưng đồ ăn thì ngon giá ổn và sẽ ghé lại quán."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Thiếu niên ca hành",
+    "rating": 3,
+    "review_text": "- nước mỳ cay ko hợp vị\n- thịt bò ko bị dai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Thanh Đức",
+    "rating": 5,
+    "review_text": "Yêuuuuuuu\nChi nhánh naga ưng bụng nhất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phúc Linh Official",
+    "rating": 2,
+    "review_text": "Đi 1 người 1 đĩa rau ,đi 2 người cũng đc 1 đĩa rau,phản ánh thì nói phải thêm 5ngàn ,hok lẽ giờ đi 2 người chia 2 chỗ ra ngồi, nước thì ko nóng lắm, nước uống thì ko lạnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nam Thanh",
+    "rating": 1,
+    "review_text": "Tiệm này nấu đồ hư hỏng làm t đau bụng, món tôm chiên mửn mửn đã nghi nghi r"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "cẩn trương",
+    "rating": 1,
+    "review_text": "Quán cần làm việc lại với bộ phận bảo vệ. Khách tới ăn trời mưa sợ ướt mũ bh đã chạy vào trong hiên. Bảo vệ lại dắt xe ra ngoài mưa làm ướt hết mũ. Rất khó chịu về hành động này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Ku Teng",
+    "rating": 5,
+    "review_text": "Phục vụ tốt, mì ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "duong tri",
+    "rating": 1,
+    "review_text": "Gọi món thì lâu, ly thì dơ, kêu nước ko đem ra mà còn đòi tính tiền nữa chứ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Trọng Kha Lê",
+    "rating": 1,
+    "review_text": "Thật thật vọng khi 1 ngày đi ăn trải nghiệm thật sự bực bội.\nVào quán ăn tất cả thay đổi hoàn toàn đồ ăn không còn được như trước nữa.\nCái thật vọng nhất là dịch vụ, không còn bình nước như trước nữa, mỗi lần uống …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Linh Luc",
+    "rating": 1,
+    "review_text": "Mì dở, mặn, cho ít nước. Gọi nước uống nhưng k đem ra, ly uống nước tại quầy thì dơ, muỗng đũa, bàn cũng dơ, sàn nhà dơ ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Yến Nguyễn",
+    "rating": 2,
+    "review_text": "Mình ăn ở đây rất rất nhiều lần rồi, mình rất thích mì ở đây\n. Nhưng từ tết giờ mình vừa ăn lại mì vào hôm qua, kêu phần thập cẩm thật sự rất tệ, nước mì chua lòm, 1râu mực bé tí, không có bình nước đá nữa (thay vào đó …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Khang Hà phúc",
+    "rating": 1,
+    "review_text": "Mua 3 Phần mỳ chả cho được bịch nước chấm. Bán đồ ăn mà không cho nước chấm khác nào đi ỉa mà không cho đi đái. Đã dịch vụ kém mà còn trả lời khác hàng với thái độ đó thì 1 sao là hợp lý chứ ở đó vô lý.( THÁI ĐỘ VÀ DỊCH VỤ CỰC KỲ TỆ )"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Mai Vân",
+    "rating": 1,
+    "review_text": "Nhân viên giống kiểu không muốn phục vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Châu Huy Diễn",
+    "rating": 5,
+    "review_text": "mì cay với nước chấm ngon vcl, 5 sao éo nói nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Princess Aurora",
+    "rating": 5,
+    "review_text": "Quán sạch đẹp, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Xuân Khánh Lê",
+    "rating": 5,
+    "review_text": "Mì ngon.quá dễ tìm.phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Cao Đức Hòa",
+    "rating": 1,
+    "review_text": "Quán phòng kín mà cho khách mang chó vào, báo nhân viên thì nhân viên kêu bình thường, bye bye quán vậy, mọi người cân nhắc khi vào quán nếu không thích ăn lông chó thì không nên vào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nhân Võ",
+    "rating": 5,
+    "review_text": "Mình đã ăn tại quán nhiều lần, mì cay được nêm rất hợp với khẩu vị của mình. Nước dùng rất thanh, hải sản cũng như thịt rất tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Duy Nguyen",
+    "rating": 5,
+    "review_text": "Ngon lắm nhaa nhân viên dễ thương nhiệt tình nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nhật Minh Hoàng Nguyễn",
+    "rating": 5,
+    "review_text": "Cũng khá OK. Nhưng nước dùng chưa được đậm đà lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tính Nguyễn",
+    "rating": 5,
+    "review_text": "Món ăn ngon, không gian thoáng mát."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Trần An",
+    "rating": 5,
+    "review_text": "Ngon nha mng, hnay đi đường mưa nên mình tấp vào mua về. Giá rẻ 35k đã có một phần nhưng vẫn ngon và chất lượng nhé, mình đợi khoảng 10p. Nhân viên và bảo vệ đều nhiệt tình hỗ trợ. 10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Minry Chuang",
+    "rating": 5,
+    "review_text": "Ăn vài lần rùi rất oke mỳ ngon ăn không hết gói mang về nv phục vụ rất chu đáo. Là lựa chọn tốt để ghé lại lần sauuu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Thanh Ngọc",
+    "rating": 1,
+    "review_text": "Trước nấu ăn rất ngon nhưng bây h quá tệ\nĂn xong liền bị đau bụng . Nước đá kh có phải oder chai nước khoáng mới có nước đá . Hải sản tôm thì ôi thiu . Bò thì dai cứng ngắc . Tôi là khách quen nhưng chắc đây là lần cuối cùng tôi ăn tại đây . Thật sự quá thất vọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "PHNM",
+    "rating": 4,
+    "review_text": "Quán hơi nóng nha. Cấp 2 cũng không cay cho lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Trang Huynh",
+    "rating": 2,
+    "review_text": "Tệ. Bên ngoài ngồi rất nóng, nhờ bạn phục vụ lau giúp cái bàn đầy nước 3 lần mà tới lúc thanh toán cũng chưa lau. Quán đông nên các bạn ấy đem mì mà ko hề đem rau và nước lên. Mì thì ăn được thôi chứ không ngon, ít rau, bò ăn có mùi kì kì. Thêm một sao cho anh bảo vệ thôi chứ quán thì 1 sao thôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nghia Tran",
+    "rating": 3,
+    "review_text": "Mình ăn quán này mấy lần, đồ ăn ngon, ổn. Có cái mình đi lúc mưa nhưng vào bên trong không gian lại nóng. Nhà vệ sinh nam thì quá kì cục. Hở trên hở dưới và k có chốt khoá lại đc. Đi vệ sinh bất tiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nữ Phạm",
+    "rating": 4,
+    "review_text": "Ấn tượng đầu tiên là thái độ phục vụ của nhân viên khá tốt, thân thiện, hiếu khách từ giai đoạn gửi xe. Vị trí quán tốt, nhiều chi nhánh. Mì hơi cay so với mặt bằng chung nhưng ăn được. Nước dùng ngon đậm đà. Mì mềm nhưng k nhão nói chung …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Lanh Văn",
+    "rating": 4,
+    "review_text": "Ngon! Đa dạng nhiều món, Chi phí hợp lý. Thường đông khách vào cuối tuần.\nĐồ ăn ngon, mình ăn phần mì cay bò. Có bò viên bò kimchi nấm đầy đủ vừa ăn chứ kh ít. Mì thì hơi ít phải gọi thêm 1 phần mì. Về độ cay thì quán hnhu kh rõ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Mì Chua Cay",
+    "rating": 4,
+    "review_text": "Mì cay cảm giác không đậm đà như những chi nhánh khác nhưng mình thấy okey. Điểm mình thích ở quán là dùng nước uống không phải nước máy thì phải. Khá là okey, và mình rất hài lòng vì điều này. Nhân viên phục vụ thì bình thường oke, giữ xe trước quán tới có bãi đổ xe thuận tiện, không gian đẹp, mát mẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Huỳnh Việt",
+    "rating": 4,
+    "review_text": "Quán này có mì cay khá ngon. có kèm theo rau quế và ngò gai làm cho món mì thêm hương vị thơm ngon. Giá mì cay thì không đắt nhưng những món khác khá đắt đấy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Quỳnh Phan",
+    "rating": 1,
+    "review_text": "Ăn nhiều lần ở đây mà lần này đi ăn lại cũng như lần cuối quán gì mà nước thì cho nước lọc ko đá kêu bán cho 2 ly đá ko bán thì không bán , còn trả lời bắt buột phải mua nước ngọt mới bán đá t không uống nước ngọt ép mua 19k 1 lon vô lý ko …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Onion 123",
+    "rating": 3,
+    "review_text": "Trên đg Hàn Thuyên có 2 tiệm Naga. Mình ăn tiệm số 2 Hàn Thuyên, kế ngân hàng BIDV.\nMình đi vào buổi trưa nên quán vắng, rất yên tĩnh. Nhưng cách bố trí bàn rất …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "deny keller",
+    "rating": 2,
+    "review_text": "Quán rất ngon. Đã ghé nhiều lần. Nhưng lần này thật sự thất vọng. Quán đem ra rau cho 2 người ăn cực ít. Mở nhạc Kpop rất ồn ào và đau đầu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Seven Music",
+    "rating": 4,
+    "review_text": "Món ăn rất ngon. Ăn cay đủ cấp độ. Không ăn ở tiệm khá yên tĩnh và thoáng mát. Các bạn có thể check in. Các món ăn cũng trang trí khá đẹp mắt nên các bạn trẻ tha hồ mà sống ảo nhé. Đến vào những ngày trong tuần thì sẽ bớt đông hơn và riêng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Quyen Ngo",
+    "rating": 4,
+    "review_text": "Mình đã từng ăn 1 lần của hệ thống này lúc đó mình ăn ở bình dương.\n\nMình thấy mì cay ăn cũng khá ngon. Đừng kêu cấp độ cao nếu bạn ăn cay không được …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nhi Nguyễn",
+    "rating": 3,
+    "review_text": "mình đánh giá thấp nv của quán mình đi buổi chiều khá vắng nhưng mà lại làm lộn mì cho mình là sao , tô cay thành tô không cay quá mệt đây là lần thứ 3 gặp trường hợp này rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Đức Trần",
+    "rating": 3,
+    "review_text": "Quán rộng, có 2 không gian máy lạnh và quạt, chỗ để xe thoải mái, ô tô để đc tất. Tuy nhiên là mì cay hơi nhạt, ko đậm đà, giá cả so với chất lượng thì chưa được hợp lý. Tạm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tiên Phạm Vũ Kiều",
+    "rating": 4,
+    "review_text": "Dễ bị nhầm với quán địa chỉ 2A giả mạo kế bên vì thiết kế khá giống nhau, không nhìn kỹ địa chỉ thì nhầm thật. Thấy mọi người review ổn áp nên đi thử. Còn riêng mình cảm thấy bò khá là khô, dai, rau thì hơi héo, đen khá nhiều nữa nên không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Linh Pham",
+    "rating": 4,
+    "review_text": "Mỳ cay nhưng ngon ( chỉ thử ở cấp độ 0.5 thôi) , nhưng đối vs ng ít ăn cay như mình thì nó cubgx đủ làm nước mắt nó mém chảy lun.\nHôm nay đi ăn ngay vào dịp sinh nhật quán, thì đc tặng thêm 1 phần khoai …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Vũ Tạ",
+    "rating": 2,
+    "review_text": "Phục vũ quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Dương Tạ",
+    "rating": 1,
+    "review_text": "Đồ ăn ngon nhưng nhân viên thái độ tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phong Dương Hoàng",
+    "rating": 5,
+    "review_text": "Thoáng mát,sạch đẹp,giá cả phải chăng,phục vụ niềm nở,..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Arin Na",
+    "rating": 3,
+    "review_text": "Lúc trước ăn còn ngon. Gần đây ghé quán nước dùng nhạt nhẽo, mỳ cay cấp 3 mà không hề cay, ăn như mì thường vậy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Xuân Quỳnh",
+    "rating": 4,
+    "review_text": "Ăn đợt này có 2 con tôm với con mực to thiệt sự. Mà chắc ở nhà quất 3 chén cơm r nên cũng thấy ngon bt chứ k ngon lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Hậu Phạm",
+    "rating": 1,
+    "review_text": "Quán từ 2019 đổi chủ , hết ngon , Nấu như ở chợ đêm mà giá như cũ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Sơn Ca",
+    "rating": 3,
+    "review_text": "Phục vụ chưa được chuyên nghiệp. Nói về giá tiền thì tầm trung có thể ăn các quán mì khác giá vậy phục vụ tốt hơn, đồ ăn đa dạng hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Sandy Lee",
+    "rating": 5,
+    "review_text": "Mì rất ngon, vừa miệng. Mình đã ăn rất nhiều quán mì cay rồi nhưng ăn ở Naga đặc biệt là ở chi nhánh này rất ưng ý. Nếu không phải vì ở quá xa chắc sẽ đến ủng hộ quán thường xuyên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "khánh ngô bá duy",
+    "rating": 2,
+    "review_text": "Phục vụ món lâu, chất lượng tạm chấp nhận. Riêng NHÀ VỆ SINH bạn nào đang mệt mệt tốt nhất ĐỪNG vào. Hôi, dơ, cũ. Có cả gián nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "TuTa",
+    "rating": 4,
+    "review_text": "ai thích mì cay thì chắc đây là lựa chọn k tồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tmt Trần",
+    "rating": 5,
+    "review_text": "Mì ngon.  Cay xè luỡi...\nKhông gian rộng rãi, đẹp, bài trí bắt mắt\nCó phòng lạnh và không gian ngoài trời, phù hợp mọi người. Có không gian riêng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "điện điện tử",
+    "rating": 1,
+    "review_text": "Tôi là khách quen chỗ này từ năm 2014. Lúc đầu quán còn xụp xệ, mưa dột, nhân viên thì quần áo luộm thuộm, nói chuyện ồn ào, ôm ấp nhau, nhưng món ăn thì 10đ, nóng, cay, sợi mì dai, thịt, hải sản nhiều. Còn từ khi xây lại quán năm 2018, máy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nhật Huy",
+    "rating": 1,
+    "review_text": "Mì cay ăn ổn, nhưng đến quán mì để ăn chứ không phải đi quẩy mà quán mở nhạc sập sình như đang lên sàn vậy, tiếng nhạc rất to và thể loại thật sự không phù hợp cho một quán đến để thưởng thức món ăn. Góp ý với quán lần sau nên chú ý về list nhạc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phu Hoang",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Kim Ly Phung",
+    "rating": 3,
+    "review_text": "Từng một thời nổi theo phong trào mì cay, cũng đùa đòi đi thưởng thức mì cay, lần đầu đi ăn gọi cấp độ 3, nhân viên tư vấn lên gọi cấp độ 1 uhm thôi giảm xuống cấp độ 2. mì được bê ra được 1 con tôm 2-3 miếng mực và vài viên chả cả, một ít …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tiên Mie",
+    "rating": 5,
+    "review_text": "Theo cảm nhận của mình thì mọi thứ đều ok. Mỳ cay ngon, taloyaki có bắp nữa ngon, kim chi ngon. Đặc biệt là phục vụ chu đáo, mình nói chuyện với chị gái mình, mình lắc đầu chuyện khác, nhân viên chạy lại hỏi mình có vấn đề gì không. À à không cần gọi gì uống đâu, uống trà đá được rồi vì đồ uống cũng tạm thôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Minh Bao",
+    "rating": 4,
+    "review_text": "Dở tệ, nói chứ cay vl, ăn ngon, nước ngon, cái khỉ gì cũng được, trừ máy lạnh ít vl. Cái quán sát các cây ATM BIDV chứ không phải quán trong phòng kính nha. 2 quán lận"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Thạch Trận Trần",
+    "rating": 3,
+    "review_text": "Thấy không được thoã mãn lắm khi ăn! Điểm cộng có món phụ ăn kèm. Điểm trừ sữa ở đấy bán quá mắc nên khi qua quán ăn nhớ mua sữa đêm zô chống chay :)))))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Minh Lộc Nguyễn",
+    "rating": 3,
+    "review_text": "Nhân viên phục vụ mải mê tám chuyên, không để ý đến khách,  mang đồ lên thiếu, khách phải đi gọi lại. Chỉ có chú bảo vệ là nhiệt tình dắt xe cho khách.\nMì cay ok."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Lunie e",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, bao no. Ăn mỳ cay chỉ thích ăn mỗi chỗ này. Đã thử nhiều chỗ khác nhưng không hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Giang Ngân",
+    "rating": 5,
+    "review_text": "Mì cay ở đây khá ngon,giá cả phải chăng 39k-49k tùy loại,\nNước dùng đặc biệt hợp khẩu vị với đa số thực khách\nPhù hợp gia đình ,hẹn hò bạn bè …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "linh võ",
+    "rating": 4,
+    "review_text": "Ăn hoài mà giờ thấy gg nhắc nên mới đánh giá. Nói chung cũng được, đồ ăn khá hợp khẩu vị phục vụ thì tùy, lúc nhanh lúc chậm có hôm gọi tính tiền mà đợi hoài cứ \"chờ chị xíu\" rồi cứ chạy luẩn quẩn đi order khách mới vô, chỉ bữa đó thôi còn đa số khá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "camtu nguyen",
+    "rating": 5,
+    "review_text": "Ăn ở quán mấy năm rồi chưa thấy tăng giá mà chất lượng vẫn vậy, hy vọng quán vẫn duy trì ổn định như dị."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Thiện Minh Lưu",
+    "rating": 5,
+    "review_text": "Mì có nước dùng vừa miệng ngon, mì nóng dai chín vừa tới - không thể chê.tuy nhiên, mì cay bò thịt bò nhiều mỡ. Càng ngày ăn cành nhiều mỡ. P.s sứ tiếp tục ủng hộ nếu thịt bò dk cải thiện ơn. Hải sản cũng ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Duy Tiên Official",
+    "rating": 1,
+    "review_text": "Nhân viên rất thái độ, phục vụ tệ, ngó lơ khách, xin chanh cũng không cho, cá viên kiểu nấu xong tắt bếp với thả vào sống nhăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Minh Tam",
+    "rating": 3,
+    "review_text": "Mì không quá cay (mình ăn cấp 1 nhưng thấy vẫn ok). Không gian quán cũng bình thường. Đặc biệt, có bạn gái phục vụ kia xinh quá :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Dung Nguyen",
+    "rating": 1,
+    "review_text": "Chieu hom qua.minh va may ban nho nha minh di an o day.luc vao xe chay binh thuong.gui xe co bao ve giu xe.ma luc an xong.ra lay xe thi xe ko bat chia khoa duoc.hoi 2 a bao ve thi 2 a bao ve noi.xem chung c lay nham chia khoa.trong khi do …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tran Sang",
+    "rating": 5,
+    "review_text": "Mình thường xuyên đến đây ăn mì cay, ngon hơn hẳng những quán mì cay khác. Mọi người nên đến thử 1 lần cho biết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Anh Bùi Trần Ngọc",
+    "rating": 4,
+    "review_text": "Quán ăn được. giá ổn. Phù hợp học sinh sinh viên. Không gian quán hơi cũ một xíu nhưng có phòng lạnh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "TruongGiang 2708",
+    "rating": 1,
+    "review_text": "Cần coi lại cách phục vụ mua mang về,khách chứ k phải thú cưng đọc tên là chạy lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Lê Nguyễn Hoàng Khải",
+    "rating": 4,
+    "review_text": "Ăn cũng tạm, 1 phần mì hải sản 49k được 2 con tôm nhỏ, 2 lát mực, 4 viên cá. Nước mì hơi nhạt ko đậm đà lắm,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Vimhx Tạ",
+    "rating": 1,
+    "review_text": "Quán quá nóng dù ngồi phòng lạnh, quán phục vụ tệ nhân viên ko có cảm tình. Giá cả quá đắc ko có khăn giấy, ko phù hợp với sinh viên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Diệu Hiền",
+    "rating": 5,
+    "review_text": "Quán rộng rãi, ko gian thoáng đãng, sạch sẽ.\nMón ăn ngon, phù hợp giá tiền.\nNhân viên phục vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Linh Phan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon như bé mèo này :3 Ngon quá quên chụp hình lại luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Tâm Cherry",
+    "rating": 4,
+    "review_text": "Quán Naga ở bình dương được thêm vỉa bắp cải trốn vào mỳ ăn rất ngon\nMà sao tiệm ở thủ đức lại k có ạ mong quán mình thêm phần bắp cải để cho khách ăn đỡ ngán ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Vũ Lê Hùng",
+    "rating": 5,
+    "review_text": "Người không thường xuyên đi dễ nhầm đường\nQuán ăn ngon nhưng đông thì phục vụ rất chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nhat Linh Nguyen",
+    "rating": 4,
+    "review_text": "Không gian yên tĩnh, nhạc nhẹ nhàng.\nMì nhiều khẩu vị và lựa chọn khác nha.\nThích hợp cho nhóm bạn hoặc cặp đôi đi ăn và tâm sự cuối tuần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nguyễn Huy",
+    "rating": 4,
+    "review_text": "Thực đơn chi nhánh này ít món ăn kèm, thật sự là chỉ ăn mì cay. Mì cay không có nấm lun mình trừ điểm chỗ này nhá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Bảo Bình",
+    "rating": 5,
+    "review_text": "Mì cay ngon, có nhiều cấp độ phù hợp cho cả những bạn không quen ăn quá cay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Thao Huynh",
+    "rating": 2,
+    "review_text": "Đồ ăn ổn nhưng bình nước hơi bẩn, nhân viên trao đổi, đùa giỡn với nhau lớn tiếng, ko thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Khánh Bình",
+    "rating": 3,
+    "review_text": "Phục vụ chưa tập trung lúc khách gọi món, mỳ thì ăn ok nhưng chưa cay lắm mặc dù kêu cấp 5!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Minh Nhật Nguyễn",
+    "rating": 5,
+    "review_text": "Quán giá ổn, mì cay ngon. Thiếu cái là k có nước chấm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Ngọc Nguyễn",
+    "rating": 1,
+    "review_text": "Chủ quán k thân thiện, nói chuyện cộc cằn, thái độ với khách. Mỳ nhạt, không đậm vị, nói chung rất dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Huyền Nguyễn",
+    "rating": 4,
+    "review_text": "Phòng máy lạnh 9h đã k cho khách vô nữa , mỗi lần đi tới ăn k được vô phòng máy lạnh mình toàn đi về . Buồn hết sức , nhưng được cái mỳ ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phong Thuỷ Vượng Lộc",
+    "rating": 5,
+    "review_text": "Mì các loại ok\nCấp độ cay tương đối dễ chịu không quá cay lắm.\nNhân viên phục vụ nhanh và lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Khuyên Đỗ",
+    "rating": 5,
+    "review_text": "nv siu dễ thương, bạn nào cũng nhiệt tình nhanh nhẹn ❤️ iu mì cay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Châu Duy Châu",
+    "rating": 4,
+    "review_text": "Tuyệt. Nhâm viên vui vẻ ở quán lớn. Quán nhỏ sát bên thì nhân viên mặt như đầu anh Huấn v."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Thùy Trang Nguyễn",
+    "rating": 5,
+    "review_text": "Mì cay ở đây ngon. Cả nhân viên phục vụ và bảo vệ đều chú đáo và nhiệt tình!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nguyễn Thị Như Ngọc",
+    "rating": 5,
+    "review_text": "Mì cay ngon, chọc combo rẻ hơn lại đc thêm phần khoai lang lắc siêu ngon, rất thích quán😍😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Trúc Ly Đỗ",
+    "rating": 5,
+    "review_text": "Hãy trải nghiệm Naga Nguyễn Văn Tăng quận 9 đi ạ. Mới khai trương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Bảo Trần",
+    "rating": 1,
+    "review_text": "gọi cấp 2 nhưng ăn không cay, gọi cấp 1 nhưng cay như cấp 4,5 về đau bụng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Ốc Lương",
+    "rating": 5,
+    "review_text": "Mì nấu ngon, đi trễ quá là hết , nhắc bạn nho nhỏ nên vô cái quán có máy lạnh nha!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phát hoàng",
+    "rating": 5,
+    "review_text": "Ăn ngon á. Nhưng nếu ăn mì hải sản đừng nên bỏ cá viên ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Black Ti",
+    "rating": 3,
+    "review_text": "Ngon và rẻ nhưng lại dụng cụ và kiến trúc nhà hàng khá kém và không bất mắt lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Hồng Thảo Lê",
+    "rating": 4,
+    "review_text": "Ngon, đợi hơi lâu 1 xí. Từ đầu đường đi vào quán đầu tiên ngon hơn 🥘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Duyên KS vlog",
+    "rating": 4,
+    "review_text": "Có 1 tô màu trắng của đứa mới niền răng hehe nguyên lee\n//cơ mà mì cay tạm đc, ít rau quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Kiều Oanh Nguyễn Thị",
+    "rating": 3,
+    "review_text": "Món ăn không ngon lắm và cọng mì còn sống ,nói chung là dở và không bao giờ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "14_NGUYỄn THỊ MAI",
+    "rating": 3,
+    "review_text": "bàn mình Tới trước xin nước chấm hải sản mà nhân viên kêu Hết . bàn tới sau xin thì lại có ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Mưa Ngâu",
+    "rating": 3,
+    "review_text": "Đồ ăn tạm được, tôm có vẻ ko được tươi, phục vụ chậm và hay quên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Duong Tien",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , quán đẹp, ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Duy Khánh",
+    "rating": 1,
+    "review_text": "Tô mỳ cay nhạt nhẽo, quá tệ\nĐồ ăn như nấu lại\nCó máy lạnh như không có\n1h trưa ăn nóng ướt hết người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Thuy Nguyen",
+    "rating": 5,
+    "review_text": "Giá cả hợp lí dành cho sinh viên. View đẹp. Thái độ phục vụ nhân viên khá tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "ĐứcThắng -Official",
+    "rating": 2,
+    "review_text": "Khách quá ồn ào ảnh hưởng tời người khác mà nhân viên hay chủ quán k tới nhắc nhở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Jay “J”",
+    "rating": 5,
+    "review_text": "Chỗ này có 2 cái Naga luôn. Các quán mì cay trong khu TĐ thì đây là lựa chọn không tồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nyx _Shelby",
+    "rating": 3,
+    "review_text": "Đồ ăn ổn nhưng máy lạnh chưa ổn và 1 số loại nước còn khá ngọt ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Nhật Minh Hoàng Nguyễn",
+    "rating": 5,
+    "review_text": "Chưa được đậm đà lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Jade Dang",
+    "rating": 3,
+    "review_text": "hôm qua mới ăn xong, mì cay ko còn màu đỏ của bột ớt, ít rau hơn và ít nước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Phước Nguyễn",
+    "rating": 5,
+    "review_text": "Rất ngon ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317527a0a0bd1bab:0xd0ed67741aa93e81",
+    "shop_name": "Mì Cay Naga Thủ Đức",
+    "user_name": "Zonerich Việt Nam",
+    "rating": 4,
+    "review_text": "Mì cay ở quán khá là ngon,  bảo vệ và nhân viên rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Tâm N",
+    "rating": 4,
+    "review_text": "ăn nhiều lần rùi, mua về cũng nhiều, kimpap hên xui lúc cơm ngon lúc hơi nhão, sau vụ xăng tăng thấy bên đây lên giá mà cắt bớt phần ăn, bình thường có xúc xích giờ ko có mà giá còn cao nữa 🥲 thôi bái bai vậy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Vân Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian quán rất rộng thoáng mát máy lạnh phà phà lun  ,giá cả phải chăng ,nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Linh Đỗ",
+    "rating": 4,
+    "review_text": "Việc bỏ ra 55.000 VNĐ cho một bát mỳ cay mà chỉ nhận lại vài miếng thịt bò vụn đúng là rất hụt hẫng, nhất là khi \"Mỳ cay Seoul\" là một hệ thống có tiếng. Cảm giác bát mỳ không xứng đáng với số tiền bỏ ra dễ khiến khách hàng cảm thấy không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hien Khanh",
+    "rating": 5,
+    "review_text": "Mì thập cẩm ngon, nước chấm ngon. Nv mấy bé vui vẻ nhiệt tình. Quán ruột mình hay ghé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Phượng Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Muyy Dỉm",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, không gian thoáng mát, nhân viên rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "BHLD Thắng Hợp Nhất",
+    "rating": 1,
+    "review_text": "Thời tiết khá nóng kêu nhân viên mở máy lạnh và quạt. Nhân viên nói chờ order xong mới mở. Bộ sợ mở máy lạnh và quạt xong khách bỏ về hay sao?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Kỳ Duyên Huỳnh",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương, đồ ăn ngon giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Khang Truong",
+    "rating": 1,
+    "review_text": "Kêu hai phần ăn màv1 phần đem lên trước phần còn lại 15p sau mới đem lên , kêu thêm 1 phần cải tím mà đến khi ăn xong mới đem ra thì ăn được gì , ăn cải thay mỳ à"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hiệp Trần",
+    "rating": 5,
+    "review_text": "Bạn Nhân viên tên Nhã nhiệt tình, vui vẻ, quán phục vụ tốt, chu đáo đáng phải trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Duyên Nguyễn",
+    "rating": 3,
+    "review_text": "Hôm qua ăn xong cuối giờ kêu tính tiền thì phục vụ thấy mà bỏ đi luôn, xong lúc sau đợi cỡ thêm 5p nữa k thấy ai tính tiền mình nghĩ là kh ai nghe nên có kêu lại, kêu lại thì nhỏ nhân viên tóc ngắn liếc bồ mình, lúc đó nguyên nhóm kiểu ụa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Huy Trương Đăng",
+    "rating": 3,
+    "review_text": "Nay mình gọi mì cay kim chi hải sản và bò Mỹ.\nĐiểm cộng: Tôm, mực và bò khá tươi, nước lèo ngon miệng.\nĐiểm trừ: Tô mì bò lại dùng cá viên, mà cá viên lại có cả mảnh xương, phần kim …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Vesperine Summerlyn",
+    "rating": 5,
+    "review_text": "khoảng đầu năm nay bếp bên mình làm đồ ăn nhạt lắm luôn, may là giữa năm quay lại thì mì lại đậm đà như cũ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Vo Nguyen",
+    "rating": 5,
+    "review_text": "nhân viên dễ thương nhiệt tình đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Quân Nguyễn",
+    "rating": 1,
+    "review_text": "Trải nghiệm tệ vì thái độ của bảo vệ.\nKhoảng 10:07 sáng mình vào quán để ăn. Dù đã nói rõ là khách vào ăn, bảo vệ vẫn nói chuyện với thái độ kiểu như mình là shipper chỉ vì thấy mình có để đồ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "15. Nguyễn Thị Linh",
+    "rating": 5,
+    "review_text": "Mì cay ăn ngon nv phục vụ tốt (Trâm)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "An Dang",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ rất nhiệt tình, đồ ăn lên nhanh, 10 điểmmmm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Yến Nhi Phạm",
+    "rating": 5,
+    "review_text": "Mì ngon tuyệt vời, chị nhân viên Trâm rất là nhiệt tình và cuteeee"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thành Phan",
+    "rating": 5,
+    "review_text": "Mì cay ở đây ngon nv phục vụ tốt(Trâm)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Phuong Nam",
+    "rating": 5,
+    "review_text": "Đồ ăn 5 sao Zen 10 sao 🫶🏻 Đi ăn mà tưởng thành thượng đế tới nơi á mí bé trong này phục vụ max dễ thương dễ chịu luôn nhenn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "kirito SAO",
+    "rating": 1,
+    "review_text": "- Tô, đũa, muỗng, bàn, ghế còn nhớt hôi.\n- Nhân viên thì không thèm xem khách tới hay chưa, gọi 15p nhân viên mới lại phục vụ. (Mình có lại gọi nhưng họ không thèm tới bàn hay trả lời).\n- Đồ ăn thì quá tệ theo khẩu bị của mình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Huy Nhật",
+    "rating": 5,
+    "review_text": "nhìn hình và tự hiểu ngon tới mức nào nhé , nhân viên nhiệt tình dễ thương , thân thiện gần gũi khách hàng (đặc biệt là chị Ly)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thu Huyền",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ tốt không gian đẹpp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Linh Nguyen",
+    "rating": 3,
+    "review_text": "Mình ăn quán này lần đầu, khung giờ mình đi 8h30 tối - hiện tại mình ăn thì theo khẩu vị nước mì mặn dữ lắm - cũng có thể mình đi trễ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Min NNq_",
+    "rating": 5,
+    "review_text": "Tuệ Như rất nhiệt tình và năng nổ. Tôi rất thích!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Lộc Mai",
+    "rating": 1,
+    "review_text": "1. Nhân viên tác phong rất luộm thuộm , dọn bàn ko lau , mỗi lần tính tiền đứng rất xa để hỏi khách có dùng khăn ko, bếp mang sai , ko xin lỗi mà còn nói tránh đi, rất tệ\n2. Món ăn ok , chủ quán ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thu Thảo",
+    "rating": 4,
+    "review_text": "Đặt lần 1 thì ngon , mà đặt lần 2 thì giao bịch nước mì cấp 6 cấp 7 trong khi dặn để cấp 0\n*** …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Tinh Linh",
+    "rating": 5,
+    "review_text": "Mình ăn Seoul nhìu chi nhánh rồi, nhưng ấn tượng nhất là chi nhánh này nha, quán Decor đẹp, thoáng mát, nhân viên vui vẻ nhiệt tình chào đón tụi mình lắm trong đó có bạn Uyên dễ thương cute quá trời, mì cay ở đây ngon nhìu topping hơn chi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "quyen tran",
+    "rating": 5,
+    "review_text": "đồ ăn siêu ngon siêu nhiều luôn ❤️, nhân viên dễ thương nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Phượng Ngô",
+    "rating": 1,
+    "review_text": "mình đi vào khoảng 19g tối thấy nhân viên rất đông, các bạn thoải mái đứng chơi và bấm điện thoại. Trong lúc ăn thì mình đã nghe các bạn lại bàn cần tính tiền và trực tiếp la RẤT LỚN về quầy thu ngân để bạn thu ngân in bill và mình thấy đều …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nguyễn Bảo Khánh",
+    "rating": 5,
+    "review_text": "Quán rộng, sạch, đẹp, nhân viên tậng tình, cười vui vẻ, lúc nào mình tới đây ăn cũng hài lòng hết. 5🌠 xứng đáng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "LunaHomes",
+    "rating": 5,
+    "review_text": "Ngon mọi người đến trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Dàng Hà",
+    "rating": 5,
+    "review_text": "Mì ngon đủ topping và rất nóng, vừa thổi vừa ăn, nên thử nha mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Minh trang Ng",
+    "rating": 5,
+    "review_text": "nhân viên thân thiện, thái độ phục vụ tốt 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hằng Vũ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhân viên dễ thương chị hà xinh gái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Trần Thanh",
+    "rating": 1,
+    "review_text": "Vâng 1 chén nước chấm quá đã luôn 🤣\nKêu nhân viên đổi nước chấm, nhân viên thái độ tưởng bọn mình ăn nhiều nước chấm chớ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Phương Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Mỳ ở cơ sở này ngon nhen. Cơ sở vật chất đang còn mới. Nên ghé ạaa!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Tuấn Hoàng Hồ",
+    "rating": 4,
+    "review_text": "Quán rộng rãi, máy lạnh mát mẻ.\nMình đi ngang ghé ăn thử thấy cũng khá oke, sẵn tiện ngồi nghỉ trưa tránh nắng như quán cafe ^.^ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thu Thuỷ",
+    "rating": 5,
+    "review_text": "+ Quán bày trí, sắp xếp khá đẹp, gọn gàng, không gian rộng rãi ấm cúng. Có cả ngồi bàn kiểu hàn quốc hoặc ngồi ghế cao.\n+ Nhân viên thân thiện, nhiệt tình, chuyên nghiệp (từ bảo vệ tới phục vụ) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "son sonn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên tận tình, 10đ nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hằng Nguyễn",
+    "rating": 2,
+    "review_text": "Xúc xích bị cháy vậy mà vẫn để vô cho khách ăn được hả chờiii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "thihien ngo",
+    "rating": 5,
+    "review_text": "hôm nay tâm trạng mình kh đc vui vẻ lắm khoảng 8,9 giờ tối mình có đến quán ăn mì với 1 nước chanh mình thấy bạn nvien gì tên đoàn trúc hay thanh truc thì phai mình cũng kh nhớ rõ nữa tai lúc đó bn noi mình nghe ch rox bạn dthw lắm mặc dù …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Quỳnh Hương",
+    "rating": 1,
+    "review_text": "mình vừa đặt ship mì cay lẩu thái bò mĩ từ chi nhánh này về. Mình vừa đánh giá trên Shoppee xong. Mình mong quán khắc phục vấn đề này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Long Lê Nguyên",
+    "rating": 5,
+    "review_text": "Quán rộng rãi, thích hợp đi nhóm hoặc gia đình, không gian sáng, trần cao tạo cảm giác thoải mái. Mỳ cay thì vẫn ở tầm đại trà, hương vị không có gì đặc biệt hơn những nơi khác. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Dương Gia Hân",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hanh Le",
+    "rating": 5,
+    "review_text": "Mì ngon, hợp khẩu vị, nước chấm ngon.\nGiá hợp lý\nKhông gian rộng rãi, thoáng, không bị quá ồn ào …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Mai Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thanh Tuyền Lê thị",
+    "rating": 5,
+    "review_text": "không gian sạch sẽ thoáng mát nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Trần Thiên Thanh (Lít)",
+    "rating": 5,
+    "review_text": "Không gian mát mẻ, nhân viện thân thiện tận tình, đồ ăn ngon hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "em tn",
+    "rating": 5,
+    "review_text": "đồ ăn ngon..nhân viên nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ann Nguyen",
+    "rating": 2,
+    "review_text": "Thái độ phục vụ càng lúc càng tệ, ở đâu ra cái kiểu nhân viên sai rồi đổ thừa do bận rồi lườm liếc vậy? Gọi món thì um um rồi cũng không mang ra, hên là ăn lúc quán vắng mà còn quên lên xuống đó🙃 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Lộc Phúc",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Bảo Trân Nguyễn ngọc",
+    "rating": 5,
+    "review_text": "món ngon nên thử nha mn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Lâm Hân",
+    "rating": 5,
+    "review_text": "Bảo Tiên phục vụ dễ thương nhiệt tình quá là yêu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hoai Thuong",
+    "rating": 1,
+    "review_text": "lên món lâu, bàn mình vô trước nhưng ra món cực kì lâu, 3 4 bàn vô sau lại có món trước\nquán ko quá đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Dung Nguyễn",
+    "rating": 5,
+    "review_text": "Hệ thống mì cay này lúc nào cũng đông, ăn ngon, nêm nếm vừa lắm, mà độ cay ko đều, mình ăn chi nhánh khác cấp 4-5 vẫn thấy ổn, mà qua đây ăn giảm cấp 3-4 vẫn bị cay quá, hôm đi mới khai trương nên được tặng trà sữa ngon. Nhân viên CN này phục vụ nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Tiên Thủy",
+    "rating": 1,
+    "review_text": "thái độ phục vụ tệ, order đợi hơn 20p vẫn chưa có món trong khi 2 bàn kế bên đến sau lại ra món trước, hỏi nhân viên thì nhân viên ngơ ngác rồi bỏ đi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Phong Dien",
+    "rating": 5,
+    "review_text": "quán làm món nhanh,sạch sẽ, món ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thiện Đăng",
+    "rating": 5,
+    "review_text": "Mỳ cay ngon, nhân viên hơi lúng túng. Đã ăn nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Vũ Đạt",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình, quán ăn sạch sẽ\nTuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Tạ Thiên Khải",
+    "rating": 5,
+    "review_text": "Quán **Mì Cay Seoul** là một trong những địa điểm được yêu thích tại TP.HCM dành cho những tín đồ mê ẩm thực Hàn Quốc\n### Đánh giá về quán Mì Cay Seoul: …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nguyên Nguyên",
+    "rating": 1,
+    "review_text": "Mình ăn đây rất là nhiều lần nhưng lần này mình thấy thái độ pv rất tệ. Tụi mình đi 3 người, 1 bạn nữ ra oder cho tụi mình miệng thì nhai nhóp nhép, mình với bạn mình có nhìn nhưng miệng vẫn nhai. Tụi mình có oder cái lẩu lớn mang ra, có …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Chí Tâm",
+    "rating": 1,
+    "review_text": "Nhân viên làm việc không tích cực. Nhóm mình gọi nước lẩu thêm mà chờ hoài không thấy, khi hỏi lại thì nhân viên ngơ ngác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hơn Võ Thị Hồng",
+    "rating": 5,
+    "review_text": "Đồ ăn siêu ngon no bụng nên ghé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Minh Nhật",
+    "rating": 5,
+    "review_text": "Mát mẻ, đồ ăn ngon hấp dẫn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "tiệm may cô tú",
+    "rating": 5,
+    "review_text": "đồ ăn ngon nhân viên nhiệt tình 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Minh Ngoc Tran Nguyen",
+    "rating": 3,
+    "review_text": "Mì ăn ngon, đồ chiên nhiều dầu mỡ bị ngấm nên ngán và khá khó chịu. Ly nước nhựa tái dùng nhiều lần nên ly dơ và có nhiều dầu mỡ bám vào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Phúc RC",
+    "rating": 1,
+    "review_text": "Mình mua mang về mà đợi hơn 30 phút vẫn không có. Hỏi mấy lần nói sắp có mà đợi tới một hồi tới 30 mấy phút lun rồi :)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nguyen Le Trieu V",
+    "rating": 1,
+    "review_text": "Mình mua mang về 1 trộn + 1 nước, mở ra mới thấy không giao bịch nước dùng của mì nước, rồi sao ăn hả quán? Mình tới trước, chờ lâu, đã vậy đồ ăn có sau người tới sau, đã vậy còn giao thiếu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ciu So",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, thái độ phục vụ nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Phúc Nguyễn",
+    "rating": 1,
+    "review_text": "Nhân viên phục vụ không chu đáo, mì đã ra nhưng không mang ra cho khách, lúc bưng ra thì mì đã nở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ty David",
+    "rating": 4,
+    "review_text": "Quán ăn ổn.\nNhân viên nhiệt tình.\nQuán khá rộng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Huu Letrong",
+    "rating": 5,
+    "review_text": "buổi trưa đi ăn không gian thoáng mãi rộng rãi, bạn nhân viên nữ order nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ilay (Taeui)",
+    "rating": 5,
+    "review_text": "Quán rộng thoáng mát ,nhân viên quản lý dễ thương nhiệt tình sẽ tiếp tục ủng hộ quán nhiều nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nguyễn Tín (NIT)",
+    "rating": 1,
+    "review_text": "Gọi đồ ăn thêm nhưng không đem ra, xong có gọi lại thì nhân viên đi đâu đó rồi không quay lại nói mình gì cả, cho đến khi về thì vẫn vậy\nNgày 27/06/2026 lúc 22h tối"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Đặng Anh Diên",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon sạch sẽ, đặc biệt nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Minhduc1993 Pham",
+    "rating": 5,
+    "review_text": "Ngon phục vụ tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thanh Trần Văn",
+    "rating": 1,
+    "review_text": "Gà còn chạy được nha. Mì cay cấp 3 nhưng không có vị cay."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "anh nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Liên Lê Thị Kim",
+    "rating": 5,
+    "review_text": "quán siêu đông mà món phục vụ nhanh . Chị quản lý dễ thương nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Tâm Bùi",
+    "rating": 5,
+    "review_text": "quán sạch sẽ, nhân viên thân thiên, bầu không khí thoáng mát, đồ ăn hấp dẫn, ngon miệng, xứng đáng ăn, tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Băng ánh",
+    "rating": 1,
+    "review_text": "Dịch vụ không tốt, khách đợi hơn 30 phút chả thấy nói năng gì, tới lúc khách hỏi mới kêu thông cảm rồi đem nước ra bộ nước làm 30phút ? , mì nấu dở chưa đủ khẩu vị của tui và mì không đậm đà như các chi nhánh khác, bàn 2 người nhưng bưng ra chỉ 1 cóc nước ?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Tô Liêm",
+    "rating": 5,
+    "review_text": "Nhân viên quá chời thân thiện, Bun đã có 100 cuộc gọi nhỡ từ mình nhưng vẫn siêu nhiệt tình và dth"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thủy Tuyên Bùi",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ nhiệt tình, quán sạch sẽ mát mẽ. Đồ ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Vy Ng",
+    "rating": 5,
+    "review_text": "đồ ăn ngon quán sạch sẽ nhân viên mau lẹ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Điểu Đặng",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình, thân thiện, mì cay ngon, không gian quán rộng rãi thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "An Hồ",
+    "rating": 1,
+    "review_text": "bò vụn, vón cục\nnhìn tô và dĩa cũ đã thấy no\nnhân viên ko nhiệt tình, ko mang trà đá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Lam Nguyễn",
+    "rating": 5,
+    "review_text": "đồ ăn ngonnn, chiều khách hàng, nhân viên thân thiện nhiệt tình, sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nguyen Truong Dang Phuong",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, quán sạch sẽ, nhân viên dễ thương nhiệt tình hihi 😍😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Trúc Đổng",
+    "rating": 5,
+    "review_text": "đồ ăn ngon , nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Quảng Triều Lê",
+    "rating": 5,
+    "review_text": "Mấy chị nhân viên siêu dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "thi hoan my tran",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon ,chị quản lý dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ngoc Diem",
+    "rating": 1,
+    "review_text": "Trưa nay vào quán để ăn uống mà quán mở nhạc quá ồn, nói chuyện với người khác cũng không nghe được. Thể loại nhạc gì mà nhức hết cả đầu. Sẽ không quay lại😡 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Na Thùy",
+    "rating": 1,
+    "review_text": "Bác bảo vệ chửi khách, thái độ kì cục với khách, mới lái xe vào quán đã thái độ khó chịu, bộ khách lái xe chậm có vấn đề gì ạ?? Đằng sau cũng k vướng víu ai, làm dịch vụ mà thái độ phục vụ tệ, tới đoạn ra về rồi vẫn đứng đằng sau lầm bầm, phồng man trợn mắt. KHÔNG HẸN GẶP LẠI☺️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Mimikyu",
+    "rating": 5,
+    "review_text": "Ngon nhưng ít mực. Phục vụ không linh hoạt mình muốn ăn mì với mực không phục vụ không chịu bắt kêu theo menu hic"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nguyễn Ngọc Trúc Quỳnh",
+    "rating": 5,
+    "review_text": "- Nhân viên : phục vụ rất tốt, mỗi lần mình yêu cầu gì đều làm việc rất nhanh\n- Dịch vụ ăn uống : Thức ăn lên cũng khá nhanh, nước sốt được refill thả ga tùy theo ý khách hàng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nhiên An",
+    "rating": 5,
+    "review_text": "quán sạch sẽ, thơm tho, nhân viên thân thiện, đồ ăn hấp dẫn, 5 sao thượng hạng, đẳng cấp đỉnh cao 😍😍😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thi Tuyet Nhan Huynh",
+    "rating": 4,
+    "review_text": "Ngon nhưng cho ít nước chấm quá làm mất đi 1/3 vị ngon rồi. Mong lần sau tiệm bán mang đi thì cho nước sốt chấm nhiều nhiều 1 tí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hồng Nhung",
+    "rating": 5,
+    "review_text": "Mỳ ngon ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thảo Nguyên Nguyễn Ngọc",
+    "rating": 1,
+    "review_text": "Ở đâyy Nấu dở nhaa :))) ăn seoul CN khác nhiều nhưng ở đây dở thiệc nha mng đồ ăn ít hơn CN khác nước mì cũm nhạt nữaa phục vụ thì như quăng đồ ăn zô mặt á. Nói chung bực cực kì. Nên xem lại !!! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Trang Vu",
+    "rating": 5,
+    "review_text": "Bibimbap ngon nha, một phần rất là đầy đặn luôn, nhiều thịt, nước canh ngon, chua chua hợp khẩu vị. Nhân viên dễ thương, phục vụ nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Phi Mai",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian rộng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thuong Do",
+    "rating": 5,
+    "review_text": "nhân viên dễ thương, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Minh Nhựt",
+    "rating": 5,
+    "review_text": "Mình là 1 bạn chuyện đi ăn những món hàn , và mì và cũng đi ăn nhìu chi nhánh seouln như chi nhánh này là chi nhánh mình thích lẫn oder tốt nhứt mấy bạn dễ thương và hoà đồng món thì trộm vía vị ko nhạt ngon , ăn đủ lâu để làm khách ruột kkk 😘😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "My Ngân",
+    "rating": 5,
+    "review_text": "quán phục vụ tốt, mì cay ngon ạaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Bảo Ngân Clover",
+    "rating": 5,
+    "review_text": "1. Hôm bữa đi ăn lo đi ăn thôi nên không có chụp lại nhiều hình ảnh. Tuy nhiên mì cay này cũng có nhiều chi nhánh rồi, cũng không phải mới lạ gì, chi nhánh này rộng rãi, nhân viên dễ thương. Cũng rất là đông khách nha. Tuy nhiên thời gian …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nguyen Hiep",
+    "rating": 1,
+    "review_text": "Vô lúc 10h30p oder 2 mì cay với 1 phần gà\nĂn song mì vẫn chưa có nước\nGà thì chưa làm song đợi khách tính tiền về hỏi gà em chưa có thì bảo bếp đang …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nam Hoàng",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, đồ ăn chất lượng, nhân viên phục vụ rất tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "thach tri",
+    "rating": 1,
+    "review_text": "Phục vụ quá tệ ko biết khách nào đến trước đến sau để đợi quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Phuong Trang Mai",
+    "rating": 5,
+    "review_text": "món ngon, lên món nhanh, nhân viên nhiệt tình, chổ ngồi thoải mái xịn xò 👍🏼👍🏼👍🏼 2ng ăn hết có 200k 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "nhqtnguyenN",
+    "rating": 5,
+    "review_text": "Mì ngon, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Anh thư Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, có nv siu dễ thưn, siu nhiệt tình luôn. Hình như là nv tên khánh linh xinh gì đó. QUÁ TUYỆT VỜI"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Yến Phạm",
+    "rating": 3,
+    "review_text": "Lúc gần khai trương quán nấu mì có nước dùng rất ngon, ngon hơn hẳn so với ở Lê Văn Việt Quận 9. Các loại tôm thịt tươi lắm\nDạo gần đây nấu nước dùng dở, tôm bở ra như bột í. Hi vọng QL thấy để làm dịch vụ tốt lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nguyễn Long",
+    "rating": 5,
+    "review_text": "Nhân viên siêu dễ thương, nhiệt tình. Đồ ăn ngon quán đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hà Trần",
+    "rating": 5,
+    "review_text": "bạn khánh thi phục vụ nhiệt tình, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Như Uyên (Designer)",
+    "rating": 1,
+    "review_text": "tệ hơn chữ tệ, đhs vào đợi 50p chả thấy đồ ăn đâu hỏi 5-6 lần xong mới có ng bảo hệ thống lỗi ko nhận đơn ủa alo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hnamm tola",
+    "rating": 5,
+    "review_text": "lên món nhanh, nhân viên nch thân thiện=))\nc Ly xinh gái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "bao bao",
+    "rating": 3,
+    "review_text": "Gà cay phô mai mà lót giấy😭💔\nMình gắp lên 1là rách giấy 2 là giấy dính vào gà luôn nhìn mất vệ sinh lắm á …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "T Hoài",
+    "rating": 5,
+    "review_text": "Mì thơm, cay, ngonnn🤌🏻❤️ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "waterfairy 3K elo",
+    "rating": 2,
+    "review_text": "Mình và người yêu đã ăn ở Seoul rất nhiều lần ở các chi nhánh khác nhưng đây là lần trải nghiệm cực kỳ tệ của bọn mình.\nHôm nay bọn mình ghé ăn thử chi nhánh Nguyễn Văn Tăng này, các bạn nhân viên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ngọc Trâm",
+    "rating": 5,
+    "review_text": "quán ruộtttt, nhân viên siêu dễ thương, nhiệt tình, mì ngon số 1 lòng tuii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nguyen Thi Ngoc Bich",
+    "rating": 5,
+    "review_text": "Quán yêu thích, ngon 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Duyen Le pham Ky",
+    "rating": 5,
+    "review_text": "nhân viên thân thiện, chị ly cutee, xinh gái, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ngọc phi Trần dương",
+    "rating": 5,
+    "review_text": "Anh chị quản lý dễ thương, nhân viên nhiệt tình, quán siêu đông luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nhi Le",
+    "rating": 5,
+    "review_text": "10 điểm không có nhưng, ngon vô cùng, mãi mê mãi keo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Joey Journeys",
+    "rating": 5,
+    "review_text": "Mình đi 4-5 lần rùi, lần nào trải nghiệm cũng oke.Quán khá đông nhưng hôm nào full bàn cũng chờ món khoảng 15-20p thôi, ko lâu lắm.Mì ngon ăn đc, không gian thoáng, mát, nhân viên thân thiện 10/10 🤓 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Minh Tiến",
+    "rating": 5,
+    "review_text": "Đến quán ăn cơ sở 309 NVT rất nhiều lần , luôn có trải nghiệm tốt , nhân viên tươi cười , niềm nở , dịch vụ tốt , bầu ko khí thoáng mát . Luôn sẽ quay lại dùng dịch vụ của quán ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Anhh Tú",
+    "rating": 1,
+    "review_text": "9h07 ngày 2/1/2026 nhân viên nữ phục vụ siêu tệ , nói chuyện như dằn mặt khách , quán hết món kêu đổi món khác mà làm dọng mẹ ủa hết món là lỗi do khách hay sao mà thái độ kiểu đó quản lý xem lại dùm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Trúc Trương thị thanh",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, nhân viên dthhh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Trần Thu Thảo",
+    "rating": 5,
+    "review_text": "Ngon nha, quán ruột của tuii💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Cam Le",
+    "rating": 5,
+    "review_text": "nhân viên Thanh Trúc và Ngọc Phi,nhiệt tình,dễ thương,thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "bé nhã",
+    "rating": 5,
+    "review_text": ". tốt, tất cả nhân viên dễ thươq , phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Linh Nguyễn Kiều",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt\nMì hợp vị\nQuán quen thường ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Tâm Đỗ",
+    "rating": 1,
+    "review_text": "Tết phục vụ kém quá. Bàn ko dọn. Thái độ hờ hững."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Sói Hoang Cô Đơn!",
+    "rating": 5,
+    "review_text": "Yassss quá tuyệt vời 🤩 nha …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hằng Bùi",
+    "rating": 5,
+    "review_text": "nhân viên thanh trúc rất dễ thương,nhiệt tình nhê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Vũ Vy",
+    "rating": 1,
+    "review_text": "ăn 3 lần và lần nào về cũng bị đau bụng, có hôm gọi mì bò mỹ nấm kim châm không có nấm luôn. Chả hiểu làm ăn kiểu gì mà 58k tô mà ăn về đau bụng. Không mang cả nước cho khách ra nữa\ncàng ngày càng đi xuống"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ýn Nhiz",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương .chị quản lý nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "PhiiYenn",
+    "rating": 2,
+    "review_text": "nhân viên có thái độ không tốt với khách hàng!!!!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Linh Tran Doan",
+    "rating": 2,
+    "review_text": "Kêu lẩu đợi cỡ 30p, trong khi lẩu đem ra cũng toàn đồ nguội lạnh. Thấy người vào sau có trước nên phải nhắc nhân viên vài lần mới có ăn\nHương vị đồ ăn thì y chang mấy chỗ Seoul khác\nKhông gian rộng rãi, máy lạnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Mai Chi",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ rất tận tâm, chu đáo và luôn niềm nở với khách hàng. Thái độ chuyên nghiệp, nói năng dễ thương và xử lý tình huống nhanh nhẹn. Cảm ơn bạn đã mang lại trải nghiệm tuyệt vời – xứng đáng 5 sao! 🌟🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Giang Trường",
+    "rating": 2,
+    "review_text": "Cảm giác mua về hoặc ăn lại không bao giờ đủ độ cay hoặc nước đầy đủ, gọi cấp 5 như cấp 1 lần nào cũng thế, nước mua về thì chút xíu khô khốc ra mấy lần rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thu Thảo Trần",
+    "rating": 5,
+    "review_text": "mỳ của quán ngon , mình mua về đồ ăn vặt cũng ngon nữa mấy bạn nhân viên phục vụ dễ thương , quán đông nhưng nhân viên rất chú ý khách , không gian sạch sẽ thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ngọc Vy",
+    "rating": 5,
+    "review_text": "quá tuyệt vời, nhân viên siêu dễ thương, xứng đáng 5 sao ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hà Giang Đặng Nguyễn",
+    "rating": 2,
+    "review_text": "Nay mình đến quán gọi 2 tô cấp 3 (vì quán làm sai món nên mình có nhờ nhân viên đổi)\nsau khi đổi mình không biết thế nào mà mình KHÔNG thể ăn được tô cấp 3 vì quá …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ngọc Tuyền Phạm Thị",
+    "rating": 5,
+    "review_text": "không gian quán rộng rãi, nhân viên dễ thương, thân thiện nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Trầnn Tú",
+    "rating": 4,
+    "review_text": "Nhân viên phục tốt quản lý vs nhân rất là để ý khách hàng tốt hơn bên chi nhánh LVV không có cà rỡn tập trung\n- Đồ ăn ổn , nước chấm 10/10 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Gia Linh",
+    "rating": 5,
+    "review_text": "quán guộc,  mỳ ngon nhân viên dth rcm🤟🤟🤟🤟🤟 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Quyền Trân Mai",
+    "rating": 1,
+    "review_text": "Mình ngồi bàn B08 kế quầy pha chế, nhân viên trong quán nói chuyện với nhau cực kì ồn, quán mì cay mà t tưởng cái chợ ko á, t ngồi mà toàn nghe bọn nhân viên nói chuyện với nhau còn ồn hơn khách, lúc t ăn xong kêu tính tiền, con bé nhân …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hân Trần",
+    "rating": 5,
+    "review_text": "quán rộng rãi thoải mái nhân viên dễ thương phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thảo Linh Vũ Trần",
+    "rating": 5,
+    "review_text": "theo cảm nhận của mình thì đồ ăn ngon nha mọi người nên ghé nhaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Kim Ngân Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ nice, vui vẻ thân thiện đặc biệt là Bun"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Quỳnh anh Nguyễn Thụy",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon lăm , mát , phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Tuyết Phạm Ngọc Ánh",
+    "rating": 1,
+    "review_text": "mình đi với ck tới ăn vào 19h ngày 18/12 ngồi bàn B7, mới bước vô thì có nhân viên mở cửa không khí thơm, tuy nhiên tới bước gọi món, hỏi nhân viên lẩu bò mỹ thì gồm thịt giống trên hình hay sao, nhân viên thì ngơ ngơ lúc nói đúng xong tí …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "29.Trương Thị Anh Thư",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, nv dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ánh Ánh",
+    "rating": 1,
+    "review_text": "Xếp khách ngồi ngay cửa rồi đổ rác trước mặt khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Tường Vy Nguyễn Ngọc",
+    "rating": 2,
+    "review_text": "phục vụ kém, đồ ăn thì ít đi nhiều so với nhiều lần trc mình đi, bàn dơ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Huỳnh My",
+    "rating": 5,
+    "review_text": "Phục vụ có chị Linh dễ thương , đồ ăn ngonnn lắm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Tiến Mạnh Hoàng",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nguyễn Lê Anh Khôi (Khôi Cận yêu Đảng.)",
+    "rating": 5,
+    "review_text": "Ăn vui,đồ ăn ngon,thời gian chờ ko lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "ThanhPhong",
+    "rating": 5,
+    "review_text": "nhân viên siêu dễ thương , có Chị Ly xinh gái, chị Linh xinh gái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Đỉnh",
+    "rating": 5,
+    "review_text": "tr ơi tui ưng cái quán này quá lunn 🥰 quán thì sạch sẽ, rộng rãi. nhân viên siu đáng iu, take care kh từ chút một, nhất là bác bảo vệ dễ thương cực. lên món thì nhanb nói chung 10đ. sẽ thêm quán này vào list quán guột 💯💯💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Torako Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon,sẽ tiếp tục ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Đạt Trần",
+    "rating": 5,
+    "review_text": "nhân viên phục vụ dễ thương,thân thiện,lần sau sẽ ghé tiếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Minh Thy Lê Phạm",
+    "rating": 5,
+    "review_text": "ngon, rẻ, NgọcN phục vụ tốt, vui vẻ với khách hàng, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thảo Hoàng",
+    "rating": 5,
+    "review_text": "Ngon nhé mn, nên trải nghiệm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "xu bé",
+    "rating": 5,
+    "review_text": "bé Thương ( nhí ) nhân viên dễ thương phục vụ tận tình, lần sau sẽ ghé tiếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Hân Gia",
+    "rating": 5,
+    "review_text": "quánnnn ok nhaaaa, đồ ănnn nhonnnn nhó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nu phuong uyen Vi",
+    "rating": 5,
+    "review_text": "Chị quản lí xử lý thắc mắc của khách nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Khanh Dinh",
+    "rating": 1,
+    "review_text": "Mình dùng món ở đây khẩu vị thì k nói tới. Nhưng thái độ phục vụ của một số bạn nhân viên kém quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Lợi Âu",
+    "rating": 5,
+    "review_text": "nhân viên thân thiện phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Đức Lê",
+    "rating": 5,
+    "review_text": "Ok nha cả nhà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Quỳnh Trâm",
+    "rating": 4,
+    "review_text": "Đồ ăn với dịch vụ thì khá ổn. Tuy nhiên, vừa bước vô quán là cái mùi xịt phòng nó xộc lên mũi hơi nồng khó chịu. Không biết khách khác có ý kiến hay không nhưng đi hai, ba lần rồi vẫn vậy. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ngân Nguyễn Hoàng",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Mạnh Phạm",
+    "rating": 5,
+    "review_text": "Khá OK.không gian thoáng mát.đang nắng nóng vào quán không khí mát lạnh luôn 🫶🫶🫶 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Nguyen Chu9",
+    "rating": 3,
+    "review_text": "Đồ ăn thì ngon. Không gian thoáng mát. Nhân viên thì liếc khách nên tôi thấy ko ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Ngọc Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên Bình , Huệ , Thư phục vụ tốt , có khiếu hài hước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thắng Nguyễn Song",
+    "rating": 5,
+    "review_text": "quá ngon ạ nvien quá cute"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Trang Thuỳ",
+    "rating": 5,
+    "review_text": "ngon ghé ăn hơn chục lần rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thanh Vương",
+    "rating": 1,
+    "review_text": "Vâng nhân viên như hạch, ở đây k đáng đồng hết tất cả nhưng bạn nhân viên ra order cầm menu mới mình order 1 gà menu mới 55k và 1 xúc xích trứng 45k, lúc ăn rất bình thường nhưng tới lúc tính tiền thì gà 49k và phần kia đổi thành mì kimchi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "duong Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon tuyệt vời phục vụ nhiệt tình mn nên nghé trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Sơn Lê thị",
+    "rating": 5,
+    "review_text": "Quán mát lạnh...đồ ăn siu ngon 🥰🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Point Trust",
+    "rating": 1,
+    "review_text": "Lần đầu đi ăn mà vô ngồi một lúc lâu không nhân viên nào lại order. Phải gọi 4-5 lần mới có người đến order. Lần đầu đi ăn mà hết nước lẩu thái, quá tệ :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Bảo Vân Nguyễn",
+    "rating": 5,
+    "review_text": "đồ ăn siêu ngon nv dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Yến Nguyễn",
+    "rating": 1,
+    "review_text": "Nhân viên quán thái độ khách order thì chả ai quan tâm, ngồi 30p không một nhân viên nào lại order dù đi qua lại nhiều lần:)). Phục vụ quá tệ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Sang Giang",
+    "rating": 5,
+    "review_text": "Ngon, phục vụ tốt, xịnnn nên đi ăn nhaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Phụng Nguyễn",
+    "rating": 3,
+    "review_text": "Không gian quán thoáng, đồ uống cũng ổn. Tuy nhiên, bảng khuyến mãi treo trước quán nhưng hiện tại đã hết áp dụng. Quán nên tháo hoặc cập nhật thông tin để khách hàng không bị hiểu lầm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "QUỲNH ANH",
+    "rating": 5,
+    "review_text": "Mình order mì thêm mà được hẳn thêm 1 tô luôn á"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "NHƯ Ý NHƯ Ý",
+    "rating": 5,
+    "review_text": "Oki, đáng thử nè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317521007c1a4731:0xf1cdd83dbc1ff300",
+    "shop_name": "Mì Cay Seoul Nguyễn Văn Tăng",
+    "user_name": "Thanh Hưng",
+    "rating": 1,
+    "review_text": "Nhân viên mệt thì nghỉ ở nhà cứ đi làm rồi đem cái bộ mặt đưa đám ra , bưng món ra vứt trên bàn chả nói 1 câu , quán cũng ko đông khung giờ mình đi ăn nhưng hải sản ( mực ) thì sống nhăn còn độ ướt bên trong , tính tiền có feedback với nhân viên nhưng nhân viên chả nói gì ?"
+  }
+]

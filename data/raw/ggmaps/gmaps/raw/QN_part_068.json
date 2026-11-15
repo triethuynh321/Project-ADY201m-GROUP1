@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541d84cda7e5:0xaca3157d1b6cb42c",
+    "shop_name": "Chợ Móng Cái",
+    "user_name": "Hanzzu Qn",
+    "rating": 3,
+    "review_text": "Khách du lịch ở xa đến chỉ trả giá bằng 50% giá họ nói ra thôi,ko là bị chém tơi tả."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541d84cda7e5:0xaca3157d1b6cb42c",
+    "shop_name": "Chợ Móng Cái",
+    "user_name": "Dương Đức Anh",
+    "rating": 4,
+    "review_text": "Hàng và người bán toàn Trung Quốc, giá hợp lý. Tối sân chợ nhiều trò chơi trẻ con"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541d84cda7e5:0xaca3157d1b6cb42c",
+    "shop_name": "Chợ Móng Cái",
+    "user_name": "Đòng",
+    "rating": 5,
+    "review_text": "Buôn bán nhiều mặt hàng biết mua thì rất rẻ, ko thì cũng đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541d84cda7e5:0xaca3157d1b6cb42c",
+    "shop_name": "Chợ Móng Cái",
+    "user_name": "phuong Duong",
+    "rating": 1,
+    "review_text": "ít hàng hóa, giá đắt nếu không biết mặc cả, chất lượng cũng ko tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541d84cda7e5:0xaca3157d1b6cb42c",
+    "shop_name": "Chợ Móng Cái",
+    "user_name": "Anh Tuấn Phạm",
+    "rating": 5,
+    "review_text": "Ở khách sạn Công đoàn tuy 2 sao nhất rất sạch sẽ. Em lễ tân nhiệt tình, vui tính."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541d84cda7e5:0xaca3157d1b6cb42c",
+    "shop_name": "Chợ Móng Cái",
+    "user_name": "Pham Dinh",
+    "rating": 4,
+    "review_text": "Khá nhiều đồ, cần trả giá khi mua, chợ tập trung bán buôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541d84cda7e5:0xaca3157d1b6cb42c",
+    "shop_name": "Chợ Móng Cái",
+    "user_name": "Đỗ Văn Gánh",
+    "rating": 4,
+    "review_text": "Chợ đầu mối sỉ lẻ các loại hàng hóa, quần áo, giầy dép, túi ví,..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541d84cda7e5:0xaca3157d1b6cb42c",
+    "shop_name": "Chợ Móng Cái",
+    "user_name": "Tuân Văn",
+    "rating": 5,
+    "review_text": "Tôi đã đến đây, nhiều mặt hàng nhưng thách giá cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541d84cda7e5:0xaca3157d1b6cb42c",
+    "shop_name": "Chợ Móng Cái",
+    "user_name": "Nam Lê Hải",
+    "rating": 4,
+    "review_text": "Hàng hóa nhiều nhưng đắt vào mùa du lịch, nhất là những ngày cuối tuần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Huong Lan",
+    "rating": 5,
+    "review_text": "Gia đình mình vừa có dịp ăn tại quán hải sản Bà Niềm ở Móng Cái và thật sự rất hài lòng. Điều đầu tiên gây ấn tượng là quán cực kỳ rộng rãi, thoáng mát, có nhiều khu vực ngồi nên dù đi theo gia đình đông người hay nhóm bạn vẫn rất thoải …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Angel Studio",
+    "rating": 5,
+    "review_text": "tôi đã đến đây sau khi nghe lời đồn của mọi người, và cái kết là đồ ăn ngon thật sự Hải sản rất tươi, một chút phong cách ẩm thực của Trung Quốc , nhà hàng này xứng đáng 5 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hà Phạm Thu",
+    "rating": 4,
+    "review_text": "Tiệm rộng rãi, lịch sự, trang trí đẹp, chỗ ngồi thoải mái, điều hoà mát lịm ❤️. Đồ ăn phong phú, lên món rất nhanh, hải sản tươi rói, món ăn trình bày đẹp và rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nhung Nguyễn",
+    "rating": 5,
+    "review_text": "Mình đã quay lại lần 2 vì lần đầu đi tháng 11-2024 thấy đồ ăn khá ngon, lần này cũng vậy, tuy có món hàu mỡ hành mình chưa ưng lắm, vì khá cay, còn lại đồ ăn, phục vụ, không khí ok, sạch sẽ. Giá ở đây sẽ tầm trung, để no phải 400k/ng trở lên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "ngoc anh doi",
+    "rating": 4,
+    "review_text": "Quán rộng, sạch sẽ, nhân viên niềm nở, tuy nhiên do đặc thù đồ tươi gọi xong mới thịt nên lên đồ sẽ hơi lâu nha. Giá khá cao nhưng đáng để thử khi mất công tới đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Tuan Nguyen",
+    "rating": 5,
+    "review_text": "Quán có decor đẹp, sạch sẽ, có chỗ đỗ xe. Đồ ăn khá ngon, toàn đồ tươi.\nTuy nhiên do phải nung nóng cái tô nên cần có thời gian đợi, nhất là khi đi đoàn đông. Quán nên có người nói chuyện để khách thông cảm thì tốt hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Truong Thu Thuy",
+    "rating": 5,
+    "review_text": "Quán rộng, không gian đẹp ạ. Menu đa dạng cả hải sản và thịt. Nêm nếm rất hợp với khẩu vị với gia đình, gđ k thích hải sản nên gọi mấy món thịt. Dù đi sớm hơn giờ ăn trưa nhưng là vì ngày lễ nên món ra chậm hơn và có món nhà hàng k nhận làm cái này không trách nhà hàng nên vẫn cho 5*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nguyễn Phương Quỳnh",
+    "rating": 4,
+    "review_text": "Nhà hàng sạch sẽ, bài trí tốt. Các món ăn đa dạng phong phú. Các món ăn ở mức khá."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hong Lam Nguyen",
+    "rating": 1,
+    "review_text": "góc chơi của trẻ ngay khu vực ăn, quá ồn ào. quản lý nhà hàng không quan tâm tới tiếng ồn gây phiền hà cho khách. Trải nghiệm quá tệ vì sự ồn ào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nguyen Hoang Anh",
+    "rating": 4,
+    "review_text": "Thực đơn phong phú, nhưng Nhà mình không ăn hải sản, nhưng gọi các món nấu theo kiểu Trung Hoa. Chất lượng đồ ăn khá ngon miệng. Các đĩa mang lên đầy đặn quá, ăn 8 người không hết nổi, đành phải gói mang về hơn một nửa. Chi phí chừng ~ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Do Viet Duy",
+    "rating": 4,
+    "review_text": "Vị trí ở trung tâm thành phố Móng Cái, thuận tiện đi lại tuy nhiên chỗ để xe bé, nếu đi xe to theo đoàn thì cần tìm vị trí đỗ xe gần đó.\nĐồ ăn tươi ngon, phục vụ nhanh, giá hợp lý.\nPhòng hơi bí, ánh sáng hơi yếu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Anh Vân",
+    "rating": 1,
+    "review_text": "Đồ ăn thì hợp lí chế biến ngon, lễ tân và phục vụ bàn niềm nở. Riêng có nv ord thái độ cực kì đáng ghét, mặt mày sưng như thớt khách ord thì hết nghe đt riêng trong lúc ord xong đến thở dài thái độ. Tóm lại làm dịch vụ khác ord xác định vào …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hanh Nguyen",
+    "rating": 4,
+    "review_text": "Quán rộng, sạch sẽ, bài trí đẹp.\nMón ốc hương hấp sả, ớt 650k/kg ngon; Cháo ngao hơi loãng. Hỏi ớt bột hay tiêu để ăn nhân viên nói hết rồi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Tuan nguyen kiem",
+    "rating": 5,
+    "review_text": "Tuyệt vời\n\nPhòng Vip, không gian riêng tư, góc nhìn xuống phố về đêm rất đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Official Nguyễn Thành Thông (TomTom)",
+    "rating": 5,
+    "review_text": "Lần thứ 2 quay lại để thưởng thức lẩu Trùng Khánh, nước lẩu ok. Điểm 10 chính là độ tươi của hải sản, tôm mực cá đều rất rất tươi. Quá tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nguyễn Minh Tuấn",
+    "rating": 4,
+    "review_text": "Nhà hàng sạch nhân viên nhiệt tình , đồ ăn rất ngon và tươi không gian cũng ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Phạm Trung Dũng",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon giá thành hợp lý phục vụ tương đối nhanh. Không gian quán trang trọng lịch sự và khá rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "hoi nguyen thi",
+    "rating": 1,
+    "review_text": "Đồ ăn ngon ,phục vụ nhanh ,thái độ quản lí tóc ngắn cầm cai oder ném phịch cái -điểm , bát đĩa bàn mình bẩn phải bảo đổi lại ,quán trang trí ok ,quản lí chị gái nữ nên xem lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "trang pham",
+    "rating": 4,
+    "review_text": "Quán ăn không gian thoáng mát , nhân viên nhiệt tình lễ phép, đồ ăn được ,phục vụ hơi chậm.!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Rèm Cửa Giá Gốc",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý, không gian sang trọng, đồ ăn ngon tuyệt vời, tuy vậy vẫn có vài con ruồi bay ở trong quán là điểm trừ, không có đánh giá 4,75 ☆, cũng không có 4,5 ☆ , thôi thì 4 ☆"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Thu Nguyễn",
+    "rating": 5,
+    "review_text": "Nhà hàng hải sản ngon, tôi đã đến đây cùng với giá đình. Giá cả ổn. Chất lương phục vụ tốt. Sẽ quay lại khi có dịp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "KBLB Nhung",
+    "rating": 4,
+    "review_text": "Nhà hàng ở khu vincom móng cái, rộng rãi nhiều phòng riêng , bàn ăn là bàn tròn cho 10 người . Nấu các món ăn kiểu trung ngon như chân gà chiên mắm , đậu hũ , cá hấp xì dầu  . Tuy nhiên thời gian chờ đồ ăn ít nhất tầm 35-45phút ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Thanh Thảo",
+    "rating": 2,
+    "review_text": "Nhà mk đi ăn gọi 2 con cua 1 đĩa salat và đĩa cá chiên sốt kem.mk thấy ghi trong bill 2 con cua 1,4kg giá 1.200.000 bản thân mk thấy khá đắt tổng bill của mk hết 2.050k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Vũ Thảo nguyên",
+    "rating": 5,
+    "review_text": "Bún bát đá rất ngon, nv phục vụ có tâm.nhà hàng đẹp, sang sịn mịn, có chỗ cho tkon vui chơi 😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Mão Đỗ",
+    "rating": 5,
+    "review_text": "Nhà hàng mới, Phòng đẹp, sạch sẽ, nhân viên phục vụ nhiệt tình. Nhiều món mới và lạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hạnh Đỗ",
+    "rating": 1,
+    "review_text": "Nhân viên tư vấn không nhiệt tình, hỏi tư vấn thì chắc cực lâu mới trl đc 1 tin, đến khi mình cảm thấy ko vui và ko muốn đặt nữa và báo huỷ thì thả Tim cực nhanh. =)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hiệp Nguyễn Tiến",
+    "rating": 4,
+    "review_text": "Không gian quán sang trọng, phục vụ rất chuyên nghiệp. Đồ ăn tươi và ngon. Đổi lại thì giá cũng không rẻ, mình có ăn sáng ở đây giá khoảng 100-120k / người. Đồ ăn tươi ngon và hợp khẩu vị. Đáng để mọi người thử khi tới Móng Cái. À có một …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hoang Dat Phan",
+    "rating": 5,
+    "review_text": "Nhà hàng hải sản rất ngon và to lớn ở Trung tâm Tp Móng Cái. Vị trí đẹp, dễ tìm kiếm và bên trong rất rộng rãi. Đồ ăn ngon, bổ mà giá cả hợp lý vô cùng, ngon miễn bàn luôn. Phong cách và phong vị khá Trung Hoa.\nNếu có lần quay lại MC, sẽ tiếp tục ủng hộ Bà Niềm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "chung bui",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ nhiệt tình, thích hợp để mời khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hải Nguyễn Thế",
+    "rating": 5,
+    "review_text": "lần đầu tiên được thưởng thức món phở thịt trâu tươi trên bát nước dùng nóng hổi vừa thổi vừa ăn, bát đá nên dữ nhiệt rất tốt. ăn đến cuối bữa vẫn chín tái được thịt. quán ăn sạch sẽ, phù hợp với khách thượng lưu. món ăn đa dạng. nhân viên chuyên nghiệp. quán ăn trang trí nửa trung nửa hàn rất đẹp mắt. cảm ơn vì bữa ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Huy Trần Hoàng",
+    "rating": 5,
+    "review_text": "Đồ ăn thì phải nói ăn từ đầu đến cuối bát mà vẫn nóng hổi sôi  sùng sục, quán nằm đằng sau Vimcom Móng Cái mỗi tội bãi đỗ xe hơi chật."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hà bé",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon tươi, nhưng hơi mắc . Nhân viên phục vụ thái độ tốt nhưng vào giờ cao điểm thì hơi chậm ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Ngoc Tuan Nguyen",
+    "rating": 4,
+    "review_text": "Đồ ăn khá ngon. Tuy nhiên thời gian chờ đợi rất lâu. Cả tiếng mới đc bát bún hải sản."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Phuong Linh",
+    "rating": 5,
+    "review_text": "Quán đẹp, nhiều món ngon. Gợi ý mọi người món cua nấu thục và ốc côn hầm gà, chân gà chiên mắm ớt. Lẩu Trùng Khánh cũng ngon. Giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Trường Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian đẹp, đồ ăn ngon ❤️❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Đồ Nghề Tự Chọn (Mr Đồ Nghề)",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon. Nhưng chế biến lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Trang Nguyễn",
+    "rating": 1,
+    "review_text": "Đồ ăn ngon. Nhưng thái độ của lễ tân rất khó chịu :)) mong lần sau quay lại sẽ ko gặp phải tình trạng lễ tân thái độ khó chịu này nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hung vu tien",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon,không gian đẹp mà phục vụ hơi lâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Thanh Bui",
+    "rating": 5,
+    "review_text": "Nhà hàng rộng rãi, có 3 hoặc 4 tầng gì đó, có phòng ăn chung và các phòng độc lập khép kín và khá sang trọng. Nhân viên nhanh nhẹn lịch sự. Đồ ăn rất ngon, khẩu vị hợp với mọi lứa tuổi ( đoàn mình có cả trẻ em và người lớn cùng ăn). Giá cả rất hợp lý!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Savi cevic",
+    "rating": 3,
+    "review_text": "Đồ ăn ngon, quán sang đẹp; giá hơi cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nguyễn Việt Tuấn",
+    "rating": 5,
+    "review_text": "Phòng ăn sạch sẽ, nhân viên nhiệt tình, địa điểm cũng gần trung tâm, tiện đi lại, đồ ăn cũng rất hợp khẩu vị mọi người trong đoàn mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Anh Le",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon- chất lượng trên từng món ăn, nhà hàng bài trí theo kiểu trung hoa đẹp và sạch sẽ. Tuy nhiên chưa có không gian tổ chức tiệc lớn trên 100 người."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Đình Tuấn Nguyễn (Tiếng Trung)",
+    "rating": 5,
+    "review_text": "Quán ăn khá ok, đồ ăn ngon, tuy nhiên phục vụ còn hơi chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Thao Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, sạch sẽ, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Xuan Tien Tran (TXT)",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, giá hợp lý. Nhưng cần cải thiện vệ sinh chén bát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Chien Pham Minh",
+    "rating": 5,
+    "review_text": "Tươi ngon giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Minh Huyền",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, có chỗ để xe, đồ ăn lên nhanh, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hưng Dương",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, đa dạng, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Thu Huong Vu",
+    "rating": 1,
+    "review_text": "Phục vụ quá chậm. Đợi gần 1 tiếng mới có đồ ăn. Ăn xong bữa mới mang rau xào lên. Ko quay lại lần sau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nguyen Hai An",
+    "rating": 5,
+    "review_text": "Nhà hàng sạch đẹp, mát mẻ. Phòng riêng kín đáo, yên tĩnh. Đồ ăn ngon tươi, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Alice Nguyen",
+    "rating": 2,
+    "review_text": "Món ăn ổn, giá hợp lý. Tuy nhiên phục vụ vô cùng tệ. Nhà mình gọi 4 món đơn giản (ngao hấp, ốc luộc, cá lạp xạp nấu chua, mực chiên) mà chờ hơn 1h mới lên đồ. Gọi nhân viên lấy thêm cái cốc, hay nước uống, bát cơm...cũng vô cùng chậm. Lúc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "langtuhanhkhat",
+    "rating": 5,
+    "review_text": "Mọi thứ đều rất ok chỉ có cái là các món đều rất to. Đi ít người thì ăn hơi khó gọi đồ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nguyễn Hữu Huy (Daniel Nguyen)",
+    "rating": 5,
+    "review_text": "Đồ tươi ngon, giá trung bình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Thanh Hưng",
+    "rating": 5,
+    "review_text": "Món ăn ngon, không gian đẹp, các bạn nhân viên chu đáo lễ phép. Một nhà hàng chất lượng tại Móng Cái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Trang Thông Tin Dự án",
+    "rating": 5,
+    "review_text": "Quán ăn đúng chuẩn hương vị Trung Quốc. Một nhà hàng ngay sát biên giới Trung Quốc. Giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Trần DW.Trung Kiên",
+    "rating": 5,
+    "review_text": "Đồ ăn miễn chê, bắt mắt, tròn vị, giá hợp ví\nPhục vụ lịch sự chu đáo, lúc đông thì hơi chậm chút, nhưng ổn\nKhông gian vừa đẹp và thuận tiện\n==> Đã đến Móng Cái là chắc chắn thăm lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Ngo Quocvn",
+    "rating": 5,
+    "review_text": "Đồ ăn đậm chất Trung Quốc, cầu kỳ, ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Mv Chien",
+    "rating": 3,
+    "review_text": "Nấu món ăn khá ổn.\nPhục vụ kém không chu đáo, ngồi phòng Vip mà muốn gọi nv pv phải chạy ra ngoài... không có chuông, Xin đá và cốc thì được đá còn không cốc...nản\nLúc lên đơn tôm hùm nhân viên báo 1.1 kg khi tính tiền tính 1.6 kg."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Do Nguyen",
+    "rating": 5,
+    "review_text": "Bếp nấu ngon. Không gian ổn. Giá hơi max xíu. Tổng quan OK"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nguyễn Văn Thực (Merlin)",
+    "rating": 5,
+    "review_text": "Ngon đáng đồng tiền bát gạo ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Mười Lưu",
+    "rating": 5,
+    "review_text": "Nhà hàng Hải sản Bà Niềm, rất tuyệt vời và rất đa dạng về Hải Sản. Tôi thich nhất là Hương vị món an rat ngon. lạ. đặc trưng cho mot vùng miền.\nKhông gian thoáng va thoải mái. có cả không gian vui chơi cho trẻ e. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "giaa haan",
+    "rating": 1,
+    "review_text": "đồ ăn ko ngon lắm,nhân viên thái độ,lên đồ ăn rất chậm, khách hỏi thì lại thái độ này nọ rồi chửi thầm trong miệng.Sẽ ko quay lại lần 2!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Đức Nguyễn",
+    "rating": 1,
+    "review_text": "Quán gọi món vịt quay thì báo hết chuyển sang vịt hầm rượu thì báo đợi 30p. Gần tiếng sau nhân viên lại bảo bếp báo hết. Chán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Minh Vũ",
+    "rating": 5,
+    "review_text": "Nhà hàng đẹp, món ngon, phục vụ tốt. Giá cũng cao. Tầm 500k-700k/ng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "By Nguyễn",
+    "rating": 4,
+    "review_text": "Nhà hàng Hải Sản Bà Niềm có rất nhiều món ăn ngon\nKể cả món tầu\nMọi người đến Móng Cái hãy đên thưởng thức"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Tiến Thành MC",
+    "rating": 4,
+    "review_text": "Không gian đẹp,dịch vụ chu đáo,đồ ăn sạch sẽ chỉ là không hợp khẩu vị của em thôi,mọi người nên đến thử nhé !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hung Nguyen",
+    "rating": 3,
+    "review_text": "Vị trí đẹp, đồ ăn ngon, phục vụ ko  chu đáo- khách ngồi phòng riêng không có nhân viên phục vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Minh Nhat",
+    "rating": 5,
+    "review_text": "Món ăn ngon, phòng riêng đẹp.\nGiá hơi chát thôi!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Vũ Đức Phong",
+    "rating": 4,
+    "review_text": "Đồ tươi ngon phục vụ hơi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "nl vq",
+    "rating": 3,
+    "review_text": "đồ ăn ngon nhưng phục vụ kém gọi không nghe toàn phải để khách đi gọi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Tran Trong Binh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Nhân viên và lễ tân rất kute"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Phương Nguyễn",
+    "rating": 3,
+    "review_text": "Mình thấy đồ ăn ngon giá k bình dân đối với mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Lien Huong",
+    "rating": 5,
+    "review_text": "Không gian đẹp, phong cách, sang trọng. Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nam Le",
+    "rating": 5,
+    "review_text": "Khá ngon sạch sẽ thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Van Minh Dong",
+    "rating": 4,
+    "review_text": "Món ăn tưới ngon ,không gian riêng tư ấm áp lịch sử..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Lee Nam PRO (Beautiful Life)",
+    "rating": 5,
+    "review_text": "Quán sang giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Hoài Thu Nguyễn",
+    "rating": 1,
+    "review_text": "Phục vụ quá chậm, báo đợi đồ nửa tiếng xong ra báo hết chính món đó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Việt Lê Hoàng",
+    "rating": 5,
+    "review_text": "Đồ ăn vừa miệng, nv phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Dũng Phạm",
+    "rating": 5,
+    "review_text": "trên cả tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "TRỊNH NGUYỄN TRUNG",
+    "rating": 4,
+    "review_text": "Rất ngon, chỗ để xe hơi chật chút."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Thảo Mai",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "TOURS NB",
+    "rating": 5,
+    "review_text": "Ngon, lịch sự, đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Trần Uyên",
+    "rating": 5,
+    "review_text": "Phục vụ nice, đồ ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nguyễn Mr",
+    "rating": 3,
+    "review_text": "Món ăn ngon giá vừa phải"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nguyễn Trọng (Bác sĩ gia đình)",
+    "rating": 4,
+    "review_text": "Không gian đẹp, rộng rãi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Le Dung",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Tường Nguyễn Trịnh",
+    "rating": 3,
+    "review_text": "Đồ ăn khá đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Tuong Tu phap",
+    "rating": 2,
+    "review_text": "Đắt lòi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "vu kim",
+    "rating": 3,
+    "review_text": "Đồ ăn khá ổn , sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Lý Nguyễn",
+    "rating": 5,
+    "review_text": "Xuất sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "The Anh",
+    "rating": 4,
+    "review_text": "Ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Phuong Thu",
+    "rating": 4,
+    "review_text": "Ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Thang Nguyen Le",
+    "rating": 4,
+    "review_text": "Món ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Golden Smile",
+    "rating": 1,
+    "review_text": "Đồ lên rất chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "duc tran",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Tiến Dũng",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nguyen Sunny",
+    "rating": 1,
+    "review_text": "Trải nghiệm tệ, nhân viên phục vụ không chuyên nghiệp, đồ ăn lâu hơn 1 giờ không lên nổi, cuối cùng nói với khách hàng là bếp ko làm kịp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Huy Hoang Vu",
+    "rating": 1,
+    "review_text": "Nhà hàng bán bia nhưng hỏi cốc để uống thì nhân viên bảo không có đủ cốc cho khách???"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "HAPIT",
+    "rating": 4,
+    "review_text": "Nhìn chung, tôi rất hài lòng với đồ ăn.\n\nCó thể gọi món bằng tiếng Việt. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Yoon SJ (Viki)",
+    "rating": 4,
+    "review_text": "Tôi đi ăn tối; đồ ăn ngon và nhân viên thân thiện.\n\nVì tôi đã gọi món trước nên đồ ăn được mang ra khá nhanh. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Macchi",
+    "rating": 4,
+    "review_text": "Nó ngon hơn cả mong đợi.\n\nHôm đó là tối thứ Năm, nhưng quán khá đông khách. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "sunmi park",
+    "rating": 5,
+    "review_text": "Nhìn chung, đồ ăn ngon và nhà hàng sạch sẽ. Món bún gạo đựng trong nồi đất nung rất ấn tượng!! Nhân viên cũng thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Miho-chan",
+    "rating": 5,
+    "review_text": "Hải sản tươi ngon, chất lượng tuyệt vời nhưng giá có thể hơi cao. Không gian và nội thất nhà hàng trông rất đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Mark Seemanpillai",
+    "rating": 5,
+    "review_text": "Nhà hàng cao cấp nằm cạnh trung tâm thương mại, phục vụ khẩu phần lớn, phù hợp cho nhóm đông người. Quản lý thân thiện, dễ tính và nói được tiếng Anh. Ghế ngồi thoải mái, phòng sáng sủa và sạch sẽ. Món nấm và bắp cải rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "하늘이아빠에요",
+    "rating": 5,
+    "review_text": "Nó rất ngon.\n\nCó lẽ vì là Mong Kai nên nhà hàng mang phong cách Trung Hoa. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Nguyen Van Nhan",
+    "rating": 4,
+    "review_text": "Một nhà hàng ngon ở thành phố Móng Cái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Rogerio Machado",
+    "rating": 3,
+    "review_text": "Mực rất dai, chưa được nấu chín kỹ.\n\nChỉ có bia Sài Gòn Việt Nam, tất cả các loại khác đều là bia Trung Quốc. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Ny Dan",
+    "rating": 1,
+    "review_text": "Tôi đã ăn ở đó, nhưng tầng một lúc đó không được tốt lắm. Cực kỳ ồn ào. Hơn nữa, họ đã lén lút thêm một món vào hóa đơn rồi sau đó mới phàn nàn, vì vậy hãy kiểm tra hóa đơn cẩn thận. Nhân viên quầy không biết rõ cầu thang và cư xử thô lỗ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Yousuk Noh",
+    "rating": 5,
+    "review_text": "Niềm hạnh phúc bất ngờ mà bạn có thể tìm thấy ở một điểm đến du lịch xa lạ chính là những món ăn ngon và dịch vụ thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "朴龍貢",
+    "rating": 5,
+    "review_text": "Những món ăn nhất định phải thử ở Mong Cai 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "MR HUNG HERO",
+    "rating": 4,
+    "review_text": "Được rồi 👌👍👍👍👍👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55cca02a9d31:0x2f81960e8b5a4a09",
+    "shop_name": "Hải Sản Bà Niềm",
+    "user_name": "Vuong Nguyen",
+    "rating": 4,
+    "review_text": "ĐƯỢC RỒI"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Việt Anh",
+    "rating": 5,
+    "review_text": "Một địa chỉ rất đáng thử nếu đến Móng Cái và muốn ăn hải sản tươi! 🦀🌊\n\nMình ghé Hải sản Cường Loan ở khu Đông Thịnh, Trà Cổ và ấn tượng nhất chắc chắn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nga Nguyen",
+    "rating": 3,
+    "review_text": "Đồ ăn chất lượng ổn khá tươi, quán thoáng và sạch, view biển. Nhược điểm vài món đắt một cách vô lý, ví dụ đĩa ốc đá 400k trong khi ăn quán khác chỉ khoảng dưới 100k, nên hỏi giá trước khi ăn. Chi phí khoảng 500k/1 người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Tuấn Bùi",
+    "rating": 5,
+    "review_text": "Quán ra đồ ăn nhanh, nhân viên phục vụ nhiệt tình, đồ ăn tạm ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Lê Công Ngân",
+    "rating": 5,
+    "review_text": "Giá cả niêm yết rõ ràng hợp lý. Đồ ăn ok. Nhân viên nhiệt tình chuyên nghiệp.\nView ngắm biển trực tiếp. Cách biển 50m"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Ryan Béo Travel",
+    "rating": 5,
+    "review_text": "Chị chủ dễ thương lắm luôn. Món ăn giá cả rõ ràng. Hợp khẩu vị mà có thêm 3 em chó cute :)))) ♥️♥️♥️♥️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyen Hoa",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cả phải chăng đặc biệt ông chủ cực kỳ tử tế"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hạnh Nguyễn",
+    "rating": 5,
+    "review_text": "hải sản tươi, món ăn đậm vị, không gian sạch sẽ rộng rãi, nhân viên phục vụ nhanh và nhiệt tình, giá cả hợp lý nên rất đáng để quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "LĐH UY_",
+    "rating": 4,
+    "review_text": "Quán hải sản dọc bờ biển Trà Cổ. Bán các hải sản đặt trưng của vùng Quảng Ninh. Đặc biệt có sam 5 món. Một cặp sam bảy người ăn không hết. Mực tươi trong, bề bề cũng ngon. Mình đi vào tháng 12 nên trời hơi lạnh. Rượu không ngon. Không phải mùa du lịch nên khách vắng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "June Nguyen",
+    "rating": 5,
+    "review_text": "Quán nằm trên đường sát biển. Ngồi phía ngoài gió biển thổi vào rất mát.\nNên gọi đặt bàn trước. Nếu ăn ở nhà hàng thì khi tắm biển sẽ được tắm tráng miễn phí. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Bảo Ngọc Đinh",
+    "rating": 5,
+    "review_text": "Địa chỉ ăn uống uy tín tại Móng Cái. Đồ ăn ngon, view đẹp, phục vụ tận tâm. Bạn nào đi Trà Cổ mà chưa biết ăn đâu thì cứ ghé Cường Loan nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hà Hoàng",
+    "rating": 5,
+    "review_text": "hôm qua gia đình mình đi du lịch trà cổ có ghé nhà hàng cường loan gọi vài món hải sản mình thấy rất ưng về độ tươi ngon mà giá cũng rẻ so với các vùng khác\n. quán có không gian thoáng mát sạch sẽ view sát biển .vì gia đình mình gọi đồ sớm nên được phục vụ lên đồ nhanh ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hoàng Đỗ Minh",
+    "rating": 2,
+    "review_text": "Đồ ăn cũng tươi, nấu tạm ổn. Tuy nhiên hơi đắt, đồng thời ép khách hàng khi ăn mực phải ăn tối thiểu 500g thì mới làm, đây là điểm trừ rất lớn ạ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Truong Anh Tuan",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi ngon, giá hơi cao chút."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "CK VN Công ty",
+    "rating": 4,
+    "review_text": "Đồ ăn khá tươi, ngon, giá hơi đắt so với khu vực nhưng đi du lịch so với sầm sơn thì rẻ hơn nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "NaDuo",
+    "rating": 4,
+    "review_text": "Quán ở ngay đối diện đường đi bộ dọc bãi biển. Chỗ ngồi rộng rãi. Đồ ăn và giá không rẻ, tương tự như các nhà hàng khác xung quanh. Điểm cộng là chủ quán và nhân viên rất xởi lởi, phục vụ nhanh và nhiệt tình. Đường vào khá nhỏ hẹp, phía …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Vu Doanh",
+    "rating": 1,
+    "review_text": "E là người thực tế trải nghiệm nhé ! Đồ tươi nhưng đồ ăn nhiều dầu mỡ , giá vừa phải khoảng 500k 1 suất ăn ! Cơ bản là hãy trải nghiệm , đừng tin vào review bẩn !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Độc Hành Nhân",
+    "rating": 4,
+    "review_text": "Quán cũng rộng, có chỗ để ô tô gần biển. Có chỗ cho trẻ em chơi. Món ăn cũng đa dạng. Phục vụ nhanh, vui vẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Trên mọi nẻo đường",
+    "rating": 4,
+    "review_text": "Chỗ ngồi rộng rãi, thoáng mát! View trực diện biển.\nĐồ ăn cũng khá bình thường, không có gì đặc sắc. Giá khá cao! Phục vụ nhanh và nhiệt tình. Có chỗ để được khoảng chục xe con. Đường vào khá nhỏ hẹp, cuối dãy nên bị ảnh hưởng bởi đám xe của nhà hàng phía trên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Anh Thu NGUYEN",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi ngon, chế biến nhanh, nhân viên nhiệt tình. Miến xào giòn rất ngon nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Tâm Nhàn Nguyễn",
+    "rating": 5,
+    "review_text": "Nhà hàng view bãi biển Trà Cổ, Quảng Ninh.\nHải sản tươi, ngon, giá phù hợp. Có bãi đỗ xe ô tô. Nhân viên phục vụ nhã nhặn, phục vụ nhanh chóng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Phuong Giang",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi ngon, đặc biệt nên thử món miến xào rất rất lạ và rất rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Saga Candy",
+    "rating": 5,
+    "review_text": "Nhân viên nhà hàng chu đáo nhiệt tình, món ăn trang trí rất đẹp, mà còn ngon nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nhân - Hòa Bình",
+    "rating": 4,
+    "review_text": "Không gian rộng rãi, nhà hàng có mặt tiền giáp ngay bờ biển nên tắm táp xong lên ăn uống luôn hợp lý. Thực đơn phong phú, nhân viên OK. Nhà hàng có bãi đỗ xe khá rộng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hạnh Lê",
+    "rating": 3,
+    "review_text": "Thực phẩm tươi ngon chế biến khá ổn\nNhân viên khá hòa nhã vui vẻ\nTrà Cổ còn hoang sơ nhưng rất đáng ghé thăm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Khoi TRUONG DINH",
+    "rating": 5,
+    "review_text": "Giá không cao , chế biến bình thường, không gian khoáng mát , ghẹ 750k , ngán 700k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hoa Đặng",
+    "rating": 5,
+    "review_text": "Ngồi ăn gần bờ biển thì rất là thik rùi. Đồ ăn tươi sống, ngon nhưng giá cũng hơi cao đấy ạ. Ở đây thấy bảo đặc sản là món con Mai nhưng mình ăn chẳng thấy ngon gì cả, mâm kia là chưa lên món đó ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hạt Giống F1 Trung Tâm Giống Cây Trồng",
+    "rating": 5,
+    "review_text": "Chất lượng phục vụ tốt và giá cả chuẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "minh lê",
+    "rating": 4,
+    "review_text": "Nhà hàng bình rất nhưng chế biến rất ngon. Sam đủ món tuyệt ngon. Nhà hàng sát bãi biển nên có thế tắm biển hóng gió rất thích."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Linh Pham",
+    "rating": 2,
+    "review_text": "Đọc review và thêm bạn tour chỉ nên tin tưởng chọn nhà hàng. Nhưng có vẻ nhà hàng ưa phục vụ đoàn đặt trước hơn là khách nhỏ lẻ. Order đồ ăn từ 7h kém mà 8h kém mới có đồ, trong khi đồ đặt toàn là hấp, đầu tiên đĩa tôm ra loại chắc phải …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyễn Bùi Hà",
+    "rating": 5,
+    "review_text": "Không gian nhìn ra biển đẹp, rộng rãi. Món ăn đa dạng. Đặc biệt là món Sam. Đặc sản vùng Quảng Ninh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Thầy Kiên dậy lái xe",
+    "rating": 1,
+    "review_text": "* Đọc review thấy nhiều đánh giá tốt nên 4 a e đi qua đây ăn tối.\n* Gọi vài món cơ bản như hình.\n* Đánh giá: …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hồng Gấm Trần Thị",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, tuần nào mình với gia đình cũng đến  <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Châu á Thái Bình Dương APE",
+    "rating": 5,
+    "review_text": "Nhà hàng đồ ăn hải sản tươi ngon, nên check in nhé cả nhà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Long Bruce",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon giá hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Trinh Ngo",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , view đẹp , nhân viên phục vụ oke"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "NGUYEN KAWASAKI",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon không gian quán đẹp , giá cả hợp lí nhân viên nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "kim ngân lý",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon ,giá cả hợp lí , nv phục vụ dễ thuơng , sẽ còn ghé lại quán nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyễn Hoàng Minh Nguyên",
+    "rating": 5,
+    "review_text": "Đồ ăn quá ngon. Tôm rất ngon phục vụ nhiệt tình ko có gì đáng để chê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyễn Thị Hằng",
+    "rating": 5,
+    "review_text": "Thấy quán được rv khen nhiều nên ghé thử. Mình rất hài lòng về món ăn và dịch vụ ở quán. Nhân viên chu đáo. Món ăn đa phần hợp khẩu vị, nhưng mình nghĩ món cà ri hơi đậm một xíu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Vi Huyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, dịch vụ tuyệt vời, nhân viên thân thiện vô cùng, không gian thoáng mát mẻ, rất xứng đáng để trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "huy Đỗ",
+    "rating": 5,
+    "review_text": "Hải sản ngon, tươi. Đặc biệt là cua gạch. Nhân viên nhiệt tình và nhanh. Quán rất đông nên cần đặt bàn trước để không phải chờ lâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "dung nguyen",
+    "rating": 5,
+    "review_text": "đồ ăn ngon , nhân viên phục vụ tận tình ,đồ ăn ra nhanh với vừa miệng lắm . recommend cho mn nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Tam Bui",
+    "rating": 5,
+    "review_text": "Sắp đến thôi nôi bé con nhà mình , mình vẫn còn loay hoay không biết chọn nhà hàng nào để tổ chức tiệc cho con mình . Thật may là mình tìm thấy nhà hàng này trên fb , lúc đầu cũng hơi đắn đo nhưng mà gọi điện đến hotline quán , bạn quản lí …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hv Lộc ッ",
+    "rating": 5,
+    "review_text": "Quán rất sang, thức ăn chế biến phong phú, tươi, ngon mà giá cả thì hợp lí, rất đáng để thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Long Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon,dịch vụ tốt mặc dù rất đông đúc,bầu không khí sôi động,đặc biệt món cá rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Of Mind Mine",
+    "rating": 5,
+    "review_text": "Không gian thoáng mát rộng rãi, đồ ăn tươi ngon giá cả hợp lí, nhân viên phục vụ nhiệt tình vui vẻ. Nói chung tuyệt vờiii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "giang ngô trường",
+    "rating": 5,
+    "review_text": "Vị trí dễ nhìn. Mặt tiền ấn tượng. Từ hương vị, thẩm mỹ đến âm thanh đều mát lòng người vừa bước vào. Không gian quán rộng rãi, nhẹ nhàng, thích hợp mời đối tác hoặc hẹn hò. Món ăn đẹp mắt tròn vị. Giá cả đi đôi không gian và chất lượng phục vụ. Rất hài lòng khi dẫn mẹ vào ăn thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyễn Duy Chính",
+    "rating": 3,
+    "review_text": "Đồ ăn tạm ổn. Giá không rẻ nhưng cũng không quá đắt. Quán đông người nên ồn ào. Chỉ trải nghiệm các món ăn thì ok. Còn ngồi lâu chuyện trò thì không tiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Bình Thuận-Lê Chí Trường Thịnh",
+    "rating": 5,
+    "review_text": "Món ăn tươi ngon tuyệt vời, nhân viên thân thiện và không gian thoải mái 🥰🥰 rất đáng để đi ạ … …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nhi",
+    "rating": 5,
+    "review_text": "Quán siêu đẹp, nhìn từ ngoài vào thấy rất độc đáo. Quán cực sạch sẽ, phục vụ rất ổn, đồ ăn thì mình đánh giá vị chưa đặc sắc nhưng ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Thơ Nguyễn",
+    "rating": 5,
+    "review_text": "Rất thích quán ăn này, giá ổn áp mà không gian cực kỳ nice! Rất thích chị Như, chị tư vấn rất nhiều món hợp khẩu vị đặc biệt củ sen sấy. Sẽ quay lại nhe!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Ngọc Hồng",
+    "rating": 5,
+    "review_text": "Món ăn ngon, ra món nhanh, Hải sản đặc biệt tuơi ngon, phục vụ chủ đáo! Nhất định ghé lại!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Lê Hoàng",
+    "rating": 5,
+    "review_text": "Nhà hàng rộng rãi thoáng mát, được bạn giới thiệu nên ghé thử, thấy khá oke. Đồ ăn ngon và nhân viên rất nhiệt tình. Sẽ quay lại ủng hộ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Diem Lee",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , nhân viên phục vụ nhiệt tình đáng trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Trường Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon . Giá cả hợp lý . Phục vụ nhiệt tình . Không gian nhà hàng thoáng đãng ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Việt Anh",
+    "rating": 5,
+    "review_text": "Đồ ăn quán siu hợp lun á!!!! Các bạn nhân viên take care bàn mình cực thân thiện. Lúc cọc số mình có đánh rơi số nhưng bạn nv có support mình lấy được lại số cũ. 1000000 điểm chất lượng ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "T Q",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi sống, không gian thoáng đãng, mát mẻ, nhân viên rata nhiệt tình và vui vẻ. Một trải nghiệm rất là tuyệt vời! Xứng đáng 5 sao!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyen Huyen",
+    "rating": 1,
+    "review_text": "1.5 tiếng chưa làm xong cơm vs mì cho nhà m. Phục vụ chậm chạp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Mẫn Nguyễn",
+    "rating": 5,
+    "review_text": "Mình khá thích đồ ăn ở Nhà hàng. Ngon và rẻ. Hải sản bắt tại hồ. Nhân viên rất xinh đẹp và nhiệt tình. Sẽ ghé lại ủng hộ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Quỳnh anh Nguyễn nhật",
+    "rating": 5,
+    "review_text": "Tôi thấy ăn nhà hàng ơ đấy hải sản tươi và rất ngon Nhân viên phục vụ chu đáo. Nhà vs sạch sẽ Thu ngân nhẹ nhàng Không gian thoáng mát sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Khoi Dinh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, rẻ, chỉn chu. Có điều mùa du lịch nên khá đông phải lấy số chờ tới 45p :((("
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyên Thảo",
+    "rating": 1,
+    "review_text": "lên đồ chậm lắm mn ạ, bàn e vào đầu tiên mà mãi vẫn chưa đủ món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Huy Lee",
+    "rating": 5,
+    "review_text": "Hôm tôi đến nhà hàng rất đông khách, nhưng thái độ của nhân viên rất niềm nở đón tiếp, món ăn tươi ngon mà ra rất nhanh nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Lộc Tấn",
+    "rating": 5,
+    "review_text": "Nhà hàng gần trung tâm, tụi mình không mất thơid gian di chuyển là mấy, ăn xong có thể chạy ra biển hóng gió nữa chứ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Uyên Tố",
+    "rating": 5,
+    "review_text": "Ăn ngon, sạch, giá cả OK, mỗi chỗ tráng nước sạch là ít phòng và vòi nước không đủ mạnh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Gia Bảo Nguyễn",
+    "rating": 5,
+    "review_text": "Bất ngờ khi mình dẫn gia đình đến và trải nghiệm, view ở đây cực chill ít ồn ào rất thích hợp\ncho gia đình và bạn bè tụ họp Đồ ăn ở đây hải sản tươi,thịt tươi không tẩm ướp , …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Thu Nhựt",
+    "rating": 5,
+    "review_text": "Ngoại trừ giá hơi cao ra thì mọi thứ rất ok luôn. Đồ ăn ngon, phục vụ dễ thương và không gian đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Minh Phú 6c",
+    "rating": 5,
+    "review_text": "món ăn ngon, chờ khoảng 10p là món lên liên tục, ăn no xong về. đã ghé quán vài lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Vương Ma",
+    "rating": 5,
+    "review_text": "Mình thấy đồ ăn ở đây quá ngon mà giá lại rẻ. Ủng hộ nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hải Anh Lê Trần",
+    "rating": 5,
+    "review_text": "Nhà hàng món rất ngon và nhiêu món nhân viên phục vụ tận tình và chu đáo đia điểm thích hợp cho ae trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nam Vu",
+    "rating": 5,
+    "review_text": "Ngon quá hải sản tươi mn nên trải nghiệm nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Min Huyen",
+    "rating": 5,
+    "review_text": "Quán có view đẹp, không gian rộng rãi- thoáng mát, phục vụ trai xinh gai đẹp, vô vàng món ăn ngon lạ mắt, hải sản phong phú"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hữu Việt Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ổn ,phục vụ nhanh ,giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "DY18B_78_Ngô Xuân Tiền",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá hơi đắt so với những nơi khác, nhưng bạn phải trả tiền cho bầu không khí ở đó."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyễn Hữu Duy Lê",
+    "rating": 5,
+    "review_text": "Các bạn nhân viên hỗ trợ nhiệt tình, bạn Quốc Cường rất dễ mến Đồ ăn ok, không khí đẹp, nhộn nhịp, rộng rãi Đồ ăn lên nhanh Sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "anh kiet thai tran",
+    "rating": 5,
+    "review_text": "Quán có không gian thoáng mát , đẹp . Hải sản tươi . Món ăn hợp khẩu vị . Nhân viên phục vụ nhiệt tình , thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Xuan Pham",
+    "rating": 5,
+    "review_text": "Hải sản tươi ngon, giá hợp lý, nhân viên thân thiện. Lần sau nhất định ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Bảy Chị",
+    "rating": 5,
+    "review_text": "Mình sẽ ghé tiếp vào lần sau, hải sản tươi ngon, lựa chọn thoải mái theo ý của mình, chế biến món ăn cũng đa dạng nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Lan Anh Lê Nguyễn",
+    "rating": 5,
+    "review_text": "🍽️ Những món ăn được chuẩn bị chỉn chu, đậm tinh thần “tôn trọng nguyên liệu” – tinh tế mà vẫn giữ trọn hương vị tự nhiên. 🌾 Không gian mở, gần gũi với cây xanh, khiến từng khoảnh khắc trở nên lắng đọng. Buổi tối ấy không chỉ thỏa mãn khẩu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Sơn Trường",
+    "rating": 5,
+    "review_text": "Món ăn rất đa dạng, phong phú mở menu ra là đã có bao nhiêu món ngon với nhiêu cách chế biến khác nhau rồi, rất hài lòng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Lam Le",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, món tôm cháy tỏi khá chất lượng, phục vụ nhiệt tình Lẩu khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Ðatj Buif",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và phục vụ tận tâm…còn quay lại lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "cẩm vân lê",
+    "rating": 5,
+    "review_text": "Món ăn trang trí đẹp , ngon hợp khẩu vị, hải sản tươi View sông cực đẹp Nhân viên phục vụ chu đáo vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Bi Đen Gaming",
+    "rating": 5,
+    "review_text": "Hải sản của quán rất tươi ngon, to sạch sẽ ăn kh có bị lượn cợn cát, đến nhớ gọi ăn nha mọi người."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "August Bùi",
+    "rating": 5,
+    "review_text": "Hiện tại vẫn chưa có nhiều người đến vì chưa có nhiều chương trình khuyến mãi, nhưng đồ ăn rất ngon và không khí ở đây rất tuyệt~ Tôi thực sự khuyên bạn nên đến đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Thuan Nguyen Minh",
+    "rating": 5,
+    "review_text": "Nhà hàng trông rất sang trọng, sạch sẽ nhân viên thì nhiệt tình chu đáo, đã vậy còn chiều theo ý của khách nữa chứ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Minh Lê",
+    "rating": 5,
+    "review_text": "đồ ăn quá tuyệt vời, quá chất lượng như mong đợi. nhân viên phục vụ rất tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Trần Doãn Đan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhanh. Nhân viên dễ thương nhiệt tình, không gian đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hào Phạm",
+    "rating": 5,
+    "review_text": "Thiệt sự rất muốn ghé lại nhà hàng ăn luôn, đồ ăn quá ngon mà còn đúng giá nữa, chế biến rất vừa luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Dương Lê",
+    "rating": 5,
+    "review_text": "Không gian quán sang trọng, mà rộng rãi, đi theo nhóm bạn hay gia đình cũng không sợ chật hay thiếu bàn nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Jdjdjdj Hsjdndj",
+    "rating": 5,
+    "review_text": "Nhà hàng lên món nhanh, không phải chờ đợi lâu, mà món nào cũng ngon nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hang Nguyen",
+    "rating": 1,
+    "review_text": "quá tệ, đồ ăn quá nhiều dầu mỡ, giá đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Tây Thành",
+    "rating": 5,
+    "review_text": "Ngon, sạch sẽ Phục vụ OK, chuyên nghiệp, thân thiện, dễ thương. Rau tươi, nhiều loại Tráng miệng ngon, thanh mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Thịnh Quang",
+    "rating": 5,
+    "review_text": "Không cần suy nghĩ nhiều, mỗi lần về quê chơi tôi đều dắt gia đình đến quán ăn, rất yên tâm về thức ăn của quán luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "PMChoang ff",
+    "rating": 5,
+    "review_text": "Mình đi 4 người gọi món ra cũng bình thường mà ăn không hết nổi, món vừa ngon lại còn nhiều nữa chứ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Thuỷ Phan",
+    "rating": 5,
+    "review_text": "Đồ ăn và trải nghiệm tất cả đều tuyệt vời, ko có gì để chê. Không gian phù hợp với hẹn hò luôn nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Quang Anh",
+    "rating": 5,
+    "review_text": "Ăn xong có hóa đơn rõ ràng, đúng với thỏa thuận ban đầu, đoàn mình đi đông được nhà hàng giảm giá cho thêm một ít nữa, quá là oke."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Như Quỳnh",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon. Giá cả tương xứng với chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyễn Khánh",
+    "rating": 5,
+    "review_text": "Quán xinh, đồ ăn ngon và hấp dẫn, nhân viên phục vụ rất nhiệt tình và dễ thưnnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyễn Thị Thủy Tiên 11a4",
+    "rating": 5,
+    "review_text": "Quán nằm ở trung tâm thành phố, không gian ấm cúng và sang trọng, rất phù hợp để tiếp khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Khang An",
+    "rating": 5,
+    "review_text": "Nhà hàng phù hợp cho đi với gia đình bạn bè, rất rộng rãi mà còn sạch sẽ nữa đó, nhìn chung rất phù hợp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Phạm Trung Thành",
+    "rating": 4,
+    "review_text": "Địa điểm tương đối đẹp, hải sản ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Ly Trinh Khanh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngonnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Wibu God",
+    "rating": 5,
+    "review_text": "không gian thoáng đãng, rất chill, chất lượng thịt tươi.. . Nhân viên hỗ trợ từ đầu tới cuối.. rất nhiệt tình.. sẽ ghé lại vào lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "MeMe",
+    "rating": 5,
+    "review_text": "Mình hay dẫn tour khách du lịch đến đây, hầu như ăn xong ai cũng khen hết, rộng rãi, không phải chen chúc, gió biển thổi lại bao mát nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hiếu Nguyễn",
+    "rating": 5,
+    "review_text": "Quán có những món ăn thuần chay khác lạ ; ngon phù hợp với những bạn ăn chay tìm kiếm những món ăn mới lạ vị!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "minhanh trannguyen",
+    "rating": 5,
+    "review_text": "Chưa ăn nên k đánh giá đồ ăn. Nhà hàng view thẳng biển, rộng, thoáng đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Lan Trắng Phong",
+    "rating": 4,
+    "review_text": "Món ăn ngon quán rộng dãi giá cả hợp lý gần biển"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "MinhZooTree MinhZooTree",
+    "rating": 5,
+    "review_text": "Đến Quảng Ninh du lịch vừa có cảnh đẹp vừa có đồ ăn ngon, nhất là nhà hàng này nha, rất ngon luôn á."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Bao Ngo",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ nhiệt tình, không gian thoáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "omg wth",
+    "rating": 5,
+    "review_text": "Nhà hàng này khá là độc đáo luôn, view đẹp, chụp hình buổi chiều chiều thì đúng bài luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Ái liên Trần",
+    "rating": 5,
+    "review_text": "Nhân viên take care siêu nhiệt tình, bàn mình làm rơi đũa nhiều, chưa kịp gọi thì nhân viên đã mang ra rùi !!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Thịnh Trương",
+    "rating": 5,
+    "review_text": "Ngon, bổ rẻ, đồ ăn tươi tự chọn, tươi hết ý mọi người nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Phú Quang Phạm",
+    "rating": 5,
+    "review_text": "Quán 10 điểm , đồ ăn thì ngon , nhân viên thì phục vụ tận tâm , nhiệt tình . Rất tuyệt . Lần sau sẽ còn đến nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Minh Thang Doo",
+    "rating": 5,
+    "review_text": "Đồ ăn tuyệt vời, thịt nướng rất ngon. Sẽ dẫn gia đình đến thưởng thức thịt nướng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Thinh Nguyen",
+    "rating": 5,
+    "review_text": "Quán đông nhưng đồ ra nhanh, nv còn bóc tôm hay cua ghẹ nếu khách cần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Tuấn Nguyễn",
+    "rating": 5,
+    "review_text": "Ổn, không gian thoáng mát. Đồ ăn ngon bên bạn bè vui vẻ !!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Cường Hoàng Lê",
+    "rating": 3,
+    "review_text": "Ăn uống bình thường, k ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Mai Duong",
+    "rating": 5,
+    "review_text": "Công nhận là nhà hàng này đông khách thật sự, nhìn kiểu đơn giản nhưng khách lúc nào cũng đông."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "NGA CẨM",
+    "rating": 5,
+    "review_text": "Quán rộng, thức ăn ngon, lịch sự. Tiếc là mình ko có chụp hình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Tham Dang thi",
+    "rating": 5,
+    "review_text": "Món ăn ngon trình bày đẹp Mấy bé nhân viên dễ thương Khung cảnh đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Vy Triệu",
+    "rating": 5,
+    "review_text": "Ngồi ngoài trời thích hơn á, nhưng nhớ canh thời tiết nha, bữa nào trời đẹp ngồi ăn nhậu là đúng bài luôn, mát mẻ cực kỳ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "HoÀnG HuỲnH",
+    "rating": 3,
+    "review_text": "Đồ ăn ngon, thoáng, hợp lý, có e gái phục vụ xinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hung Hung",
+    "rating": 5,
+    "review_text": "Vừa được ăn vừa được ngắm cảnh đường xá bên ngoài, không khí mát mẻ nữa chứ, quá tuyệt luôn ấy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Chung Bà",
+    "rating": 5,
+    "review_text": "Mẹ mình lên chơi là mình lại dắt đến nhà hàng ăn, vừa ngon vừa hợp túi tiền."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Trần Thị Quỳnh Chi",
+    "rating": 5,
+    "review_text": "Thấy mọi người khen quá nhiều rồi, nên mình cũng chỉ biết đánh giá cho quán 5 sao thôi nhaa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Ngô Thái Bảo",
+    "rating": 5,
+    "review_text": "Đến nhà hàng ăn không phải chờ đợi quá lâu, ưu điểm rất lớn của quán."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Phương Thảo Phạm",
+    "rating": 5,
+    "review_text": "Quán có dịch vụ tổ chức sinh nhật vô cùng chu đáo, có cả phòng riêng cực víp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Công Danh Đặng",
+    "rating": 5,
+    "review_text": "Thiệt sự đi ăn nhà hàng nhiều nhưng mà lúc nào cũng ưu tiên nhà hàng này lên hàng đầu với sự lựa chọn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Công Nhưng muốn tên dài",
+    "rating": 5,
+    "review_text": "quán view sạch sẽ thoáng mát , nhân viên phục vụ tận tình...xứng đáng 5 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Phuong Linh",
+    "rating": 4,
+    "review_text": "Quán ăn ổn. Ghẹ Trà Cổ nhất định phải thử. Miến xào giòn miền Đông ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "tân sinh viên UEH",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, lễ phép Đồ ăn kèm rất nhiều và ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Duy",
+    "rating": 5,
+    "review_text": "Mình Rất là thoải mái khi ngồi ăn tại quán, đồ ăn ngon ít dầu mỡ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Xuân Quân Đặng",
+    "rating": 5,
+    "review_text": "Đồ ăn rất sạch và tôi không thích mùi, nhưng cũng ổn~nó rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Tuan Le Anh",
+    "rating": 4,
+    "review_text": "Đồ ăn khá ngon với giá phải chăng. View biển thoáng, đẹp với bãi biển bằng phẳng và rộng thích hợp cho những người thích chụp ảnh bình minh và hoàng hôn ở biển."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Contar",
+    "rating": 5,
+    "review_text": "Quán này mê cái miếng thịt quá đi. Núng nính cưng dễ sợ mà sướng cái miệng dễ sợ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Le Khuong Duy Bui",
+    "rating": 5,
+    "review_text": "Khu nhà hàng thoáng mát,checking đẹp,thức ăn ngon giá thành vừa phải"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Cao Hieu",
+    "rating": 5,
+    "review_text": "Hải sản tươi sống giá hợp lý.  Đồ ăn khác ngon, nhưng cái gì làm cũng nhiều, tràn đầy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Van Dinh",
+    "rating": 5,
+    "review_text": "Gia đình mình vừa ăn trưa ở đây xong. Điểm cộng lớn nhất là quán sạch sẽ, phục vụ chuyên nghiệp, không phải chờ đợi lâu. Đồ ăn tươi, view biển sát sạt, cả nhà ai cũng khen."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Phát Tấn",
+    "rating": 5,
+    "review_text": "Thoáng mát rộng rãi thích hợp cho những trẻ em vui chơi kỳ hè,thức ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Đăng 2C Đặng Hoàng Minh",
+    "rating": 5,
+    "review_text": "Không gian thoáng đãng, mới lạ. Đồ ăn rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Lê Thọ",
+    "rating": 5,
+    "review_text": "Quán chay ngon nhất mình được ăn. Tuyệt vời 3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Dulich chuyên nghiệp",
+    "rating": 4,
+    "review_text": "Đồ ăn tạm được nhưng giá thì đắt so với chất lượng , đặc biệt vào quán này phải mất 30k nếu bạn đi xe vào."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Lee Anh",
+    "rating": 5,
+    "review_text": "Nhà hàng món rất ngon và nhiêu món nhân viên phục vụ tận tình và chu đáo đia điểm thích hợp cho ae trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hiếu Nguyễn Đình",
+    "rating": 5,
+    "review_text": "quá ngon nha mọi người ơi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Khachh Anh",
+    "rating": 5,
+    "review_text": "Món ăn rất hợp khẩu vị, rất ngon, mọi người nên thử nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "T-Kai",
+    "rating": 5,
+    "review_text": "đồ ăn tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hoàng tử Sa cơ",
+    "rating": 5,
+    "review_text": "Nhà hàng ngon lắm mọi người ạ. Đáng thử lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Thu Ngân",
+    "rating": 5,
+    "review_text": "Nhà hàng bán đồ ăn hợp khẩu vị, ngon quá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Đạt Ngô",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và phục vụ rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Huy Trần",
+    "rating": 5,
+    "review_text": "Toàn những món ăn hợp khẩu vị và vừa miệng lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Trâm Nguyễn",
+    "rating": 5,
+    "review_text": "đồ ăn ngon nhân viên dễ thương sẽ ghé tiếpp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Tấn Dũng Nguyễn",
+    "rating": 5,
+    "review_text": "đến quán này cảm thấy bình an quán chay ngon lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Miền Bắc Canifa",
+    "rating": 5,
+    "review_text": "Chỗ ngồi rộng, phục vụ nhanh. Các món hải sản Trà Cổ, hải sản Móng Cái tươi ngon, đặc biệt là các món Sam."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyễn Phạm Gia Bảo",
+    "rating": 5,
+    "review_text": "Không có gì để chê. Mê quán này đã lâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Thế Duy Nguyễn",
+    "rating": 5,
+    "review_text": "Quán này mê cái miếng thịt quá đi. Núng nính cưng dễ sợ mà sướng cái miệng dễ sợ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Anh Tùng Nguyễn",
+    "rating": 5,
+    "review_text": "Nâu ăn ngon .cách phục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hanoi Pet Shop",
+    "rating": 5,
+    "review_text": "Sam ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Alice Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ngon, giá hợp lý. Phục vụ nhanh nhẹn, nhiệt tình! Sẽ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Dang Dang",
+    "rating": 5,
+    "review_text": "Không gian thoáng đãng, mới lạ. Đồ ăn rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Son Nguyen",
+    "rating": 4,
+    "review_text": "Ăn được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Đức Nguyễn",
+    "rating": 3,
+    "review_text": "Đồ ăn được nhưng,những nhà hàng ngày lễ đều phục vụ đồ ăn không tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "thuan nguyen",
+    "rating": 5,
+    "review_text": "Nằm ở vị trí đắc địa thuận tiện đi lại không gian ấm cúng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Van Thanh Phan",
+    "rating": 5,
+    "review_text": "Một không gian mới giữa lòng thành phố đáng sống. Đáng để trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Tuyết Phạm",
+    "rating": 5,
+    "review_text": "Hải sản vô cùng tươi, bà chủ nhiệt tình. Sẽ ủng hộ lại quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Ngọc Nguyễn",
+    "rating": 3,
+    "review_text": "Nấu ăn cũng tạm được, món sam chế biến hơi dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hường Ngô",
+    "rating": 5,
+    "review_text": "Ok luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Phong Le",
+    "rating": 5,
+    "review_text": "Không gian thoáng đãng, mới lạ. Đồ ăn rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Mạnh Phạm",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình , đồ ăn ngon , view đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Vo Kien Le",
+    "rating": 1,
+    "review_text": "Quá đắt, không tương xứng chất lượng bữa ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Như Ngọc Phạm",
+    "rating": 5,
+    "review_text": "Tốt, nếu có cơ hội quay lại sẽ ủng hộ thêm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Phạm Đức Anh",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Minh Tự Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon\nBổ\nRẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "nguyễn mai chi",
+    "rating": 5,
+    "review_text": "quá ngon quá tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyễn châu Tiến",
+    "rating": 5,
+    "review_text": "Tôi sẽ đến. Đó sẽ là một nơi tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Trang Pham",
+    "rating": 4,
+    "review_text": "Phục vụ rất nhanh, nhiệt tình, đồ ăn khá được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Trung Lương",
+    "rating": 5,
+    "review_text": "Hải sản tươi ngon, giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Viet Cuong Dang",
+    "rating": 4,
+    "review_text": "Ok. Tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Anh HoàngHồng",
+    "rating": 4,
+    "review_text": "Ngon và tiếp đón chu đáo ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Name No",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon,giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Trang Nguyễn",
+    "rating": 1,
+    "review_text": "Lên đồ quá chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Nguyễn Gia Linh",
+    "rating": 5,
+    "review_text": "tuyệt vời\nluôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hung Dang",
+    "rating": 2,
+    "review_text": "Giá khá cao dù ngày thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Thủy Lê",
+    "rating": 4,
+    "review_text": "Ăn ngon mát mẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hung Nguyen The",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Đăng An Trần",
+    "rating": 4,
+    "review_text": "đồ ăn ngon, gần biển"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "HOÀNG TRUNG HIẾU",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hà Trương",
+    "rating": 3,
+    "review_text": "Thực phẩm cũng ngon ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "D ND (11 hoa chân)",
+    "rating": 4,
+    "review_text": "Bia hơi vỉa hè lý tưởng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Toan Myanmar",
+    "rating": 1,
+    "review_text": "Tồi tệ về cách phục vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Trung Nghia Dong",
+    "rating": 1,
+    "review_text": "Ok lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Vịnh Lê Hữu",
+    "rating": 5,
+    "review_text": "ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "hai do",
+    "rating": 1,
+    "review_text": "Chán mọi thứ luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hà Thanh",
+    "rating": 2,
+    "review_text": "Phục vụ kém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "tống trường giang",
+    "rating": 5,
+    "review_text": "Rật tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Điện Máy Pin Hùng",
+    "rating": 5,
+    "review_text": "Món ăn tươi sống"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "luan vuhuy",
+    "rating": 5,
+    "review_text": "Thật tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Hung Trinh Huy",
+    "rating": 3,
+    "review_text": "Sam khó xơi quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Jung Sope",
+    "rating": 1,
+    "review_text": "lên đồ chậm điên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b564a8f4f6bf9:0x9cc7b2a40006f84c",
+    "shop_name": "Nhà Hàng Hải Sản Cường Loan - “15 Năm Kinh Nghiệm Điểm Đến Uy Tín Hàng Đầu Trà Cổ”.",
+    "user_name": "Trung Do",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Thanh Le",
+    "rating": 5,
+    "review_text": "Quán nằm tại phố Hoà Lạc, sô 98 thành phố Móng Cái. Vị trí dễ tìm, nhiều chỗ đỗ xe. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Nguyễn Linh",
+    "rating": 5,
+    "review_text": "Có 5 sao chứ 10 sao thì cũng cho luôn. Đồ ăn nóng sốt, món nào cũng đầy ú ụ, chế biến sạch sẽ, ăn rất ngon miệng. Nhân viên nhanh nhẹn, nhiệt tình. Đặc biệt là siêu rẻ. Nói chung là đáng đồng tiền bát gạo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Thịnh đặng",
+    "rating": 1,
+    "review_text": "Gọi món xong rồi lên món thì lâu xong cứ cách 1 lúc thì lại hết món này rồi hết món nọ đồ ăn gọi là tạm đc ăn cho đỡ đói thôi nói chung là thất vọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Nguyen Viet Hung",
+    "rating": 4,
+    "review_text": "3 anh em, gồm mực xào, canh hà, ngao xào, cá rìa kho, ăn no căng dều với 120k. Đồ ăn tươi ngon, rất vừa miệng. Sẽ quay lại nhiều lần nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Bach Cao",
+    "rating": 4,
+    "review_text": "Quán ăn thoáng mát sạch sẽ\nCơm ăn ngon vừa miệng\nKhi ăn sẽ đi kèm một ca nước vối …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Bien NQ",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi, ngon\nGiá cả phù hợp\nRộng rãi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Huy Nguyen",
+    "rating": 5,
+    "review_text": "Nấu ăn ngon, giá cả hợp lý, nhà hàng sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Thanhhai892 NguyenThi",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên hách dịch, khách lần đầu đến không ai ra tiếp cũng không ai hỏi khách ăn gì. Tới khi ngồi 1 lúc thấy mình và bạn mình hỏi nhau là có oder chưa chủ quán mới bảo nhà em không có oder, ăn gì ta tủ lạnh chọn :)))) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "NguyenTien Thanh",
+    "rating": 4,
+    "review_text": "Quán sạch sẽ, đồ ăn nấu ngon, giá cả hợp lý. Có món bia tàu uống khá hay. Sữ quay lại khi có dịp ra móng cái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "tu nguyen",
+    "rating": 5,
+    "review_text": "Nấu ăn ngon, tuy nhiên phục vụ cái gì cũng bắt ra quầy nên hơi bất tiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Thế Cường Đặng",
+    "rating": 1,
+    "review_text": "Quán cơm hãm nhất từng biết, khách ngồi không hỏi gì. Ra thái độ không order tại bàn, ra hỏi menu thì vứt cái vèo vào mặt khách. Không quay lại lần 2"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Monica",
+    "rating": 4,
+    "review_text": "Quán phục vụ nhanh, giá cả hợp lý, đông khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Duy Cường Nguyễn",
+    "rating": 1,
+    "review_text": "Chán kinh, nhìn món ăn đã mất cảm tình, món gì cũng mặn chát, giá thì đắt lè lưỡi luôn.\nQuán xá chật trội, lộn xộn, bẩn, chỗ để xe không có, toàn bị các nhà xung quanh đuổi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Kikituyet",
+    "rating": 4,
+    "review_text": "Quán cơm không gian hơi nhỏ, bát sứt cũng nhiều, nhưng đồ ăn thì đỉnh, ngon, lại rẻ nữa. Khuyến khích mn đến đây ăn, nhà mình toàn gọi 2 bàn mà giá cũng chỉ tầm 700-800k tổng, quá rẻ, no căng bụng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Dong Vu Manh",
+    "rating": 5,
+    "review_text": "ngon, rẻ, thuận tiện đi lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Thiên Mệnh",
+    "rating": 5,
+    "review_text": "Quán nấu ăn ngon, món ăn đa dạng, giá cả bình dân, 4 người lớn + 2 trẻ nhỏ chi phí từ 350k đến 550k tùy vào chọn món.\nKhông gian quán không được rộng rãi, cao cấp, do quán quá đông khách nên tốc độ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Huong Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi ngon, phục vụ nhanh, giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "VuVan Nam",
+    "rating": 5,
+    "review_text": "Ngon,sạch sẽ, chất luong, 10 điểm!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Ukula Yahay",
+    "rating": 1,
+    "review_text": "Đồ ăn gọi ship thì lâu , gọi từ 12h 1 tiếng r chưa thấy giao lm cả nhà đói mốc meo mồm . Né đi mn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Minh Tân Hoàng",
+    "rating": 5,
+    "review_text": "Lên đồ nhanh, đồ phù hợp tầm giá cho dân đi chơi\nQuán khá đông, 13h trưa CN vào mà gần kín bàn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Ha Khanh Cuong",
+    "rating": 5,
+    "review_text": "Đồ ngon, giá phải chăng, phù hợp cả cơm gia đình lẫn tiếp khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "khánh Hiệp Trần",
+    "rating": 4,
+    "review_text": "Cơm ngon, thực đơn phong phú, giá hơi cao 1 chút.nhậu thì OK"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Tuân Phương",
+    "rating": 5,
+    "review_text": "Vợ e bảo đánh giá cho 5 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Nam Luong",
+    "rating": 5,
+    "review_text": "Ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Long Pham",
+    "rating": 4,
+    "review_text": "Một quán ăn khá ổn khi ghé Móng cái. Đồ ăn ngon, giá hợp lý. Sạch sẽ, nhanh dù rất đông khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Anh Đức",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, sạch.\nGiá hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Vu Gia Chanel",
+    "rating": 5,
+    "review_text": "Đồ ăn ổn, giá bạn trả nên chưa nắm được giá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Minh Lê Nhất",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Mạnh Long",
+    "rating": 4,
+    "review_text": "Quán cơm bình dân, đồ ăn ngon, sạch sẽ, giá cả hợp lý, thực phẩm tươi nv thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Ngan Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi ngon giá cả hơp lý ko chặt chém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Nghia Nguyen Trong",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, sạch sẽ, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Nguyễn Đình Duy",
+    "rating": 5,
+    "review_text": "Ngon, bổ dẻ phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "linh doan",
+    "rating": 5,
+    "review_text": "Đồ tươi ngon, giá cả bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Anh Thư Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "VĂN HIỀN NGUYỄN",
+    "rating": 4,
+    "review_text": "Cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Lê Minh Hiếu",
+    "rating": 4,
+    "review_text": "Quán cơm bình dân với nhiều lựa chọn món ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Tiến Nam",
+    "rating": 4,
+    "review_text": "Ăn được, chi phí phải chăng, không gian rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Dương Trần An",
+    "rating": 4,
+    "review_text": "Ngon, sạch, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Hieu Bui",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi, ngon. Recommended"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Van Anh Hoang",
+    "rating": 5,
+    "review_text": "Tuyệt vời, giá phải chăng, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Fùng Hữu Lâm",
+    "rating": 4,
+    "review_text": "Ngon, sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Trần Hồng Nhung",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Nguyen Quang Minh",
+    "rating": 5,
+    "review_text": "Đã từng ăn cơm quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Name No",
+    "rating": 5,
+    "review_text": "Ngon,giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "van maithuyvan",
+    "rating": 3,
+    "review_text": "Ăn được, giá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Thu Trần",
+    "rating": 2,
+    "review_text": "K ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Nguyễn Ngọc Anh",
+    "rating": 2,
+    "review_text": "Tạm được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Thắng Hoàng",
+    "rating": 4,
+    "review_text": "Sạch sẽ, ngon, bổ, rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "luan cao tien",
+    "rating": 4,
+    "review_text": "Đồ ăn bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "huyen nguyen",
+    "rating": 5,
+    "review_text": "Cơm rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "tu van",
+    "rating": 4,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Lss Cường",
+    "rating": 3,
+    "review_text": "Tạm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "ha hoang",
+    "rating": 4,
+    "review_text": "Bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Việt Anh",
+    "rating": 4,
+    "review_text": "🥬🍱🍛 Một quán cơm gia đình rất đáng thử ở Móng Cái!\n\nĐồ ăn ngon đúng kiểu cơm nhà, món nào cũng đậm đà, vừa miệng và cực kỳ đưa cơm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Sy Long Dam",
+    "rating": 5,
+    "review_text": "Một bữa trưa tuyệt vời với bát canh cá dìa, cùi mai chiên giòn và ngao xào bầu. Giá cả hợp lý ở mức ~150k/người.\nĐược biết đến quán ăn này qua việc tìm kiếm trên Google.\nMình sẽ quay lại nếu có dịp về với Móng Cái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Mr. Hội LS",
+    "rating": 5,
+    "review_text": "Gần trung tâm, đồ ăn ngon, giá vừa phải, phục vụ khá nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Điện Máy Pin Hùng",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Truc Truc",
+    "rating": 3,
+    "review_text": "Phần ăn lớn, bạn nên kiểm tra giá khi gọi món để đảm bảo phù hợp với ngân sách của mình. Hương vị rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Nguyen Anh Tuan",
+    "rating": 5,
+    "review_text": "Thực phẩm tươi ngon và dịch vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Luiz 100",
+    "rating": 4,
+    "review_text": "Giá cả hợp lý, hương vị và khẩu phần ăn ở mức chấp nhận được, và một số nhân viên nói được tiếng Trung Quốc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Thang Nguyen",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Vu Quynh Trang (Keisha)",
+    "rating": 3,
+    "review_text": "Dịch vụ ở mức trung bình, đồ ăn không có gì đặc sắc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "quốc huy trần",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b56a75a521ea1:0x786711969fb49fa4",
+    "shop_name": "Cơm Hà My - Thái Bình",
+    "user_name": "Giáp Đoàn Trọng",
+    "rating": 4,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Hồng Tuyết Nguyễn",
+    "rating": 5,
+    "review_text": "Quán cây cỏ siêu nhiều,mua hè ngồi đây chắc mát lắm,mình đi ngay ngày gió lạnh,muốn cóng người luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Tân Nguyễn Hữu",
+    "rating": 4,
+    "review_text": "Quán nhỏ,  bài trí khá,  không gian thoáng,  phục vụ tốt. Có con gà cảnh đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Linh Lee",
+    "rating": 5,
+    "review_text": "Ghé qua thử vì được bạn rủ đến, điều đầu tiên mình thấy chính là không gian quán nhỏ nhưng lại ấm cúng. Bên trong quán khá yên tĩnh, thích hợp cho những ai yêu thích sự bình yên bên ly đồ uống nhỏ mỗi dịp cuối tuần, bên ngoài trời lại …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Hà Trương",
+    "rating": 4,
+    "review_text": "Cf ở đây ngon , vị trí mát mẻ nhưng ... Khó chịu nhất là gần người hút thuốc lá 🚬🚬🚬 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Thanh Phước doremon",
+    "rating": 5,
+    "review_text": "Caffe ngon và là giá rẻ nhất TP Móng Cái . Các loại nước hoa quả và sinh tố ngon và lạ mắt ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Ngọc Hà",
+    "rating": 5,
+    "review_text": "Đồ uống ngon xuất sắc, view đẹp, nhân viên thân thiện, phục vụ nhanh chóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Linh Hoang",
+    "rating": 5,
+    "review_text": "Không gian đẹp. Toàn cây xanh Cafe ngon. Tiện cho mặt thư giãn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Bình Minh Lê",
+    "rating": 4,
+    "review_text": "Quán đối diện sân vận động Trần Phú. TP Móng Cái. Phong cảnh đẹp, phục vụ chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Lê Minh Hiếu",
+    "rating": 3,
+    "review_text": "Cà phê dành cho người yêu thích sự yên tĩnh, khách đến đa phần là trung niên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Hạ Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ uống ngon. View đẹp ấm cúng. Phục vụ tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Thai Hienvan",
+    "rating": 5,
+    "review_text": "Cafe ngon và giá rẻ nhất thành phố Móng cái ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Hieu Nguyen",
+    "rating": 5,
+    "review_text": "Ngay trung tâm TP  , không gian yên tĩnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Quyet Thanh",
+    "rating": 4,
+    "review_text": "Quán sạch sẽ không gian yên tĩnh thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Thuy Vu",
+    "rating": 4,
+    "review_text": "Đồ uống phong phú, ngon, không gian thoáng đãng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Bi bi",
+    "rating": 5,
+    "review_text": "A chủ quán nói chuyện rất hay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Lưu Công Đoàn Hùng Anh Travel",
+    "rating": 3,
+    "review_text": "Quán trung tâm, không gian yên tĩnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Bar Duy",
+    "rating": 5,
+    "review_text": "View đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Đức Nguyễn",
+    "rating": 3,
+    "review_text": "Viu đẹp nhưng cơ sở vật chất hơi kém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "duong cong",
+    "rating": 4,
+    "review_text": "Yên tĩnh, hài hoà, cafe ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Rory",
+    "rating": 5,
+    "review_text": "Đồ uống ngon , chất lượng !!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "黎轩",
+    "rating": 5,
+    "review_text": "Yên tĩnh và có không gian riêng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "luan cao tien",
+    "rating": 5,
+    "review_text": "View đẹp... cafe ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Ba Xuân",
+    "rating": 4,
+    "review_text": "Nhiều cây xanh, thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Ty Duc",
+    "rating": 4,
+    "review_text": "Chuyến đi này thật vv ok*****"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "thao giang Hoang",
+    "rating": 3,
+    "review_text": "Quán nhỏ, cafe ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Thế anh Khổng",
+    "rating": 5,
+    "review_text": "Rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Cheems Dũng",
+    "rating": 2,
+    "review_text": "Còn nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "June Mr",
+    "rating": 5,
+    "review_text": "Đồ uống ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Ngô Nam",
+    "rating": 5,
+    "review_text": "Quán uống rất yomost"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Điện Máy Pin Hùng",
+    "rating": 5,
+    "review_text": "Ko tồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Tân Nhật Minh",
+    "rating": 3,
+    "review_text": "Tạm ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Minh Katy",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Tuấn Minh",
+    "rating": 5,
+    "review_text": "Tiệm cà phê Mộc Miên được anh chủ rất để ý chăm sóc, vì là người làm thiết kế nên tiệm được bày trí rất tinh tế\nCà phê hương vị đậm đà rất hợp khẩu vị của mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Đức Vũ",
+    "rating": 5,
+    "review_text": "Nơi này tuyệt vời, đồ uống và thức ăn tươi ngon, giá cả phải chăng. Hoàn toàn tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Viết Quân Phùng",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Close Beta",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Vuong Nguyen",
+    "rating": 4,
+    "review_text": "ĐƯỢC RỒI"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b541e6aa2697f:0x2205ab70dd2dee19",
+    "shop_name": "Mộc Miên Café",
+    "user_name": "Nguyễn Ngọc Anh",
+    "rating": 3,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Binh Duong Truong",
+    "rating": 4,
+    "review_text": "Đồ ăn đây giá hợp lý, ăn được, k xuất sắc lăm.\nĐoàn mình gọi ăn thoải mái mâm 9 người: 1 con gà sáo, 2 địa thăn lợn nướng, 1 đĩa mực hấp, 2 bát canh cá song, 1 dĩa đậu phụ, dưa muối, dưa chuột chẻ, beer tiger bạc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Huy Nguyen",
+    "rating": 3,
+    "review_text": "Đồ ăn ổn và phục vụ rất nhanh. Quán có các món ăn kèm như dưa chua và đậu phụ rán làm theo phong cách Trung Quốc, ăn khá lạ miệng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Ngọc Hà Nguyễn",
+    "rating": 1,
+    "review_text": "ăn ko ngon thịt dai nhách khô khốc ăn muốn tắc thở mấy món còn lại k có gì đặc sắc còn k có điều hoà gọi phục vụ xin đôi đũa mà ôg đấy đi quét nhà nv ko thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Loan Nguyen",
+    "rating": 3,
+    "review_text": "Chẳng hiểu sao món ăn rất bình thường mà quán lại rất đông khách. Thịt thăn nướng thì rai, nhai mỏi cả hàm, giống món thịt thăn luộc. Gà xáo nhạt nhẽo, thiếu vị gừng. Đậu chiên khô. Bát canh cá song ăn gọi là được, ko phải canh chua cũng chẳng phải cá luộc. Được mỗi món mực hấp tươi và ok nhất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Thao Nguyen",
+    "rating": 3,
+    "review_text": "Nhà mái tôn, không có điều hoà, nên ngày nắng thì nóng.\nMón thịt nướng bình thường, không ngon lắm. Đậu rán và canh cá ăn được.\n4 miếng thịt, 1 bát canh cá mú khá lớn, 1 đĩa rau luộc, 1 đĩa dưa muối, 1 đĩa rau luộc - 600k. Thái độ ông chủ k vui lắm khi nhà t 3 ng lớn và 2 trẻ em chỉ gọi như vậy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Nguyễn Hoàng Lan",
+    "rating": 1,
+    "review_text": "Quán không có điều hòa, rất đông, ồn ào và nóng.\n- Đồ ăn chán, ít lựa chọn.\n- Món signature là thịt rán thì NHẠT, DAI + miếng thịt theo tảng nên khó ăn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Hà Thành Nam cty tnhh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, vị trí quán nhìn sông Kalong. Chủ nhiệt tình tư vấn đồ ăn phù hợp. Giá rất phụ hợp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Dat Nguyen (refrez)",
+    "rating": 4,
+    "review_text": "Đồ ăn cũng được. Quán đông khách, hơi ồn ào. Phố nhỏ ô tô đỗ dài hai bên đường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Hung Tran",
+    "rating": 5,
+    "review_text": "Nhà hàng với món đặc sản ở Móng Cái, món thịt lợn nướng ngọt lịm. Món nướng rất đặc biệt đem tới trải nghiệm tuyệt với với thịt lợn.Món này phù hợp với tất cả mọi tầng lớp , lứa tuổi. Ngoài ra nhà hàng phục vụ hải sản cũng rất tươi ngon, đặc biệt món canh cá song biển.Món canh cá với thịt cá tươi, nước dùng ngọt thanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "CaoThang",
+    "rating": 4,
+    "review_text": "Quán có mấy món đặc trưng: Đậu rán, dưa muối, canh cá chua, thịt quay cả miếng, mực tươi ngon. Quán có vị trí cạnh sông KaLong, cuối tuần đông, nếu có ý định ăn phải đặt trước. Giá vừa phải."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "NhatBan Weilan",
+    "rating": 4,
+    "review_text": "Món ăn ngon, món đặc sản là thịt nướng, canh cá, mực hấp… Món ăn rất ngon.\nQuán đông nên nếu muốn ngồi bàn gần sông thì gọi điện đặt trước.\nĐến Móng Cái nên ghé đây ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Ngoc Huong Nguyen",
+    "rating": 4,
+    "review_text": "Món thịt nướng truyền thống của nhà hàng Bình Mắm thì đoàn mình ko thích lắm vì mọi người thích thịt được ướp gia vị đậm đà hơn, món này ở quán theo như ông chủ nói thì để nguyên vị tự nhiên của thịt mà nướng. Món gà rang cánh cạnh thì rất …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Dang Hoang Huong",
+    "rating": 4,
+    "review_text": "Nhà hàng cạnh bờ Song Ka Long, món thịt nướng tảng cực ngon, thịt mềm giữ được độ ngọt ăn kem dưa cải và hành tây muối. Món canh cá thuyền chài, cá kho như rất ngon. Giá cả phải chăng, khách đến Móng Cái nhất định nên ghé qua thưởng thức …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Nguyen Hung",
+    "rating": 3,
+    "review_text": "Một nhà hàng bình dân tại Móng Cái-Quảng Ninh.\nPhục vụ nhanh. Rất đông khách.\nPhù hợp với đi gia đình cần tìm một địa điểm ăn cơm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "SIEU THI BAN GHE",
+    "rating": 2,
+    "review_text": "Thịt bảo nướng nhưng thực chất là rán , miếng thịt to dầy toàn nạc lên ai thích ăn thịt mỡ không thích vì nó khô , đậu và dưa ngon , gà chao ( rán ) khô và nhạt , canh nấu thiếu chua lên khó ăn , chắc quán ăn phù hợp với dân địa phương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "TrangTu JSC",
+    "rating": 1,
+    "review_text": "Quán ko có điều hoà nên khá nóng. Các bàn  dc sắp gần nhau nên ko có sự riêng tư và rất ồn. Ko gian bẩn, ít dc quét dọn. Đồ ăn ko ngon như qcao. Món dc khuyên ăn thử là thịt thăn nướng nhma ăn khô và nhạt như thịt luộc bình thường, đã thế còn rất dai, nhai mỏi hết hàm. Dc mỗi món dưa chua ngon nhma đắt. Tóm lại ko có lần 2"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Chen Feel Du",
+    "rating": 3,
+    "review_text": "Đây là quán ăn địa phương nổi tiếng tại Móng Cái nhờ món thịt rán. Và đây là lần đầu tiên mình trải nghiệm, thường người ở đây truyền tai nhau rằng đến Móng Cái mà ko ănn cơm Bình Mắm thì là chưa tới Móng Cái. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Nguyen Tung Lam",
+    "rating": 5,
+    "review_text": "Bạn gọi 2 món là gà và thịt nướng. Các món khác ăn kèm nhà hàng chủ động phục vụ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Hiền Diệu",
+    "rating": 2,
+    "review_text": "630k cho 6 miếng thịt rán, canh cá, cơm: Bát canh cá to, chua ngon. Thịt rán khô dai, nhạt vì ko cho gia vị, giống như thịt luộc xong đem rán lên, ko có j đặc sắc. Đồ ăn kèm gồm dưa chua, dưa chuột, đậu rán, muối biển, chanh, ớt ngâm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Hung Ha The",
+    "rating": 5,
+    "review_text": "Các món ăn nấu rất ngon, lạ món đậu phụ rqns,  nằm cạnh bờ sông thoán mát, đáng đồng tiền bát gạo, giá lại hạt rẻ (cá sốt, xáo gà, đậu phụ rán, thịt rán miếng to, rau cải, dưa)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Thanh Nguyen",
+    "rating": 3,
+    "review_text": "Nhà hàng ngày cuối tuần đông khách, phần nhiều là khách đoàn đặt trước. Các món ăn chủ yếu là đã cố định của quán, nên không có thực đơn, không biết đơn giá. Ông chủ đọc tên vài món để khách lựa chọn và ghi vào sổ là xong. Có lẽ do giới …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Khánh Linh Đỗ",
+    "rating": 4,
+    "review_text": "Quán nằm cạnh sông nên khá thoáng, đương nhiên là sẽ ko có điều hoà đâu nha.\n\nThịt nướng để cả miếng to, khi ăn sẽ phải xé từng thớ thịt ra chấm với muối …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Minh Nguyễn",
+    "rating": 4,
+    "review_text": "Quán đông khách, có 3-4 món đặc trưng: thịt lợn miếng to, đậu rán, canh cá ( món này chưa thử do quán hết cá. Quán không có menu, giá cũng ko rẻ lắm. Món đậu mình thấy ok, thịt ăn nóng thì ngon, để lâu thịt khá bã."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Anh Tung Vu",
+    "rating": 4,
+    "review_text": "Quán nổi tiếng ở Móng Cái, có món thịt nướng miếng to, canh cá song, đậu phụ rán lát mỏng. Chất lượng ok so với Móng Cái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Đức Nguyễn",
+    "rating": 1,
+    "review_text": "Quán dựng bằng tôn nên trưa nắng là như cái lò hầm, món signature thì bình thường đến đáng ngạc nhiên, tự nhận là chuyên thịt nướng nhưng lại chỉ có món thịt rán theo tảng và nhạt vkl???? Giá thì đắt, ăn đc nửa miếng thì đ thể ăn nổi vì quá ngán, lên đồ quá chậm. Món vớt vát lại là đậu, dưa chua và mực, canh cá thì bth"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Cuong Tong",
+    "rating": 4,
+    "review_text": "Quán rất đông, hết bàn sớm nên ai muốn thử một lần nên đến sớm tầm 18h-18h30. Món chính là thịt thăn heo luộc sơ rồi chiên vàng, chấm mắm ớt hoặc muối ớt. Cũng không quá đặc sắc nhưng cũng lạ. Ngoài ra có mực hấp thì ok rất tươi, cá song dai ngon, trắng nõn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Chí Trọn Lương",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, đến Móng Cái nên đến trải nghiệm các món ăn tại đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Bien NQ",
+    "rating": 4,
+    "review_text": "Quán bên bờ sông Ka Long. Đồ ăn khá đặc sắc. Nên gọi các món: Dưa muối, thịt nướng (rán), canh cá chua, đậu rán, thịt gà nấu, mực. Kèm theo bia!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Minh Vũ",
+    "rating": 5,
+    "review_text": "Chuẩn quán bình dân .  Giá rẻ trong khu vực Móng Cái. Khoảng 200k trên người . Kơm thịt nướng miếng to chấm muối ớt. Gà, mực, dưa chua hành tây, canh cá nấu chua., Trứng rán, rau xào.  Ngồi gần sông ngắm sông kalong hóng gió cũn hay. Sông không đẹp nhưng cũng là địa điểm nên đến.   Ra về còn xin được túi muối chấm với túi dưa chua."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Jingyongle",
+    "rating": 5,
+    "review_text": "Ngon bổ dẻ ở Móng Cái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "husky wanna fly",
+    "rating": 5,
+    "review_text": "Bình mắm này mới là real nha mọi người.\n- Thịt nướng tuy là thịt nạc nhưng bên trong mềm, ướt, không bị khô. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "ngoc anh doi",
+    "rating": 5,
+    "review_text": "Quán ăn địa phương phải thử khi đến Móng Cái nha\nQuán cạnh sông Ka Long nên thơ lắm\nThịt ngon mềm, bác chủ tóc muối tiêu nhìn chất phác lắm\nNói chung ủng hộ quán địa phương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Trung Hoàng",
+    "rating": 5,
+    "review_text": "Mỗi lần công tác ở Móng Cái, mình đều ghé ăn tại đây. Nhà hàng rộng rãi, sạch sẽ, với view nhìn ra sông Ka Long cực chill. Đồ ăn ngon, đặc biệt là món thịt nướng nguyên miếng vừa mềm vừa ngọt, cùng món đậu rán rất đáng thử. Giá cả thì phải chăng, phù hợp túi tiền."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Vũ Quang Minh",
+    "rating": 4,
+    "review_text": "Nói chung là ăn được. Mực tươi, dưa chua ngon, ớt mắm ok, nhưng giá hơi đắt. Không có phòng điều hòa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Hoàng Linh",
+    "rating": 4,
+    "review_text": "Quán rất đông khách mặc dù không phải nằm ở trục đường chính.\nphục vụ khá nhanh.\nQuán có món thịt thăn nướng, chủ quán sẽ tư vấn theo số lượng người đi nhưng bạn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Loan Hoang Phuong",
+    "rating": 3,
+    "review_text": "Quán siêu đông, đồ ăn tươi, chế biến đơn giản thôi chứ thực tế không quá đặc sắc. Thịt nướng tảng mọng nước nhưng hơi dai, canh cá ngọt, gà sáo tươi, đậu chiên cũng thơm nhưng mọi thứ đều khá nhạt. Ăn cho biết chứ nếu bảo quay lại thì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Vinh Phong Pham",
+    "rating": 1,
+    "review_text": "Quán khá đông, nhưng đồ ăn không được chuẩn bị kỹ.\nMón thịt nướng không ngon như quảng cáo, thịt khá nhạt, bã. Món canh cá rất chán và đắt (bát canh 320k cho 4 người), canh thiếu rau quả của cá như dứa hay các …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Quốc Bảo Chu",
+    "rating": 1,
+    "review_text": "Phục vụ cực chán, khi khách đông thì thấy khách lẻ đến thì chê khách, ko muốn phục vụ , tinh vi   Không bao giờ mình quay lại , khệnh lắm   Mọi người đến móng cái ko cần phải đến Bình Mắm đâu   Ra quán Thanh Oanh 13 Vườn Trầu cũng đầy đủ món ngon, phục vụ nhiệt tình, chu đái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Vu Dang",
+    "rating": 2,
+    "review_text": "Ko hiểu sao quán nổi tiếng, đồ ăn sơ sài vài món , nấu cũng ko ngon, như quán cơm bình dân nhưng giá nhà hàng. Thịt thăn lợn nướng khô, canh cá nguội …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Vietnam Dinh Dong",
+    "rating": 3,
+    "review_text": "Quán ăn theo phong cách món đặc trưng địa phương\nVị trí dễ tìm, đường lớn, cạnh sông\nĐồ ăn có mấy món chính: thịt rán miếng, canh cá nấu, gà xáo gừng..ăn kèm dưa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "TUAN HA DINH",
+    "rating": 4,
+    "review_text": "@KHEN :\n- Thịt nướng mềm, thơm, ngọt vị.\n- Canh cá đậm đà, thơm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Lê Đăng Thi",
+    "rating": 5,
+    "review_text": "Nhà hàng sạch, văn minh. Phục vụ nhanh. Món ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Tùng Vương",
+    "rating": 5,
+    "review_text": "Phù hợp gia đình cơm du lịch bụi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Tu Nguyen",
+    "rating": 1,
+    "review_text": "đồ đã đắt lại còn đông chắc cx đớp đc nhiều của lắm r mà ko chịu nâng cấp sửa sang cái quán :))) không gian lộn xộn bẩn và nóng, k có phòng điều hoà, quạt cũng ít. đồ ăn tạm ổn ko có gì đặc sắc, thịt tảng thì dai nhạt, rau đậu các thứ ăn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Long Lê Hải",
+    "rating": 4,
+    "review_text": "Quán ăn địa phương, ko đặt trc khó có bàn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Hà Văn Dũng",
+    "rating": 5,
+    "review_text": "Món thịt nướng nhưng rất nhiều dầu mỡ... mn cân nhắc khi ăn. 1 đĩa được khá nhiều!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Le Truong",
+    "rating": 3,
+    "review_text": "Quán ăn bình dân, đồ ăn cũng bình thường món thịt nướng không xuất sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Trung Hieu Do",
+    "rating": 5,
+    "review_text": "Địa chỉ trên bản đồ không chính xác, từ cầu Kalong đi thêm khoảng 1,5km là tới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Dang Hoang Anh",
+    "rating": 4,
+    "review_text": "Món thăn lợn xé đặc trưng. Tuy nhiên sau 7 năm cửa hàng vẫn ko nâng cấp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Sơn Thanh",
+    "rating": 1,
+    "review_text": "Lần đầu đi ăn mà điên như này chịu rồi khác gì cái nhà quê đồ ăn dở ẹc chờ 30p mới có 1 đĩa rau chán lắm nhân viên thì cũng được thôi quán thì đông mà không có nổi cái quạt quán chán làm ăn như lờ í"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Su Truong",
+    "rating": 1,
+    "review_text": "Đồ ăn không có gì đặc sắc, chỉ có thịt lợn nướng tảng, nhạt nhẽo. Giá đắt 250/1kg thịt lợn, bát canh cá 280k tệ, dưa, các đồ phụ kiện tính giá quá cao 40k/1 đĩa dưa. Nói chung ăn 1 lần cho biết và sẽ không quay lại. Quán thì gần sông đầy muỗi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Anh Vũ thục",
+    "rating": 1,
+    "review_text": "K hiểu vì lí do gì mà 1 quán ăn ở vị trí bình thường, đồ ăn bình thường, cơ sở vật chật quá cũ kĩ, bẩn, tối và nóng lại đông khách kinh khủng như vậy\nQuán có món best seller là thịt nướng, thực ra là thịt rán, nhạt nhẽo …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Phuong Linh",
+    "rating": 3,
+    "review_text": "Món signature là thịt nướng nhưng thực tình nó không ngon. Thịt nạc, để miếng to nên ăn dai và khô. Ông chủ gợi ý mỗi người 2 miếng thịt nhưng cả nhà mình 4ng ăn không hết 2 miếng (1kg thịt đc 8 miếng). Canh cá nấu kiểu khác với các nơi, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Daisy Phung",
+    "rating": 1,
+    "review_text": "Thịt rán theo tảng, khong phải thịt nướng, ăn nhạt. Chủ quán cố tình tư vấn quá nhiều đồ, thời gian chờ đợi lâu, khách ăn xong vẫn chưa phục vụ xong món, hết bữa mới mang rau đậu ra, nhà em hỏi hàng này không đặt , không ăn vì xong bữa rồi, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "San Hotaru_",
+    "rating": 5,
+    "review_text": "Đồ ăn ở quán rất ngon, phong phú, đúng chất nhà làm, nhân viên dễ thương lịch sự, ai đến Móng Cái nhớ ghé qua ăn thử nhé, rcm thịt nướng siêu ngon, see ya~"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Hiền Đỗ",
+    "rating": 1,
+    "review_text": "Thái độ của ông chủ kém, gọi món khó chịu. Thực đơn k phong phú xong cứ ép phải ăn thịt. Gọi 0,5kg k cho gọi phải gọi 1kg cho 4 người lớn 2 trẻ cấp 2. Nói chung không quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "PT Mai",
+    "rating": 4,
+    "review_text": "Quán bên cạnh sông khá mát, rất đông khách. Quán nổi tiếng với món thịt thăn rán ăn kèm dưa muối chua."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Ruan Ruan",
+    "rating": 3,
+    "review_text": "đồ đắt mà k phải đặc biệt ngon, ăn được, thái độ chủ quán k ok lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Nguyên Hà Quốc",
+    "rating": 4,
+    "review_text": "Nhà hàng Đặc sản Heo móng cái của TP Móng cái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Phan Duc",
+    "rating": 2,
+    "review_text": "Quán cạnh bờ sông, chủ quán vứt rác thẳng xuống sông. Thái độ phục vụ kém: có combo dưa muối + dưa chuột + đậu + ... mà ko nói rõ từ đầu. Giá cả đắt đỏ hơn nhiều so với chất lượng đồ ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Nguyễn Thái Dũng",
+    "rating": 5,
+    "review_text": "View đẹp ngon,  bổ.. Nhưng ko rẻ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Bui Dung",
+    "rating": 1,
+    "review_text": "Mình đi ăn quán này buổi tối nên ko biết view sông đẹp không, tuy nhiên mình có 1 ấn tượng rất không tốt với quán này đó là thái độ phục vụ của ông chủ. Mình gọi món theo lượng người nhà mình tuy nhiên thái độ ông chủ như ép mình ăn, lúc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Truc Tran",
+    "rating": 4,
+    "review_text": "Gia đình mình đến quán trước giờ trưa còn vắng khách nên có chỗ ngồi, một lúc sau thì khách đến rất đông chủ yếu là các xe chở khách du lịch, có đoàn đặt tới 90 chỗ. Quán chật nên nếu bạn có định đến đây ăn thì nên đến sớm, nếu không thì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Kikituyet",
+    "rating": 1,
+    "review_text": "Mình vào cuối tháng 04.2024\nQuán này chắc toàn kết nối với lái xe rồi nên toàn khách du lịch theo đoàn vào chứ nói thật : đồ ăn ít món (quá ít món là khác, cực kì ít món), giá cao, nấu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Cao Hieu",
+    "rating": 4,
+    "review_text": "Đồ ăn cũng ổn, cái chi phí hợp lý. Món ăn nào cũng nhiều, đầy đặn. Nếu đoàn của bạn đi nhiều thì không sao, gia đình hoặc nhóm từ 2-5 người thì lưu ý gọi món kẻo ăn không hết."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Nguyễn Thu Hiền",
+    "rating": 4,
+    "review_text": "Nhà hàng bình dân, chỗ ngồi rất nóng và không được sạch lắm. Thịt nướng ở đây khá tươi ngon, đồ ăn kèm cũng được. Nói chung đây là lựa chọn tạm được khi đến Móng Cái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Thai Pham",
+    "rating": 5,
+    "review_text": "Món thịt nướng ăn kèm dưa chua ngon, phục vụ chưa ưng lắm, tư vấn cho khách quá nhiều đồ ăn nên ăn sẽ ko hết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "hung chu",
+    "rating": 5,
+    "review_text": "Quán nổi tiếng về món thị rán và món cá tầm.  4 người ăn hết 600k. Chờ đợi hơi lâu do quá đông khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "TuanHung Company",
+    "rating": 4,
+    "review_text": "Đồ ăn hải sản tươi ngon, thịt rán là món nổi bật nhất Móng Cái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Long Win",
+    "rating": 4,
+    "review_text": "Ăn ngon mà đông và hơi lộn xộn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Hồng Phong Hà",
+    "rating": 4,
+    "review_text": "Tìm kiếm sự đặc sắc trong món ăn thì thực sự chưa có, quán khá đông khách có lẽ do giá cả phù hợp, không gian thoáng đãng do 1 mặt giáp sông, vệ sinh ở mức trung bình. Chủ quán khá thân thiện, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Thanh Hai Nguyen",
+    "rating": 5,
+    "review_text": "Thịt nướng là món ăn \"must try\" của Nhà hàng, được chế biến khá đặc biệt làm nổi bật lên vị ngọt tự nhiên của nguyên liệu, tươi và sạch. Nhân viên và chủ quán đều nhiệt tình, thân thiện. Giá cả hợp lý. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Pham Nhat Quang",
+    "rating": 1,
+    "review_text": "Vừa đi ăn quán này và thực sự quá thất vọng về món thịt nướng. Giá thì quá đắt so với các món ăn. Không bao giờ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Quang Do Phu",
+    "rating": 1,
+    "review_text": "Tôi đến đây ăn lần đầu (đi 3 người), không biết thực đơn có gì, ông chủ có đề xuất món thịt nướng và canh cá. Tôi có gọi thêm 1 gà sáo và cơm. Ông chủ nói cơm đi kèm. Phiếu order chỉ ghi thịt nướng, cá, gà. Sau đó nhân viên mang ra cho 1 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "thành chung nguyễn",
+    "rating": 1,
+    "review_text": "Không có gì đặc sắc\nChờ đợi lâu\nNhà hàng nền bẩn nhà vệ sinh lại càng tệ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "Nam Đỗ Đặng",
+    "rating": 4,
+    "review_text": "Một trải nghiệm ăn thịt nướng cả miếng :v mỗi ng 1 miếng chắc là đã đủ no rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57a5d8044997:0x9127cd9d2d5ffb2f",
+    "shop_name": "Nhà Hàng Bình Mắm",
+    "user_name": "việt phương vu",
+    "rating": 2,
+    "review_text": "Quán đồ ăn phong phú,giá cả hợp lý,"
+  }
+]

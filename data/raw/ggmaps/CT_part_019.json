@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Tuan Duong",
+    "rating": 5,
+    "review_text": "quán ok đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Kim Anh Nguyễn",
+    "rating": 5,
+    "review_text": "quá ngon, không gian thoáng mát!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Duy Trần Tuấn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon view đẹp 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "myfmyf_1804",
+    "rating": 2,
+    "review_text": "Không gian đẹp\nNhân viên ít nên không fl theo khách kỹ\nĐồ ăn mắc, dở, không tươi, không ngon …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Khoi Tran",
+    "rating": 5,
+    "review_text": "Quán đẹp NV hiếu nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Giang Nguyen Ngoc",
+    "rating": 1,
+    "review_text": "Dẫn 1 nhóm bạn đi ăn. Một số vấn đề phát sinh, gặp trực tiếp người được xem là quản lý của nhà hàng để nói chuyện; kết quả mang lại còn thấy khó chịu hơn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Phan Hồng",
+    "rating": 1,
+    "review_text": "Đồ đông lạnh, phục vụ chán , giá đắt đỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Văn Nghĩa Nguyễn",
+    "rating": 5,
+    "review_text": "Bạn phục vụ tên thiện pv rất nhiệt tinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Đô La",
+    "rating": 5,
+    "review_text": "Quán view đẹp, đồ ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "ct nhokkan",
+    "rating": 1,
+    "review_text": "Quán view bờ sông đẹp\nĐồ ăn không ngon, đắt và ít\nPhục vụ cực kỳ tệ, nhân viên không chú ý yêu cầu của khách, gọi món nhiều lần nhưng không đem lên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Ngô Diễm Thu",
+    "rating": 5,
+    "review_text": "Quán ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Minh Trường Nguyễn Vũ",
+    "rating": 1,
+    "review_text": "Đồ ăn mắc, ăn về cả nhà nhuận tràng luôn ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Trương Tấn Phú",
+    "rating": 1,
+    "review_text": "Phục vụ thì đợi kêu, đồ ăn thì mà mắc như quỷ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Phan Thành",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhân viên thái độ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Phát Phạm",
+    "rating": 1,
+    "review_text": "Ngày 28/9 e có tổ chức tiệc sn tại quán của mình ,nhưng mà vấn đề ngày 3/9 e đã đặt bàn với view quen sông ,mà tới khi e lại nhận bàn thì nhân viên setup bàn chỗ khác không phải view e đã đặt ,e có hỏi thì nhân viên nói lý do e không nói kĩ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Hung Tram",
+    "rating": 5,
+    "review_text": "Thức ăn ngon gia họp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Phương anh Tạ thị",
+    "rating": 1,
+    "review_text": "Mình đã đặt bàn - đã cọc . Đến quán NV ngơ ngơ không quan tâm đến khách. NV tệ hờ hợt- phục vụ kém. Trong khi hôm nay mưa quán không hề đông khách mình có mặt quán lúc 18h41p ra về 19h12p thì liệu đã hưởng thức trong tâm trạng tệ như nào? …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Ngọc trân",
+    "rating": 5,
+    "review_text": "Với view cầu đi bộ chiếc view có thể nói là triệu đô, ở đây có thể nhìn thấy mường thanh CT cũng rất xịn xò, quán sát bờ kè thoáng mái, nhất là khi chiều tà nền nhạc du dương sẽ khiến cho thực khách thưởng thức trọn vẹn vẻ đẹp ở đây, nhân …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "high team",
+    "rating": 5,
+    "review_text": "Quán phục vụ chuẩn không chỗ chê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Qui Phu",
+    "rating": 5,
+    "review_text": "mình có 1 trải nghiệm rất tốt về quán , view lý tưởng thư giản , thích hợp để tụ tập bạn bè , hẹn hò , món ăn hấp dẫn , không gian sạch đẹp thoáng mát , nhân viên vui vẻ dễ thương cực kì , chắc chắn sẽ quay lại nhiều lần 💖💖 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Cong Thanh",
+    "rating": 1,
+    "review_text": "Ngắn gọn là em mình đã đặt bàn set up sinh nhật và đã có cộc 300k, em mình đặt bàn qua trang fanpage  nhưng khi đến quán\n- không có tên đặt sẵn trên giấy thông tin …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Trương Ngô Như Ý",
+    "rating": 1,
+    "review_text": "Đặt bàn trước nhưng quán sắp cho mình chỗ tối dù vẫn còn bàn trống view đẹp hơn phía trước. Những món chế biến sẵn không hợp khẩu vị mình, đặt biệt món sườn bò chiên sốt cam sả quán dùng dẻ sườn chiên nên miếng bò rất khô, nước sốt rưới lên như không có, nhân viên phục vụ tương đối chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "phuc vo",
+    "rating": 5,
+    "review_text": "trùi ui là trùi, quán này quá ok đi lần 1 lại muốn đi lần 2, view quá xá là đẹp, không khí mát mẻ, như đà lạt thía.\nNhân viên rất là nhiệt tình, đồ ăn giá rất sinh viên. Quán rất sạch sẽ, nhiều …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Trang Minh",
+    "rating": 5,
+    "review_text": "Không gian món ăn ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Phi Hà Hoàng",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, bạn Hữu Thiện dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Diễm Bông",
+    "rating": 5,
+    "review_text": "Quán ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Sương Trần Thị Ngọc",
+    "rating": 1,
+    "review_text": "Bạn quản lý nhà hàng rất cứng nhắc, tệ; mang lại cảm giác rắt khó chịu với thực khách.\nChê bạn quản lý, cần học hỏi thêm về chất lượng dịch vụ khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Thanh lutran",
+    "rating": 5,
+    "review_text": "Không khí đông vui ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Liên Thùy",
+    "rating": 1,
+    "review_text": "Mình vừa trải nghiệm vào hôm qua 16/02 và vô cùng thất vọng về quán. Khâu quản lý, tiếp nhận thông tin rất tệ. Đặt bàn decor sinh nhật trước 2 ngày, có đặt coc nhưng khi đến quán đọc thông tin đặt bàn ai cũng lơ ngơ không biết. Mình tin …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Hân Nguyễn",
+    "rating": 1,
+    "review_text": "Quản lí và nhân viên quán thái độ rất tệ với khách. Khách đã nhắn tin đặt bàn rồi, nhưng khi đến thì nhân viên nói là “Quán không nhận đặt bàn”. Khách quá bực và đi về thì page quán nhắn tin trách ngược lại khách là do khách đến trễ. Vậy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Phan Thúy Huỳnh 25-01-01",
+    "rating": 1,
+    "review_text": "Quán không chuyên nghiệp, khách đã đặt bàn nhưng khi đến quán chị quán lí bảo là không ai nhận đặt bàn. Từ đầu ko nhận thì nói trước với khách đi ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Nguyen Ngoc Giang",
+    "rating": 1,
+    "review_text": "Quản lý của nhà hàng rất cứng nhắc, khó chịu, không hỗ trợ Khách hàng.\nCảm thấy rất khó chịu khi ăn tại nhà hàng.\nThất vọng vì những người được gọi là quản lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Lộc Phan Gia",
+    "rating": 1,
+    "review_text": "Chất lượng phục vụ kém, giá vat quá cao ngang ngửa sg  nhưng chất lượng rất tệ,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "171-Lê thị nghiêm- QTKD D",
+    "rating": 1,
+    "review_text": "Đặt trước 2 bàn đến nơi thì bên quán báo sót. Xong sắp sếp bàn báo với bên mình là setup liền nhưng đợi tụi mình nhắc mấy lần mới làm nhưng lại rất xấu( ko giống bên mình đặt). Món ăn ra rất chậm, đặc biệt món lẩu tứ xuyên thịt cực kì dai …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Huynh Thi Tuyet Nghi B2201441",
+    "rating": 2,
+    "review_text": "Đồ ăn ra nhanh, món ăn không quá ngon để quay lại khá ít, nhà vệ sinh cực kì tệ không đèn phòng có đèn thì không khóa được quán nên coi lại wc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Thi Thi",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , view đẹp , mấy bạn nhân viên siêu dễ thương , trải nghiệm xứng đáng lắm mọi người nên ghé quán nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Nguyen Quynh Nhu Thao",
+    "rating": 1,
+    "review_text": "Phụ thu quá mắc 25% 200k. Phục vụ lâu, ăn có 4 món mà gần 1 triệu. Hầu như vô tự mình phục vụ luôn cho lẹ đợi nv lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Quỳnh Diễm",
+    "rating": 1,
+    "review_text": "nhân viên nữ có thái độ cợt nhã, nhái lại khách hàng, rất thiếu tôn trọng với khách. mình vô ăn chứ không phải là trò hề của mấy bạn chỉ trỏ cười giỡn nhé. tiếc là không có 0 sao chứ có là mình không ngại đâu ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Bình h",
+    "rating": 1,
+    "review_text": "Mắc dở nhân viên phục vụ như l"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Tien Kieu",
+    "rating": 5,
+    "review_text": "Đồ ăn của quán ngon, view đẹp, nhân viên phục vụ nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0634ca056fd05:0xe104dfbb93fef930",
+    "shop_name": "NOỌNG NƯỚNG",
+    "user_name": "Thành Phú Lê",
+    "rating": 1,
+    "review_text": "Trải nghiệm rất tệ tại quán. Nhân viên có thái độ phục vụ thiếu chuyên nghiệp.\nTrải nghiệm các món nướng tệ: than đã hết, món vẫn còn yêu cầu bổ sung thêm than nhưng nhân viên vẫn không quan tâm, các món nướng không có nước chấm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Lam Quang Tuan",
+    "rating": 4,
+    "review_text": "Quán dời từ đường Trương Định về hẻm 15 Trần Văn Hoài. Có chỗ đậu xe máy, còn ô tô thì đậu ngoài đường TVH.\nQuán có món bò nướng ngói với khẩu vị vừa ăn, các loại nước suối nước ngọt.\nNhân viên phục vụ nhanh nhẹn. Cần cải thiện khâu dọn dẹp vệ sinh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "HR Youdian Star HCM",
+    "rating": 1,
+    "review_text": "Đang ngồi ăn chưa tính tiền ,mà nhân viên kêu đổi bàn nhường cho khách mới ghép bàn trong khi quán còn chổ quá 1 đống nguyên cả quán không  ai ngồi  trải nghiệm quá tệ đến từ nhân viên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "thong le hai",
+    "rating": 5,
+    "review_text": "Mặc dù không gian có vẻ thô sơ nhưng đồ ăn rất ngon...! Nhà mình gọi 9 phần ăn rồi mà vẫn chưa xong lại gọi thêm !!!! Quán địa phương tưởng không ngon mà ngon không tưởng ! Nếu ghé Cần Thơ phải ăn liền !!! 😋😋😋😋😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Viktor Tran",
+    "rating": 4,
+    "review_text": "Ăn ở đây rất nhiều lần , quán nằm trong hiểm 88, giá chỉ 4x/ phần bò, ăn uống không gian thoải mái, tối quán cũng rất đông khách, nên mình đi sớm hơn 1 chút, mỗi lần ăn kêu 2-3 phần nướng ăn cho đã ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Viktor Tran",
+    "rating": 5,
+    "review_text": "Bò nướng ngói không gian rộng, thoáng mát, phù hợp mọi lứa tuổi, giá thành mềm , ăn uống được nhân viên phục vụ chu đáo, take care tốt. Ăn j kêu gì tự nhiên mang ra liền dị luôn :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "COMI · Thanh Lý Ký Gửi",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, các bạn nhân viên rất nhiệt tình 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Trânn Bảoo",
+    "rating": 1,
+    "review_text": "Chủ quán không vui tính đồ ăn thì cũng ko ngon nói chung 1 sao là đánh giá hơi cao nếu có âm sao cũng có thể"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Jason",
+    "rating": 5,
+    "review_text": "Thức ăn ngon - nhân viên vui vẻ - không khí  thoáng mát. Món bò một nắng chấm muối kiến vàng chua chua thật tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nhi Yến",
+    "rating": 1,
+    "review_text": "Quán bán ngon nhưng nhân viên quán rất tệ . Làm mà lo giỡn ko , bàn mình vào trước ngồi biết bao lâu thì ko có đồ ăn trong khi 2ng khách vào sau thì lại có ăn trước mình . Quay qua ý kiến thì cà rỡn cà rỡn ko 1 lời giải thích . Good bye ko có lần sau ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Tâm Tâm",
+    "rating": 4,
+    "review_text": "Về không gian quán hơi chật, nóng và ngộp khi full bàn; ăn xong ra về người còn đầy mùi khói; vệ sinh tạm. Thức ăn ngon, vừa giá tiền. Nhân viên nhiệt tình và chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Dang Vo",
+    "rating": 5,
+    "review_text": "Ngon rẻ, bò tươi. Nhân viên nhiệt tình dễ thương 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Anh Ngô Thế",
+    "rating": 5,
+    "review_text": "2 phần bò nướng 80k cũng khá rẻ nhưng hơi ít đồ ăn, phù hợp với giá tiền, không gian quán mát mẻ, rộng rãi, hợp vệ sinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "TẤN NGUYỄN",
+    "rating": 4,
+    "review_text": "Quá ăn ngon ! Nhiều giá lựa chọn\n\nPhù hợp cho sinh viên học sinh nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Phan Hoàng Khương",
+    "rating": 4,
+    "review_text": "Quán làm ngon ,ướp rất vừa miệng,giá cả hợp lý,,không gian hơi hẹp.nhân viên vui vẻ, phục vụ chu đáo. Menu đa dạng, thức ăn lên nhanh,rất thích hợp cho đi nhóm 4 người ,hoặc 2 người."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Võ Ngân (Ngân Võ BĐS)",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý, đồ ăn và rau rất tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "阮紅梅",
+    "rating": 1,
+    "review_text": "Bà chủ kiểu như bị giựt hụi, tính tiền thì kiểu như con bữa củi, làm tôi có cảm giác tui đến ăn không trả tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Huy Bếp Thầy",
+    "rating": 5,
+    "review_text": "Thích nướng trên miếng ngói bò, miếng thịt không khô, nướng vừa chín cuốn kèm rau bún  chấm nước mắm uilatr mlem lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Dien Dominico",
+    "rating": 3,
+    "review_text": "Nhanh chóng, phục vụ tốt. Không gian hẹp. Thức ăn ngon. Vệ sinh tạm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Lộc Tấn",
+    "rating": 5,
+    "review_text": "Thịt bò ngon, phần 2 người 65k, bún rau thêm miễn phí. Giá hợp lý, buổi tối thường đông khách, diện tích quan hơi nhỏ nên ngồi phía trong hơi nóng và thường hết bàn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Hải Vy Đoàn",
+    "rating": 3,
+    "review_text": "Bò ăn được chứ k ngon lắm vì thịt hơi vụn, nước chấm hơi nhạt. Quán rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Huy Phạm Quốc",
+    "rating": 5,
+    "review_text": "Thịt tươi, phục vụ vui vẻ nhanh lẹ, giá hợp lý, đáng trải nghiệm và nghiện kkk"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Thach Nguyen Huy",
+    "rating": 5,
+    "review_text": "Quán bình dân, ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "thanh nguyendac",
+    "rating": 4,
+    "review_text": "Quán ăn rộng rãi, đồ ăn ngon!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Toan Lephuoc",
+    "rating": 4,
+    "review_text": "Quán hẹp , không gian hơi chật và nực , phục vụ tận tình , đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nguyễn Huỳnh Yến Nhi",
+    "rating": 1,
+    "review_text": "mới 9g mấy mà nhân viên gấp về nên làm đùng đùng dùng thái độ đuổi khách ,mai mốt quán không muốn nhận khách cứ nói thẳng ạ chứ ăn mà lở dở , xin đem về tại thấy thái độ nv ăn hết vô thì nv ra quăng cho khách cái bọc vs cái hộp r thôi hết …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Mỹ Tâm",
+    "rating": 5,
+    "review_text": "Tuj là mối ở đây luôn tuần nào cũng đi với chồng và con rất ngon lun"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Tang yen ngoc",
+    "rating": 5,
+    "review_text": "Bò ăn dc nhưng hơi vụn , nước mắn nêm có mùi mắm nặng mùi quá , ko có chỗ rửa tay sau ăn, chủ quán ko vui vẻ ,ý là kêu tính t mặt chù ù"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Safi Nah",
+    "rating": 1,
+    "review_text": "Đuổi khách khi chưa hết giờ? Trên web thì báo 22h30 đóng cửa còn nhân viên mới 9h30 đã nôn về? dọn dẹp hết bàn ghế nói móc khách? Tại sao dịch vụ lại tệ đến như vậy nhỉ. Thấy các bạn nôn về mình cũng lịch sự xin được gói mang về (vì mình có …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nam Phạm",
+    "rating": 4,
+    "review_text": "Đồ ăn ăn được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Diep Tieu My",
+    "rating": 1,
+    "review_text": "Quán lên món lâu, tôi đi 2 người đến trước bàn 8 người mà nv cứ lên bò với bếp cho bàn 8 người trước, bộ đi nhiều là được ưu tiên hả?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Chi Nguyễn Kim",
+    "rating": 5,
+    "review_text": "Quán ruột của mình. Đồ ăn ngon, nước chấm đậm đà, không gian quán am cúng. Nhân viên vui tính"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Việt Hoàng",
+    "rating": 3,
+    "review_text": "Món ăn đơn giản. Chỉ nên vào ăn chơi, không đủ cho một bữa tối đầy đủ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Phương Auto",
+    "rating": 5,
+    "review_text": "Phục vụ tốt đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "luan dang",
+    "rating": 4,
+    "review_text": "Không gian hơi chật, quán quá nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nguyện Huỳnh",
+    "rating": 1,
+    "review_text": "Xem lại thái độ nv phục vụ nam"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Hậu thi trượt",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, phần ăn không quá ít (ăn vui chứ không no), quán vắng, không khí hơi buồn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Thanh Phát Tiêu",
+    "rating": 4,
+    "review_text": "Quán nằm trong hẻm 108 (Tài xỉu). Giá 35k cho 1 ng ăn, 64k cho 2 ng. Bò được tẩm ướp gia vị vừa ăn cùng với đậu bắp, cà tím nướng trên ngói rồi cuốn trong bánh tráng cùng với rau. Chấm vào nước chấm mắm nêm cực ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Thành Hồ",
+    "rating": 5,
+    "review_text": "Thịt bò được ướp gia vị ngon, bổ, rẻ. Giá cả phù hợp với sinh viên , bàn ăn rộng rãi, sạch sẽ. Rau sống tươi, bánh tráng mới, gọi thêm không tính tiền, có bán nước ngọt lẫn bia bọt. Ra thức ăn nhanh chóng. Nhân viên vui vẻ, nhiệt tình. Quán …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "HUU NHAN TRAN",
+    "rating": 5,
+    "review_text": "Quán khá đông, nên ra món ko được nhanh, món ăn ngon, vì khá rẻ nên món hơi ít."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Phuc Overate",
+    "rating": 3,
+    "review_text": "đồ ăn tạm đc ăn cho biết chứ k ngon lắm. chỉ có combo 1ng 2ng 3ng kêu thịt thêm thì không có quá công nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "My huong huong",
+    "rating": 4,
+    "review_text": "Tuy chỉ là quán nhỏ và chỉ có 1 món nhưng ngon nha  giá lại phải chăng, bao ăn no. Cũng nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Huong Huong",
+    "rating": 5,
+    "review_text": "Bò lúc lắc\n\nNguyên liệu: …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Đào Hồng",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, giá hợp lí. Đến vào giờ cao điểm phục vụ rất chậm, đợi lâu. Cho 4 sao cần cải thiện thêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Minh Le",
+    "rating": 3,
+    "review_text": "Chụp lên tưởng dĩa bò nhiều, ai ngờ rau ở bên dưới, bò ngon nhưng ướp hơi mặn, nước chấm không hôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Ngọc Duyên Hồ",
+    "rating": 2,
+    "review_text": "Nhân viên đem ra cho mình ống hút bị con gì dính vào, mình đưa bạn đổi thì bạn lại đem ra cho mình ống hút có dính vệt đen giống như ống khi nãy nhưng được chùi lại một cách qua loa í :)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Vương Tử Uyển",
+    "rating": 5,
+    "review_text": "Đồ nướng siêu ngon nha. Có nhiều phần ăn khác nhau, có thể lựa chọn tùy theo số người ăn 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Vdesign - Website Theo Yêu Cầu",
+    "rating": 4,
+    "review_text": "Không gian quán rộng rãi, phục vụ thân thiện, món ăn vừa miệng với giá bình dân."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Minh Tri Tran",
+    "rating": 5,
+    "review_text": "Bò ngon. Giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "quynh nhu",
+    "rating": 5,
+    "review_text": "Bò ngon giá rẻ. Đặc biết free rau bún. Nhân viên nhanh nhẹn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Đăng Khoa",
+    "rating": 5,
+    "review_text": "5 sao khỏi nói , nình làm rớt chiếc đuỗi mà chưa ăn nên lụm lại lao mà bạn nv thấy nên đưa đũa mới luôn có cần phải tinh tế vậy ko"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nguyễn Thị Như Hoàng",
+    "rating": 5,
+    "review_text": "Bò Nướng ngói Cù Lần 2 tại Hẻm 15 Trần Văn Hoài, Ninh Kiều, Cần Thơ giá sinh viên, nhân viên lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "anh le",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá hợp lí, chỉ có không gian hơi chật"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Tân Võ",
+    "rating": 5,
+    "review_text": "Ngon và rẻ. Nên đến sớm để có chỗ ngồi vì quán rất đông."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Tú Nguyễn Minh",
+    "rating": 4,
+    "review_text": "Ngon rẻ chỉ là quán hơi chật và nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "TIN TỨC TỔNG HỢP",
+    "rating": 2,
+    "review_text": "Không gian hẹp, đồ ăn đắc, được mỗi mấy e phục vụ lễ phép"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Lâm liễu Hà",
+    "rating": 4,
+    "review_text": "Rẻ,ăn 2 người 2 phân 100 mấy,nước chấm truyền thống đúng vị ,ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Huy Doan Van",
+    "rating": 4,
+    "review_text": "Món ăn ngon. Quán nhỏ phải ngồi chờ khi ăn cuối tuần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Hoai ai Ngo",
+    "rating": 3,
+    "review_text": "bò ở đây chất lượng không quá xuất sắc nhưng giá cả ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "CMU - TINHNT34",
+    "rating": 4,
+    "review_text": "Đồ ăn khá nhiều.. bò ướp rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Tùng Lê",
+    "rating": 3,
+    "review_text": "Bò ướp cũng được, tuy nhiên quán hẹp và ngột ngạt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Tan Duong",
+    "rating": 4,
+    "review_text": "Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Kiều Chi Nguyễn",
+    "rating": 4,
+    "review_text": "Món ăn ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nguyên Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon rẻ, phù hợp sinh viên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "duyen nguyen",
+    "rating": 5,
+    "review_text": "Ngon, giá tiền phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Xuân Đài Lê Thụy",
+    "rating": 5,
+    "review_text": "Thức ăn ngon nhâm viên vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Bac Voviet",
+    "rating": 3,
+    "review_text": "Ngon nhung không gian hơi nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nguyễn Trung Thuộc (MDT Sparta)",
+    "rating": 4,
+    "review_text": "Ngon... Giá cả bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Trong Phan",
+    "rating": 5,
+    "review_text": "Ngon - bổ - rẻ. Sẽ ủng hộ dài dài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Tiên Thủy",
+    "rating": 5,
+    "review_text": "Quá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Hoang Loi",
+    "rating": 5,
+    "review_text": "Ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nam Trần",
+    "rating": 4,
+    "review_text": "Ngon, giá vừa phải"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Hien Nguyen",
+    "rating": 4,
+    "review_text": "Muỗi quá !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Phát Lộc Lê",
+    "rating": 5,
+    "review_text": "Mùi vị khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Minh khang Nguyễn",
+    "rating": 5,
+    "review_text": "Anh đánh đàn hay quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Thành Danh Nguyễn Dương",
+    "rating": 3,
+    "review_text": "Không Ngon lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "PHÚ",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nguyễn Văn Quốc 29-11-00",
+    "rating": 5,
+    "review_text": "Tốt 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nhã Thanh",
+    "rating": 5,
+    "review_text": "Ngon, re"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "TRÂN TRÂN",
+    "rating": 4,
+    "review_text": "Giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Hoàng Hiển",
+    "rating": 5,
+    "review_text": "Quán ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Friday",
+    "rating": 5,
+    "review_text": "Ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Quoc Thai Le",
+    "rating": 1,
+    "review_text": "Đồ ăn rất ít"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Thuong Nguyen",
+    "rating": 4,
+    "review_text": "Ok lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Yen Tran",
+    "rating": 4,
+    "review_text": "Ăn được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Phuoc Dai Nguyen",
+    "rating": 5,
+    "review_text": "KDC HƯNG PHÚ - CẦN THƠ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nguyen Bao",
+    "rating": 4,
+    "review_text": "Ăn dc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Huệ Phạm",
+    "rating": 3,
+    "review_text": "Thức ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Xuân Lương",
+    "rating": 2,
+    "review_text": "đồ ăn hơi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nguyễn Văn trọng",
+    "rating": 4,
+    "review_text": "Giải trí cuối tuần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "ĐIỆN MẶT TRỜI 24H",
+    "rating": 4,
+    "review_text": "Đồ nướng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Võ Vương",
+    "rating": 4,
+    "review_text": "Cảm giác mới mẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Trang Huỳnh",
+    "rating": 5,
+    "review_text": "Đáng tiền lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Miinh Minh",
+    "rating": 1,
+    "review_text": "Kém chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Phuong Hoang",
+    "rating": 4,
+    "review_text": "ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Tiến Nghiêm",
+    "rating": 5,
+    "review_text": "Êm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Đức Minh",
+    "rating": 4,
+    "review_text": "Ngon, rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Hoàng Nhựt Lê",
+    "rating": 4,
+    "review_text": "Hmmmm để thử cái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "ngoc huynh",
+    "rating": 2,
+    "review_text": "Tạm tạm tạm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Mi Dinh Thi Diem",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Trần Hữu Sơn",
+    "rating": 5,
+    "review_text": "Rất tuyệt với về mọi thứ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "La Ta",
+    "rating": 5,
+    "review_text": "Bò ướp sả ngon rẻ, phục vụ ok. Có phần bún rau mắm nêm ăn kèm. Giá cả hợp lý. Đi Cần Thơ ghé ăn thử nhé mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "HONG NGOC DANG",
+    "rating": 1,
+    "review_text": "Mình mới ghé quán hôm qua, ăn về nay sáng bị sốt và gắt cổ luôn. Đang uống thuốc. Hôm qua ghé trời mưa lâm râm, chỗ ngồi khá dơ và bị đọng nước. Quạt hư mấy tháng ko sửa, chưa kể mưa phùn nên kéo bạt che tối thui, ko đủ đèn chiếu sáng và …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Mỹ Mỹ Trần",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon mà nhân viên thái độ quá với nói chuyện trống không nhìn như k muốn bán hay sao á :)))) mặt thái độ dữ luôn từ lúc ord tới lúc tính tiền 🙏🙏 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Hoangha Nguyen",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "SUNJE LEE",
+    "rating": 5,
+    "review_text": "Nếu bạn bày rau củ lên mái ngói và nướng thịt từng miếng một, bạn có thể thưởng thức một bữa ăn ngon miệng và thú vị ngay cả khi chỉ có một mình. Phục vụ ở đây rất thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Joren",
+    "rating": 5,
+    "review_text": "Vui vẻ, ngon miệng, giá cả phải chăng (48k cho 1 phần)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "두류시장",
+    "rating": 5,
+    "review_text": "Hãy ghé thăm vào giờ ăn trưa. Nơi đây yên tĩnh và bạn có thể ăn uống thoải mái ngay cả khi đi một mình. Hai người lớn sẽ no nếu gọi đủ món. Nếu bạn muốn một nhà hàng giá cả phải chăng với chất lượng món ăn cao, hãy đến nơi khác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "An Đặng",
+    "rating": 4,
+    "review_text": "Đây là lần thứ ba tôi đến đây rồi. Món ăn ở đây rất ngon. Chúng tôi thực sự thích nước sốt. Và giá cả cũng rất hợp lý. Nhưng bàn ghế hơi nhỏ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "오호예해",
+    "rating": 4,
+    "review_text": "Là người nước ngoài, tôi không chắc về gu ẩm thực của mình; nó chỉ ở mức trung bình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "anhtriet danghuynh",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Jakiro Nguyễn",
+    "rating": 4,
+    "review_text": "Rẻ và ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Nguyễn Tài vlog",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "Phat Ma Cam",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0882102cae9e5:0x140a2aae58773b6",
+    "shop_name": "Cù Lần - Bò Nướng Ngói",
+    "user_name": "레몬트리",
+    "rating": 5,
+    "review_text": "Tôi đến đó vì tò mò về món thịt nướng trên ngói, và tôi thực sự rất thích món thịt đó~~^^ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Duy Chú",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, nhân viên nhiệt tình, cảnh xung quanh đẹp, giá cả cũng rất ổn, sạch sẽ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Đạt Tuấn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, chất lượng, nhân viên nhiệt tình, giả cả hợp lí, lần sau sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "nguyen quan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình, lên món nhanh, thực phẩm tươi ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Anh Lan",
+    "rating": 1,
+    "review_text": "hôm qua ngày 28.2.2026 nhóm bạn mình 6 người ghé ăn theo review tik tok nhưng nhận lại sự thất vọng lúc kêu món ra mình đã có nhờ chị nv chụp ảnh dùm chị cũng đồng ý nhưng sau khi mình ăn xong gần 2 tiếng thì lại không thấy ai ra chụp( …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Vân Anh Huỳnh Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn đa dạng, tươi ngon, lên món nhanh, không gian thoáng mát sạch sẽ, nv rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trí Vĩ Nguyễn",
+    "rating": 5,
+    "review_text": "mik cảm thấy đồ ăn ở đây ngon ,các bạn nv nhiệt tình thân thiên , mik sẽ giới thiệu quán cho gđ và bạn bè khi có muốn ik ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Hân Nguyễn",
+    "rating": 5,
+    "review_text": "Tui trả nghiệm theo review thấy đồ ăn oke, nhân viên take care khách rất nhiệt tình gọi một tiếng là chạy lại liền luôn rất ấn tượng nha 100₫"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Mỹ Linh",
+    "rating": 5,
+    "review_text": "Hôm mình đi hết một số món nhưng các món còn lại cũng ngon, nhân viên take care kỹ, nhiệt tình. Giá cả hợp lý, đồ ăn tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thiện Hoàng",
+    "rating": 5,
+    "review_text": "nhân viên dễ thương\nđồ ăn ngon miệng\nkhông khí vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Vy Pham",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhaa\nLên món nhanhh\nQuản lí và nhân viên siêu dễ thương\nĐáng để thử nhaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trúc Linh Nguyễn Thị",
+    "rating": 1,
+    "review_text": "Ăn lần đầu thì ngon giờ thì quay lại ăn đồ ăn vừa bở không tươi cách phục vụ còn rất tệ, chén nước chấm còn không dám để đầy, đưa chén mẻ rót được tí nước chấm (như cho chó ăn) phục vụ thì đứng bên trong rào hỏi vọng ra khách đi mấy người …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "my hà",
+    "rating": 5,
+    "review_text": "Đồ ăn của quán ngon á ướp cũng cũng vừa vị, không gian thoáng mát không có bị bí hay mùi nồng như mấy quán nướng bufe khác, được cái nhân viên quán với mấy anh chị quản lí áo đen dễ thương kêu lúc nào cũng có mặt vừa gọi là lên đủ món...nói chung rất peak"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thilai Mai",
+    "rating": 5,
+    "review_text": "Nv dễ thương, mọi người đều nhiệt tình, đồ ăn ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thị Ngọc Hân Nguyễn",
+    "rating": 5,
+    "review_text": "Bữa có ghé thấy đồ ăn khá ngon, tuy khách đông ra hơi chậm này kia, trải nghiệm chưa như ý muốn nhưng có 1 bạn áo đen gì đó ra giải quyết khá oke cách chăm sóc khách hàng chu đáo sẽ ghé vài lân nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Ngo Vinh Phuc Tran",
+    "rating": 5,
+    "review_text": "Sau 3 tháng quay lại. Đúng là chỉ có yaki 1 vẫn giữ chất lượng từ phục vụ đến món ăn. Nay được ngồi trên lầu vừa mát vừa chill chill."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "NguyễnKiến Tân",
+    "rating": 4,
+    "review_text": "Fill đồ khá nhanh. Không khí ngoài trời mát mẻ. Nhân viên nhiệt tình, thân thiện. Ngồi bên dưới nhìn qua đài phun nước trông chill lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "CDDD14C 34 Phúc Vinh",
+    "rating": 5,
+    "review_text": "các món ngon, nhân viên take care kỹ, nhiệt tình. Giá cả hợp lý, đồ ăn tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Linh Quốc",
+    "rating": 5,
+    "review_text": "đồ ăn ngon nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Khánh Kim",
+    "rating": 5,
+    "review_text": "Món nào cũng ngon từ nướng đến đồ ngọt luôn í, siêu thích món bánh xèo của quán, đi buổi trưa nhưng siêu mát, nhân viên phục vụ tận tình luôn ạ 🫰🏻🫰🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Phuoc Vinh Mai",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Phat Nguyen Tan",
+    "rating": 5,
+    "review_text": "Quán mát mẽ, đồ ăn ngon, view đẹp, nhân viên nhiệt tình, thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thảo Nguyễn Phương",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon lắm nha các bạn\nNvien nhiệt tình lắm lun"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Giang Trường",
+    "rating": 5,
+    "review_text": "Món ăn ở đây rất ngon, hợp khẩu vị, nhân viên dễ thương và đặc biệt là không cần đợi lâu để có bàn. Món ăn lên rất nhanh , vỉ nướng thay liên tục không biết mùi khét là gì lun, chiều tối có cả view hồ Huỳnh Cương lên đèn nữa . Nói chung là 10đ không có nhưng. Rất recomend mọi người tới đây để thử và trải nghiệm nhe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Lộc",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon.\nGiá cả hợp lý, ăn thoả thích luôn. Nên mua thêm vé nước.\nNhân viên tận tình, vui vẻ, đi chung với lớp 40 người mà nhân viên vẫn phục vụ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Đạt Lê",
+    "rating": 5,
+    "review_text": "Chất lượng thức ăn rất tốt , nhân viên phục vụ tận tình ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thiên Huy",
+    "rating": 5,
+    "review_text": "1. Ưu điểm\na) Nhân viên cực kỳ thân thiện và nhiệt tình với khách hàng.\nb) Vị trí sát bờ hồ nên gió thổi rất mát. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Giao Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, đa dạng, tẩm ướp đậm đà. Phục vụ chu đáo, cứ vỉ nướng đen là thay ngay. Quán đông nên đôi khi gọi món hơi lâu. Tủ tráng miệng nhiều loại và rất ngon, ngọt vừa phải. Ngoài các món nướng sống ra thì rcm gọi gà sốt cay, siu đỉnh, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Serena",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ rất chu đáo và nhiệt tình, lúc kêu đồ ăn có đợi hơi lâu nhưng tổng thể rất ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nguyen Jen",
+    "rating": 5,
+    "review_text": "Mình đi Yaki cbgv và Yaki Huỳnh cương.\nCơ bản đồ ăn nêm ngon. Thịt nướng và nước chấm ngon. Giá bình dân. Kh thuế.\nAce có đi đông thì lh trước để đặt bàn nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trịnh Khanh",
+    "rating": 5,
+    "review_text": "Đồ ăn tạm ổn, nhân viên phục vụ tốt, vị trí đẹp, nhìn ra hồ thoáng mát. Đồ ăn đa dạng, refill nhanh. Đồ ăn kèm như rong biển và kimchi các bạn cũng hỏi để refill cho khách. Nước uống tạm ổn. Không gian mở nên ít bị ám khói. Lên món nhanh. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "The Son Nguyen",
+    "rating": 5,
+    "review_text": "đồ ăn ngon đa dạng, không gian đẹp, nhân viên nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "18 Lê Nguyễn Nhựt Duy",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá hợp lý nhất định sẽ quay lại lần nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thanh Sơn (Kloan)",
+    "rating": 5,
+    "review_text": "quán ngonn, nhân viên phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Bảo Phạm",
+    "rating": 1,
+    "review_text": "Không biết bạn ngồi ngay cửa ra vào là quản lí hay thế nào nhưng thái độ ngồi mà kêu như thế, xưa giờ yaki chưa từng như thế nhưng nay đổi mô hình mới hay sao vậy lúc mình và bồ mình tới thì mới 20h hơn chứ chưa tới 20:30 mà ngồi như kiểu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Minh Trịnh Quốc",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon giá hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Tuyết Anh Huỳnh",
+    "rating": 1,
+    "review_text": "đồ ăn gọi lên món thì hết , ăn hàu thì cũ , nhân viên thái độ , không gian thì nóng , giá thì cao hơn so với những chi nhánh khác mà quá tệ , kém chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "tienvinh tran",
+    "rating": 5,
+    "review_text": "Đồ ăn khá ok, nhân viên nhiệt tình, dễ thương. Lúc khách đông món lên hơi chậm, thiếu món nhờ nhân viên lấy dùm là có ngay. Nói chung quán 9đ nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Long",
+    "rating": 5,
+    "review_text": "Phục vụ chu đáo, tận tình, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Bảo",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình, không gian thoáng mát. Mọi người nên ghé ăn thử ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Toàn Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn ướp vừa khẩu vị, nhân viên phục vụ nhiệt tình, chu đáo. Lần đầu trải nghiệm tại quán thật hài lòng. Hứa hẹn sẽ quay trở lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Mai Trieu",
+    "rating": 5,
+    "review_text": "Ngon, bổ, rẻ... Trẻ con cũng rất thích món này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thảo Phương",
+    "rating": 5,
+    "review_text": "Nhân viên Takecare kinh khủng dễ thương dữ lắm lun, tui đi ăn một mình nhân viên quan tâm dữ dữ dữ luôn. Đồ ăn cũng ngon tươi. Trong clip là mình tui ăn á =)) tổng 223k gồm nước với bánh luôn rồi í"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Tran Ng",
+    "rating": 5,
+    "review_text": "đồ ăn quán ngon, rẻ okla,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Như Ngọc Võ Thị",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ dễ thương, bạn phục vụ tên nhung dễ thương, nhiệt tình. Không gian quán thoáng mát, vieew bờ hồ siêu đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Hiểu Thi",
+    "rating": 5,
+    "review_text": "phụ bếp đẹp gái và đồ ăn tuyệt vờiii 👍🏽👍🏽👍🏽😍🥰🥰🥰😘😘😘☝🏽☝🏽☝🏽☝🏽☝🏽 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Ha Bin",
+    "rating": 5,
+    "review_text": "View đẹp, quán giá rẻ so với người từ TPHCM về, nhân viên rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Bảo Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nước chấm cũng ngon.\nCác bạn phục vụ món nhanh và chu đáo...\nChỉ không có hút khói nên đôi khi hơi ngợp. Không gian bàn cũng rộng rãi\nBuffee đủ lẩu nướng. Có kem và panacota cũng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trúc Nguyễn",
+    "rating": 5,
+    "review_text": "10 điểm ăn xong mới nhớ chụp hình 😂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Huy Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn đa đạng, từ thịt heo, thịt bò, hải sản.... Thịt mềm, chất lượng, ăn không có bị dai và tươi nữa. Sốt ướp thịt ngon nhưng không thấm vào thịt vì gọi món mới rưới lên. Nước chấm thì có 3 loại tất cả đều rất ngon, mặn ngọt vừa phải. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nguyễn Diễm Quỳnh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon hấp dẫn, hải sản tươi. Nhân viên nhiệt tình nhanh nhẹn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trâm Bích",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, đồ ăn ngon. Sẽ tới lần sau🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "beo pham",
+    "rating": 5,
+    "review_text": "Món ăn vừa miệng, lên món nhanh, nhân viên nhiệt tình. Quản lý quá okeeeeee"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Anh Anh",
+    "rating": 5,
+    "review_text": "Nhân viên lịch sự, nhiệt tình. Đồ ăn mang lên nhanh, gọi thêm lên cũng nhanh. Giá cả này quá ok rồi. Ai thích thịt nướng than mà giá cả gọn nhẹ thì vote chỗ này nhé. Nước chấm 2 loại cũng rất á refill liên tục. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Ngân Kim",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, nhân viên phục vụ nhiệt tình nhanh nhẹ dễ thương , cơ sở vật chất đã đc update, ko khí thoáng ko ám mùi. Chất lượng ngày càng tốt ăn quài mà vẫn thích"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Tan Tai",
+    "rating": 5,
+    "review_text": "Không gian thoáng mát, lên món nhanh, đồ ăn ngon, nhân viên nhiệt thình care khách thường xuyên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nhi Lê",
+    "rating": 1,
+    "review_text": "Quán không có khăn giấy, mình gọi món thì chờ lâu, tới lúc hỏi thì nói mang lộn bàn, mình đi theo chương trình khung giờ vàng giảm 20k nếu thanh toán trước 17h mà mình tới lúc tầm 16h thì mình thấy ra món lâu. Mình gọi trước nhưng lên món …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Huy Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, lên món nhanh, quán sạch sẽ, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Đăng Khoa",
+    "rating": 5,
+    "review_text": "Các món ăn ngon, vừa miệng, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Diểm Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, dễ thương. Đồ ăn ngon vừa ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Hào Nguyễn",
+    "rating": 5,
+    "review_text": "Mọi thứ đều rất tuyệt, từ món ăn cho tới không gian quán không có chỗ nào để chê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Khiêm Nguyễn",
+    "rating": 5,
+    "review_text": "Hôm mình đi hết một số món nhưng các món còn lại cũng ngon, món ra nhanh, nhân viên take care kỹ, nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Minh Hiền Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian thoáng mát.\nThức ăn tươi ngon.\nBếp nấu ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Bùi An",
+    "rating": 5,
+    "review_text": "quán ok sạch sẽ thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Cam Tien Nguyen",
+    "rating": 1,
+    "review_text": "Gọi món 15p vẫn chưa thấy mang lên, gọi nhân viên khác thì các bạn ấy kêu gọi lại từ đầu. Vậy là bạn trước đó không order hay sao mà 2 bạn khác kiểm tra máy xong kêu gọi lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Hoàng Thư",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi ngon, sạch sẽ, nhân viên nhiệt tình, thân thiện, phục vụ nhanh nhẹn. Nchung nên ghé thử nhoé💐 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "FF N5",
+    "rating": 5,
+    "review_text": "View đẹp, đồ ăn ngon. Phục vụ siêu dễ thương. Qua đồ ăn ngon quá quên chụp luôn. Sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Xuân Hậu Nguyễn",
+    "rating": 5,
+    "review_text": "Quán có không khí mát mẻ, đồ ăn phục vụ tốt, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trương Ngọc Thơ",
+    "rating": 2,
+    "review_text": "Mình nghe theo review đi ăn, đồ ăn ổn nhưng phục vụ rất tệ, phải nói là rất rất tệ. Mình gọi đồ ăn từ lúc đầu luôn nhưng không ra món. Ra món rất chậm, rất lâu. Mình gọi nhân viên đến nỗi mà mình ngại luôn á. Mong quán khắc phục chứ mình …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nguyễn Thị Thanh Tuyền",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon ,hợp khẩu vị của mình. Nhân viên nhiệt tình, luôn hỏi thăm khách.Giá cả hợp lí. Có dịp mình sẽ ghé nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Kiều Duyên Trần Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cqr hợp lý, không gian thoáng mát 10 đỉm 🌝 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Huy Viên",
+    "rating": 5,
+    "review_text": "Không gian mát mẻ, khá ổn nên ghé thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Phương Tuấn",
+    "rating": 5,
+    "review_text": "Không khí nhộn nhịp, món ăn rất ngon, mọi người nên đến dùng món cùng bạn bè, gia đình nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Minh Trương",
+    "rating": 5,
+    "review_text": "Món ăn ngon, phục vụ tốt, chăm sóc khách hàng chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Tấn Khiêm Nguyễn",
+    "rating": 5,
+    "review_text": "Ăn rất ngon thái độ phục vụ rất tốt, tôi đã ăn từ 1 năm trước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Lê Duy Nguyễn",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý, không gian thoáng mát. Nên bố trí thêm quầy nước trên lầu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "anh phúc",
+    "rating": 5,
+    "review_text": "đồ ăn rất ngon không gian nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Anh Huỳnh",
+    "rating": 1,
+    "review_text": "Khách lợi ngồi cả buổi nhân viên lấy mắt ngó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Lý Vỹ",
+    "rating": 5,
+    "review_text": "Nhân viên vui vẽ nhiệt tình đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Alyssa Brunette",
+    "rating": 5,
+    "review_text": "Tui ăn ở đây muốn thành vip member luôn rồi á, đồ nướng rất phong phú từ thịt bò tới thịt heo gà, và vài món lai rai khác, buffet giá 169k thêm nước 39k người giá rất oke, đặc biệt panchan ngon lắm nha mê quán xỉu. Nhà vệ sinh hơi dơ nên ai muốn đi thì ở nhà đi trước đi nha. Góp ý quán làm đồ ăn bớt ngọt lại chắc ngon hơn á"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Huỳnh Dương Kiều Khanh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nha, không gian thoải mái, mấy bạn nhân viên nhiệt tình dễ thương lắm luôn, nên thử lắm nha mng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Đặng Nhật Quỳnh Phạm",
+    "rating": 5,
+    "review_text": "Hiếm khi review cho quán nào nhưng phải mò lên vì chất lượng quá là ok, mình đặt bàn trước và đến trong lúc ko đông lắm nên đồ ăn lên rất nhanh.\nGiá vé rẻ, cả nhà mình ăn no phủ phê luôn, với giá tiền và chất lượng như trong …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "An Nhi nguyễn",
+    "rating": 5,
+    "review_text": "anh hào phục vụ ok, nhiệt tình, yêu cầu tăng lương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Hoàng Huy Anh Nguyễn",
+    "rating": 3,
+    "review_text": "Chất lượng nhân viên phục vụ thì không thể nào bàn cãi nhưng khẩu vị đồ ăn thì tệ đặc biệt là lẩu. Nếu so với giá mà chất lượng món ăn như vậy thì hỏng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Phúc Hồ Hoàng",
+    "rating": 5,
+    "review_text": "Thái độ nhân viên nhiệt tình, không gian quán sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Im Blink Jenchulicheang",
+    "rating": 5,
+    "review_text": "Hôm nay đi ăn trải nghiệm rất oke.Món mau, đồ ăn ngon, nhân viên thân thiện. Đây là làn thứ 3 ghé quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nghĩa Phan",
+    "rating": 1,
+    "review_text": "Sống đủ lâu để thấy 1 quán bán đồ ăn rất kinh khủng, thịt thì từ đời nào đem ra bán, nó hôi rình luôn, nước chấm thì toàn mùi dấm ăn. Bỏ đồng tiền ra để ăn mà cảm thấy bức xúc. Lần đầu cũng như lần cuối ăn quán này!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Minh Thuận",
+    "rating": 5,
+    "review_text": "Thấy có nhiều món ngon như vú heo với thăn bò, quầy tráng miệng có panna ăn đúng gu, có dịp đi cần thơ sẽ ghé tiếp ♥️♥️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Lâm Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, nhân viên phục vụ rất nhiệt tình và vui vẻ, không khí thì quá mát mẻ và vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thinh Le",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, đa dạng món, nhân viên lịch sự - chuyên nghiệp và tinh tế"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "HG T",
+    "rating": 5,
+    "review_text": "Nhân viên siêu siêu siêu dễ thương , cực kì chu đáo hỏi thay vỉ với refill nước liên tục dù khách rất đông 🫶🏻🫶🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thy Dang",
+    "rating": 5,
+    "review_text": "View bờ hồ mát mẻ, thịt hải sản tươi ngon, sốt vừa miệng, có các món soup thêm cũng dễ ăn. Giá cả rất phải chăng. Nói chung ngon bổ rẻ. Nhà mình đã ăn nhiều lần. Có thể hết bàn, lễ nên book trước."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trí Nguyễn Thanh",
+    "rating": 5,
+    "review_text": "đồ ăn ngon đa dạng, không gian đẹp, nhân viên nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Lý Anh Hào",
+    "rating": 5,
+    "review_text": "Hơi ngộp ngẹt tý, khách đông nhưng món ra nhanh\nĐồ ăn hộp vị, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nghĩa bảo Phạm",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên dễ thương và nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Kiên Nguyễn",
+    "rating": 5,
+    "review_text": "Quán dịch vụ tốt, đồ ăn ngon\nThái độ phục vụ rất tốt\nCó nhiều bạn nhân viên phục vụ rất tốt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Ngọc Hân",
+    "rating": 1,
+    "review_text": "đồ ăn ok, bầu không khí cũng ổn nhưng dịch vụ nên xem lại bạn nhân viên Hoàng Dương dùm mình nha order bàn mình nói chuyện cọc lóc vừa vào nghe nch cái thấy no ngang không muốn ăn luôn, mình order salad hoa quả do không thích ăn củ xoắn nên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Tấn Lê",
+    "rating": 1,
+    "review_text": "đồ ăn tạm ổn, Vú heo, mực k tươi bị hôi\nQuản lý đeo kính ồn ào ăn mà nge mt dùm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Kim anh Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn quán ngon lắm nhe mọi người, nhân viên thì thân thiện vui vẻ nữa, không gian quá thì sạch, đẹp nữa. 10 điểm không có nhưng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thuy Lien Nguyen",
+    "rating": 5,
+    "review_text": "Phục vụ tốt đồ ăn ngon và cươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nhung Trieu",
+    "rating": 5,
+    "review_text": "Quán này đồ ăn ngon, nêm nếm vừa miệng. Không gian sạch sẽ, thoáng. Nhân viên dễ thương, phục vụ nhanh. Giá ổn, đáng để ghé lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Boi Ngan Nguyen Nhieu",
+    "rating": 3,
+    "review_text": "Nay mình đi ăn thì mình thấy đồ đem ra một lần khá ít với quán cũng chưa đông lắm mà mình thấy nhân viên hơi chậm vs cả bỏ đi mất trà tắc thái xanh. Dù từng là quán ruột nhưng thôi từ nay mình hong ăn ở đây nữa. Thêm nữa mình và bạn mình đều bị đi ngoài sau khi đi ăn về."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Uyên YC1 Huỳnh Phương",
+    "rating": 5,
+    "review_text": "Rất ổn nha, mình ăn đây nhiều lần rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "LikeST",
+    "rating": 5,
+    "review_text": "Ân thường xuyên, rất ok với giá thành."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Phúc Tô",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon tuyệt vời nhân viên nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Truc Thanh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhân viên tên Hồng Anh dễ thương thân thiện, sẽ ghé quán lâu dài 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Khôi Nguyễn Hoài Nguyên",
+    "rating": 5,
+    "review_text": "Tuyệt vời ✨❤️‍🔥🥰😘💋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Mỹ Quyên Võ Thị",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá thành rẻ, anh chị nhân viên vui vẻ đặc biệt là chị Tuyết Ngân phục vụ vui vẻ, nhiệt tình, dễ gần và rất dễ thương ạ 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Khoa Phan",
+    "rating": 5,
+    "review_text": "Quán ăn gần hồ mát mẻ, đồ ăn phong phú đa dạng, nhân viên nhiệt tình vui vẻ với khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nhân Lương Quang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, rất thân thiện với khách, vỉ đen là thay liền, nước chấm đậm đà, không gian thì thoải mái và là chỗ ăn lý tưởng cho tất cả mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thắng Phan",
+    "rating": 1,
+    "review_text": "Quản lý áo đen đeo kính hơi tròn người ồn ào, ngồi ăn mà mệt dùm, k thoải mái, trả lời khách k khéo léo, có thể nói là chưa lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thuy Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon ,sạch sẽ , nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Của phát Ba",
+    "rating": 1,
+    "review_text": "món ăn tệ, không gian quán quá nóng nực, khói và bụi các bàn ghế, khu vực cầu thang, lưới chắn và các hành lang phía trên lầu đóng bụi cực kì nhiều, nhân viên phục vụ nhiệt tình, vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Duyên Vũ",
+    "rating": 5,
+    "review_text": "Phục vụ ok, món ăn ngon, hải sản tươi, lâu r k quay lại, nên quay lại mình thấy quán cải thiện rất nhiều bàn ghế, cách phục vụ, .... tận tình, mọi người nên ghé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "game over",
+    "rating": 5,
+    "review_text": "Ngon lăm á nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trọng Nguyễn",
+    "rating": 1,
+    "review_text": "Đồ ăn: Vú heo bị hôi\nPhục vụ: Nhân viên kêu hoài mà k ai nge\nLần đầu trải nghiệm như lần cuối😌 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thư Minh",
+    "rating": 5,
+    "review_text": "Quá tuyệt vời 10đ cho anh quản lý áo đen ngắn đồ ăn ngon phục vụ quá chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Ng Hà Ch",
+    "rating": 5,
+    "review_text": "Phục vụ cũng dc á, đồ ăn cũng dc , mà thấy lẩu cũng ngon hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Hoàng Yến",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên phục vụ thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Gia Huy Nguyen",
+    "rating": 1,
+    "review_text": "Quán nhân viên thái độ, đồ ăn hoi thúi, phục vụ không tốt, quản lý thái độ với khách, đĩa còn xà bông."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thinh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ tốt, không gian khá thoáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Ngoc nguyễn",
+    "rating": 5,
+    "review_text": "nhân viên nam mặc đồ nam hơi thái độ lỏm tí nhma đồ ăn ngon nên nhắm mắt bỏ qua"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Kim Chuc Tran",
+    "rating": 5,
+    "review_text": "Mới ăn hùi trưa, đồ ăn ngon, sốt okela, nhân viên dễ thương, chịu takecare nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Huyền Như",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không khí khá thoáng, có thể sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trương Thị Mỹ Kiều",
+    "rating": 5,
+    "review_text": "nhân viên dễ thương , món ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Bao Anh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên take care nhiệt tình và siêu dễ thương <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Tiến Duy Trần",
+    "rating": 5,
+    "review_text": "Hôm nay mình mới đi ăn cùng gia đình mình giá cả thì rất là phải chân nhân viên phục vụ nhiệt tình .Đặc biệc món ăn rất ngon tôi rất thích nước chấm của quán và cách các bạn nhân viên phục vụ tại bàn gia đình mình đánh giá 5 sao cho bạn Minh khoa đẹp trai mà lại còn dễ thương ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "15. Nguyễn Minh Mẫn",
+    "rating": 5,
+    "review_text": "Mình đi vào dịp ưu đãi được giảm 100k nên thấy ổn, đi vào buổi tối nên lên món chưa nhanh lắm, nhưng đồ ăn thấy ngon, quầy line thấy nhiều món, có lẽ sẽ quay lại lần nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Quang Lê Thành",
+    "rating": 5,
+    "review_text": "quán gì mà ngon dữ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Lắm Hoàng",
+    "rating": 5,
+    "review_text": "Mình thấy đồ ăn ngon rẻ gần bờ hồ mát mẻ, đặt biệt là nhân viên ở đó hiền dễ thương nhiệt tình cực Trưa mình có đi anh kia nhân viên tên Minh Hoàng hiền dễ thương nhiệt tình cực,nên trải nghiệm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Ngọc Nhiii",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon lắm nha, nhân viên siêu vễ thương, không gian thoáng mát mọi người ghé quán thử nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Yến Nhi NgT",
+    "rating": 5,
+    "review_text": "nhân viên quán phục vụ nhiệt tình\ntrang trí đồ ăn đẹp mắt và ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Huy Nhất",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi, thịt dày nhưng mềm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Lê Nguyễn",
+    "rating": 5,
+    "review_text": "Món ăn ngon, dịch vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Ngọc Như",
+    "rating": 1,
+    "review_text": "đồ ăn tệ không tươi chỗ ngồi thì sắp xếp k hợp lí bàn đặt sát rạt nhau .Ăn về đau bụng … cả đêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nghĩa Nguyễn",
+    "rating": 5,
+    "review_text": "Quán đang có ưu đãi nên mình thấy cũng xứng đáng giá tiền, mình đi vào buổi trưa thấy mọi thứ oke, sẽ ghé lần nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Vinh Tien",
+    "rating": 5,
+    "review_text": "Nhân Viên nhiệt tình, dễ thương. Món ăn ngon, giá cả ổn. không gian rộng rải, mát, view bờ hồ lúc lên đèn xiu đẹp. hẹn yaki HC lần sau nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Mỹ Huyền",
+    "rating": 5,
+    "review_text": "Đồ ăn nhon, nv nhiệt tình dễ thương. Lần sau sẽ ghé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trang Phan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phụ vụ nhiệt, dth nhưng vừa tính tiền xg là dọn đồ ăn xuống liền ko hỏi khách hàng mặc dù vẫn còn ăn. 😠 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Smile Nguyen",
+    "rating": 5,
+    "review_text": "Bờ hồ mát, đồ ăn có gu, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nguyễn Khoa Niềm",
+    "rating": 5,
+    "review_text": "Chị nhân viên Bích Trân phục vụ nhiệt tình dễ thương ghê, anh Quốc Hào lên than thay vỉ nhanh chóng, nhân viên dth chứ buffet bth à nha, nên thử nhen."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trần Anh Hào",
+    "rating": 5,
+    "review_text": "Đồ ăn quán ngon nhe mn, nhân viên thì được training kỉ nên chất lượng phục vụ tốt. Mình góp ý là khi ăn ở quán thì nên ngồi ở dưới lầu nhe mn không khí sẽ thoáng mát hơn trên lầu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Sáng Đặng Quang",
+    "rating": 5,
+    "review_text": "Đi ăn nhiều quán thấy đồ ăn ở đây hợp khẩu vị, sẽ ăn vào lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Như Trần",
+    "rating": 5,
+    "review_text": "Bữa mình đi 20/4 lúc 6h có bạn nhân viên nam siu đáng yêu lun í take care siu tốt mặt lúc nào cũng cười mình chưa đi quán nào thấy nv mà mệt vẫn cười tươi như v kkk 10 đỉm cho bạn nhân viên đó ko nhớ tên gì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trung Khoa Bùi",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon quán phục vụ rất tốt mấy anh chị rất là thân thiện quản lí nhân viên rốt thái độ vui vẻ hòa đồng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nhật Anh",
+    "rating": 5,
+    "review_text": "Đồ ăn đa dạng, hợp khẩu vị. Nhân viên phục vụ nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "2-A6 Phạm Nhật Anh",
+    "rating": 5,
+    "review_text": "Quán đồ ăn ra khá nhanh đẹp nhân viên nhiệt tình rất là oki giá cả sinh viên à có bạn thế vỹ phục vụ rất dễ thương mọi người nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nguyễn Thị Minh Tâm",
+    "rating": 5,
+    "review_text": "Quán đồ ăn ngon, nhân viên nhiệt tình, không gian thoải mái, mn nên đi ăn thử nha mn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Gia Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon\nNhân viên nhiệt tình\nGóp ý: nhân viên nhận order thì nên cho mỗi bàn 1 bạn và chỉ 1 mình bạn đó take …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Khoa Bùi",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình dễ thương đồ ăn thì ngonn xuất sắc view thì đẹp tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thuần Trần Đình",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình..món ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Hiệu Phú",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon miệng, giá khá ổn trên mặt bằng chung, có thể ra món hơi chậm vì mình đi vào lúc khách đông, nên đi vào buổi trưa sẽ thoải mái hơn nhưng xứng đáng trải nghiệm, thăn bò rất ngon, rất thích hào phô mai và bcb cuộn phô mai. Nhân viên nhiệt tình. Có thể sẽ quay lại thêm lần nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Tính Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon tuyệt vời, nhân viên phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Hồng Yến",
+    "rating": 5,
+    "review_text": "Phục vụ tốt, nhiệt tình\nThức ăn rất tươi mới, đầy đủ 🫶🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nguyễn Nữ Thuỷ Tiên YC K47",
+    "rating": 5,
+    "review_text": "Nhân viên siêu nhiệt tình, đồ ăn siêu ngonn, nói chung là 100 điểmmmmm 👏👏👏 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thuận Nguyễn",
+    "rating": 5,
+    "review_text": "Lên món rất nhanh, đồ ăn ngon, phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Rio",
+    "rating": 5,
+    "review_text": "Đồ ăn siêu ngon, phụcc vụ nhiệt tình vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Khoa Bùi",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngonn đặc biệt có view bờ hồ rất đẹp nhìn ra hoa sen giữa hồ rất chill lunn nhân viên nhiệt tình 10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Khoa Bùi",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngonn tươi mới mỗi ngày mình ăn nhiều lần chất lượng vẫn cứ tăng mn nhớ ghé nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Đoàn Nhã Uyên",
+    "rating": 5,
+    "review_text": "nhân viên phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "huynh kha thi Duoc K49 B",
+    "rating": 5,
+    "review_text": "Đã trải nghiệm và cảm thấy rất xứng đáng với số tiền mình bỏ ra, đồ ăn ngon, nước uống đa dạng loại, nv thì care khách tốt, thân thiện. Không gian quán mát mẽ 10₫₫₫"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Minh Khôi",
+    "rating": 5,
+    "review_text": "Đồ ăn siu ngon, không gian thoáng mà nv siu dễ thương, rcm mn ở cần thơ gé nhaaaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Phuoc Tan",
+    "rating": 5,
+    "review_text": "Món ăn ngon nhân viên phục vụ tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Minh thuan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình, ra món nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Băng Khánhh",
+    "rating": 5,
+    "review_text": "Rất ngon, dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Vẹn Thanh",
+    "rating": 1,
+    "review_text": "Đồ ăn cx đc nhưng thái độ nhân viên thì.....bưng món ra mặt lúc nào cx thái độ món ra thì chậm có khi thiếu món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "10_Minh Hoàng",
+    "rating": 5,
+    "review_text": "Chiếc view quá đẹp, không gian mở thông thoáng, đồ ăn xuất sắc, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Ngô Phước Toàn",
+    "rating": 1,
+    "review_text": "Coi như lần cuối ghé quán này, hôm nay mình có ghé quán nhân viên bảo full bàn rồi đợi tầm 15 -20p nữa mới có bàn trống, mình oke cho nhân viên số đt bảo nào có bàn gọi mình, mình qua quán cafe ngồi đợi gần 1 tiếng lâu quá mới qua bảo nhân …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trang Huyền",
+    "rating": 5,
+    "review_text": "Ngon, nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Ngọc My",
+    "rating": 5,
+    "review_text": "Quán này mình ăn nhiều lần rồi thấy rất ngon và nhân viên rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Phu Thinh",
+    "rating": 5,
+    "review_text": "Không gian Quán chill , đồ ăn ngon món đa dạng, mấy bạn nhân viên dễ thương sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Khôi Trần Minh",
+    "rating": 5,
+    "review_text": "quá ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nhựt Lê",
+    "rating": 5,
+    "review_text": "Khá ok đấy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "43. Nguyễn Bích Trân",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , nhân viên nhiệt tình vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nhân Thành",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ dễ thương, đồ ăn hợp vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thảo",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Vinh Lê",
+    "rating": 5,
+    "review_text": "quán tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Huỳnh Thư",
+    "rating": 5,
+    "review_text": "nv take care liên tục, đồ ăn tươi ngon rất nên trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Quan Phi Long",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình thân đặt biệt nhân viên thế vỹ 10đ đồ ăn lên nhanh không khí thoải mái nói chung là mọi người nên thử ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Minh Duy",
+    "rating": 5,
+    "review_text": "Đã đi ăn và cảm thầy đồ ăn ngon, nhân viên nhiệt tình, Giá vé ở mức ổn nha. Tôi đã đi ăn nhiều lần và vẫn sẽ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Dỹ",
+    "rating": 5,
+    "review_text": "Các món ăn của quán rất ngon nhân viên khác nhiệt tình đặc biệt là một số bạn nam mọi người nên trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Khánh Hòa",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ dữ luôn. Bữa mình đi 6 người đồ ăn ra lâu mình có hỏi thì bạn nữ đó bưng món dằn mặt tỏ thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trần Nhựt Linh 02-02-03",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon nhân viên rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Diểm Chick",
+    "rating": 1,
+    "review_text": "Quán ngày đông nhưng cách phục vụ của quán rất tệ, khách đến thì hỏi có đặt bàn trước thì mời vào còn không đặt lại báo sửa ống nước này kia, thức ăn ngon nên ủng hộ quán rất nhiều lần nhưng gần đây ghé quán 2 lần đều bị từ chối"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Khoa Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon, rẻ còn bổ thì không biết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nguyễn Trí",
+    "rating": 5,
+    "review_text": "không gian quán trên lầu chill, món ăn chất lượng, phù hợp với sinh viên, đi buổi trưa còn được khuyến mãi. Mọi người nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Minh Thiện Nguyễn",
+    "rating": 5,
+    "review_text": "Ăn no, ngon miệng, giá cả hợp lý, được xếp vào cái view sông thì tuyệt không chỗ chê. Thái độ nhân viên ân cần, phục vụ nhanh nhẹn, mến khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Khoa Bùi",
+    "rating": 5,
+    "review_text": "Chất lượng đồ ăn phục vụ rất tốt view đẹp chill lắm mn ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Dỹm Bé",
+    "rating": 1,
+    "review_text": "Đặt bàn trước như ko đặt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Luân Nguyễn Hoàng",
+    "rating": 5,
+    "review_text": "Lí do đông khách cũng dễ hiểu, đồ ăn khá ngon, nhân viên nhiệt tình và dễ thương, đặc biệt là bạn thu ngân tên Thúy Huỳnh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "yen vohong",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian bờ hồ mát mẻ, khách đông tuy ra món chậm nhưng nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trần Hồ Thiên Long",
+    "rating": 5,
+    "review_text": "Nãy mình vs ngyeu mình có ghé ăn thử, thấy mấy bạn phục vụ ở đó rất chu đáo vs dễ thương cực kì care khách suốt luôn, đồ ăn cũng rất ngon 1000 điểm nhaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Quỳnh Phạm",
+    "rating": 5,
+    "review_text": "Tốt, nhân viên nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Vuc Hồ",
+    "rating": 1,
+    "review_text": "Ra món quá chậm , ba chỉ bò như mỡ bò , tôm ăn có mùi , chén thì đem ra vừa ướt vừa nhớt , thịt trong canh bị xanh , vú heo đem ra toàn là nước, thăn bò tái xanh , quán nên xem lại chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Quí Mã",
+    "rating": 5,
+    "review_text": "Món ăn sốt vừa, nước chấm ngon. Đặc biệt nhân viên phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Hiển Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon lắm an toàn thực phẩm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Nhật phi Huỳnh",
+    "rating": 1,
+    "review_text": "Quản lý thái độ với khách hàng.\nĐồ ăn thì dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Thuận",
+    "rating": 1,
+    "review_text": "Đồ ăn ổn, nhân viên thân thiện ngoại trừ bạn nhân viên nữ tóc ánh vàng mang tạp dề, cho mình hỏi là mình có làm gì sai không ạ mà thái độ bạn rất kì á, mình rất thích đồ ăn quán nhưng để quay lại thì mình nghĩ là không."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trí Minh",
+    "rating": 1,
+    "review_text": "Đồ ăn ko ngon cho lắm\nNhân viên thái độ\nKhông có hút khói"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Trần Huỳnh Như",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên dễ thương, hợp với túi tiền sv, có cái đường đang làm nên hơi bụi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089acc9c96917:0xee2a9b38daaadd38",
+    "shop_name": "Yaki House Buffet",
+    "user_name": "Đào Lâm",
+    "rating": 5,
+    "review_text": "quầy line ổn áp lắm nho mng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "An Quay",
+    "rating": 2,
+    "review_text": "Rất không hài lòng về chất lượng của bánh mì. Gần như đã 3 lần liên tục trong vòng 1, 2 tháng mình gặp phải vấn đề bánh mì cực kì cũ, cứng và khô. Mình mua bánh mì ở Sài Gòn Bakera rất nhiều mà cứ phải ăn bánh mì kém chất lượng như vậy mình không chấp nhận được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Phát Huỳnh",
+    "rating": 1,
+    "review_text": "bánh cũ, thường mình mua ở chi nhánh đồng khởi bánh mới, hôm nay tiện đường mua thử ở mậu thân không ngờ cùng 1 thương hiệu mà có sự chênh lệch này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Đàm Võ Bửu Trân",
+    "rating": 5,
+    "review_text": "Quán nước yên tĩnh với nhẹ nhàng với cách bố trí phù hợp với làm việc học tập và chuyện trò. Quán nhiều món nước ngon. Nhân viên thân thiện, nhiệt tình. Quán sạch sẽ, mát mẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Algnex",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ, khách nói không xem ra gì. Kêu 2 ổ mà làm trật lất hết. Kêu 2 ổ, 1 ổ nhiều pate gan, 1 ổ ko dưa chua ko ớt mà làm 1 ổ nhiều pate ko dưa chua  không ớt. Thôi thì cũng đến lạy bố"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Nguyễn Gia Hân",
+    "rating": 1,
+    "review_text": "Bán bánh bao cho khách mà thịt nửa sống nửa chín . Không bao giờ mua bánh bao ở đây nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Âu Nguyễn Hải",
+    "rating": 1,
+    "review_text": "Sáng mua ổ bánh mì ăn mà cứ tưởng mua lộn bánh mì kẹp khổ qua rừng. Làm ăn kg kiểm tra chất lượng đầu vào như thế là chết rồi. Cần 1 lời giải thích"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Hân Phạm",
+    "rating": 1,
+    "review_text": "giờ có 0 sao là để ko sao luôn, chị làm bánh nhiệt tình mà chị tư vấn quá dở, mình đặt 4 cái bánh nhỏ để chung 1 khung làm bánh sinh nhật. Lúc đầu nói có hỗ trợ để vào khay 20k, nhưng mình nói để riêng đi về mình tự xếp, bạn đóng gói ghim …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Nhy Lê",
+    "rating": 1,
+    "review_text": "Bánh kem mà lm chất kem của machiato hay gì, nó mềm k đứng kem, cái bánh lỏng tới mức lệch khỏi đế bánh, t thấy cái nào trong quầy cũng có dấu hiệu lệch nên đã chọn rất kĩ, thế đ nào về nó vẫn bị qua bên hư bà cái bánh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Tuấn Thanh",
+    "rating": 2,
+    "review_text": "Bánh kem thì ngon đó nma giao không đúng mẫu đặt bánh hồng giao bánh vàng :))) đã vậy còn không có nón mất hứng thiệt chứ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Ngọc Kim Ngân Nguyễn",
+    "rating": 1,
+    "review_text": "Mua bánh nhiều lần vì khá rẻ, nhưng nên train lại nhân viên vì rất thiếu tôn trọng khách hàng. Lần nào mà mua bánh ít là y như rằng sẽ bị nhìn xiên xỏ. Mình mua cái bánh chỉ 15K, nhưng đó cũng là tiền mình vừa quay lưng đi thì có 1 bạn à …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Phuocsang Tran",
+    "rating": 5,
+    "review_text": "Chuỗi cửa hàng bánh mì lớn ở Cần Thơ ! Đề xuất mua bánh mì ở đây nha !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Hồng Nhung Lê Nguyễn",
+    "rating": 1,
+    "review_text": "Không gian sạch sẽ, nhìn có vẻ hiện đại. Nhân viên thái độ ổn. Bánh khá là cũ, vị không tươi, kết cấu kỳ lạ, trang trí không đẹp. Dâu ở trên mặt nhìn như để mấy ngày rồi. Bánh không có vị gì nhiều, vị trái cây không tươi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Thắm Thắm",
+    "rating": 5,
+    "review_text": "Bánh ở đây rất ngon, mình hay canh buổi sáng hay đầu buổi trưa, bánh mới ra rất ngon luôn, nhất là bánh pizza nóng mềm , nhân viên vui vẻ nhiệt tình,sẽ ủng hộ hoài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Phụng Tiên",
+    "rating": 1,
+    "review_text": "Nhân viên bán quầy bánh mì chả phía trước thái độ vô cùng, tưởng ăn bánh mì miễn phí ko ă má, có lần dặn ko để pate mà lỡ làm nên bán cho mình luôn. Tiệm nên quản lý lại nhân viên nếu không muốn mất khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Ly Hoang Hong",
+    "rating": 1,
+    "review_text": "Dù nhân bánh khá ngon, nhưng vỏ bánh khô và nguội làm giảm đáng kể mùi vị. Nhân viên làm bánh mì thì không thân thiện, khách đến mua nhưng đang mải làm cho người khác với số lượng lớn, khách thấy chờ lâu thì hỏi cũng không trả lời, đến lúc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Nhi Nhi",
+    "rating": 1,
+    "review_text": "Ông bảo vệ cửa hàng mậu thân thì vô cùng thái độ   với khách nha. Rất thích bánh ờ đây nhưng thôi lần này xin né luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Nguyen Nguyen",
+    "rating": 5,
+    "review_text": "Mở cửa sớm nên rất tiện mua ăn, nhân viên vui vẻ, bánh mì ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "ngon phan van",
+    "rating": 4,
+    "review_text": "Bánh ngon, thuận tiện ghé mua"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Sona",
+    "rating": 1,
+    "review_text": "Mua có 10 ổ bánh mì không, quay vô mua thêm bánh thì nó nhét bánh mì nhỏ vào, làm ăn kiểu vậy đó hả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Duyen Nguyen Hanh",
+    "rating": 1,
+    "review_text": "Bánh cùng giá cả khá ổn, nhưng THÁI ĐỘ PHỤC VỤ CỦA NHÂN VIÊN TẠI QUẦY THU NGÂN (chi nhánh Mậu Thân) thì thật sự rất kém. Mình gần như mua bánh mỗi ngày tại đây nhưng một tuần cũng phải khó chịu với nhân viên tại quầy 2/7 lần, đặc biệt còn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Anh Thy Nguyễn Phạm",
+    "rating": 1,
+    "review_text": "Bánh mì ngon nhưng thái độ nhân viên bảo vệ quá tệ, khách đậu xe mua bánh mì thì quát “Đậu xe xích vô coi”. Vậy tiệm bánh mì thuê bảo vệ để làm gì? Để quát khách đậu xe xích vô hả?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "VĂN Ý",
+    "rating": 1,
+    "review_text": "Nhân viên gì mà thái độ quá ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Đạt Tấn",
+    "rating": 1,
+    "review_text": "Đang mua 12 ổ bánh mì nhân viên lại tư vấn mua thêm 1 ổ cho chẵn 20k mình cũng đồng ý luôn mà k snghi nhìu. Về nghĩ lại thấy mua 12 ổ = 18k thêm 1 ổ là 19,5k v là tư vấn chẵn dữ chưa??? Tưởng mua nhìu được bớt hay gì ai ngờ... Chán thật sự."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Innards Na",
+    "rating": 1,
+    "review_text": "Nhân viên bán bánh mỳ có thái độ quá tệ, trại nghiệm quá tệ ở Cần Thơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Thủy Nguyễn",
+    "rating": 5,
+    "review_text": "Bánh kem nhiều mẫu mã, bánh ăn ngon lắm, nhân viên tư vấn nhiệt tình, có sinh nhật mình luôn ủng hộ tiệm🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Ngọc Trâm Đào",
+    "rating": 5,
+    "review_text": "Bánh mì bên Mậu Thân nhân viên nhiệt tình, mà bánh cũng ngon.Sẽ ủng hộ lâu dài 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Xuân Thùy Nguyễn Trần",
+    "rating": 2,
+    "review_text": "Bánh thì k mắc nma mình cảm nhận đang nhai 1 lương khô vậy á cứng ngắt, lạnh luôn rồi thêm phần bánh cũng cứng nhai k nổi nói chung chê nha k biết mấy bánh khác thì sao chứ pizza trứng cút thì thôi chê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "DTN",
+    "rating": 5,
+    "review_text": "Không gian rộng rãi, nhân  viên vui vẻ, bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Trang Trần Thị Yến",
+    "rating": 5,
+    "review_text": "bánh ngon, đa dạng giá sv, chú bảo vệ nhiệt tình dễ thương, đừng thay chú nhé <333"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "sad ka",
+    "rating": 5,
+    "review_text": "Bánh bao ở đây rất ngon, lần nào đi ngang cx ghé mua."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Luis Tú",
+    "rating": 1,
+    "review_text": "Nv ở đây ăn nói mất dạy , làm ăn mà kiểu thái độ . Chủ nên xem xét lại tụi nv ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Minh Trí",
+    "rating": 5,
+    "review_text": "Bánh mì với bánh bao trứng cút ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Mịnh Trần Thị",
+    "rating": 5,
+    "review_text": "Bánh mì ngon, nhân viên làm bánh nhanh nhẹn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Thanh Nguyễn",
+    "rating": 5,
+    "review_text": "Chỗ rộng rãi , bánh ngon. Nhân viên cũng vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Anh Huỳnh Hải",
+    "rating": 1,
+    "review_text": "Mấy cô mây chị ở đây rất thân thiện và nhiệt tình cảm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Thảo Ngô",
+    "rating": 1,
+    "review_text": "Nhân viên tệ, đi mua làm như xin"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Lê Thi",
+    "rating": 5,
+    "review_text": "Bánh ăn ngon,bánh nóng giòn nhn vien than thien"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Nguyễn Hoàng Nhật Hào",
+    "rating": 5,
+    "review_text": "Giá cả ok và có đa dạng loại loại bánh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Ngọc Huỳnh",
+    "rating": 5,
+    "review_text": "Nhanh ,tiện lợi , giá cả hợp lí , ăn no bụng ..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "THẮNG LÊ",
+    "rating": 5,
+    "review_text": "Ngon sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Phuc Tran",
+    "rating": 5,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "han la",
+    "rating": 5,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Ngọc Linnh",
+    "rating": 1,
+    "review_text": "dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08941e8722bf1:0xc9b78e3bb9788189",
+    "shop_name": "Sài Gòn Bakery - 158 Mậu Thân",
+    "user_name": "Han",
+    "rating": 1,
+    "review_text": "Hãy chú ý đến những gì bạn nhận được, tôi đã nhận được bánh mì rẻ hơn với ruốc thịt heo mặc dù tôi đã gọi loại khác. Ngoài ra, tiền thừa cũng bị sai, chỉ sau khi tôi chỉ ra thì họ mới sửa lại. Bánh mì thì khô."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Toon Tran",
+    "rating": 4,
+    "review_text": "Sữa Tươi Thốt Nốt Rim Như Ý Lê tại 24 Trần Hưng Đạo, phường An Cư, Ninh Kiều là một điểm dừng chân thú vị dành cho những ai muốn trải nghiệm hương vị độc đáo của Cần Thơ. Quán nhỏ thôi nhưng lúc nào cũng đông khách, bởi món sữa tươi thốt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Hồ Lê Thảo Nhi 15-09-01",
+    "rating": 1,
+    "review_text": "Khách đến đợi 10p không ra order,tối qua khách đông đứng đợi mãi đến khi hết khách xong vẫn không ai ra hỏi gì cả, có một bạn khách tây đến thì 3 nhân viên đứng tụm trong đó order. Vậy là 3 người mới order được khách tây, trong khi nhân viên đi ra vô cũng thấy mình đứng phía trước."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Khiêm Võ",
+    "rating": 1,
+    "review_text": "Cách làm việc thiếu chuyên nghiệp, topping đặt riêng tính 20.000đ quá mắc bằng cả 1 ly nước. Đặt socola trân châu đường đen giao sai. Báo chỉ có 2 loại nước không mix được nhưng những loại nước khác mua mix thêm không để cho người ta. Và …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "linh",
+    "rating": 4,
+    "review_text": "Uống cũng được mà quán xài đá đập nên uống hơi khó chịu tại mình k thích nhai đá lắm với thốt nốt hơi bị mềm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Truong Trong Phuc",
+    "rating": 3,
+    "review_text": "Chắc tại kh đúng gu nên cug kh ngon lắm , xin lỗi quán\nMà ai kiểu gu uống trà sữa ngọt vs kiểu là trà và sữa thì oke còn này là thốt nốt r nên kh phải trà vs sữa đâu , vị lạ nhạt , và kh ngon lắm , ý kiến riêng\nNhưng mọi người vẫn nên thử trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Hồng Tươi Đinh",
+    "rating": 5,
+    "review_text": "Nước trà rất ngon sữa cũng vậy hai thứ hòa lại tạo ra một vị rất ngon trân châu thì mềm dẻo quá đỉnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Minh Nhu Lưu",
+    "rating": 5,
+    "review_text": "mình ở sóc Trăng nhưng rất thích sữa tươi thốt nốt tại Như Ý Lê( Cần Thơ), vài năm trước chị mình học ở đây mua cho mình uống, sữa tươi rất ngon ngọt vừa, có thể mỗi người một khẩu vị khác nhau, nhưng riêng mình mình uống cảm nhận được hương vị đặc biệt đến bây giờ.🥰🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "The Startup Journey",
+    "rating": 1,
+    "review_text": "Nhân viên làm việc lề mề"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "huynh nhu truong",
+    "rating": 1,
+    "review_text": "Nhân viên khinh thường khách hàng, đến mua mà chả thèm oder khách mua loại nào, trơ trơ ra đó, oder cho người sau, tui hỏi tui oder kêu đợi xíu cho đã vẫn k oder luôn mà còn kêu dời xe qua bên khác để cho người quen nhân viên đậu và oder, nhân viên quá tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Công Hiếu Huỳnh",
+    "rating": 5,
+    "review_text": "thơm ngon từ trà sữa đến nhân viên :)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Phú Quí Lê",
+    "rating": 4,
+    "review_text": "Đồ uống khá ngon, hoạt động đến 21h30"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Ngo Duc Anh",
+    "rating": 5,
+    "review_text": "Sữa tươi ở đây thì ngon xuất sắc rồi 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Trương Thị Yến Quỳnh",
+    "rating": 5,
+    "review_text": "Trà sữa ngon lắm ạ\nMlem mlem 🤤🤤 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Chi thanh Nguyen",
+    "rating": 5,
+    "review_text": "Ngon xuất sắc. Rất đáng mua 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Đào Thiện Minh 姚善明",
+    "rating": 5,
+    "review_text": "Thốt Nốt Ngim  Đường  Ăn  Hơ sạm Mà Có vị Để Ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Thư Thư",
+    "rating": 5,
+    "review_text": "Ngonn đáng để mọi người thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Ngộc Ngộc Ơi",
+    "rating": 5,
+    "review_text": "trà sữa ngon lắm ngon lắm !!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Phong TV",
+    "rating": 5,
+    "review_text": "giá cả ok chất lượng ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Nguyễn Vũ Hoàng Lâm",
+    "rating": 5,
+    "review_text": "sữa tươi thốt nốt xuất sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Đức Thịnh Nguyễn",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Thư Anh",
+    "rating": 5,
+    "review_text": "Ngon tuyệt luôn😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Nguyễn Hoàng Hải (Nguyen Cuong)",
+    "rating": 3,
+    "review_text": "😄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Diện Mai",
+    "rating": 5,
+    "review_text": "Rất tuyệt vời, sảng khoái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Hoàng Giang Hà",
+    "rating": 5,
+    "review_text": "ngon tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Phúc Nguyễn Vĩnh",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "Thuan Doan",
+    "rating": 5,
+    "review_text": "Quá tuyệt vời 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d962498645:0x9f1fc927820871bb",
+    "shop_name": "Sữa Tươi Thốt Nốt Rim Như Ý Lê_24 Trần Hưng Đạo",
+    "user_name": "trần duy khanh trần duy khanh",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Na Cao",
+    "rating": 5,
+    "review_text": "Địa điểm yêu thích khi đi chạy deadline. Quán yên tỉnh, nước và bánh khá ngon và giá cả phải chăng. Có em mèo dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "BẾU",
+    "rating": 5,
+    "review_text": "Mình quyết định ghé quán chỉ vì thấy quán có mèo thui í. Với lại hôm đó mình có cho em mèo của mình đi spa, chiều sẵn rước nên ghé chơi. Mới vô ko gặp mèo của quán thấy cũm bùn bùn. Chút xíu thấy chỉ ra là phát cho cây súp thưởng liền\n\nMình gọi cà phê sữa cơ bản thui, mà cà phê sữa hơi ngọt, với 1 bánh croissant mà chấm sữa chứ ko có nhân bên trong. Có thể gọi bánh nguội hoặc nóng, mình chọn nóng cho nó giòn bên ngoài. Bánh cũng ngon, rẻ\n\nỞ quán có không gian bên trong máy lạnh, bên ngoài sân vườn, cũng chill mà có điều hơi muỗi í, hôm mình đi trời vừa mưa xong hơi âm u nên cũng mát mẻ dễ chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Bao Tram",
+    "rating": 4,
+    "review_text": "Mình đi cũng khoảng 2 3 lần rồi, đi đủ các buổi luôn. Có cả không gian ngoài trời và trong phòng lạnh. Ngoài trời thì cây xanh khá nhiều hợp gu mình, trong phòng thì cũng khá nhiều chỗ để ngồi, cạnh cửa sổ cũng có nữa. Nước uống giá không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Bánh Dày Kẹp Chả",
+    "rating": 4,
+    "review_text": "Mình ghé quán một lần từ 2025. Quán nhỏ, ấm cúng, có không gian ngoài trời trồng hoa, sen đá, có bánh và đồ uống, bánh ăn tạm, đồ uống hơi ngọt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Trương Thảo Ngân",
+    "rating": 5,
+    "review_text": "Bầu không khí tuyệt vời, buổi trưa quán hay đắt bàn lắm nên mọi người canh canh nha. Bánh thì ngon, nước hơi chán nhm mình qa vì bánh nên là k sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Tống Hiển Long (Dragon fly)",
+    "rating": 5,
+    "review_text": "Quán view đẹp! Nội thất phong cách hiện đại phương Tây,sang trọng và thanh lịch! Rất hợp để đọc sách và học bài! Giá lý bạc xỉu là 30k và giá cao nhất là 38k. Nói chung giá ổn! Đặc biệc bánh ở đây ăn được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Ngan Huynh",
+    "rating": 5,
+    "review_text": "Một quán cf nhỏ xinh được trang trí đầy nghệ thuật, phù hợp cho ai đam mệ hội hoạ. Không gian luôn thoang thoảng mùi bánh nướng siêu thơm. Khu bếp đằng sau rất sạch sẽ nên mình luôn yên tâm về vs attp của quán.\nĐiểm cộng nho nhỏ: quán có 3 em mèo xinh yêu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Giao Nguyễn",
+    "rating": 5,
+    "review_text": "Quán view đẹp, kiểu khu vườn Âu châu, vibe thơ thẩn. Mình mua bánh mang đi. Red velvet ngon, cốt bánh đặc vừa phải, kem phô mai thì béo nhẹ, ko quá ngọt. Ăn xong ko bị ngán. Canele rất ngon, lần đầu mình thử, để tả thì nó có mùi bánh gan …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Nguyễn Trí Hướng (Sleuth)",
+    "rating": 5,
+    "review_text": "Chưa ăn thử đồ ăn nên kh đánh giá được đồ ăn ngon dỡ sao nha mọi người\n- Đầu tiên không gian quá vibe chụp hònh sống ảo các thứ cũng oki. Có thể nói là khá tạm ổn chứ kh thể nói xuất sắc. Decord cũng ổn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Hoàng Lan Chi Nguyễn",
+    "rating": 4,
+    "review_text": "Mình tìm đến quán nhân một ngày tò mò muốn nếm thử vị bánh Canale kinh khủng và phát hiện ra quán này. Nếu ai muốn tìm một quán cà phê (+ bánh) với không khí yên bình trầm lắng và chỉ có tiếng nhạc du dương (hoặc không) thì The Polygon là …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Huỳnh Quốc Thịnh",
+    "rating": 5,
+    "review_text": "Quán đồ uống ok, Bà chủ dễ thương lắm ạ, hôm bữa em đi với bạn em chủ thấy tụi em nên cho hai đứa bánh để ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Giang Nguyễn",
+    "rating": 5,
+    "review_text": "Ai gu sân vườn, yên ả, dễ chịu thì đúng bài nha, view sân vườn chill mà mình đi tối nên ngồi phòng máy lạnh ở trong cũng thoải mái, giá ổn, có bánh xinh ngon 🫶 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Người cần thor hay đi ăng",
+    "rating": 4,
+    "review_text": "Siêu thích không gian của quán\nQuán ruột"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Thanh Duong",
+    "rating": 5,
+    "review_text": "Nước ngon, bánh ngon, không gian thoải mái, mèo dễ thương, mặt ngầu dị thui chứ cưng xĩu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Annie Trịnh",
+    "rating": 2,
+    "review_text": "Quán hơi nhỏ. Decor xinh, ấm cúng. Giá hơi đắt, nước mình thấy không ngon lắm. Phục vụ tệ, các bạn nhân viên hơi kém thân thiện, đứng nói chuyện to ở cửa, khách về không gửi lời chào và cảm ơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Sandy Nguyen",
+    "rating": 5,
+    "review_text": "Không gian quán chill, thích hợp để học bài. Bánh ở đây siu ngon, nước tàm tạm thui. Giá cả tầm trung"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Nguyễn Trần Kim khánh",
+    "rating": 5,
+    "review_text": "quán chill trà thơm nhưng bánh quá ngọt và gắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Nguyên Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ uống và bánh rất ngon, giá hợp lí. Thích apple pie ở đây nhất.\nKhông gian: có ngoài trời và trong nhà, quán được trang trí rất xinh xắn, khu vườn bên ngoài cũng mát mẻ.\nNhân viên: vui vẻ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "ngân nguyễn",
+    "rating": 5,
+    "review_text": "Bánh ngon, không gian xanh mát, giá hơi cao nhưng bù lại chất lượng 👌.\nKhuyến khích mn nên trải nghiệm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Bánh Mì",
+    "rating": 5,
+    "review_text": "Bánh mì mè HQ, macaron, trà sữa thái là mua ở đây :))))\nQuán có mấy góc xinh xinh cuteee"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "NGUYEN TCK (TCK444)",
+    "rating": 5,
+    "review_text": "Không gian tuyệt\nBánh ngon\nCô Chủ thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Trần Vĩnh Tiến",
+    "rating": 5,
+    "review_text": "Bánh ở đây ngon và có nhiều sự lựa, recommend bánh su kem hoặc là bánh mì mè hàn quốc đều rất ngon , nước tạm ổn không có gì nổi bật"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Dank k",
+    "rating": 5,
+    "review_text": "Quán mát mẻ, thân thiện và siêu cấp thư giản."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Ái Quyên",
+    "rating": 5,
+    "review_text": "Trà bánh ngon, không gian đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Thị Quế Anh Lê",
+    "rating": 5,
+    "review_text": "Quá là chill, có thêm em nhân viên mèo dễ chịu nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Trâm Anh",
+    "rating": 5,
+    "review_text": "Mình mua bánh sinh nhật ở đây 2 lần, giá cũng hơi cao xí nhưng mà chất lượng rất tốt.\nMột lần mình mua Chocomint do mình nói không thích ngấy nên tiệm giới thiệu, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "ngan le",
+    "rating": 5,
+    "review_text": "Một đứa nghiện học tập và làm việc ngoài quá cà phê như mình thì việc tìm kiếm một quán ruột cũng là một sở thích. Việc ra ngoài nhìn mọi người xung quanh mình tập trung học tập, làm việc cũng là một dạng động lực để bản thân thực hành. Đó …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Alice",
+    "rating": 3,
+    "review_text": "Không gian quán rất đẹp, đồ uống ngon. Nhưng nhân viên thì phục vụ hơi \"kém thân thiện\" . Có 3-4 bạn nhân viên ngồi nói chuyện với nhau ngay cửa, lúc Khách về không chào khách, cũng không mở cửa cho khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Ngân Lâm",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhân viên thân thiện, mèo dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Bình Nguyễn",
+    "rating": 4,
+    "review_text": "Nước ngon, quán chill, có chỗ ngồi trong nhà và ngoài trời, có mèo lông dài khá xinh nhưng hơi nhát, không dám lại gần người lạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Trí Đức Lê",
+    "rating": 5,
+    "review_text": "Trà ngon, bánh ngon, tùy theo mỗi người sẽ cảm thấy quá ngọt. Không gian quán đẹp, mát mẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "quyen tu",
+    "rating": 1,
+    "review_text": "24/12/2023 thái độ của 2 bạn nhân viên khá tệ,mình hỏi pass wf nhưng 2 bạn đều không trả lời và khi có chương trình tặng bánh cho khách thì 2 bạn cũng không chủ động :)) đến khi khách nhắc thì thái độ cũng không niềm nở mình thấy không gian …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Trinh Ngoc Thinh",
+    "rating": 5,
+    "review_text": "quán có nhiều cây nhưng lại ko có muỗi, thật thần kì, chắc do chủ quán đốt nhang hay j á :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Bi Trương",
+    "rating": 5,
+    "review_text": "Ngon hihi ko đánh giá bửn tại có mèo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Chu Nguyen The Hoang",
+    "rating": 5,
+    "review_text": "Nước uống thanh không quá ngọt. Bánh ngon. View chill. Không gian yên tĩnh và thoải mái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Út Vẹn Nguyễn Thị",
+    "rating": 5,
+    "review_text": "tuyệt cà là vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Tripple Eight",
+    "rating": 5,
+    "review_text": "Bánh rất ngon, nhân viên quán dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Trà Giang Nguyễn",
+    "rating": 2,
+    "review_text": "không gian khá nhỏ, chật, khó mà trò truyện. Nếu học thì cũng chật hẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Hy Quân",
+    "rating": 5,
+    "review_text": "Không gian OK, hợp để xem Tarot :3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Tin Nguyen",
+    "rating": 5,
+    "review_text": "Nhiều loại bánh, không gian nhỏ xinh, nhìu chỗ chụp ảnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Bbi ʕتʔ",
+    "rating": 5,
+    "review_text": "Bánh cực ngon, Không gian hơi bé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Hải Nguyễn Lê Thanh",
+    "rating": 5,
+    "review_text": "Nhân viên cute nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "25KDL_040 Trương Minh Quân",
+    "rating": 1,
+    "review_text": "nhân viên thiếu tôn trọng khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Nhật Lil Nguyễn",
+    "rating": 5,
+    "review_text": "Mèo xinh mà ẻm kiêu kỳ quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Ka Mei",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Lam Phat",
+    "rating": 1,
+    "review_text": "thái độ nhân viên kém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Thư Hồ",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Bảo Ngọc Huỳnh",
+    "rating": 4,
+    "review_text": "Không gian hơi cũ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Lâm Minh Phát",
+    "rating": 5,
+    "review_text": "Chill của Gen-Z"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "hien nguyen",
+    "rating": 5,
+    "review_text": "quán xinh, nước và bánh cũm ok và giá mềm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "linh",
+    "rating": 4,
+    "review_text": "Quán dth, đẹp. Hồi xưa mình hay qua mua bánh nên không rõ bên đây có cho ngồi lại :))) thấy không gian cũng yên tĩnh, chill cho mấy bạn học bài. Bánh ở đây mình thấy khá phong phú: macaron khá ngọt ( này vị vốn z rồi ) có mứt bên trong, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Mỹ Anh Phạm",
+    "rating": 5,
+    "review_text": "Quán mát mẻ, nhân viên thân thiện, giá nước bánh đều rất oke, từ 30k cho nước và 20k cho bánh thui, mà decor xinhhh. Nên ghéee❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Ko Dinh",
+    "rating": 5,
+    "review_text": "Một quán cà phê kiêm tiệm bánh ngọt xinh xắn, khá nổi tiếng với người dân địa phương. Tôi rất thích đồ uống và bánh Burberry, chúng ngon tuyệt vời. Tài xế Graber thật tốt bụng khi chở tôi đến đây mà tôi không hề nhận ra địa chỉ quán cà phê trên ứng dụng bị sai. Tôi cảm thấy rất ấm lòng trước lòng tốt của mọi người ở đây..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "khánh lâm",
+    "rating": 5,
+    "review_text": "Không gian rất ấm cúng với trang trí theo phong cách phương Tây.\nTôi rất thích mùi thơm và vị của bánh croissant tươi ở đây! Thật tuyệt khi thưởng thức cùng một tách trà Earl Grey 💕 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Jessica D'Acquarica",
+    "rating": 5,
+    "review_text": "Bánh rất ngon, và trà sữa matcha cũng ngon tuyệt! Nơi này thật đẹp!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Kellie",
+    "rating": 5,
+    "review_text": "Cảnh đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "Phat Vo",
+    "rating": 5,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a08995af68d489:0x50ebe2f313830aa2",
+    "shop_name": "THE POLYGON Tiệm trà & bánh ngọt",
+    "user_name": "phu lam",
+    "rating": 5,
+    "review_text": "ngon tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Kool Bi",
+    "rating": 1,
+    "review_text": "Shop chà bá làm ăn mắc cười, chạy chương trình combo 3bánh tặng 1 bánh, mới 11h trưa ghé mua combo kêu bánh tặng hết r, hết nhưng k có phương án khác, k lẻ khách dô hỏi tới r đi về. Đồng ý số lượng có hạn mà chạy ctrinh 18 đến 25. hôm nay …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Yung Yung",
+    "rating": 5,
+    "review_text": "Mình hay ghé tiệm mua bánh bông lan ăn, nay mới đặt thử bánh kem lần đầu\nPento cỡ vậy mà có 65k, phù hợp hssv muốn có bánh kem cmsn bạn bè mà vẫn hợp túi tiền, đã vậy chất lượng bánh ổn, ngon nhé mn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Quốc Thắng Nguyễn",
+    "rating": 1,
+    "review_text": "Mua giỏ trái cây 400k ở chi nhánh đường 3/2 cần thơ. Trái cây thì le nghoe, hàng rất cũ không còn bán được mới đem gói giỏ quà cho khách, đã vậy còn bị dập. Làm ăn sống nhăn! Không bao giờ có lần thứ 2."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Anh Thư",
+    "rating": 1,
+    "review_text": "Ê má, là sao nữa bánh su mà không có kem rồi có bánh thì kem ít xịu mà 19k/8bánh ă, nhân viên đôi khi còn có thái độ không vui vẻ không muốn bán cho khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Nancy travelwith",
+    "rating": 5,
+    "review_text": "Bánh bông lan này ngon và lâu lâu có dịp khuyến mãi mua giá tốt. Sữa chua phô mai cũng ngon. Tiệm nhỏ nhưng thấy nhiều loại bánh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Lý Tran",
+    "rating": 1,
+    "review_text": "Bánh và trái cây ăn ổn, thu ngân thì lẻo mép trả lời khách còn hơn khách nhận đồ từ thiện, làm dịch vụ mà ăn mất chữ “dạ” hã THU NGÂN 3/2. TẤT CẢ ĐỀU OK TRỪ THU NGÂN CHỦ SHOP NHỚ CHỈ BẠN TẬP NÓI CHỮ DẠ NHÉ MÌNH MUA CHỨ MÌNH KHÔNG XIN, sáng ngủ chưa đủ giấc hay sao mà cọc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Cherry Lee",
+    "rating": 4,
+    "review_text": "Mình mua hàng tại Dalat Garden từ những ngày đâu mới mở đến nay. Hồi đó đến ăn buffet đến nay. Bánh 3 sốt được người nhà mình rất thích, bánh ngon có vị thơm. Trong nhiều lần đến cửa hàng thì gần như là mình đều hài lòng. Mình hay mang về …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Store Nơ",
+    "rating": 1,
+    "review_text": "Ngày 7/3 mình ghé chi nhánh 3/2 nhân viên thu ngân thái độ nói chuyện cọc lóc. Mua hàng mà tưởng ăn xin"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Bội Ngọc Nguyễn",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên rất là khó chịu , mình mua bánh mà mặt một đóng với mình ở chi nhánh 30/4 nên mình phải bỏ qua chi nhánh khác mua , cuối cùng bánh lại bị chua , ko biết vô tình hay cố ý mà bạn nhân viên lại đưa nhầm hộp bánh su kem rất chua cho mình , mình có hỏi bánh cũ hay mới thì khẳng định rõ ràng là bánh mới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Hạnh Nguyễn",
+    "rating": 1,
+    "review_text": "Mình đã có trải nghiệm cực kỳ tệ. Đặt bánh kem thì yêu cầu cọc 100%, mình có thể hiểu được rủi ro  nếu không có cọc nên mình vẫn vui vẻ chấp nhận. Nhưng khi nhận bánh thì dâu trang trí bị thâm, bị nhầy vài chỗ, không hề tươi, có vẻ bánh đã …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "0408 Thành Long",
+    "rating": 1,
+    "review_text": "chi nhánh đường 3 tháng 2, bánh mì chà bông đợt trước mua khác đợt sau mua khác, đợt trước còn đầy đủ sốt kem sốt rong biển và topping, đợt sau chỉ còn đúng bánh mì và chà bông cùng 1 lớp sốt mỏng, vậy sao bán cùng giá 30k được ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Trân Trần Thị Ngọc",
+    "rating": 2,
+    "review_text": "Trời ơi cái trải nghiệm tệ kinh, không biết quán tranding nhân viên ntn mình tới mua như đi xin vậy á, tới mua đứng đó ko 1 ai lại hỏi mà nv thì tụ lại quầy tính tiền gần 5,6ng ở trỏng (trong khi quán ko đông lắm), lần đầu mua hàng đợi gần …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Ngan Ngan",
+    "rating": 1,
+    "review_text": "nhân viên k chú ý đến khách hàng tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Minh Thư Phạm",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên rất chán. Từ lúc vào mua tới tính tiền nhân viên đứng hờ hợt, đùa giỡn. Nói chung là rất tệ. chi nhánh 3/2"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Alice",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên quá tệ, rất mong xem xét lại về cách phục vụ khách hàng. Mình ghé tiệm 3 lần, không một lần nào mình nhận được lời cảm ơn, mặc dù tiệm lúc đó KHÔNG ĐÔNG KHÁCH. Mình hỏi nhân viên còn trái cây mình muốn mua không thì bạn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089b8e03a2dbb:0xc568c04f29aab40e",
+    "shop_name": "Dalat Garden",
+    "user_name": "Mimi",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ rất tệ, đi mua mà tưởng đi xin, mình nt đặt hàng nhiều thì bắt mình cọc thì ok mình vẫn ck cọc đợi từ 10h sáng tới 6h30 qua tới tiệm thì báo sót đơn hàng, đợi cả nửa ngày của ngta làm ăn ko uy tín"
+  }
+]

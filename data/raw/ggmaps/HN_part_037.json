@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Thanh Lai",
+    "rating": 4,
+    "review_text": "Giá cả đồ ăn đây cũng tạm được mà đồ ăn lại cũng ok lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Phạm Thiên Trúc Ly",
+    "rating": 5,
+    "review_text": "Sandwich ở đây ngon, đồ ăn sạch sẽ mà giá hssv nữa!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Ngọc Nguyễn",
+    "rating": 5,
+    "review_text": "Quán bán ngon, nhân viên phục vụ thân thiện :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "nhu huynh",
+    "rating": 1,
+    "review_text": "Làm việc thiếu trách nhiệm, giao sai khách mà không có hướng giải quyết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "tuong nguyen",
+    "rating": 4,
+    "review_text": "Quán ngon , nv nhiệt tình , nhưng để xe dưới.lòng đường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Phú Gia",
+    "rating": 5,
+    "review_text": "Burger to và nhiều topping, giá cả phải chăng, nhân viên thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "DAT BUI TRONG",
+    "rating": 4,
+    "review_text": "Ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Phố Mai",
+    "rating": 5,
+    "review_text": "Bánh siêu to và ngon nữa. Shipper rất thân thiện và đẹp trai nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Phương Khanh",
+    "rating": 5,
+    "review_text": "Hamburger ngon và nhân viên phục vụ nhiệt tình ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Quang Huỳnh",
+    "rating": 5,
+    "review_text": "Qua dong khach. Con mua mang di (take away), thi Now (ao xanh do) bao san."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Hiệp Guardian",
+    "rating": 5,
+    "review_text": "Giá cả phải chăng. Món đa dạng. Ngon, tiện lợi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Hạnh Mỹ",
+    "rating": 1,
+    "review_text": "Làm món quá lâu chất lượng tê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Trần Thịnh",
+    "rating": 1,
+    "review_text": "Dỡ như cức mà bắt khách đợi hơn 1 tiếng đồng hồ xem khách chả ra gì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Lê Minh Hậu",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Phan Thanh Xuan",
+    "rating": 5,
+    "review_text": "Sandwich rất ngon, thịt bò mềm, sốt thanh dịu. 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Tân Thành Online",
+    "rating": 5,
+    "review_text": "Hamburger loại nào cũng ngon, phục vụ mang đi chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "van em nguyen",
+    "rating": 5,
+    "review_text": "Có combo khuyến mãi mới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Nguyễn Việt Long",
+    "rating": 5,
+    "review_text": "Nằm trên đường 1 chiều khá khó mua, đông . Ăn ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Ngọc Thanh Thanh Dương",
+    "rating": 5,
+    "review_text": "Rất ngon nhưng đông nên phải đợi khá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "HOI VAN",
+    "rating": 1,
+    "review_text": "Làm món rất chậm, nhân viên quên đơn của khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "ChuL Kyoshita",
+    "rating": 4,
+    "review_text": "Ăn cũng được chứ ko bằng lotteria,Burger King"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Long Vi Thuan",
+    "rating": 5,
+    "review_text": "Ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Khắc Hưng",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Nhân viên nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Hoàng Ngọc (R A P O S)",
+    "rating": 5,
+    "review_text": "Bánh rất ngon, mọi người nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Tuyết anh Nguyễn thị",
+    "rating": 4,
+    "review_text": "Ngon mà giá cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Nguyen Lucci",
+    "rating": 4,
+    "review_text": "Ăn cũng khá ngon. Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Quang Lê anh",
+    "rating": 1,
+    "review_text": "Mới ăn thử hai ổ.  116 ngan. Không quen đau bụng gần chết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Truong Nguyen",
+    "rating": 5,
+    "review_text": "bánh rất ngon và đảm bảo vệ sinh!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "nguyenho nam",
+    "rating": 4,
+    "review_text": "Tuyệt vời mời các bạn ghé ăn thử và trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Luân Nguyễn",
+    "rating": 4,
+    "review_text": "Ăn tạm ổn hơi nhạt và đông nên đợi khá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Tran Huu Dat",
+    "rating": 5,
+    "review_text": "Phục vụ chuyên nghiệp, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Neor Belmont",
+    "rating": 5,
+    "review_text": "ngon, rẽ và nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Uy Tran",
+    "rating": 5,
+    "review_text": "Bánh ngon quá\nGhé quán bán bánh ngon qué"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Thiên Anh Vũ",
+    "rating": 5,
+    "review_text": "Món ăn ngon. Phục vụ dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Hải Nguyễn",
+    "rating": 1,
+    "review_text": "Món thì ngon thật nhưng hay làm thiếu món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Null Nguyen",
+    "rating": 5,
+    "review_text": "Good.\nNhưng tác phong nhân viên làm việc hơi chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752efa3a1a237d:0xb5366703dec49b3",
+    "shop_name": "Sandwich - Hamburger Chía Núi",
+    "user_name": "Thuy Nguyenthu",
+    "rating": 3,
+    "review_text": "Mùi rất hấp dẫn, vị không giống burger Mỹ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Thinh Phuc Duong Ngo",
+    "rating": 4,
+    "review_text": "Mình gọi món Beef & Cheese Burger. Phần beef ngon, thịt đậm vị và mềm; bánh brioche thơm, mềm, đúng kiểu mình rất thích. Nước uống cũng ngon. Nhân viên phục vụ rất tận tình và giải thích chu đáo khi mình thắc mắc. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "miyoung h.",
+    "rating": 5,
+    "review_text": "Quán đẹp. Đồ ăn và nước uống ngon. 2 bạn nhân viên nữ và các bạn khác siêuuu dễ thương và chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Fishball297",
+    "rating": 5,
+    "review_text": "HA:RIS Brunch & Grill là quán brunch khá đáng thử ở khu trung tâm. Quán có không gian đẹp, tone màu trang nhã, kiểu Tây và nhìn rất có gu. Khu bếp mở cùng quầy cà phê nhìn hiện đại, tạo cảm giác khá chỉn chu. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Ngo Diep",
+    "rating": 4,
+    "review_text": "Sở hữu một vị trí đẹp ngay mặt phố Hàng Trống lại còn sát ngay hồ luôn quán trang trí theo phong cách sang trọng nha sẽ có cả đồ ăn và cafe. Lần trước mình chỉ ăn bánh ngọt và uống cafe thôi nên chưa thử đồ ăn của quán nên cũng không biết …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Mạnh Toàn Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhẹ nhàng đúng tinh thần brunch. Nhà hàng sạch sẽ gọn gàng. Nhân viên ngoan, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Nguyen Dao Huyen Nhi",
+    "rating": 3,
+    "review_text": "Không gian đẹp, vị trí rất tốt, nhưng tiếc là theo mình không xứng đáng với mức giá. Mặc dù giá không quá đắt, nhưng chất lượng món ăn và phục vụ thật sự khiến mình cảm thấy không đáng tiền. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Ley (Ley)",
+    "rating": 5,
+    "review_text": "Mình gọi egg benedict và chicken burger. Burger ngon nha. Không gian rộng rãi, nhân viên nhiệt tình. Nước cũng pha chế ngon và trình bày đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "HaiLy Nguyen",
+    "rating": 4,
+    "review_text": "Không gian thoáng đãng, xinh đẹp.\nĐồ uống cơ bản. Sốt hollandaise trong egg benedict bị chua, burger ngon. Cái dip thì quá dở, lỏng le. Nhân viên thì khách ăn xong chán chê rồi không dọn bàn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Thư Vũ",
+    "rating": 5,
+    "review_text": "Đồ uống ngon tuyệt vời, đồ ăn mình thấy khá mặn, lần sau mình sẽ gọi thử brunch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Anh Nguyễn Kim",
+    "rating": 5,
+    "review_text": "Một trưa Thứ Bảy mưa nắng thất thường giũa Tháng Năm, chúng tôi hẹn nhau ở Haris và thật sự hài lòng về mọi thứ ở đây 👍\nĐồ uống ngon …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Mai nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, lên nhanh, mê món salad rocket nhất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Nguyễn Thị Loan",
+    "rating": 5,
+    "review_text": "Tôi hoàn toàn bị trinh phục bởi món ăn mà tôi đã trọn ( gnocci mushroom ) sự tinh tế của đầu bếp và không gian ở đây sạch sẽ , dịu mát và khá thư giãn , các cộng tác viên phục vụ chuyên nghiệp , thân thiện , Mr Dũng đã rất khéo léo trong …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "John Devy",
+    "rating": 4,
+    "review_text": "Mình đi tầm trưa, đến có bác bảo vệ khá niềm nở. Nhưng khi oder thì không ai hỏi về dị ứng đồ ăn. Và có thể chú ý hơn về các tiểu tiết trong Service. Đồ ra mình ăn hết rồi cũng không có sự chủ động thăm dò về đồ ăn-trải nghiệm. Và lúc ra đồ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Nhật Minh",
+    "rating": 5,
+    "review_text": "Rất nhã nhặn. Phục vụ chuyện nghiệp, chu đáo. English breakfast rất ngon🍞🧈🍳🥓🫘🍴Không nhớ hôm đó gọi món nước gì nhưng vị rất wow nha …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Vũ Hà My",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt đồ ăn ngon, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "San San",
+    "rating": 4,
+    "review_text": "Mình và bạn đi cf, nước uống bình thường không gian đẹp, phục vụ khá ok. Vat khá nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Viet Anh Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn và đồ uống rất ngon và lạ, không gian hiện đại nhẹ nhàng, có thể ngồi ở trong nhà , hành lang hay ngoài hè rất chill. Tối ngồi rượu vang vỉa hè ăn đồ nướng quá tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Thuỳ Dương Trần",
+    "rating": 5,
+    "review_text": "ko gian sạch đẹp, thoáng, bạn staff nhiệt tình, đồ ăn đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Hoai Nam Tru",
+    "rating": 5,
+    "review_text": "Quán rất đẹp, đồ ăn phong cách châu âu, đồ uống trình bày đẹp và lạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Linh Trần Hoàng",
+    "rating": 5,
+    "review_text": "Vị trí siêu đẹp, quán tone xanh mint mát mẻ xinh xắn, đồ ăn đồ uống khá ổn nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "trang nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn và đồ uống ngon, quán rộng đẹp sang trọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Linh Luong Khanh",
+    "rating": 5,
+    "review_text": "Quán có màu xanh mint xinh xỉu, đồ ăn ngon và không gian rất thoải mái🩷 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "huyen doan",
+    "rating": 5,
+    "review_text": "Nước uống ngon , đồ ăn ngon , có cả menu đồ thuần chay cho người ăn chay. Không gian quán rộng rãi chill chill,  gần phố đi bộ Hồ gươm rất tiện đi lại vui chơi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "phuc duong",
+    "rating": 5,
+    "review_text": "Ngồi mát thích lắm. Ven hồ nên view khá chill. Đồ uống vị rất vừa với khẩu vị của mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Loan Nguyen",
+    "rating": 5,
+    "review_text": "Địa điểm đẹp, đồ ăn ngon, đồ uống phong phú và lạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Khánh Trịnh",
+    "rating": 3,
+    "review_text": "Mình order pizza 4 cheese, xúc xích cùng chicken wings. Trước hết, xúc xích không được ngon lắm, thịt kết cấu bị rời rạc và ít mùi thơm, sốt tiêu đen cũng kh có độ sánh ăn cùng kh quá hợp. Chicken wings và xúc xích hôm mình ăn đều chưa được …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Giang Nguyen huong",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, đặc biệt, đồ uống đẹp mắt và phong cách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Nguyễn Hải Hà",
+    "rating": 5,
+    "review_text": "Đồ uống ngon, không gian đẹp, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Hoàng Đặng",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, vị trí trung tâm, không gian đẹp. Đáng trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Pham Thuy",
+    "rating": 5,
+    "review_text": "Không gian xinh xắn, nhân viên take care tốt nha 👍🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Chúc Điền",
+    "rating": 5,
+    "review_text": "không gian thoáng, nước ngon nhân viên thân thiện. Sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Giuseppe Bianchi",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện nhiệt tình.Đồ uống ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Minh Đức Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian thích hợp để ngồi thư giãn, brunch ngon, nhân viên lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "dương hoàng",
+    "rating": 5,
+    "review_text": "Đồ uống ngon, nhân viên dễ thương nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Thảo Vũ Hương",
+    "rating": 5,
+    "review_text": "Không gian thoải mái\nNhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Art Hanoi",
+    "rating": 5,
+    "review_text": "Nước dâu rất ngon và ngọt. Bánh macaron hơi ngọt quá nhưng nhân dâu và vani cũng rất ngon, bánh xốp khá giòn. Thái độ nhân viên rất thân thiện và dịu dàng. Ở quán đồ đạc rất sạch sẽ gọn gàng, không khí mát mẻ và quán khá yên tĩnh phù hợp để làm việc hoặc học."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Hương Quỳnh Nguyễn",
+    "rating": 5,
+    "review_text": "Quán có không gian rộng rãi và sáng , thoáng tầm nhìn. Sạch sẽ, khá là chill. Đồ ăn và đồ uống khá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Kelly",
+    "rating": 5,
+    "review_text": "Quan dep , do an uong rat ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Un Un",
+    "rating": 5,
+    "review_text": "Quán vị trí đẹp, đồ ăn đa dạng, không gian dễ chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Trang Do",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời, không có bất cứ điều gì để phàn nàn. Cả đồ ăn và đồ uống rất tuyệt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Lam Ha",
+    "rating": 4,
+    "review_text": "Vị trí trung tâm, quán mới, tuy nhiên khu vực vệ sinh dùng rèm ngăn cảm thấy dễ bám bụi, ẩm và ko dc vệ sinh. Món ăn ok, matcha pha ra thì màu ko dc xanh tươi( màu úa kiểu bị oxy hoá) và vị chát bị gắt. Nhân viên ổn, ra món nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Tien Dung Mau",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhưng nên có ghi chú về mức độ cay của món ăn trên Menu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Nga Truong",
+    "rating": 4,
+    "review_text": "cũng ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Ngoc Vu",
+    "rating": 5,
+    "review_text": "Không gian sạch sẽ, phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Hải Phạm",
+    "rating": 5,
+    "review_text": "Đồ ăn và đồ uống rất hợp vị. Các bạn nhân viên rất nhiệt tình dễ thương. Đặc biệt Huyền Anh thank you HA nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Nguyễn Nga",
+    "rating": 5,
+    "review_text": "Quán vibe đẹp, đồ uống ngon <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "hoang vuminh",
+    "rating": 5,
+    "review_text": "Ăn rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "dang hoanghai",
+    "rating": 5,
+    "review_text": "Không gian quán mat 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "trang vũ",
+    "rating": 5,
+    "review_text": "Chất lượng dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "INDOCHINA TRAVEL VIC",
+    "rating": 5,
+    "review_text": "Nhà Hàng mới mở, Không gian đẹp với phong cách bày trí sang trọng ấm áp. món ăn đặc sắc mang phong cách âu, á.  Đội ngũ nhân viên thân thiện và phục vụ chuyên nghiệp. Không gian nhà hàng phù hợp với mọi lứa tuổi , Chúng tôi sẽ trở lại những lần sau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "hamy phan",
+    "rating": 5,
+    "review_text": "quán rất xinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Thinh Duc",
+    "rating": 5,
+    "review_text": "Tuyệt vời lun á trời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Vu Minh Khoa",
+    "rating": 5,
+    "review_text": "Đồ uống ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Hải Minh",
+    "rating": 5,
+    "review_text": "Service tốt, đồ uống ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Thuy Thuy",
+    "rating": 5,
+    "review_text": "10đ k có nhưng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Hà Thu",
+    "rating": 5,
+    "review_text": "Service tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "DucThinh",
+    "rating": 5,
+    "review_text": "Oke đấy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Hoa Thanh",
+    "rating": 5,
+    "review_text": "nhom nhom"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Vivi",
+    "rating": 5,
+    "review_text": "Giá cả khá dễ chịu dù ở khu trung tâm đắt đỏ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Vy Trịnh",
+    "rating": 5,
+    "review_text": "Các món ăn ở đây dao động khoảng 200k/phần. Đồ ăn khá ổn, phần cũng nhiều, món nước thì vị ok và nhìn khá bắt mắt. Quán nằm ngay mặt tiền phố, decor tone xanh cực xinh nên thu hút mình ngay từ cái nhìn đầu tiên. May là trải nghiệm tổng thể cũng không làm mình thất vọng. Mn có dịp thì ghé thử nhe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Ly Phuong",
+    "rating": 5,
+    "review_text": "Có mỗi pizza ăn okla chứ mấy món còn lại ăn cố lắm mới hết được ạ, xúc xích ở đây ăn bị khô quá. Không gian phù hợp với mấy em meomeo thik chụp ảnh 😆😆 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Diệu Anh Chu",
+    "rating": 1,
+    "review_text": "thái độ mấy nhân viên nữ kém! đồ ăn ko ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "linh",
+    "rating": 5,
+    "review_text": "dirty pig rấc ngonnn, giá cả hợp lí so với không gian và địa điểm 🫰🏻 rcm nha …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "DINH THI LE THUY H9063",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ, phục vụ kém, nước ko ngon, lâu ra món."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Phương Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian màu xanh sang trọng đẹp lắm nha! Mình gọi Grape & Basil thanh mát uống lạ ngon nha …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Tay Hanh",
+    "rating": 5,
+    "review_text": "mình thấy mọi thứ đều good mà chắc do mới mở 5,6 tháng nên chưa nhiều ng biết. Sát bên hồ lun, ngán ăn món local nên thấy ngoài quán đẹp, ghé vô ăn brunch quá hợp lí, có 1 cái thấy hơi lệch tone quán là mí dĩa sứ trên tường, dù đẹp nhưng đặt để trong không gian mình thấy hok hợp sao á :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "ha phuong nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , vị trí thuận tiện trung tâm Hà Nội , nhân viên rất nhiệt tình và thân thiện 👍🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Linh Tưởng",
+    "rating": 5,
+    "review_text": "Không gian đẹp, nhân viên tận tình, đồ ăn ngon, nhiều góc chụp hình 💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "linh đặng",
+    "rating": 5,
+    "review_text": "Woa lun bữa tối nhẹ bụng ưng ý ghê, salad ngon ấn tượng kem củ dền đỉnh thậc, hai món còn lại và nước cũng siêu ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "TUAN ANH BUI",
+    "rating": 4,
+    "review_text": "Đồ ăn  tamj ổn. Dịch vụ và không gian tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Nguyễn Zoe",
+    "rating": 1,
+    "review_text": "Đồ ăn ngấm dầu, đặc biệt là khoai tây và pizza. Đĩa khoai 190 mà từ cách trình bày đến mùi vị đều kh xứng đáng với giá tiền. Tiramisu là món ổn nhất nhưng kem ăn lợ và ngọt gắt từ bánh lady finger. Matcha nhạt lách, toàn mùi sữa. Một lần và không bao giờ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Van Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, vị trí tuyệt vời, chắc chắn chúng tôi sẽ quay lại. Mọi người hãy thử pizza 4 loại phô mai và bánh mì Bò Kho nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Margaret Miles",
+    "rating": 5,
+    "review_text": "Đồ ăn và dịch vụ tuyệt vời. Nhà hàng rất đẹp. Món nào cũng được trình bày đẹp mắt. Chắc chắn nên ghé thăm nếu bạn đang ở thành phố Hà Nội.\nRất nhiều tình yêu từ một hòn đảo nhỏ ở Vanuatu ❤️🇻🇺 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "jeremie Courivault",
+    "rating": 5,
+    "review_text": "Địa điểm tuyệt vời cho bữa sáng muộn và tiệc khai vị! Không gian đẹp và vị trí rất trung tâm! Đồ ăn ngon tuyệt và phục vụ xuất sắc. Hoàn hảo cho một bữa sáng muộn cuối tuần thư giãn trong khi tận hưởng khung cảnh khu phố cổ! Tôi đặc biệt khuyên dùng món trứng Benedict và bánh mì kẹp thịt!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Amelia Collins",
+    "rating": 3,
+    "review_text": "Bánh mì kẹp thịt khá đắt, hơn 400.000 VND so với các nhà hàng tương tự, nhưng phần thịt bò rất to. Tuy nhiên, thịt hơi tái so với khẩu vị của tôi, và tôi thấy nó hơi nhạt gia vị. Pizza chay khá ổn, mặc dù đế bánh không thơm và đậm đà như …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Manu DE",
+    "rating": 5,
+    "review_text": "Không gian tuyệt vời, và đồ ăn thì ngon tuyệt! Bánh Mì Cháo là sự kết hợp hoàn hảo và bùng nổ hương vị. Bạn có thể cảm nhận được các món ăn được chế biến bằng cả tấm lòng, và mọi thứ đều tươi ngon mỗi ngày! Tôi cũng khuyên bạn nên thử món …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Katy Montrose",
+    "rating": 5,
+    "review_text": "Thức ăn thực sự ngon - đặc biệt là trứng Benedict với thịt xông khói (món \"Dirty Pig\" trên thực đơn)! Bánh pinsa với burrata cũng rất ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Quentin Clara",
+    "rating": 5,
+    "review_text": "Một nơi tuyệt vời! Đồ ăn ngon, phục vụ rất tốt bụng. Mọi thứ đều hoàn hảo, chúng tôi đã đến đây 2 lần trong 2 ngày. Một địa điểm thực sự tốt trong thành phố để đi ăn sáng muộn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Julienne",
+    "rating": 5,
+    "review_text": "Tôi tình cờ tìm thấy quán này nằm khuất trong lòng Hà Nội và thực sự cảm giác như một viên ngọc quý ẩn giấu. HA:RIS Hà Nội tuy mới mở khoảng 6 tháng nhưng mọi thứ đã được trau chuốt và chăm chút kỹ lưỡng. Không gian được thiết kế hiện đại, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Darren Carnes",
+    "rating": 5,
+    "review_text": "Đây là một nơi rất thư giãn để thưởng thức bữa ăn nhẹ. Món ăn chủ yếu là kiểu phương Tây và họ có nhiều loại cà phê, trà đá và các loại đồ uống khác. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Shannon Odermatt",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và phục vụ tuyệt vời! Món ăn rất tươi ngon và là một sự thay đổi thú vị ở Hà Nội!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "John Trace",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời, món ăn còn tuyệt vời hơn nữa và không gian đạt tiêu chuẩn đẳng cấp thế giới. Đây là một trong những trải nghiệm ăn uống đáng nhớ nhất."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Howard S",
+    "rating": 5,
+    "review_text": "Ling thật sự rất tuyệt vời. Khả năng nói tiếng Anh xuất sắc của cô ấy đã khiến trải nghiệm trở nên vô cùng thú vị. Cô ấy rất niềm nở, kiên nhẫn giải thích thực đơn cho chúng tôi và đưa ra những gợi ý chu đáo. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Peter Gunsberger",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và phục vụ tuyệt vời, cả món Việt Nam và món phương Tây đều ngon. Nhân viên phục vụ nhiệt tình và một số người nói tiếng Anh tốt. Giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "영재",
+    "rating": 5,
+    "review_text": "Cách bài trí đẹp mắt và món ăn ngon. Đây là nơi tôi nhất định sẽ ghé thăm ít nhất một lần mỗi khi đến Hoàn Kiếm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Ivy Ypil",
+    "rating": 5,
+    "review_text": "Tôi đã có một trải nghiệm tuyệt vời khi dùng bữa tại đây gần đây. Ngay từ khi bước vào, không khí đã rất ấm áp và thân thiện, đặc biệt phải kể đến nhân viên phục vụ tên là LING/LIN. Cô ấy rất nhiệt tình và thân thiện khi hỗ trợ chúng tôi, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Phuong Lan",
+    "rating": 5,
+    "review_text": "Tôi đã có một trải nghiệm ăn uống tuyệt vời tại nhà hàng này. Món ăn ngon tuyệt, với nguyên liệu tươi ngon và hương vị cân bằng hoàn hảo. Mỗi món ăn đều được chuẩn bị kỹ lưỡng và trình bày đẹp mắt. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Жасмин Сейпова",
+    "rating": 5,
+    "review_text": "Nơi đẹp, nhân viên dễ thương và đồ ăn ngon💚\nTrà matcha ngon nhất Hà Nội 🍵 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "sussi theander",
+    "rating": 5,
+    "review_text": "Thật may mắn khi tìm được nơi này, thịt cừu ngon nhất tôi từng ăn trong đời, và tôi đã 69 tuổi, sống ở Tây Ban Nha và đã đi du lịch khắp nơi. Thật là một niềm vui khi được chứng kiến ​​các nhân viên trong bếp, mọi người cùng nhau chung tay và được giám sát bởi người đầu bếp tài ba."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Timothée Boxler",
+    "rating": 5,
+    "review_text": "Tất cả các món ăn ở đây đều ngon, cà phê cũng vậy. Nhân viên phục vụ vô cùng chu đáo. Chúng tôi đã quay lại đây nhiều lần rồi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Carl Soderstrom",
+    "rating": 5,
+    "review_text": "Rất tuyệt vời và là một bất ngờ thú vị. Nơi này bị đánh giá thấp vì khá mới nên chưa có nhiều đánh giá hay thông tin về nó. Nội thất bên trong rất đẹp. Không hề đông khách. Pizza và salad đều rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Isobel Porter",
+    "rating": 4,
+    "review_text": "Chúng tôi đến đây ăn sáng và mọi thứ thật tuyệt vời. Đồ uống và thức ăn đều được trình bày đẹp mắt và hương vị rất ngon, vì vậy chúng tôi quyết định quay lại ăn tối nhưng nhanh chóng thay đổi ý định. Tôi gọi món cánh gà và theo tôi thì nó không an toàn để ăn và khẩu phần quá nhỏ so với số tiền chúng tôi đã trả."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Ruth Holgate",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon tuyệt và không gian tuyệt vời, mọi người cũng rất thân thiện!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Anh Nguyen",
+    "rating": 2,
+    "review_text": "Dịch vụ đáng ngờ.\n\nChúng tôi phải đợi và hỏi nhân viên thực đơn để gọi món. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Kiara Jones",
+    "rating": 5,
+    "review_text": "Lúc món ăn được mang ra và nhìn thấy khẩu phần, thành thật mà nói tôi đã nghĩ, “Chắc không no đâu.” Nhưng tôi đã hoàn toàn sai – đến cuối bữa ăn tôi đã rất no. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Catherine Boudier-Contant",
+    "rating": 5,
+    "review_text": "Thật tiếc là tôi không chụp được ảnh tất cả các món ăn nhưng quán này NHẤT ĐỊNH phải đến nếu bạn đến Hà Nội. Mọi thứ ở đây đều tuyệt vời. Chúng tôi đến đây ăn sáng và đã có món trứng Benedict ngon nhất nên chúng tôi quyết định quay lại ăn tối và tất cả những gì tôi có thể nói là: Ngon tuyệt 😋\nTuyệt vời nhất ❤️ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Sultan",
+    "rating": 5,
+    "review_text": "Thức ăn rất ngon, phục vụ tuyệt vời, và nhân viên rất nhiệt tình và hợp tác. Tôi gọi món trứng và nấm mà không có thịt hay bất cứ thứ gì khác vì đồ ăn halal rất khó tìm ở đó."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Ismael Herve",
+    "rating": 3,
+    "review_text": "Không gian tuyệt vời! Nếu bạn để lại đánh giá, bạn sẽ được tặng một ly nước miễn phí!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Huiling Lee",
+    "rating": 5,
+    "review_text": "Tôi đã ở Hà Nội năm ngày, ngày nào cũng đi ngang qua. Hôm nay cuối cùng tôi cũng vào được bên trong, ngồi xuống và thưởng thức những món ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "이나영",
+    "rating": 3,
+    "review_text": "Tôi đang uống cà phê trong cửa hàng, nhưng tại sao họ lại dùng cốc dùng một lần? Tôi không hiểu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Chibikiu",
+    "rating": 5,
+    "review_text": "Đây là một địa điểm tuyệt vời ở Hà Nội để ăn bữa sáng muộn. Nhất định phải đến. Hãy gọi một phần bữa sáng kiểu Anh và món Royale để có một ngày nắng đẹp trọn vẹn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Dee Ngo",
+    "rating": 5,
+    "review_text": "Một địa điểm tuyệt vời với đồ ăn ngon, đồ uống hấp dẫn và không gian rất dễ chịu. Mọi thứ chúng tôi thử đều ngon tuyệt, và nhân viên thì vô cùng thân thiện và niềm nở. Nơi hoàn hảo để thư giãn cùng bạn bè hoặc thưởng thức một bữa ăn ngon. Chắc chắn sẽ quay lại!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Andre Foeken",
+    "rating": 5,
+    "review_text": "Sang trọng. Sạch sẽ. Cao cấp. Tuyệt vời cho bữa sáng muộn hoặc cà phê. Các loại nước chấm rất ngon. Và nước cam tươi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Tashi Delek",
+    "rating": 5,
+    "review_text": "Quán cà phê ngon nhất Hà Nội. Phục vụ tuyệt vời. Đồ ăn ngon tuyệt. Không gian TUYỆT VỜI!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Kallie Pearson",
+    "rating": 5,
+    "review_text": "Bữa ăn rất ngon, có nhiều lựa chọn món chay. Nhưng bên trong có muỗi cứ cắn vào chân tôi, hy vọng họ có thể giải quyết vấn đề này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Williams Braga",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, phục vụ rất nhanh, tiramisu và cà phê caramel macchiato tuyệt vời. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Chester Jekko Andres",
+    "rating": 5,
+    "review_text": "Tôi ấn tượng với vẻ ngoài đẹp mắt của nhà hàng và không hề thất vọng về chất lượng phục vụ cũng như món ăn. Rất thích hợp cho bữa brunch!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Olesja Rein",
+    "rating": 5,
+    "review_text": "Một nhà hàng địa phương xinh xắn với nhân viên rất thân thiện và chu đáo.\n\nĐồ ăn rất ngon, nhưng khẩu phần hơi nhỏ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Sandra Park",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Không gian dễ chịu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Bader55 Ahmed66",
+    "rating": 2,
+    "review_text": "Tôi đã thử món burger nướng; tôi không khuyên dùng món này với gà có xương. Tôi không biết phải làm gì với nó."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Daisy Kim",
+    "rating": 5,
+    "review_text": "Tuyệt vời!!! Mình thích nơi này, mình sẽ quay lại lần nữa\n💕 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Kaia Wilsonova",
+    "rating": 5,
+    "review_text": "Một địa điểm tuyệt vời với đội ngũ nhân viên xuất sắc! Đồ ăn và đồ uống đều rất ngon. Chắc chắn nên ghé thăm!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Rasida Mougammadou",
+    "rating": 5,
+    "review_text": "Bữa brunch tuyệt vời, y hệt như ở Pháp! Không khí tuyệt vời và thân thiện. Nhân viên niềm nở và rất chuyên nghiệp! Tôi rất khuyên bạn nên đến đây nếu có dịp đến Hà Nội! ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "James Prior",
+    "rating": 5,
+    "review_text": "Đồ ăn và dịch vụ đều hoàn hảo. Người phục vụ rất dễ thương. Một nơi tuyệt vời để ngồi ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Chi Le",
+    "rating": 5,
+    "review_text": "Tôi khuyên bạn nên thử món salad Haser và khoai tây gratin. Cách trang trí dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Sandy McCulloch",
+    "rating": 5,
+    "review_text": "Bữa ăn hoàn hảo, trải nghiệm hoàn hảo. Không gian tuyệt vời và nhân viên xuất sắc. Món ăn đạt điểm 10/10."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Khawla Alshowmi",
+    "rating": 5,
+    "review_text": "Một nhà hàng đẹp, thanh lịch và độc đáo ở Hà Nội. Nhân viên chuyên nghiệp. Chúc các bạn mọi điều tốt đẹp nhất."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "San T.",
+    "rating": 5,
+    "review_text": "Địa điểm tuyệt vời cho bữa ăn sáng muộn (brunch)."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Tatiane Andrade Serfert",
+    "rating": 5,
+    "review_text": "Đồ ăn tuyệt vời, được Phan Anh giới thiệu. Dịch vụ cũng rất tốt. Không gian rất dễ chịu. Tôi rất khuyên bạn nên đến đây!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Kat Aniol",
+    "rating": 5,
+    "review_text": "Sau hai tuần ở Việt Nam cùng các con và ăn đồ ăn Việt Nam mỗi ngày, đây quả là một phát hiện tuyệt vời!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "LUCA WANG",
+    "rating": 5,
+    "review_text": "Hãy đến với địa điểm tuyệt vời này ở Hà Nội!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Pebble",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời, pizza cũng rất ngon.\nVà đầu bếp đã làm rất tốt. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Ellen Doris",
+    "rating": 1,
+    "review_text": "Thật không may, trải nghiệm không được như mong đợi. Bữa sáng trông đẹp mắt trong ảnh, nhưng hương vị khá bình thường và không có gì thực sự nổi bật. Nhìn chung, mọi thứ đều chấp nhận được, nhưng không có gì đáng nhớ. Với mức giá đó, tôi kỳ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Phung Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn và thức uống ngon\nĐịa điểm đẹp ở trung tâm phường Hoàn Kiếm, thành phố Hà Nội, Việt Nam"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Raquel Méndez",
+    "rating": 5,
+    "review_text": "Rất đáng để thử. Burger rất ngon, đậm đà hương vị và được chế biến hoàn hảo, còn bánh red velvet thì tuyệt vời. Giá cả hợp lý và nhìn chung là một trải nghiệm rất tích cực."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Lorraine Sudario",
+    "rating": 5,
+    "review_text": "Tôi rất thích món bít tết và pizza của họ - chúng ngon đến nỗi chúng tôi đã gọi đến hai lần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Bastian Kropp",
+    "rating": 5,
+    "review_text": "Đồ ăn, phục vụ và đồ uống đều tuyệt vời. Nhạc nền thư giãn với âm lượng rất dễ chịu. Chắc chắn đáng để ghé thăm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Sara Davies",
+    "rating": 5,
+    "review_text": "Chúng tôi đã có một bữa ăn tuyệt vời ở đây. Pizza và salad rau arugula rất ngon. Nhân viên phục vụ chu đáo và giá cả rất hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "elly larger",
+    "rating": 5,
+    "review_text": "Một nơi tuyệt vời, vị trí đắc địa, thiết kế nhà hàng vô cùng ấn tượng. Chưa kể đến đồ ăn, siêu ngon và hấp dẫn!! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Keen Ip",
+    "rating": 5,
+    "review_text": "Địa điểm tốt, phục vụ tốt, đồ ăn ngon, cà phê ngon!!! Trải nghiệm rất tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Демьян Я",
+    "rating": 5,
+    "review_text": "Không gian yên tĩnh, dễ chịu để ngồi làm việc. Bầu không khí thư giãn mà không hề nhàm chán. Đồ ăn thực sự ngon - tươi ngon, cân bằng dinh dưỡng, giá cả phải chăng. Cà phê cũng rất tuyệt. Rất đáng để quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Hugh Hall",
+    "rating": 5,
+    "review_text": "Thức ăn thực sự tuyệt vời, cảm ơn bạn.\n\nMột phát hiện tuyệt vời ở Khu Phố Cổ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Baytree H",
+    "rating": 5,
+    "review_text": "Một thực đơn làm hài lòng cả thị giác lẫn vị giác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Chinguunee's Bizarre adventure",
+    "rating": 5,
+    "review_text": "Mọi thứ đều hoàn hảo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Choco Loco",
+    "rating": 5,
+    "review_text": "Nơi này THẬT TUYỆT VỜI. Từ lúc được chào đón ở cửa, đến ngụm trà gừng tuyệt hảo đầu tiên, món bò kho ngon tuyệt, pate gan vịt hảo hạng và nhiều món khác nữa - tất cả đều được chế biến ngay trước mắt thực khách khi tiến vào gian bếp hiện đại …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Kazimieras Biknius",
+    "rating": 5,
+    "review_text": "Một nơi ấm cúng, tuyệt vời. Thực đơn không quá đa dạng, điều này cho thấy chất lượng tuyệt vời của món ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Clara Moro",
+    "rating": 5,
+    "review_text": "Nơi này rất yên tĩnh, đồ ăn thực sự tuyệt vời, đặc biệt là bữa sáng kiểu Anh của họ. Và trà matcha của họ thì ngon tuyệt! Chúng tôi được chứng kiến ​​quá trình pha chế trà matcha tỉ mỉ, rất thú vị. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Arjen Harris",
+    "rating": 5,
+    "review_text": "Đây là quán ăn sáng muộn ngon nhất mà chúng tôi tìm thấy ở Hà Nội. Cô Lin đã giúp đỡ chúng tôi, cô ấy rất tuyệt. Chúng tôi đã quay lại đây thêm một lần nữa trong chuyến đi. Cà phê ở đây cũng rất tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Haakon Seim",
+    "rating": 5,
+    "review_text": "Đây là một nhà hàng thực sự tuyệt vời để thư giãn khi bạn muốn nghỉ ngơi khỏi những con phố nhộn nhịp của Hà Nội. Dịch vụ từ MK rất tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Sam",
+    "rating": 5,
+    "review_text": "Tôi đã ăn một trong những chiếc bánh burger ngon nhất mà tôi từng nếm thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Trần Lê Tuấn Vũ",
+    "rating": 5,
+    "review_text": "Một nơi tuyệt vời để tận hưởng cuối tuần. Trà trái cây và dịch vụ đều tuyệt vời. Chắc chắn sẽ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "EG",
+    "rating": 1,
+    "review_text": "Loại nhạc này hoàn toàn không phù hợp với một quán cà phê thời thượng như thế này. Nó phá hỏng mọi thứ, từ hương vị món ăn đến tâm trạng của khách hàng. Nơi này chủ yếu là khách du lịch nên làm ơn đừng bật nhạc Việt Nam. Nó không hợp chút nào. Nhạc Việt Nam thường nghe buồn, không thích hợp cho một ngày cuối tuần nắng đẹp. 🙄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Niall Hurley",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt nhất tôi từng nhận được ở Hà Nội."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Camille T",
+    "rating": 5,
+    "review_text": "Đồ uống tuyệt vời và bữa sáng thịnh soạn (chúng tôi đã gọi \"bữa sáng kiểu Anh\"). Một nơi rất tuyệt để thư giãn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Berkay Ergun",
+    "rating": 5,
+    "review_text": "Nhất định phải ghé thăm. Cà phê ngon nhất tôi từng uống ở Hà Nội. Bữa sáng thì tuyệt vời. Phục vụ cũng rất tuyệt, họ nói tiếng Anh rất trôi chảy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Fred Beaulieu",
+    "rating": 5,
+    "review_text": "Chúng tôi hoàn toàn YÊU thích bữa ăn tại HA:RIS…món ăn tuyệt vời, hương vị tuyệt hảo, và không gian cùng dịch vụ cũng tuyệt vời không kém! Một địa điểm tuyệt vời để thưởng thức hương vị Việt Nam truyền thống với phong cách sang trọng! Chắc chắn sẽ giới thiệu cho bất cứ ai đến Hà Nội!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Glenn Mawer",
+    "rating": 5,
+    "review_text": "Lại có bữa sáng tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Jasmin",
+    "rating": 5,
+    "review_text": "Chúng tôi ghé qua ăn sáng và uống cà phê và rất hài lòng, món trứng Benedict tuyệt vời và cà phê cũng rất ngon! Cà phê trứng là món ngon nhất chúng tôi từng uống, một cách tuyệt vời để bắt đầu ngày Chủ nhật của chúng tôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Devos P (pdevos)",
+    "rating": 5,
+    "review_text": "Một ốc đảo yên tĩnh và tinh tế tuyệt vời để tạm rời xa sự ồn ào náo nhiệt của Hà Nội. Chúng tôi đã gọi món salad rau arugula và pizza xúc xích chorizo ​​với phô mai burrata. Mỗi món đều tuyệt vời. Và họ rót nước khoáng cho chúng tôi như thể …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Martina Preti",
+    "rating": 5,
+    "review_text": "Tôi đã gọi món trứng chần với thịt xông khói và bánh muffin kiểu Anh, ngon tuyệt vời! Và cả cà phê với trứng theo kiểu đặc trưng của quán nữa. Nhân viên rất thân thiện và nói tiếng Anh rất tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Peter Giddy",
+    "rating": 5,
+    "review_text": "Không gian tuyệt vời, đồ ăn và rượu ngon - nhân viên phục vụ chu đáo 😊 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Danielle MacInnis",
+    "rating": 5,
+    "review_text": "Một quán cà phê mới tuyệt vời để thư giãn, thưởng thức đồ uống mát lạnh và đồ ăn nhẹ. Nhân viên rất chu đáo và không gian ấm cúng. Đồ ăn rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Anna Nietvantoepassing",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon. Nhưng nếu bạn gọi xiên thịt, phần ăn sẽ khá nhỏ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "aurélie D",
+    "rating": 5,
+    "review_text": "Chúng tôi đã có một bữa brunch ngon tuyệt!\n\nDịch vụ rất tuyệt vời! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "henry rawlings",
+    "rating": 5,
+    "review_text": "Lần đầu tiên đến Việt Nam\nđi ngang qua để mua nước ép trái cây\ncuối cùng lại ngồi ăn trưa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "sarka klickova",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, đồ uống tuyệt vời🩷 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Mathias Ernst",
+    "rating": 5,
+    "review_text": "Chúng tôi đến đây ăn bữa trưa muộn và món trứng Benedict rất tuyệt vời. Chúng tôi cũng thử cà phê trứng lần đầu tiên và nó cũng rất ngon. Tôi rất khuyên bạn nên đến Haris."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Brett Robinson",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và giá cả bất ngờ lại rất phải chăng. Hãy thử nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Niick Heng",
+    "rating": 5,
+    "review_text": "Cà phê ngon và nhân viên thân thiện. Rất đáng để thử!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Rheece Petersen",
+    "rating": 5,
+    "review_text": "Quán cà phê Ha:ris - Tôi không thể chê vào đâu được.\n\nĐồ ăn tuyệt vời và phục vụ hoàn hảo. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "AA AB",
+    "rating": 5,
+    "review_text": "Một địa điểm tuyệt vời để thưởng thức cà phê hoặc bữa sáng. Nhân viên lịch sự và rất chuyên nghiệp. Đồ ăn ngon. Và giá cả rất phải chăng. Đây là địa điểm đầu tiên và cũng là cuối cùng tôi ghé thăm trong những chuyến đi đến Hà Nội. Cố gắng lên đội ngũ HA:RIS!!! 👏 👏 👏 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Андрей Матиенко",
+    "rating": 5,
+    "review_text": "Một nơi tuyệt vời! Cảm giác sang trọng thật tuyệt! Không khí dễ chịu! Nhân viên thân thiện và đồ ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "PRANAV VASHISHT",
+    "rating": 5,
+    "review_text": "Linh đã giúp chúng tôi chọn món ăn. Không gian dễ chịu và mọi người thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Darren Fernando",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon\nPhục vụ thân thiện\nKhông gian tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Stephen Macnee",
+    "rating": 5,
+    "review_text": "Món trứng Benedict kiểu Dirty Pig thực sự rất ngon. Dịch vụ thì tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Danielle & Steve",
+    "rating": 5,
+    "review_text": "Nếu bạn đã ngán mì và đồ ăn đường phố rồi, và đang tìm kiếm thứ gì đó khác biệt, hãy ghé qua đây. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Leah Hancock",
+    "rating": 1,
+    "review_text": "Ngoài chúng tôi và một bàn khác, không có ai khác trong quán. Chúng tôi gọi đồ uống và thức ăn, rồi họ mới bảo là hết pizza. Hầu hết thực đơn đều là pizza. Sau đó, chúng tôi thấy bàn kia được phục vụ pizza. Thật lãng phí thời gian và tiền …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Claire Stevens",
+    "rating": 5,
+    "review_text": "Vị trí tuyệt vời, dịch vụ xuất sắc và đồ ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Yarik Karp",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, bữa sáng tuyệt vời, rất đáng để thử, rất nên ghé thăm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Nicolette Goh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon (tôi đã gọi tôm sú và cánh gà nướng) và nhân viên thân thiện (Linh nói tiếng Anh rất tốt và giải thích thực đơn cho chúng tôi rất rõ ràng)!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Xenia Fokina",
+    "rating": 3,
+    "review_text": "Bữa brunch chỉ phục vụ đến 4 giờ chiều, và thực đơn không hề đề cập đến điều này. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Praneet Singh",
+    "rating": 5,
+    "review_text": "Món ăn truyền thống Việt Nam được biến tấu rất tuyệt. Chúng tôi đã gọi bánh mì và gà nướng. Rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Tuấn Nghiêm",
+    "rating": 5,
+    "review_text": "Trải nghiệm thật tuyệt vời!! Đồ ăn ngon tuyệt, phục vụ chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Jason Fisher",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon và nhân viên thì thân thiện và hiệu quả!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "minh vu",
+    "rating": 5,
+    "review_text": "Huyền Anh là tuyệt nhất, chúng tôi ở đây là vì cô ấy rất tốt bụng và luôn hỗ trợ! Xin gửi lời cảm ơn đến nụ cười rạng rỡ của cô ấy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "KDan71",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhưng phục vụ thì tuyệt vời. Có hai cô gái trẻ phục vụ chúng tôi. Cả hai đều rất tốt bụng, thân thiện và chu đáo. Chúng tôi chắc chắn sẽ quay lại chỉ để gặp lại hai người họ. Tôi gọi bữa sáng kiểu Anh và trà gừng mật ong. Vợ tôi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Ramon De Swart",
+    "rating": 5,
+    "review_text": "Quán mới ở Hà Nội! Đẹp, hiện đại, sang trọng và phục vụ rất thân thiện. Đồ ăn ngon, bia hảo hạng, cocktail tuyệt vời! Vậy nên nếu bạn muốn thử điều gì đó khác biệt, hãy đến Ha:ris!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Chris Leung",
+    "rating": 5,
+    "review_text": "Chất lượng đồ ăn và dịch vụ tốt 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Patrick MacPherson",
+    "rating": 5,
+    "review_text": "Sự đón tiếp nồng nhiệt, thân thiện và nhiệt tình của nhân viên, đặc biệt là cô phục vụ Linh và cô Mi An phụ trách marketing! Thiết kế độc đáo và hiện đại với màu sắc tươi tắn, tràn đầy năng lượng. Đồ uống và bánh croissant rất ngon. Một địa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Nhật Anh Hồ",
+    "rating": 5,
+    "review_text": "Cà phê ngon, chỗ đậu xe dễ dàng, nhà vệ sinh sạch sẽ, tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Isabella Cossio",
+    "rating": 5,
+    "review_text": "Rất đáng để thử 👏🏼👏🏼 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Eddie Bartlett",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, Linh là một người phục vụ tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Lex C",
+    "rating": 5,
+    "review_text": "Salad và trà đá tuyệt vời, không gian đẹp, nhân viên siêu tốt bụng và dễ thương 💕 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Steve Brandon",
+    "rating": 5,
+    "review_text": "Địa điểm tuyệt vời để nghỉ ngơi và hồi phục sức khỏe sau khi tham quan."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Lina Elhn",
+    "rating": 5,
+    "review_text": "Tuyệt vời và rất hữu ích!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "dominique masson",
+    "rating": 5,
+    "review_text": "Địa điểm tuyệt vời để ăn bữa sáng muộn. Món ăn ngon và phục vụ chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "marc fitzcharles",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ rất tuyệt vời và nhiệt tình giúp đỡ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Ali Alfawaz",
+    "rating": 5,
+    "review_text": "Quán cà phê ngon, vị trí tuyệt vời và nhân viên thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Leonardo Serfert Junior",
+    "rating": 5,
+    "review_text": "Đồ ăn và thức uống ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Katrina Smith",
+    "rating": 5,
+    "review_text": "Khi đến Hà Nội, chúng tôi thèm một bữa ăn kiểu phương Tây ngon lành và ngay cạnh nhà nghỉ, chúng tôi tìm thấy một viên ngọc quý tuyệt vời, mới chỉ mở cửa được 4 ngày. Chúng tôi gọi món bít tết Angus Úc với hy vọng tuyệt vời và quả thật, nó …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Maria Restrepo",
+    "rating": 5,
+    "review_text": "Pizza rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Robert Baluyot",
+    "rating": 2,
+    "review_text": "Chúng tôi phải đợi hơn một tiếng đồng hồ mới được phục vụ đồ ăn, và lưu ý rằng chúng tôi là khách hàng duy nhất."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "VM Quintos",
+    "rating": 5,
+    "review_text": "Nhân viên pha chế và nhân viên phục vụ rất tốt. 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Rob Carmody",
+    "rating": 5,
+    "review_text": "Hao là một người phục vụ xuất sắc và ly espresso tôi uống thì tuyệt hảo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Thuy Duong",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Jerome Simon",
+    "rating": 1,
+    "review_text": "Tôi đi bộ đến đây nhưng cửa hàng đóng cửa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Ngoc Anh Dinh",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Chika / 치카",
+    "rating": 5,
+    "review_text": "Không gian tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Маруся",
+    "rating": 5,
+    "review_text": "Chúng tôi đã rất thích!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab00473b2de7:0x469695c64de66424",
+    "shop_name": "Haris Brunch & Grill",
+    "user_name": "Duc Le",
+    "rating": 5,
+    "review_text": "Tuyệt vời!!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Do Khang (Kevin)",
+    "rating": 4,
+    "review_text": "[English below]\nGhé quán vào một buổi trưa, mình chọn phần combo gồm gà, burger và coca. Gà được phục vụ nóng hổi, giữ được độ giòn và hương vị vừa vặn. Theo mình nhớ thì đây …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nguyễn Mạnh Giáp",
+    "rating": 5,
+    "review_text": "McDonald’s ĐaKao nằm ngay vòng xoay Điện Biên Phủ – một vị trí đắc địa bậc nhất khu trung tâm TP.HCM. Đây không chỉ là một cửa hàng thức ăn nhanh, mà còn là cửa hàng McDonald’s đầu tiên tại Việt Nam, mang ý nghĩa biểu tượng với nhiều người. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nam Anh",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, quán rộng rãi mới sửa mới lại, buổi tối ngồi ngoài đường rất mát, view lầu 1 vòng xoay ĐBP đẹp. Drive-thru đi cả xe hơi hoặc xe máy vào đều được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Trúc Linh",
+    "rating": 2,
+    "review_text": "Mình ăn ở chi nhánh này nhiều lần rồi, thường mình vẫn đổi được vị gà cay và không cay bình thường (ở chi nhánh khác cũng vậy) nhưng hôm nay thì gặp phải phản ứng của bạn nhân viên nói chuyện như ban phát ơn huệ cho mình :) Lần này hỗ trợ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Trân Bảo",
+    "rating": 2,
+    "review_text": "Thức ăn ở đây khá ngon và hợp khẩu vị của mình, đặc biệt nếu bạn đang tìm một bữa ăn nhanh, quen thuộc và dễ ăn. Chất lượng ổn định, đúng chuẩn McDonald’s nên về hương vị thì không có gì để phàn nàn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Mark",
+    "rating": 5,
+    "review_text": "Original review is provided below this Vietnamese translation .\n\nMcDonald’s là một nơi mà tôi gần như lúc nào cũng cảm thấy quen thuộc, dù đang ở …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Y Nguyen",
+    "rating": 5,
+    "review_text": "Quán có nhiều tầng, diện tích lớn, sức chứa cao và phục vụ xuyên suốt 24/7, cực kỳ phù hợp cho học sinh, sinh viên hoặc người đi làm tìm chỗ chạy deadline, họp nhóm hay ăn đêm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tính Võ Phạm Trung",
+    "rating": 3,
+    "review_text": "Bình thường mình mua về hoặc ăn tại chổ gà mềm, da giòn, ngon. Chiều nay 20/8 mua về gà phần ức bị khô rất lạ, bở và cảm nhận không được chiên từ thịt gà tươi. Mong hệ thống rà soát lại gà và quy trình để giữ ổn định hương vị và chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Toàn Huỳnh",
+    "rating": 3,
+    "review_text": "Quán gà rán cũng khá rộng rãi ngay góc vòng quay lớn. Không gian quán sang trọng và sạch sẽ, đồ ăn ngon, hợp khẩu vị. Nhưng khi ghé quán thì mọi người nhớ giữ lại bill để được miễn phí gửi xe nhé, mặc dù cảm thấy ko thích cách này lắm, đôi lúc quên giữ lại bill thì lại tốn tiền gửi xe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Toàn Đặng",
+    "rating": 1,
+    "review_text": "lần đầu như lần cuối mua trên app🙏🙏 mình có mua cb 2 mì 3 gà kèm khoai, khoai thì mốc lên vậy thì mấy miếng nguyên cũng kh dám ăn, gà thì lạnh tanh, không nóng được tý nào ( đừng đổ lỗi shipper tại nếu ship lâu cũng còn nóng bên trong) bỏ tiền ra để trải nghiệm nhưng thế này thì thôi té, say bye👋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thịnh Trịnh",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, quán rộng rãi mới sửa mới lại, buổi tối ngồi ngoài đường rất mát, view lầu 1 vòng xoay ĐBP đẹp. Drive-thru đi cả xe hơi hoặc xe máy vào đều được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thành Phát Bùi",
+    "rating": 1,
+    "review_text": "Mình 1 tuần ăn ở đây ít nhất 2-3 lần mua mang về. Thường mua combo 2 má đùi và 1 ức. Nếu các bạn ko có thì ko trách. Nhưng nếu có mà luôn gây khó khăn cho ng mua thì nên xem lại nhân viên nhé. Và mình rất nhiều lần nhắc nhở nhân viên chỉ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Phương Anh",
+    "rating": 1,
+    "review_text": "McDonald’s ở vòng xoay điện biên phủ, nhân viên có thái độ gì kì cục vậy?\nMẹ tôi lớn tuổi không biết sử dụng thiết bị điện tử tôi có dặn mẹ đến ăn thì check món trên bảng điện tử thì bạn đeo kính này không cho mẹ tôi đụng vào là sao …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Anna Pham",
+    "rating": 5,
+    "review_text": "chi nhánh này sau vài năm quay lại thì câ nhân mình . ngon và gà luôn nóng ra khói khi nhận trên tay nhé .. nhân viên khá là kiệm lời !\nbiết định  luật giữ bill để free giữ xe nên ko khó chịu như mấy bạn đánh giá kia …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tina Phan",
+    "rating": 1,
+    "review_text": "Không gian rộng rãi\nView đẹp mát mẻ\nNhân viên phục vụ cũng ổn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Như Huỳnh",
+    "rating": 3,
+    "review_text": "mình ko nghĩ phần khoai tây extra thêm 20k mà lại như phần nhỏ vậy, cảm thấy ko đáng với số tiền bản thân bỏ ra"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "đặng minh",
+    "rating": 5,
+    "review_text": "mình ăn ở đây nhiều lần rồi, đọc cmt 1* thì thấy nhiều người nói cái vụ gửi xe, rõ ràng ngay vừa vào chỗ để xe có cái bảng chình ình để giữ hoá đơn miễn phí gửi xe mà , có v thoi mà mng cũng vào đánh giá vụ đó... khó hiểu ❤️❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Uyên Lê",
+    "rating": 2,
+    "review_text": "Mình dùng bữa McDonald's từ rất lâu rồi, có thể gọi là tuần nào cũng ăn. Nhưng dạo gần đây các bạn nhân viên không hề đọc note kĩ, vài lần đầu còn hoan hỉ nhưng nay mình mong đội ngũ xem lại cách làm việc. Mình xin cảm ơn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Minh Kha Phung",
+    "rating": 3,
+    "review_text": "Mọi thứ đều ổn, trừ mấy con chạy xe PHÂN khối lớn xả khói ô nhiễm không khí, nẹt pô ô nhiễm tiếng ồn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thanh Mai Tran",
+    "rating": 4,
+    "review_text": "iu McDonalds vì mê gà bên này, nhưng dạo này gà ko ngon như trước.\nnhân viên dễ thương miễn chê, mình ngồi ngoài trời bàn chưa sạch thì có bạn nhân viên lại hỗ trợ mình ngay. mãi iu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ta Uyen",
+    "rating": 1,
+    "review_text": "Mình hỏi thật, bộ Mc Donald's không định tiếp khách nữa hay gì mà để nhân viên lên tắt hết đèn khi khách đang ngồi mà ko một câu xin lỗi hoặc một câu giải thích vậy?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tina Quynh",
+    "rating": 5,
+    "review_text": "Ăn đêm cứu đói, nhân viên vui vẻ tư vấn hõi trợ nhiệt tình, không gian thoải mái rộng rãi, thích nhất bánh pie táo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "nguyen dinh",
+    "rating": 2,
+    "review_text": "Không gian rộng rãi, thoáng mát, sạch sẽ và view đẹp.\nGà rán giòn, ngon.\nHamburger hấp dẫn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Phuong Huynh",
+    "rating": 2,
+    "review_text": "Tôi đợi gần 30 phút, sau đó phải tự ra quầy nhắc thêm lần nữa mới ra món. Nhận món mà rất shock vì rất sơ sài, qua loa.\nVd, burger trong menu có rau, mà thật ra chỉ có miếng bò nằm trơ trọi. Cái đùi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nguyễn Thúy Hằng",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời gà siêu ngon nhân viên đỉnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "tri dao",
+    "rating": 5,
+    "review_text": "Chi nhánh McDonald mà mình ưa thích nhất vì không gian rộng rãi, phục vụ nhanh chóng, drive-thru tiện lợi, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ng Marnie",
+    "rating": 5,
+    "review_text": "Ê nghe có vẻ buồn cười nhưng mà CÀ PHÊ SỮA ĐÁ ở Mc Donalds thật sự NGONNNNN.\n\nCó lần bạn t cà phê đâu ngon t chỉ dô MD ai cũng chửi t điên nhưng mà khi họ thử …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nhi Biện",
+    "rating": 5,
+    "review_text": "Lần đầu ghé chi nhánh này với vài người bạn, thấy khá là ưng. Không gian siêu rộng hơn mấy chi nhánh trong trung tâm thương mại hay trong siêu thị. Toilet sạch và rộng. Tụi mình đi buổi trưa nên dù đông khách vẫn nói chuyện và ăn uống thoải …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Paulie Thế Bảo",
+    "rating": 5,
+    "review_text": "Món ngon sạch sẽ đa dạng không gian mở & kín, rộng rãi thoáng mát. Tuy nhiên toilet ở dưới sảnh cần dọn dẹp sạch sẽ và xử lý mùi hôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Linh Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon tuyệt vời. Tuần nào cũng đi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Huu Vinh Pham",
+    "rating": 4,
+    "review_text": "McDonald là nhà hàng duy nhất cung cấp mua hàng trên xe làm mình ấn tượng quanh khu vực Q1 & Phú Nhuận & Bình Thạnh so với các quán khác. Một vài đánh giá về quán: …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Vy Đỗ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, pv nhiệt tình, sạch sẽ, view đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Phụng Linh",
+    "rating": 5,
+    "review_text": "Không gian thoải mái, có bãi đậu xe hơi, ăn k gò bó thời gian."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Khôi Mai Nguyên",
+    "rating": 5,
+    "review_text": "Chỗ này khá tiện cho việc đi ăn sớm hoặc chơi khuya vì mở 24/7. Không gian rộng, vị trí gần trung tâm. Combo khá rẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Đinh Hoàng Trang 0672-",
+    "rating": 5,
+    "review_text": "nhân viên phục vụ tận tình, dễ thương đồ ăn quá ngon. 100đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nguyễn Hoàng Anh Futsal",
+    "rating": 5,
+    "review_text": "Dưới đây là đánh giá chi tiết về McDonald’s Đa Kao (địa chỉ: 2-6 Bis Điện Biên Phủ, phường Đa Kao, Quận 1, TP.HCM): …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nam Đình",
+    "rating": 1,
+    "review_text": "Hết món muốn đổi thì không nói ship gọi cho khách cho ship chờ 30p trễ hết cả đơn không bao h nhận ship quán này nx  2:24 ngày 22/1/2026 nhân viên nữ đeo khẩu trang đen làm vc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "kim sa tran",
+    "rating": 5,
+    "review_text": "rộng. thoáng. dịch vụ tốt. có bill thì miễn phí giữ xe. ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Duy Nguyen",
+    "rating": 1,
+    "review_text": "Lần đầu đi ăn một chuỗi thức ăn nhanh mà bực mình như vậy. Đầu tiên là làm món siêu lâu, tôi đã đợi tận gần 20p để được nhận phần ăn, trong khi tôi cũng thấy nhiều khách order sau vẫn được nhận trước. Thứ 2, vấn đề gửi xe, lần đầu đi thì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Duyên Đoàn Hương",
+    "rating": 4,
+    "review_text": "Vị trí đắc địa nên view ở đây thì không phải bàn rồi. Quán tự phục vụ nhưng vẫn có nhân viên lau dọn bàn cho khách nên mình thấy okela. Gà chiên hơi khô, mình thích tương ớt vs tương cà ở đây, chấm đồ chiên rất hợp. Nước với kem thì khá …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thanh Trung Trần",
+    "rating": 5,
+    "review_text": "Không gian mới, thoáng hơn, hình như McDonald's đang đổi theo concept này. Có thêm máy Order, thời gian đứng gọi món củng nhanh hơn.\nVề đồ ăn thì củng không có gì để review thêm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Huynh Huy (Henry)",
+    "rating": 4,
+    "review_text": "Big mac ăn được, cafe uống được.\nVị trí thuận lợi, không gian rộng, sạch sẽ.\nCác bạn nhân viên nhanh nhẹn, lên món nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "TD HN",
+    "rating": 1,
+    "review_text": "Cửa hàng lớn kinh doanh, giữ xe nghiêm túc, khi mình dùng món xong thì khi ra lấy xe thì Bảo vệ hỏi có bill không? Nếu không có bill cho thu 5k giữ xe.\nKhông tranh cải lấy 5k ra đưa. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tu Nguyen",
+    "rating": 3,
+    "review_text": "Mọi thứ đều ổn cho đến khi bảo vệ kiểm tra thẻ xe và nói rằng cần có bill tính tiền mới miễn phí giữ xe, không có thì thu 20k, bình thường trường hợp này thu 50k. Bảo vệ tự làm luật rất tự nhiên thì chắc không phải lần đầu tiên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ngu Lee Đông",
+    "rating": 5,
+    "review_text": "Ăn chi nhánh này cũng vài lần, rất rộng rãi và thoáng. Các món được làm tương đối nhanh. Nhưng đôi khi lượng khách đông nên cũng phải đợi lâu xíu. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "kim ngân trần ngọc",
+    "rating": 1,
+    "review_text": "1 lần quên hẳn 1 cái buger và lần này quên 4 bịch mayone"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Le Phuoc Phuc",
+    "rating": 4,
+    "review_text": "Lâu lâu đi ăn “junk food”. Không gian rộng rãi mát mẻ, thoải mái, dịch vụ tạm ổn. 5 sao cho việc order tự động qua máy, thanh toán thẻ nhanh gọn. Đồ ăn thì khá tệ, tử burger đến gà đề dở không bắt vị."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Queen Ane",
+    "rating": 4,
+    "review_text": "McDonald’s ở vòng xoáy Nguyễn Bỉnh Khiêm và Điện Biên Phủ là một trong những cửa hàng có không gian rộng rãi, thoáng mát và khá dễ tìm nhờ vị trí nằm ngay giao điểm trung tâm. Điều mình thích nhất là bãi giữ xe có nhân viên hỗ trợ, nên dù …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thanh Tran Thi Thien",
+    "rating": 5,
+    "review_text": "hơn chục năm mới quay lại chỗ này. Mọi thứ vẫn tốt từ chỗ gửi xe đến không gian quán, NV phục vụ. Quán có 2 hình thức order: qua máy và tại quầy, nên ko bị tắt nghẽn khi đông khách …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Lucy Mark",
+    "rating": 4,
+    "review_text": "McDonald’s Drive Thru ở vòng xoay Nguyễn Bỉnh Khiêm là một điểm dừng khá tiện lợi cho những ai thường xuyên di chuyển qua khu vực này, đặc biệt vào giờ cao điểm khi không muốn xuống xe mà vẫn cần một bữa ăn nhanh. Không gian khu vực drive thru được bố trí rõ ràng, biển chỉ dẫn dễ hiểu nên việc đặt món khá thuận tiện, dù đôi lúc vẫn xảy ra tình trạng xếp hàng hơi lâu vào buổi trưa hoặc tối. Nhân viên giao tiếp qua loa phục vụ nhìn chung lịch sự và thao tác nhanh, nhưng đôi khi âm thanh qua loa hơi rè khiến việc trao đổi không được rõ ràng. Về đồ ăn, các món burger, khoai tây chiên và gà rán có chất lượng ổn định, nóng và đúng chuẩn đặc trưng của McDonald’s. Phần khoai tây thường giòn và ít bị mềm khi nhận, điều này tôi đánh giá cao vì nhiều nơi khác hay bị ỉu khi mua mang đi. Nước uống được phục vụ đầy đủ và đúng theo yêu cầu. Giá cả không thay đổi nhiều so với các chi nhánh khác, vẫn ở mức chấp nhận được đối với một thương hiệu thức ăn nhanh quốc tế. Tổng thể, McDonald’s Drive Thru vòng xoay Nguyễn Bỉnh Khiêm là lựa chọn phù hợp khi cần mua đồ ăn nhanh gọn, dễ dàng và ổn định về chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Gia Kiệt Nguyễn",
+    "rating": 5,
+    "review_text": "Tôi đã có một bữa ăn thật ngon lành ở đâu!!!!!:))))));))))))💯💯💯💯💯💯💯😍✨😚😚😚😚😍😚😚✨ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Hoangkien Vu",
+    "rating": 4,
+    "review_text": "Quán rất ok. Ngồi tối mát mẻ.\nBan ngày sau 9h mới có gà nhé. Sáng chỉ phục vụ nước uống, cf.\nTối hay có mấy bạn chạy moto nẹt ga, tụ họp mất trật tự. Cái này thì góp ý các bạn khách nên có ý thức chút"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nhi Huynh",
+    "rating": 4,
+    "review_text": "Không gian rộng rãi, thoáng mát, có chỗ ngồi  trong nhà và ngoài trời.\n\nMcDonald's giờ triển khai dịch vụ order bằng máy, cho khách hàng tự order và tự …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Lộc Cổ Thanh",
+    "rating": 1,
+    "review_text": "Đây là cửa hàng thức ăn nhanh phục vụ tệ nhất từng đi…\n- Đầu tiền khâu gửi xe bảo vệ thật sự ngồi như tượng không có 1 chút niềm nở hay hỗ trợ khách cất xe cho gọn hỏi tới thì im ru chỉ liếc 1 cái cho có rồi thôi\n- Phục vụ thái độ như không cảm xúc có khi khách đông quá\n- Bàn ghế lung tung, mặt bàn khá dơ\n- Khi ra về cũng không hướng dẫn khách về quy trình gửi xe, sử dụng bill để thanh toán tiền gửi xe hỏi tới bảo vệ thì kêu chỗ này riêng trong kia riêng là sao? Ví dụ gia đình đi ăn là mỗi người phải order 1 bill riêng không được order chung hay sao? Hỏi tới thái độ rất là khó ưa kiểu như là thôi phiền quá đưa tiền rồi về lẹ đi\nĂn uống xong phải ôm bực tức về nhà khó chịu thật sự và sẽ không ghé lại chi nhánh này 1 lần nào nữa. Nên làm việc lại với bên phía bảo vệ để khách hàng cảm thấy thoải mái và được đón tiếp khi đến đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "SPA ZOWADA",
+    "rating": 5,
+    "review_text": "Mỗi khi thèm burger trong đầu toai chỉ nhớ mỗi McDonalds. Thích nhứt vò có sốt mayonnaise nữa. Điểm cộng là khôgn gian thoáng mát, đến có nhiều chỗ chụp hình không chỉ mỗi ảo mà còn đẹp. Rất phù hợp làm tiệc cho các bé, vì tui lớn mà còn mê huống chi các babe."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Yến Phạm Bảo",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình. Đặc biệt là bạn nhân viên Chí Nguyên, dễ thương xĩu, phục vụ cực tốt mà nói cực nhẹ nhàng. Buổi trưa 10 điểm không có nhưng <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Phạm Hạnh",
+    "rating": 1,
+    "review_text": "thái độ bảo vệ quá thô lỗ, bấm điện thoại và thái độ với khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tin Tran",
+    "rating": 4,
+    "review_text": "Quán hơi đông, thức ăn bình thường, khoai tây nóng và giòn. Nhà vệ sinh sạch sẽ nhưng hơi cũ theo thời gian. Có chỗ giữ xe ô tô và xe máy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Hà Hiếu Thuận (Hiếu Thuận)",
+    "rating": 5,
+    "review_text": "Về chất lượng món ăn và phục vụ thì quá tốt. Chỉ mỗi cái Toilet tầng trệt bị khoá cửa muốn rửa cái tay chạy lên tầng 1. Ông bà cụ 80tuổi, ng đi lại bất tiện ko nên ghé (cầu thang cao chót vót). Nhờ lao công mở thì cũng mở á mà mặt như … rồi khách đang ngồi ăn lấy chổi quét quét vô thẳng mặt nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Quang Minh Ho",
+    "rating": 5,
+    "review_text": "Rộng, thức ăn ngon kiểu Mỹ phục vụ ok, không có gì phàn nàn, nhà vệ sinh lầu một nên vệ sinh tốt hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Hồ Duy Hiển",
+    "rating": 5,
+    "review_text": "Quán ăn gà rán thân quen của mình hơn 10 năm qua nay đã thay đổi thiết kế mới rất đẹp. View mới rộng rãi sang trọng thoải mái. Nhân viên luôn pv nhiệt tình vui vẻ lịch sự. Mình đi muộn nên lên lầu ngồi chụp hình không ảnh hưởng khách ở dưới …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Huy Trần",
+    "rating": 1,
+    "review_text": "Từ bao giờ mà nhân viên lại nói chuyện với tài xế một cách vô học như thế vậy. Một chuỗi nhà hàng lớn mà lại đào tạo ra thể loại nhân viên chỉ cư xử mất dạy chứ không nói được lời lẽ nào ra hồn cả. Việc hỏi là đồ ăn sao lâu vậy cũng là sai …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "anhtuyet nguyen",
+    "rating": 5,
+    "review_text": "Hôm nay order set mới Neko Lê S.T Sơn Thạch Meal, nhân viên hướng dẫn tận tình, giúp đỡ khi mình chọn sai, rất dễ thương! Set gà không bị khô, dễ ăn, gà viên thì dai giòn, burger cũng ngon. Đặc biệt là có card của Neko Lê và S.T Sơn Thạch rất đẹp!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Trần Gia Nghi",
+    "rating": 5,
+    "review_text": "Thích ăn muffin của McDonald. Chỉ bán buổi sáng. Bánh ngon nhưng nhân thịt nướng không hợp khẩu vị lắm. Cafe uống ok. Có bãi xe rộng rãi. Có drive through. Mở 24h. Không gian hơi nóng. Còn lại mọi thứ ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thien Dang",
+    "rating": 5,
+    "review_text": "Đầu tuần mà siêu đông nha, tuy đông nhưng lên món nhanh. Đồ ăn nóng hổi, mình thích gà rán của Mcdonal vì khá là mọng nước.\nĂn xong nhớ giữ lại bill để được gửi xe miễn phí nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nhà ở và Du Lịch",
+    "rating": 1,
+    "review_text": "Đánh giá 1 sao – Trải nghiệm cực kỳ tệ tại Dolnal Điện Biên Phủ\n\nTôi đã có một trải nghiệm vô cùng thất vọng tại Dolnal Điện Biên Phủ. Ban đầu, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Hoang Minh Thang Nguyen",
+    "rating": 4,
+    "review_text": "Không gian rộng rãi, thoáng mát, sạch sẽ và view đẹp .\nTrong cửa hàng, nhiều máy tự order và thanh toán nên rất thuận tiện cho khách hàng lựa chọn món một cách nhanh chóng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Xuan Truong Le",
+    "rating": 2,
+    "review_text": "Tôi vốn là khách quen của chi nhánh này. Nhưng trải nghiệm ngày hôm này thì thật là tệ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Trường Nguyễn",
+    "rating": 5,
+    "review_text": "Phù hợp làm điểm dừng chân nhanh, đồ ăn chờ tầm 10p vị trí trung tâm dễ tìm đến"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Quỳnh Trần Ngọc Bảo",
+    "rating": 5,
+    "review_text": "Mọi thứ đều perfect, riêng nhân viên có c Oanh hỗ trợ rất nhiệt tình, vui vẻ niềm nở với khách hàng. Rất hài lònggggggg💓💓💓 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Sao Việt Bùi",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon khỏi bàn, tuy nhiên ở đây khách gia đình khá đông nên con nít rất ồn ào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Phạm Duy (Duy Siu Nhân)",
+    "rating": 4,
+    "review_text": "Quán rất đông khách. Không gian rộng rãi. Có khu vui chơi cho trẻ em. Có rất nhiều phòng tổ chức sinh nhật. Đây là nơi rất phù hợp cho dân văn phòng hay học sinh sinh viên cần yên tỉnh trong thời gian nghỉ trưa. Nhà vệ sinh sạch sẽ và hiện đại. Thái độ nhân viên nhiệt tình, vui vẽ. Nhưng đồ ăn đặt trước thì chậm trễ cần khắc phục."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "truong xuka",
+    "rating": 3,
+    "review_text": "Quán như bình thương thôi, nhưng hôm đó dịch vụ hơi tệ, chờ lâu, nhân viên nói chuyện không phải phép với khách. Thôi thì cho qua tạm chấp nhận nhưng không bao giờ ghé lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Gia Cát Lượng",
+    "rating": 5,
+    "review_text": "Vị trí: nằm ngay vòng xoay Điện Biên Phủ nên dễ tìm\nKhông gian: \n+ 2 tầng rộng rãi thoáng mát\n+ decor hiện đại, có view ban công kính cực xịn sò\n=> khá phù hợp cho các nhóm bạn hoặc gia đình\nĐồ ăn: gà khá ngon, mình gọi combo cơm gà 54k và …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ngo Duc Trong",
+    "rating": 5,
+    "review_text": "Quán có vị trí cực kỳ thuận tiện, ngay vòng xoay Điện Biên Phủ. Đồ ăn sáng có nhiều combo giá cực mềm chỉ 39K, chỗ đậu oto rộng, thoải mái. Có thể mua tại quầy hoặc mua tại máy bán hàng tự động, trải nghiệm mua hàng từ máy rất thú vị. Đồ ăn quá ok so với giá, vị trí và chỗ đậu oto."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Triển Thanh",
+    "rating": 5,
+    "review_text": "CN này rộng rãi, sạch sẽ hơn. nhân viên thân thiện\n- Nhớ giữ bill để free phí giữ xe 🏍️\n- Máy kiosk cũng nhiều hơn các CN khác, tiện lợi để mua\n- Gà ngon …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Vu Thi Thu Thuy",
+    "rating": 4,
+    "review_text": "Quán ở vị trí trung tâm, có khu vực mua mang đi mà không cần vào quán. Nhân viên phục vụ chu đáo, nhiệt tình. Thực đơn ngon, giá phù hợp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nguyen Ari",
+    "rating": 3,
+    "review_text": "Lần đầu mua \"drive thru\" nên mình ko rành lắm. Hỏi anh bảo vệ ảnh rất vui vẻ và nhiệt tình hướng dẫn. Nhưng lại trụ order thì gặp con nhỏ order đúng kiểu khó ưa. Miệng nó như lập trình nói mấy câu cố định nhưng ko quen nên ban đầu mình nghe …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "David Trương",
+    "rating": 4,
+    "review_text": "Cũng như bao chia nhánh khác đồ ăn vẫn như vậy, thơm ngon, nhưng có nốt lấy ức thì lại cho cánh, thật là lùng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thư Anh",
+    "rating": 1,
+    "review_text": "Trải nghiệm tệ. Nhân viên thì ok nhưng đồ ăn xuống cấp hẳn nha. Burgers thì khô miếng bánh như để qua ngày lâu r. Nước ngọt mình mua size nhỏ và size vừa. 1 li nghe mùi mốc và như mùi nước không tên lm từ đá tan ra ấy, 1li thì nhạt ko có nổi ga luôn . Gà khô cũ ko như ord chi nhánh khác về Tệ!!!!!!! Đặt app khác ăn tại quán vậy trời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Duong Binh",
+    "rating": 5,
+    "review_text": "Có nhiều chỗ đậu xe ( miễn phí nếu có hóa đơn mua hàng ). Tiện xem đua xe cúp truyền hình cả từ bên trong quán hoặc đi bộ ra ngoài 50m-100m xem"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Kieu Khoa (Local brand Teeholic)",
+    "rating": 4,
+    "review_text": "Đồ ăn thì ngon, vị trí cũng đẹp, rỗng rãi đễ oto thoải mái, mỗi tội chỉ có 2 wc. Wc phía trên hay khoá do có tiệc sinh nhật chỉ còn lại phía dưới nên chờ đợi đi wc lâu, mình đã chứng kiến nhiều người có thái độ rất bực khi phải chờ đi wc, mong ban quản lý xem xét việc này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Anh Thy Trương Ngọc",
+    "rating": 3,
+    "review_text": "Cũng cũng đi =)))) Vì drive thru nên khá tiện, rất chuẩn đồ ăn nhanh. Mình ghé 8h tối mà đông nghẹt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Cee Pham",
+    "rating": 5,
+    "review_text": "Chuẩn bị nhanh, gà rán cay cheese siêu ngon, giá cao hơn những brand khác.\nTuy nhiên Big Mac bò mỏng, hơi khô và không ngon như trước.\nLàm món nhanh, nhân viên chuyên nghiệp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Khang Nguyễn Đặng Trí",
+    "rating": 4,
+    "review_text": "McDonald’s tại đây có lẽ là một trong những chi nhánh lớn nhất mà mình biết đến, có nhiều chỗ ngồi, khuôn viên rộng và chỗ giữ xe cũng lớn. Vị trí hướng ra vòng xoay, view khá đẹp để ngắm nhìn đường phố. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Lưu Phan Ngọc Bích",
+    "rating": 4,
+    "review_text": "Không gian rộng rãi thương hiệu nổi tiếng. Chỗ này thuận tiện hẹn hò bạn bè cà phê làm việc đối tác.\nĐặc biệt tùy quán đông nhưng không quá hồn ao như chỗ khác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ngân",
+    "rating": 1,
+    "review_text": "Mình có đặt trên shopeefood 2 combo tổng cộng là 8 miếng gà nhưng quán chỉ giao có 7 miếng, gọi điện cho hotline thì không được, mong quán kiểm tra kĩ trước khi giao🙂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thach Ngoc",
+    "rating": 5,
+    "review_text": "Tui đến đây thương xuyên dịp này vì có ct happy meal phần ăn trẻ em có quà là các em bé Minions này nè ạ, tui thì mê hamburger bò phô mai ở đây, ngập răng ! Mê lắmmmmmmm ngonnnnn lắmmmmm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "cao nguyễn thanh",
+    "rating": 4,
+    "review_text": "Macdonal là thương hiệu về gì thì không cần nói chắc bạn nào cũng biết. Tuy nhiên có 1 cái hay ho mà Macdonal Việt Nam có đó là về Việt nam Mac donal được đồng hóa đi bán gà rán như KFC, Texas chiken, lotteria... luôn :)) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tuấn Tomm",
+    "rating": 1,
+    "review_text": "Nhân viên ép khách lấy khoai thay cơm gà. Chưa bao h hỏi khách có muốn hay k. Ko thông báo, nch thì thái độ. Ócc chos. Để mẹ cửa hàng tình thương đi còn châm trước cho"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Paul Tran",
+    "rating": 4,
+    "review_text": "Nơi quá nổi tiếng với giới trẻ trên toàn thế giới, hương vị ở bất kể đâu cũng same same nhau, tụ tập bạn bè, ăn uống gia đình, sinh nhật con cháu đều phù hợp.\nTuy nhiên, khá ổn ào và đông khách. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Alice Demon",
+    "rating": 3,
+    "review_text": "dịch vụ bảo vệ giữ xe tệ có thu phí tiền và thái độ không được niềm nở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Manh Huan",
+    "rating": 5,
+    "review_text": "Ăn vào buổi trưa và ăn vào ngày lễ nên hơi đông mot chút, đồ ăn tạm ổn, gà ăn ngon hơn so với mấy hiệu khác còn hamburger thì cũng được và đây là lần đầu mình ăn McDonald's, đặc biệt là kem rất ngon rất béo mềm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Hong Han Nguyen",
+    "rating": 5,
+    "review_text": "Cảm giác nhà hàng chỉ có 3 phục vụ nhưng lên món khá nhanh, thân thiện với trẻ nhỏ dù khách khá đông vào cuối tuần\nKhông gian quán rộng, có khu ngoài trời và trong nhà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Heiko Grimm",
+    "rating": 4,
+    "review_text": "Lần cuối cùng tôi ở McDonald có lẽ 15 năm trước. Nhiều thứ đã thay đổi. Bây giờ họ có Máy tính với màn hình cảm ứng để đặt món ăn. Mỗi máy tính có 2 nhân viên để giải thích cho khách hàng về cách thức hoạt động của nó. Sau khi nó cần phải trả cho một trong 3 nhân viên thu ngân cho đơn đặt hàng. Điều này là tốt?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Vy Ngô Thị Thảo",
+    "rating": 5,
+    "review_text": "Chi nhánh này service tốt, nhân viên thân thiện và đồ ăn phục vụ nhanh ngon. Mình ra khách ruột ở chi nhánh này vì nó rộng rãi và gần nhà. Không gian trong và ngoài đều rộng. Highly recommend"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Đình Phúc Bùi",
+    "rating": 3,
+    "review_text": "Gờ giảm tốc quá cao. Bãi rác gần bãi gửi xe nên mỗi lần đi qua mùi khó chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thanh Phi Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian rộng rãi. Thích hợp gặp gỡ bạn bè cuối tuần.\nNước uống đồ ăn ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Lồng Đèn Thủ Công Việt Nam Handicraft",
+    "rating": 3,
+    "review_text": "Món tốt, NV nhiệt tình\nMà Nhà vệ sinh khai quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tuannaybanhgi",
+    "rating": 5,
+    "review_text": "Ngon, chỗ ngồi tiện lợi, mở 24/24 và hay có khuyến mãi, vô đây ngồi học bài chạy deadline và ko sợ đói khát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Duc Tam Tran",
+    "rating": 5,
+    "review_text": "Mình thích nhất món cánh gà chiên giòn và cafe sữa đá VN ở đây. Các món khác thì cũng “so so” như những chuỗi fast food khác. Điểm cộng là vị trí đắc địa ngay vòng xoay, dễ dàng ghé đến để mua. Bãi xe rộng rãi và miễn phí. Ngoài ra còn có …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tuấn Nghĩa Bùi",
+    "rating": 5,
+    "review_text": "Nhà hàng bày trí không gian rất tiện nghi và sáng tạo, khoa học. Phương thức đặt hàng đa dạng và tích hợp nhiều loại hình thức ăn, nước uống và có thể trả tiền bằng thẻ hoặc tiền mặt. Rất thích hợp cho họp bạn bè hay tổ chức tiệc sinh nhật, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Giàu Phạm",
+    "rating": 4,
+    "review_text": "chưa thấy bảo vệ nào phải gọi là “ khó chịu “ như bảo vệ ở đây luôn. Lúc mình tới khách đi về không biết đường ra thì cứ chỉ tay rồi bấm dt, khách đó không biết xong tỏ vẻ khó chịu. Không biết để làm gì luôn, làm dịch vụ mà ko tôn trọng khách hàng. Mấy bạn nhân viên dễ thương, hỗ trợ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Trung Nguyen",
+    "rating": 5,
+    "review_text": "Món gà viên rất ngon, dai thơm như chả gà. Việc order bằng máy tính vô cùng tiện ích và nhanh chóng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nguyễn Dũng (Dũng review có tâm)",
+    "rating": 5,
+    "review_text": "Burger vị phở mới xịn xò,ăn độc đáo lắm .\nĐánh giá cao món fusion này mong nhà hàng phát huy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Kayce Pham",
+    "rating": 5,
+    "review_text": "Cửa hàng McDonald’s chi nhánh Đa Kao là cửa hàng đầu tiên của hãng được mở tại Việt Nam vào năm 2014 và đây được cho rằng là chi nhánh đẹp nhất trong 17 chi nhánh của McDonald’s tại TP.HCM. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Yoobin Nguyễn",
+    "rating": 5,
+    "review_text": "Trải nghiệm khá ok nha mọi người. Các bạn vui vẻ, hướng dẫn nhiệt tình, anh giữ xe cũng rất vui vẻ luôn ạ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Trung Nguyễn Nhân",
+    "rating": 5,
+    "review_text": "Vị trí trung tâm.\nGiao tiếp hiện đại, order bằng nhiều màn hình cảm ứng, với giao diện đẹp, dễ dàng sử dụng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nguyễn Thị Lan Anh",
+    "rating": 4,
+    "review_text": "Không gian rộng rãi, thoáng mát, sạch sẽ và view đẹp . Nằm ngay vòng xuyên đi ra quận 1.\nTrong cửa hàng, nhiều máy tự order và thanh toán nên rất thuận tiện cho khách …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ngân Yến",
+    "rating": 4,
+    "review_text": "Mc ở đây khá lớn, rộng rãi sạch sẽ, nhân viên phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Van Buiducvan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , phục vụ nhanh chóng chỗ ngồi thoải mái thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Bình Lê",
+    "rating": 1,
+    "review_text": "nhân viên không chú ý lời nói của khách , trưa 5/5 mua về kêu khỏi lấy mấy tương kia lấy mỗi tương ớt ngọt nv cũng k để ý , kêu lấy tương chua ngọt hì lại lấy bbq , không biết có coi trọng khách hàng hay không mà làm ăn kiểu vậy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thị Tuyết Anh Nguyễn",
+    "rating": 1,
+    "review_text": "Mình ăn ở đây nhiều lần nhưng lần này nhân viên không tập trung khi tiếp khách, nhận tiền khách cũng không nhận bằng hai tay và đưa lại khách bằng một tay, mình rất không hài lòng với thái độ như vậy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Yen Ngoc La",
+    "rating": 3,
+    "review_text": "Bán hàng chuẩn quốc tế, ăn bằng tay nhưng lại k có chỗ rửa tay tiện lợi. Toàn phải leen lầu, hoặc đi xa, chỗ thì rửa xong lại phải kéo cửa nặng bước ra với lại bước vào nhà vệ sinh hôi cũng tuột mood. Không hiểu tại sao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "XINGQI",
+    "rating": 5,
+    "review_text": "⭐ Không gian rộng rãi, thoải mái (1 trệt 1 lầu) nhiều bàn nhiều chỗ ngồi cả trong nhà lẫn bên ngoài. Decor đẹp, ấn tượng, có màu sắc, điểm nhấn riêng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Hạ Uyên",
+    "rating": 5,
+    "review_text": "Mở 24/24 là điểm + lớn nhất vì mình hay đói đêm :))) sát bên nhà đi bộ ra là tới nên cho 5* :))))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Hiep Nguyen",
+    "rating": 5,
+    "review_text": "McDonald’s Điện Biên Phủ – Đa Kao (drive-through)\n\nHôm nay mình ghé qua drive-through McDonald’s chi nhánh Điện Biên Phủ, Đa Kao để …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Linda Chau",
+    "rating": 5,
+    "review_text": "Quán nằm ngay vòng xoay Điện Biên Phủ, rộng rãi, mát mẻ. Tuy nhiên mình thấy toilet tầng trệt hay bị khoá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Le Uyen",
+    "rating": 5,
+    "review_text": "không gian quán rộng rãi có khu vực ngoài trời tầng trệt và tầng thượng, phục vụ nhanh nhân viên nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Jack Pham",
+    "rating": 5,
+    "review_text": "Địa điểm mở xuyên 24h dành cho các tín đồ ăn khuya được, lâu lâu máy mua hàng hay bị lỗi thanh toán gây mất thời gian, Tết ra ăn nhưng lại hết gà, cửa hàng cần xem xét lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Cường Nguyễn",
+    "rating": 5,
+    "review_text": "Quán 24/7. Tối đông khách chạy deadline, chơi game đến sáng. Nước mình uống trà cam xí muội 60k (giá cũng kha khá) mng cân nhắc nha. Để xe bên ngoài quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Mini Hà",
+    "rating": 5,
+    "review_text": "Đặt món bằng màn hình cảm ứng, cảm thấy tiện dụng hơn gọi món.\nThức ăn khá ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Kien Ng.",
+    "rating": 3,
+    "review_text": "Chỗ ngồi thoải mái, không gian rộng rãi. Đồ ăn nước uống cũng ngon và đa dạng, ly sôcôla đá xay đặc sệt rất đậm đà... Phục vụ tốt nhưng dễ sai sót khi đông khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Huyền Lê",
+    "rating": 4,
+    "review_text": "Gà tươi, không bị khô, ngoài giòn trong mềm\nRa món nhanh, gọn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Khánh Linh Nguyễn",
+    "rating": 5,
+    "review_text": "Nhìn ảnh là hiểu tần suất đi ăn nhiều cỡ nào. Gà cay McDonald ngon nhất trong tất cả các hãng gà mình từng ăn. Chổ ngồi rộng rãi, nhà vệ sinh sạch sẽ, mình hay đi buổi trưa nên khá yên tỉnh, nhưng nếu cuối tuần thì con nít nhiều hơn nên sẽ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "nguyen phuc",
+    "rating": 5,
+    "review_text": "Chị emma dth chất lượng đồ ăn ngon sẽ quay lại nhân viên phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thanh Hùng Nguyễn",
+    "rating": 5,
+    "review_text": "Đi vào buổi trưa ngày mùng 3 Tết, không quá đông nhưng hơi ồn do có các em nhỏ nghịch\nToilet hơi có mùi 1 tí …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Mỹ Anh Nguyễn Thị",
+    "rating": 5,
+    "review_text": "McDonald's là thương hiệu thức ăn nhanh đến từ nước ngoài. Hình như đây là cửa hàng đầu tiên mở ở Vietnam. Nhớ hồi đó khai trương ngày đầu đông quá, đông cực kì, ai cũng muốn thử cả. Có lối đi riêng dành cho khách mua đồ ăn mang về. Đi tới …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thiên Thư (Mẹ Tím)",
+    "rating": 5,
+    "review_text": "Một gợi ý về địa điểm tổ chức sinh nhật cho các bé. Ở đây có 3 phòng sinh nhật trên lầu 1, sức chứa tối đa 50 khách. Thuận tiện cho các mẹ không có thời gian chuẩn bị tiệc cho con, chỉ việc chọn phần ăn, số lượng... Tới giờ là đồ ăn thức …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Zoey",
+    "rating": 4,
+    "review_text": "View đẹp. Chỗ ngồi rộng rãi, thoải mái.\nThức ăn thì hơi nguội. Không ngon. Thịt hay phile cũng không ngon.\nKhoai tay chiên và pepsi thì ổn chút."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Lynh Nguyễn",
+    "rating": 1,
+    "review_text": "Ăn ở mc nhiều lần rồi nhưng thời gian gần đây rất tệ .nhân viên k nhiệt tình như trước .gà thì cứ bị đỏ .ngoài đỏ hơn cả trong hình .k dám ăn luon .hỏi nv thì tl cho có cho qua.có hôm ứ cả máu k ăn đc.k hỉu nỏi luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Sam Sam",
+    "rating": 4,
+    "review_text": "Ở đây không gian cực rộng luôn\nLàm việc rất tốt, tuy nhiên buổi tối sẽ đông đúc và hơi ồn nếu có tiệc thì sẽ đông lắm, không gian trên lầu lộng kính nhìn rất có mood làm việc hoặc gặp đối …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Bin Trần",
+    "rating": 4,
+    "review_text": "Phần ăn như ảnh, đồ ăn và thức uống của Mc thì không bàn cãi, khá ok và vừa vị với đại đa số người dùng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Trinh Tuyet Nhi",
+    "rating": 5,
+    "review_text": "Sơ lược:\n+ Burger Bò ngon\n+ Thịt gà trong gà rán ngon (da phủ ngon nhưng tùy hôm) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Vy Trần",
+    "rating": 5,
+    "review_text": "gà ngon, quán rộng. Nhân viên siêu dễ thươnggggg, đặc biệt là chị Hằng Trần hjhjhj"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ly Nguyen",
+    "rating": 5,
+    "review_text": "Vị trí đẹp, giá cả dạo này rất tốt, phục vụ ok....nhưng ko hiểu sao khách hơi ít...chắc ít quảng cáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "24tkdh2.036 Khang",
+    "rating": 1,
+    "review_text": "Trẻ vị thành niên quá quậy , quậy quá đáng . Không kiên nể gì chỗ ngồi của các khách hàng khác !!! Mong lần sau không có trại nghiệm tệ như vậy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ngan Nguyen",
+    "rating": 5,
+    "review_text": "hôm nay mình đi ăn khuya. khu vực máy lạnh phía trong đèn vẫn mở và không để biển ngưng phục vụ khu vực đó nên mình vào ngồi vì có ghế êm.\nMình vừa mới ngồi xuống và đang bắt đầu ăn thì có một bạn nữ đi dọn. Mình nghĩ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Chang Tồ",
+    "rating": 4,
+    "review_text": "Khoai Tây, gà rất ngon. Kem cũng ko chê được 😂\nDuy có nhân viên phục vụ đi qua lại bàn tán về khách hàng nào đó. Nếu ko có điều này thì vote luôn 5* 😊 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ngọc Vũ Đinh Bảo",
+    "rating": 1,
+    "review_text": "Giao món sai . Đặt sốt chanh giao sốt khác là s ?lên app còn v thì bth như nào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "zia_지아 baby",
+    "rating": 5,
+    "review_text": "Bãi giữ xe rộng rãi. Đồ ăn lên nhanh. Nhân viên vui vẽ nhiệt tình. Sạch sẽ . Quán quen mỗi lần con muốn ăn fast food"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Phuong Nguyen",
+    "rating": 1,
+    "review_text": "Nhân viên không hổ trợ khách hàng. Vòi bơm tương ớt hư khách hàng yêu cầu đổi vòi nhưng các bạn yêu cầu khách hàng đi lên lầu lấy vì lý do rát bận. Công suất nhà hàng hiện tại chỉ khoảng 60% nếu quản lý ổn thì không những vấn đề như vậy nên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Vân Ngọc",
+    "rating": 5,
+    "review_text": "Rất đáng trải nghiệm, nhân viên rất ok. Không gian đẹp, hợp giới văn phòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Huy Khang",
+    "rating": 1,
+    "review_text": "Xài app macd mà quét ko đc mã nào, rất là mất thời gian. Hệ thống mà k đồng bộ dịch vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "kat ntl",
+    "rating": 4,
+    "review_text": "Mình hay ghé ăn nhất là vào khoảng 9-11h tối. Khá đông, có vài hôm vài chờ khách khác ăn xong thì mới có chỗ ngồi. Tuy nhiên cũng có những hôm thoáng khách hơn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tieu Phuong",
+    "rating": 5,
+    "review_text": "Mình đi vào chủ nhật nên quán rất đông. Hầu như gia đình dẫn mấy bé đi ăn là nhiều.\nCó nhiều máy kiot để order món tự động mà không cần nhân viên, rất hiện đại …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Hang CoCo",
+    "rating": 5,
+    "review_text": "Quán nằm ngay vòng xoay Điện Biên Phủ, hướng Q1 về Bình Thạnh.\nHệ thống McDonald, quán có 2 tầng, không gian rộng rãi, sắp xếp ghế phù hợp\nThích gà vs kem ở đây ghê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Cuong Pham Cao",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ chuyên nghiệp, không gian hiện đại, mát mẻ. Rất hài lòng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "ĐÔNG DƯỢC NESFACO",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ tốt, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nhu Nguyen",
+    "rating": 5,
+    "review_text": "Ngon\nCảm giá ngon hơn chi nhánh Biên Hoà luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Lavie",
+    "rating": 5,
+    "review_text": "Thức ăn ngon, không gian thoáng mát, phục vụ ok. Riêng toilet là hơi bất tiện và cần sạch sẽ hơn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ngọc Thuý",
+    "rating": 5,
+    "review_text": "Nhân viên “ Chí Nguyên “ dễ thương dì đâu nhẹ nhàng với khách hàng  10 đỉm không có nhưng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Yi Ni",
+    "rating": 5,
+    "review_text": "Wao tới đây đã quá đúng như wikipedia preview luôn mọi người\n\nMcDonald's là một tập đoàn kinh doanh hệ thống nhà hàng thức ăn nhanh với khoảng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Dieu Tuong",
+    "rating": 4,
+    "review_text": "App Mc đã tải về đt từ lâu, cũng nhờ app này mà khi nào muốn ăn Mc thì vào lấy mã km. Nhiều mã, voucher hấp dẫn. Sáng nay cũng vậy, 1 bữa sáng 40k cũng ok lắm. Trước khi ghé Mc thì lưu trước voucher, nhân viên họ cũng nhiệt tình lắm, nếu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Lê Nhựt Huy",
+    "rating": 4,
+    "review_text": "Tối không mở tầng trên nên không gian sẽ trật. Phục vụ nhanh, thái độ nhân viên vui vẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Dat TQ",
+    "rating": 5,
+    "review_text": "quán đẹp, đồ uống ngon, giá trung bình, bãi xe rộng, giữ xe miễn phí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Bảo An",
+    "rating": 4,
+    "review_text": "Đến chủ yếu để giao lưu cùng ae.\nVà còn nhớ về 1 người….."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Lợi Phạm",
+    "rating": 1,
+    "review_text": "nhân viên giao nhận khá tệ\nnam dáng cao to nch kiểu md"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nguyễn Phương",
+    "rating": 5,
+    "review_text": "Từ khi Mc về VN mình đã chuyển từ KFC qua Mc. Thật sự bên đây gà khá ngon. Da gà dòn và thơm. Thịt gà thì mền thấm vị không bị khô. Khoai tây ở đây khá ngon. Ở đây còn có nhiều loại nước chấm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Bảo Ngọc",
+    "rating": 5,
+    "review_text": "ok dắt cháu đi bé rất thích"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Phạm Thành Trung",
+    "rating": 5,
+    "review_text": "Phục vụ nhanh, không gian rộng rãi, sạch sẽ, ưng nhất là chỗ để xe ô tô khá thoải mái 😅 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tuyền Kim",
+    "rating": 1,
+    "review_text": "Thật sự mà nói là quán phục vụ rất tệ và trải nghiệm quá là ấm ức. Nhân viên thì xem khách không ra gì, hỏi a ơi dụng cụ ăn uống đâu ạ, thì a đầu tiên là ngó lơ và coi như hông biết gì, và mình tiếp tục hỏi a thứ 2 thì a bảo kìa bên kìa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ha Vu Thang",
+    "rating": 5,
+    "review_text": "Không gian ổn, đồ ăn ok, có chỗ đậu xe, đồ ăn nhanh nên vậy là ổn rồi 😗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tường Chopper",
+    "rating": 5,
+    "review_text": "Nhìn chung thì như mấy chuỗi thức ăn nhanh khác, vị trí đẹp, tiện ghé mua. Có thể đi với cả đám bạn đến đây ăn sáng, trưa và cả buổi tối. Không gian ở đây rộng nên thoải mái. Bên hông còn có mấy cái bàn, nếu các bạn muốn ăn ở ngoài thì có …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thanh Quang Phạm",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không khí thoáng mát, vien nhìn ra đg chiều tôi nhìn chill"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Khanh Vũ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình.\nTrên lầu thì hơi ồn, máy lạnh lúc bật lúc không."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "KmH Ng",
+    "rating": 4,
+    "review_text": "Hết chỗ ngồi lại nên mua bằng dịch vụ Drive-thru mang về. Tối mùng 👍🏻 nên đông lắm. Năm nay Tết bên McDonald's trưng hoa trang trí bên ngoài ít hơn và không đẹp như năm ngoái haz😅 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Leo Pham Trinh",
+    "rating": 5,
+    "review_text": "Không gian thư giãn, rộng rãi, mát mẻ\n\nThe area is relax, wide and cool"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nguyễn Ngọc Thiên Phúc",
+    "rating": 5,
+    "review_text": "Sạch sẽ, thoáng mát, nhân viên thì hỗ trợ rất oke, đồ ăn ngon 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ngan Hoang",
+    "rating": 1,
+    "review_text": "Đơn take away làm sai order, thiếu đồ ăn và burger không một cọng rau, order thêm hành cũng ko có. Chán cực kỳ 😷 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Vuongnhatnam Vuong",
+    "rating": 4,
+    "review_text": "Quán đẹp bánh kẹp ở quán thì tạm được. Không gian phù hợp cho những người làm việc. Phù hợp khi dắt theo trẻ nhỏ. Bãi giữ xe rộng rãi. Món kém rất ngon và cũng đã rất nổi tiếng giá 30k một ly Macflurry"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "SEAN HUANG",
+    "rating": 1,
+    "review_text": "Phụ vụ rất là lộn xộn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Trần Đắc Toàn",
+    "rating": 5,
+    "review_text": "Mọi khi chờ đợi đặt hàng khá lâu. Nay có máy tự đặt hàng nhanh lẹ. Phục vụ nhanh, có nhân viên lúc nhiệt tình quan sát và hỗ trợ khách hàng đúng lúc cần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Lân Nguyễn Thanh",
+    "rating": 5,
+    "review_text": "Chất lượng gà rán rất khác biệt với các nhãn hàng còn lại.\nChỗ đậu oto miễn phí (2 tiếng đầu tiên & có bill ăn tại cửa hàng)\nPhục vụ chuẩn mực. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Bùi Nguyễn Gia Mẫn (leobuinguyen)",
+    "rating": 5,
+    "review_text": "Chỗ tập trung quen thuộc của mấy ae motor chuẩn bị lên đường & nơi ghé về. Nói chung ổn, đồ ăn khu vực đẹp nên hơi đắt nhưng ko sao, tiện lợ là đc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "ngocchau truong",
+    "rating": 5,
+    "review_text": "Quán không gian rộng rãi, thoải mái, dễ dàng tập trung làm việc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Ng Phi Khanh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , nhân viên nhiệt tình , dễ thương , 100₫ không có gì để chê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "ĐINH NGỌC VÂN PHƯƠNG",
+    "rating": 5,
+    "review_text": "Ăn cũng tạm được, cũng như các thương hiệu gà khác. Nhưng dịch vụ và không gian quán thì ok thôi rồi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Leol Lê",
+    "rating": 5,
+    "review_text": "Đến vào một ngày cuối tuần cùng với người yêu. Lần đầu tiên ăn đồ MacDonald tại Việt Nam. Tiệm nằm khu vực tiện lợi, dễ nhìn thấy. Tiệm rất tấp nập khách, nhân viên rất nhiệt tình. Có khu vực điều hòa và ngoài trời cho mọi người lựa chọn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Z Z",
+    "rating": 5,
+    "review_text": "Combo đáng sử dụng nhất của mc donal là combo 29k, mc donal là 1 địa chỉ cực kì hợp lý để họp hành, ăn sáng, gặp mặt bạn bè và gia đình, nếu bạn thường xuyên đi ăn mc donal, hãy chắc chắn rằng mình đã cài ứng dụng cùa họ để nhận được nhiều …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "ha huy",
+    "rating": 5,
+    "review_text": "Địa điểm dễ tìm,đồ ăn tương đối ngon.Thích hợp cho cả gia đình hẹn hò"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Phương Lê Trần Hoàng",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, không gian rộng rãi thoáng mát, view nhìn ra vòng xoay đẹp. Có drive thru. Điểm trừ là quá đông con nít chạy tán loạn mà ko có nhân viên quản lý hay là nhắc nhở để làm phiền thực khách khác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thin 레믾",
+    "rating": 5,
+    "review_text": "Quán thì bình thường như các McDonald khác, được vị trí thuận lợi để tập trung đoàn đi tour vì có sân rộng và nhiều bàn ghế"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Hoàng Nguyễn",
+    "rating": 5,
+    "review_text": "Cửa hàng bày trí đẹp, nhân viên thân thiện, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Tye Fam",
+    "rating": 5,
+    "review_text": "Cũng như các McDonald's khác.\nChi nhánh bên này có không gian rộng, có bàn ghế ngồi ngoài, ở đây có phòng vui chơi cho bé nữa, ban công lầu 1 có bàn ghế ngồi ngoài thoáng lắm, nhà vệ sinh thì lúc mình vào tầng dưới chỉ có 1, hình như nam nữ đi chung🙄,... …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Duy Trinh Ngô",
+    "rating": 5,
+    "review_text": "Quán wifi mạnh, có nhiều view đẹp, gửi xe miễn phí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Võ Anh Thư",
+    "rating": 5,
+    "review_text": "Không gian đẹp, đồ uống ngon, giá quá hợp lý  , phong cách người Mỹ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Xuanlan Vu",
+    "rating": 5,
+    "review_text": "Gà ngon. Kem đặc biệt rất ngon. Có 4-5 loại sốt cho gà. Tải app sẽ có thêm nhiều khuyến mãi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Kim Nguyên",
+    "rating": 5,
+    "review_text": "Tuyệt mỳ ý rất ngon gà mọng nước thơm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "JAY ASMR",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương, đồ ăn ngon, Toilet sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Chuỗi Giá Trị The Adam Global",
+    "rating": 5,
+    "review_text": "Tuyệt vời.\n\nĂn no với combo. 279k. Chỉ 2 người lớn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nhật Duy",
+    "rating": 5,
+    "review_text": "Giá ổn, dịch vụ tốt, có chỗ đỗ xe ô tô thoải mái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thanh Thuỷ",
+    "rating": 3,
+    "review_text": "kem ngon, mềm, béo\n\nNHƯNG bạn nữ Bảo Ngọc nghiệp vụ khá tệ : cụ thể mình vào lấy kem bạn nhân viên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Minh Thuan Lam",
+    "rating": 5,
+    "review_text": "Cửa hàng trang trí giáng sinh thật đẹp và sớm.\nThức ăn ngon và dịch vụ nhanh chóng.\nNhân viên đã hỗ trợ tôi rất nhiệt tình và hữu ích. Hướng dẫn tôi các chương …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Phoebe Nguyen",
+    "rating": 1,
+    "review_text": "Mất tờ hoá đơn vì lỡ tốt bụng dẹp rác dọn khay dùm nhân viên, kết cục là tốn 30k tiền gửi xe ngu, tay vẫn còn cầm 2 ly nước đang đổ mồ hôi mà bảo vệ vẫn cứng nhắc k chịu, có cần quá đáng vậy ko???, mọi ng lưu ý giữ hoá đơn để đừng rước bực vào ng nhé. Chán chả bao h muốn quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Chung Thẩm Tú",
+    "rating": 3,
+    "review_text": "Bật loa quá to, ồn ào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Nghia Do van (Marketing Online Đa Kênh)",
+    "rating": 5,
+    "review_text": "Hình như có gì đó xai xai\nKhông gian rộng rãi, có chỗ đậu xe, đi ngày thường thì đỡ đông hơn. Được cái thoải mái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Thảo Nguyễn",
+    "rating": 5,
+    "review_text": "McDonald ở HCM trước giờ mình chỉ tới đây thui, đồ ăn và phục vụ mọi thứ đều rất tốt. Điểm cộng to bự là anh chị nhân viên siêu nhiệt tình và dễ thương luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "-long Since1988",
+    "rating": 1,
+    "review_text": "Còn chỗ để ô tô mà bảo vệ vẫn để vật chắn để giữ xe ngoài lấy tiền. Vì khách vô ăn ko dc lấy tiền giữ xe nên ko cho để xe vô ăn, mình phải quay 1 vòng mua đem về. Nhân viên trong quầy thì ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529c032abd229:0x3f28cabceeca1a32",
+    "shop_name": "McDonald's Dakao",
+    "user_name": "Phúc Nguyễn Vĩnh",
+    "rating": 4,
+    "review_text": "Vị trí nằm ngay vòng xoay Điện Biên Phủ.Có đầy đủ các món ăn nhanh và thức uống(gà rán, hamburger, bánh ngọt,cà phê,...) cho các bạn tha hồ mà lựa chọn.Đặc biệt cà phê ở đây rất ngon mà giá hơi đắt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Thuy Anh Nguyen",
+    "rating": 5,
+    "review_text": "Nhà mình có việc tiếp khách hoặc cỗ bàn hay chọn Bếp quán. Đồ ăn đa dạng và món nào cũng vừa miệng. Nhân viên thân thiện nhiệt tình. Nhiều cơ sở và không gian rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Duy Ngo",
+    "rating": 4,
+    "review_text": "Theo chân ông anh Hà Nội đi ăn thử quán này.\n• Không gian: Đẹp, decor kiểu hoài cổ rất có gu. Nhưng lưu ý tầng 1 hơi kín nên khá ồn, khó tâm sự hay nói chuyện lâu. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "trang hoang huyen",
+    "rating": 3,
+    "review_text": "Món khoai môn chiên nhiều dầu mỡ, chiên quá lửa. Ốc chuối đậu quá nhiều vị ngọt đường, chưa bao giờ ăn món ốc chuối đậu nào mà vị nó lạ (không ngon) đến thế!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Việt Anh 2104",
+    "rating": 5,
+    "review_text": "Quán thích hợp để tổ chức tiệc, hội họp cho nhóm đông người. Đồ ăn của quán khá là ok, menu đa dạng và lên đồ nhanh. Chưa có điểm gì để chê nên sẽ ủng hộ quán khi có dịp ghé qua"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Chi Bùi",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, mấy chị nhân viên thân thiện, trải nghiệm rất oke, gần nhà nên ghé ăn thử mà ưng quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Phạm Linh",
+    "rating": 5,
+    "review_text": "Không gian tốt, phục vụ nhanh, nhiệt tình, món ăn đầy đặn. Món lẩu khá nhiều, mình ăn 3 người, 12 con tôm, 3 xiên tôm viên, đậu hũ ki và bầu bào.\nNước ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Anh Dung (Meodibui)",
+    "rating": 4,
+    "review_text": "Quán ở mặt đường nên dễ tìm, thuận tiện đi lại. Các bạn nhân viên phục vụ và lên đồ khá nhanh còn nhiệt tình chụp ảnh hộ. Thấy có thang máy mà có biển báo bị hỏng. Mà thôi có mấy tầng , cái thang máy bé tẹo đợi để đi cũng mất thời gian. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Linh Vu Phuong",
+    "rating": 3,
+    "review_text": "Đồ ăn ở mức ổn, nhà hàng rộng rãi, thoáng. 2 người ăn nồi lẩu là no"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Đỗ Kiều",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, vừa miệng, nhưng chưa phải quá xuất sắc. Với giá cả mặt bằng chung thì okela nhé\nNhóm mình đặt 2 bàn, đến sớm nên quán vắng, chưa đông, nhân viên phục vụ tốt. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Thai Doan",
+    "rating": 5,
+    "review_text": "Không gian thoáng mát, phòng ăn sạch đẹp. Phong cách trang trí hài hoà, ưa nhìn.\nĐồ ăn và uống khá ngon, hợp khẩu vị với nhiều người. Giá cả hợp lý. Nhân viên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Thanh Hải",
+    "rating": 4,
+    "review_text": "Quán khá đẹp, nhiều địa điểm, cho tích điểm rất ok nha, hội họp rất tiện\nđồ ăn khá vừa miệng,nhân viên ngoan"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Long Tran",
+    "rating": 3,
+    "review_text": "Mình đã ăn tới lần thứ 3 ở quán và không thấy có  gì đặc sắc cả. Riêng lần thứ 3 thì mình gặp trường hợp ly uống rượu vang cáu cặn, món mực nướng nhạt nhẽo, dai như cao su, nhân viên phục vụ gà bốc lửa thì tay trái, cầm kéo còn không vững, cắt gà không xong...có lẽ cũng là một trong những lần cuối mình đến quán này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Nguyen Quan (Hans)",
+    "rating": 5,
+    "review_text": "Hệ thống Bếp Quán không làm tôi thất vọng, nhân viên nhiệt tình lịch sự, đồ ăn ngon, không gian quán hiện đại. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Alex Rover",
+    "rating": 5,
+    "review_text": "Menu phong phú nhiều lựa chọn . Nhân viên phục vụ nhiệt tình . Lẩu tôm bầu ngon nhé bếp ơi . Mọi người đến nên đặt bàn trước để có view đẹp ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Xxi Po",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon . Nhân viên nhiệt tình , các bạn còn bóc sẵn tôm cho bàn mình . Gia đình mình ai cũng hài lòng và sẽ quay lại ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Ms. Lee",
+    "rating": 5,
+    "review_text": "Quán có thêm lạc rang mời khai vị, có cả hành khô, nhân viên nhiệt tình, nhưng cơ sở ở Núi Trúc lại ko bóc tôm cho khách, và cũng ko có đánh giá gg tặng tráng miệng, nói chung 2 cơ sở đều ổn nhưng các chương trình ko đồng nhất, nhân viên ngoan, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Do Hạng",
+    "rating": 5,
+    "review_text": "Đồ ăn cũng được ,lẩu tôm bầu đang được giảm giá 30% . Mình đi 5 người bill hết 1tr5 ,giá rổ cũng bình thường . Nhân viên nhiêt tình ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Thanh Apps",
+    "rating": 5,
+    "review_text": "- Đồ ăn ngon, nhiều món ăn Việt. Trang trí đẹp mắt\n- Không gian rộng rãi, sạch sẽ, phù hợp cho cả nhóm đông người. Tầm 11:45 là quán sẽ rất đông và hơi ồn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "nguyen thu hang nguyen thu hang",
+    "rating": 5,
+    "review_text": "Không gian tổ chức sinh nhật ấm cúng , riêng biệt ,\nQuản lý và nhân viên takecare rất nhiệt tình, Tổ chức vào đúng ngày có đá bóng trung kết VN , dc hỗ trợ tv, máy chiếu để xem trực tiếp trong lúc dùng bữa.\nĐồ ăn tuỳ theo khẩu vị đánh giá nhưng theo mình và khách mời đánh giá 9/10"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Viet Huong Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ở mức ok, không quá xuất sắc, nhưng ổn áp hơn mình tưởng. Hợp khẩu vị mình nhất thì chắc có món cuốn và lẩu tôm. Lẩu tôm nước dùng kiểu canh chua miền Tây, hơi ngọt ngọt, tôm thì có con tươi con không."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Đức Tâm Nguyễn",
+    "rating": 5,
+    "review_text": "Quán vị trí đẹp, phải đi lên tầng 3 tầng 4 của cái nhà. Không gian oke, đồ ăn và phục vụ ko chê được ở đâu. Ăn xong còn được quán mời trà nóng + kẹo lạc miễn phí. Giá thì cũng không rẻ nhưng cũng không đắt so với chất lượng đồ ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Hoà Nguyễn",
+    "rating": 5,
+    "review_text": "Menu đa dạng nhiều món , đồ ăn ngon , chỉ có món nộm bưởi hơi đắng nhưng bạn quản lý đã đổi đĩa mới cho bàn mình , phục vụ nhiệt tình . 5 sao cho quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "To Nga Vu",
+    "rating": 5,
+    "review_text": "Món ăn ngon. Quán xinh xẻo, phục vụ ổn. Lẩu tôm bầu, nộm gỏi tôm bưởi, mực chiên, chả ốc rất ngon. Ăn xong có kẹo lạc và nước chè. Ngồi tầng 3 gặp 2 đám sinh nhật nên ồn ào."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Dung Duong",
+    "rating": 5,
+    "review_text": "lẩu tôm bầu rất ngon nhé . nên gọi điện đặt bàn trước để được giảm giá 30% . nhân viên phục vụ rất nhanh nhẹn ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Vinh Ngọc",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình, thân thiện, take care siêu tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Anh Huyền",
+    "rating": 2,
+    "review_text": "Đc bạn khen nức nở vì bạn hay đi ăn hoặc tiếp khách ở đây. Mà tới thật vọng lun. Set ăn dc giảm giá nhưng k tương xứng tiền. Bọn mình ăn set bao gồm: nộm bưởi tôm thì bưởi đắng(thì thôi do quả bưởi,bọn mình vẫn ăn hết) món gì đó nướng khay …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Le Nguyen",
+    "rating": 4,
+    "review_text": "Háo hức đến vì được giới thiệu món gà khiêu vũ, về cơ bản gà ăn ngon. Tuy nhiên được bố trí trên tầng cao ngồi trước điều hoà nên bếp cồn mãi không sôi, chờ rất lâu. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Linh Le",
+    "rating": 5,
+    "review_text": "Đồ ăn ổn, giá cả hợp lí, lên đồ nhanh.\nNhân viên lịch sự, phục vụ tốt.\nKhẩu phần ăn lớn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Duy Thành Bùi",
+    "rating": 5,
+    "review_text": "- Đồ ăn ngon, nhiều món ăn Việt. Nước lẩu hải sản rất ngon, mình ăn không có cảm giác bị cho nhiều mì chính mà vẫn ngọt. Đồ ăn lẩu cũng rất tươi và đầy đặn. Lưu ý lạc rang cá cơm có tính phí nhé. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Serena Nguyen",
+    "rating": 3,
+    "review_text": "Đồ ăn ổn, nhân viên phục vụ tạm ổn, ko gian rất ồn và khách hút thuốc trong phòng kín mà ko nhắc nhở để ảnh hưởng sang các bàn khác, ồn và hôi mùi thuốc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Manh Nguyen The",
+    "rating": 5,
+    "review_text": "Ngon ok. Chỗ ngồi thì ko dc vs lắm nhưng thôi ăn vỉa hè nên chấp nhận dc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Vân Anh Mai",
+    "rating": 5,
+    "review_text": "Nằm phía Núi Trúc- Giảng Võ\nQuán không gian tương đối rộng, decor kiểu Hà Nội xưa\nMenu nhiều món, decor món ăn khá đẹp …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Hưng Phillip",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, món cá nục cuốn bánh tráng ăn hấp dẫn! Cũng chính vì món này quảng cáo giảm 50% nên mình hám rẻ lao vào. Rồi bạn lấy order thì nói hết chương trình, mình có hỏi sao hết từ tháng trước (tháng 6, mình ăn là 11/7) mà vẫn còn biển …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Duy Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , vừa miệng , đẹp mắt , hợp khẩu vị mình , nhân viên nice 👍🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Jane Huu",
+    "rating": 5,
+    "review_text": "Đồ ăn rất hợp khẩu vị.\nPhục vụ niềm nở nhiệt tình.\nNhân viên hiểu rõ và giới thiệu món tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Huyen Trang Tran",
+    "rating": 4,
+    "review_text": "Đồ ăn ok không quá xuất sắc. Các em nhân viên dễ thương. Tuy nhiên không gian quán cảm giác bị om, rất rất ồn, ồn hơn cả mấy quán beer nên ngồi ăn và nói chuyện khá khó chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Marc Huynh",
+    "rating": 5,
+    "review_text": "Quán không gian ấm cúng, đồ ăn ngon. Các bạn nhân viên thân thiện, dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Trung Nguyễn",
+    "rating": 5,
+    "review_text": "Vợ chồng mình và bạn mình bỗng dưng nổi hứng đi ăn lẩu cháo chim. Tìm mãi mới được quán tạm ổn.\nVợ chồng bạn mình từng ăn ở 1 cửa hàng trong hệ thống rồi. Ấn tượng là ngon nên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Minh Huyền",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, các bạn phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Thùy Linh Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Ngân Khánh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon miệng . Phục vụ ok . Nên trải nghiệm món lẩu tôm bầu nhé mọi người rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "long do",
+    "rating": 5,
+    "review_text": "gia đình mình có trải nghiệm rất tốt tối nay ở bếp quán núi trúc . đồ ăn ngon phục vụ tốt. gia đình mình sẽ quay lại ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Hà Nhí Beo",
+    "rating": 5,
+    "review_text": "Lẩu tôm bầu siêu siêu ngon. Nhân viên take care chưa được tốt lắm. Quán quá ồn ào huhu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Ánh Ngọc",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , nhân viên dễ thương, 1 trải nghiệm tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Trang Ly (Tú Chi)",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ chu đáo. Sẽ quay lại nhiều lần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Huong HoangVie",
+    "rating": 4,
+    "review_text": "Đồ ăn đa dạng vừa miệng, không gian rộng rãi thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Quang Tú Nguyễn",
+    "rating": 5,
+    "review_text": "không gian khá rộng rãi và thoải mái ( muốn có bàn đẹp nên đặt bàn trước ) đồ ăn ngon , giá khá hợp lý\nVề trải nghiệm có lẽ mình cho 8đ không gian , 9đ đồ ăn , 9đ nhân viên : các bạn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Minh Trần Quốc",
+    "rating": 1,
+    "review_text": "Mình đến nhà hàng lúc 11h15 ngay tầng 1 không ai đón tiếp. Phải lên tầng 3 mới gặp lễ tân. Hỏi bàn đã đặt trước. Rất nhiều nhân viên chỉ vào bàn trong tầng 3. Sau đó mình vào bàn ngồi được 2 phút thì lại bảo chú xuống tầng 2. Mà tận mấy nv …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Nguyen Kim Anh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, cơ sở vật chất đẹp, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Phượng Ngọc",
+    "rating": 5,
+    "review_text": "Nhà hàng nhìn ngoài thì k nổi bật lắm nhưng bên trong bài trí khá đẹp, kiểu đơn giản nhưng nhẹ nhàng, thư thái. Phục vụ tốt và nhanh, đồ ăn ngon, trang trí đẹp, set up tiệc theo đúng yêu cầu khách hàng, đúng hẹn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Hưng Lê",
+    "rating": 5,
+    "review_text": "Nhiều món ăn ngon, nhân sự chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Tung Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Bếp quán\n- Gà ủ muối thảo mộc: mình thấy món này là món đáng thử vì chưa thấy chỗ nào ngon hơn ở đây, Vị gà ủ muối mặn vừa phải, hậu vị ngọt. Thịt săn chắc, thơm mùi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Trang Pham",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon . Không gian đẹp . Nhà hàng đông khách nên đặt bàn trước khi đến . Nhân viên thân thiện tư vấn rất có tâm . +1 nơi để đến 🤭 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Chan Misa",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Hạnh Nguyên Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Thuy To",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, hợp miệng, sẽ giới thiệu cho bạn bè đến lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Li Sa",
+    "rating": 1,
+    "review_text": "THÁI ĐỘ NHÂN VIÊN TỆ - MENU KHÔNG MINH BẠCH\n- Lần 1 mình đi ăn cùng đồng nghiệp. Nhưng vì đến muộn và không phải người chủ trì nên mình không quan tâm lắm. Sau đó về mọi người cũng không hài lòng. Những …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Sun",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, vị thanh ít dầu mỡ, hè ăn lẩu tôm bầu hoặc lẩu cá thỏ cũng ngon. Lần đầu thử rau càng cua ăn ngon, khá thú vị.\nNhân viên lịch sự, okela …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "dann linhh",
+    "rating": 5,
+    "review_text": "đồ ăn ngon còn được tặng bia nữa . phục vụ nhiệt tình 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Tri Tran",
+    "rating": 5,
+    "review_text": "Các món ăn rất ngon. Nhân viên nhiệt tình. Quán sạch sẽ. Tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Tường Vi Bùi",
+    "rating": 5,
+    "review_text": "Lẩu tôm bầu và cá thỏ nướng ngon tuyệt. Highly recommend"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Chi Linh",
+    "rating": 5,
+    "review_text": "Vì ăn cơ sở khác thấy ngon, bọn mình quyết định quay lại tại Núi Trúc, cơ sở này đông hơn, lên đồ nhanh mỗi tội bếp nghỉ hơi sớm 🥲 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab4a52c71c2d:0x185ede42f3441e62",
+    "shop_name": "Bếp Quán Núi Trúc",
+    "user_name": "Kim Ngoc Thai",
+    "rating": 5,
+    "review_text": "Ăn ok nè\nGiá thì cũng cung :)))"
+  }
+]

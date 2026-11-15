@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Hà Lê Khánh",
+    "rating": 5,
+    "review_text": "đồ ăn lúc nào cũng nóng và giòn, rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Cree Tran",
+    "rating": 4,
+    "review_text": "Chi nhánh khá nhỏ, đối diện Emart nên khá đông.\nGà rán bên Texas thì vị chi nhánh nào cũng như nhau. Mình khá thích gà rán cay bên này, lúc nào cũng nóng giòn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trân Nguyễn",
+    "rating": 1,
+    "review_text": "Rất hay mua ở đây nhưng hôm nay cực kì thất vọng, nó khét cỡ đó mà vẫn gói vào gửi cho khách được hả?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Thắm Trần",
+    "rating": 4,
+    "review_text": "quán rộng rãi, sạch sẽ. Gà giòn ngon, nhân viên chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "dai duong",
+    "rating": 5,
+    "review_text": "mình đi buổi tối cuối tuần nên quán rất đông, đồ ăn đợi hơi lâu nhưng trải nghiệm của mình vẫn rất tốt. nhân viên nhiệt tình và dễ thương, mình có nhờ dọn bàn nhưng có lẽ đông khách quá, lát sau bạn quay lại dọn xin lỗi quá trời hihi. rất nice nhà, gà thì ngon, bơ tỏi ở đây phết rất đều và thấm vị luôn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Hân Từ",
+    "rating": 1,
+    "review_text": "Nhân viên nữ ở quầy lấy gà tối 20/10 lớ ngớ làm rớt miếng gà xong k để miếng gà vào cho mình đem về luôn??? gọi điện lại mấy lần thì k ai nghe máy ?? như vậy có tính là k trung thực trong làm việc k ạ?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Duyên Đoàn Hương",
+    "rating": 4,
+    "review_text": "Chất lượng món ở đây mình thấy tốt so với nhiều brand khác (tại giá cao hơn cũng kha khá), mình order food box thì thấy miêu tả đùi nhưng khi mang ra là ức, nhưng vẫn mọng nước, nóng nảy, ngon nên tha thứ. Khoai chiên ngoài giòn trong mềm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trần Quốc Hùng",
+    "rating": 4,
+    "review_text": "Gà khá dầu, phần ăn khá nhiều so với mức giá nhưng do mỡ gà nhiều nên ăn rất mau ngán, còn lại rất là oke nhen"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Hiếu Lại",
+    "rating": 5,
+    "review_text": "Gà ở đây lúc nào cũng ngon hết, không gian thoáng mát sạch sẽ, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Phương Nguyễn",
+    "rating": 5,
+    "review_text": "Gà Texas ngon tươi, siu thích ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Dương",
+    "rating": 5,
+    "review_text": "Phần mình ăn là combo A gà bơ tỏi, hương vị hơi ngọt nhưng mà mùi thơm lắm 😋 thịt mềm mọng nước luôn. Tiếc là phần bánh quy thì lại ko hợp khẩu vị lắm, ăn nó cứ kiểu bở bở ấy 🥲 1 điểm cộng nữa là nước refill và có trang bị dụng cụ ăn kèm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nhi Khả",
+    "rating": 1,
+    "review_text": "Bill nhiêu đây món mà cho ko đc 5 bịch tương. Chờ lâu vô cùng, đợi 25p mới có món với sự hối thúc. NV cũng ko giải thích là khách đang phải chờ món gì. Chờ đúng 25p mới nói đang chiên gà không xương, còn 1 miếng nữa mới đủ bill của mình. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trân Đào",
+    "rating": 5,
+    "review_text": "Đồ ăn lần nào đến cũng nóng ngon giòn, nv dễ thương. Luôn chọn texas mỗi lần ăn gà rán, sẽ ủng hộ lâu dài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Lê Kim Phát",
+    "rating": 5,
+    "review_text": "Quán khá rộng rãi. Thức ăn ngon và đầy đặn. Có 2 lầu & chỗ ngồi khá nhiều. Nhược điểm là bãi để xe nhỏ & rất hay full chỗ. Ăn mấy lần đều phải gửi xe ở Emart đối diện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Phước Anh Trần Dương",
+    "rating": 5,
+    "review_text": "Gà rất ngon, không bị khô. Các bạn nhân viên nói chuyện nhỏ nhẹ và dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "29- Phúc Sang",
+    "rating": 5,
+    "review_text": "Nay đi sớm, ăn cái mẻ gà đầu tiên ta nói nó đã nó ngon kinh khủng luôn á. Đó giờ đi tầm giờ chiều thôi, nay đi học sớn tiện ghé mà ăn cái combo 2 được 3 phải thốt lên là qué no luonnnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Thanh Tân",
+    "rating": 1,
+    "review_text": "- Chú bảo vệ thiếu được đào tạo nên khá vô giáo dục với người đến ăn!\n- Ăn gà về bị đau bụng và tiêu chảy nhiều lần. Nên kiểm tra an toàn vệ sinh thực phẩm ở đây. Mình được cảnh báo trc từ bạn trc khi ăn nhưng ko tin, nay đã được chiêm nghiệm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "thiz iz winx",
+    "rating": 3,
+    "review_text": "không biết nữa nhưng gà chiên bị áo dầu rất nhiều ăn bị ngán ☹️ với cả đợi hơi lâu có lẽ do cuối ngày, cảm giác đồ ăn k chất lượng lắm vì ăn xong đau bụng :) khách còn mà bảo vệ thì bỏ đi, xe khách còn để ngoài ...."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Loan Nơ",
+    "rating": 5,
+    "review_text": "Nhân viên dth, nhiệt tình.\nTrong các hãng thì mình thích ăn ở Texas nhát vì gà mọng nước, không bị khô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Phan Thanh Mạnh",
+    "rating": 1,
+    "review_text": "Bộ nhân viên Texas phan văn trị mình ghét tài xế công nghệ hay sao ạ tài xế vào thì không làm mà khách tại quán thì làm liền bắt tài xế vào đợi 20phut. Ủa bộ người ta ăn tại chỗ là con người còn tài xế công nghệ không phải là con người hả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Joey Journeys",
+    "rating": 5,
+    "review_text": "Ôi trời top gà rán trong lòng tuiii 🥵 🍗 !!!\nGà siêu juicyy, có thêm món bánh cuộn bá cháy nưa. Gà sốt bơ tỏi siêu ngon nhe. Siêu siêu thích khoai tây nghiền với salad của Texas !!! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Anh Trang",
+    "rating": 5,
+    "review_text": "Menu nhiều món ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "__ yenvi",
+    "rating": 5,
+    "review_text": "gà ngon, phục vụ nhanh và nhân viên rất dễ thương luôn! đi nhiều chi nhánh vẫn thích PVT nhất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Zz guno",
+    "rating": 1,
+    "review_text": "Quán phục vụ lâu, gà mang ra thì nguội có dấu hiệu sài gà cũ, hỏi nhân viên lấy sốt ở đâu thì trả lời cộc lốc làm ơn đừng vào đây ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Mỹ Tiên Trịnh",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ tốt, có bạn nhân viên nữ order trình tiếng Anh khá pro luôn, không gian đẹp, rất sạch sẽ. Nhiều chương trình khuyến mãi, gà rán ở đây khá ngon. Sẽ đến ăn trong những lần tới."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "phuong phan",
+    "rating": 5,
+    "review_text": "Món ngon, phục vụ nhanh, không gian sạch sẽ, thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Gia Huy Nguyễn",
+    "rating": 2,
+    "review_text": "Ông bảo vệ trẻ thái độ với khách hàng , không hỗ trợ khách đậu xe ,  ngồi bấm điện thoại suốt ca , không hỗ trợ khách nhưng khách ra vào thì nhăn mặt với khách , là ông trẻ trẻ chứ không phải bác lớn tuổi , mong quản lí cơ sở giải quyết gấp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Như Quỳnh",
+    "rating": 4,
+    "review_text": "Mình thấy chi nhánh này chú giữ xe hơi cọc, mình có hỏi chú để xe chỗ này được không chú không tl, lúc mình đậu đại thì chú chửi bọn mình,lúc lấy xe chú cũng cọc. Đồ ăn ở chi nhánh này đợi hơi lâu, nhân viên dễ thương nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Phước Ngọc Lê",
+    "rating": 5,
+    "review_text": "Thanh cá rất ngon luôn nhma k có bán lẻ hic, gà thì chất lượng khỏi bànn, dịch vụ tốt có thể là đánh giá 100000⭐️⭐️⭐️⭐️⭐️😙 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Vân Huy Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nv nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Đoàn Đình Thuyên",
+    "rating": 5,
+    "review_text": "fan cứng texas, ăn chỗ này từ lúc là trẻ sơ sinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Dung Mỹ",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nhu Quynh",
+    "rating": 5,
+    "review_text": "Recommend ăn gà bơ tỏi - rất ngon.\nNhân viên nhiệt tình, đồ ăn ra nhanh.\nChú bảo vệ dễ thương.\nKhông gian sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Long Cao Hồ Hoàng",
+    "rating": 1,
+    "review_text": "Mọi thứ đều ok ngoại trừ thái độ của nhân viên tóc màu lúc tính tiền dt mình gặp sự cố nên chuyển hơi lâu thì bạn thở dài một cái dài, không chủ động tư vấn mà đợi mình hỏi mới trả lời. Lúc trả món thì la lớn lên với giọng bực bội, mình tới …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nhật Tân Hồ",
+    "rating": 5,
+    "review_text": "Quán ngon nha mọi người, không gian thoải mái lắm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nguyen Nhu",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian sạch sẽ thoáng mát, nhân viên còn thân thiện dễ thương nữaaaaa. Quán 10 đ không có nhưng. Đồ ăn còn lên siu nhanh luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Lộc",
+    "rating": 4,
+    "review_text": "Quán nằm ở đường PVT nên chỗ để xe hơi nhỏ, gà chiên còn mọng nước nhưng mà đợi hơi lâu!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Minh Anh Bùi Ngọc",
+    "rating": 5,
+    "review_text": "đồ ăn ngon nhaaaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Yến Hải",
+    "rating": 1,
+    "review_text": "Khẩu phần 99k mình đặt ở quán. Nhận về hết hồn ko tin vào mắt mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Bình Mai Thanh",
+    "rating": 5,
+    "review_text": "Mình đi ăn lúc gần đóng cửa mà thấy nv nào cx vui vẻ dth 10đ chất lượng dịch vụ ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Uynnie Lee",
+    "rating": 5,
+    "review_text": "Rcm mn ăn gà sốt thảo mộc, ngon lắm nhe, nước với tương fill thoải mái giá cũm trong tầm á 😸 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Alice Moore",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, nóng hổi, sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tien Tranduc",
+    "rating": 2,
+    "review_text": "12h trưa rồi còn cho khách ăn cơm nguội hâm bằng lò vi sóng , cơm khô cứng sượng sượng kiểu để qua ngày chứ không phải nấu xong mang ra bị khô . gà ăn có mùi hôi , có lẽ cũng là đồ hôm qua . sẽ không quay lại lần sau 😕 ai muốn ăn thì có lẽ nên ăn buổi tối sẽ không phải gặp tình trạng như mình …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "phu tran",
+    "rating": 1,
+    "review_text": "Bảo vệ chỉ khách qua emart gửi, người đưa thẻ xe, người thì không, làm việc như cho có v"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Bảo Trân Phan Thị",
+    "rating": 5,
+    "review_text": "Đồ ăn còn nóng, gà tươi ngon mọng nước😋\nKhông gian quán sạch sẽ mát.\nGà giòn miếng to chất lượng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "que tran",
+    "rating": 5,
+    "review_text": "Không gian mát mẻ, gà vị ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tâm Đan Phạm",
+    "rating": 1,
+    "review_text": "Gà ngon, combo 169k đi 2 người ăn là đủ, thái độ nhân viên không được nice lắm, kêu dọn bàn mà ngó lơ , mặt nặng nhẹ xong đi vô quầy đứng ? biết là quán đông nhưng làm nghành dịch vụ thì tự biết mà điều chỉnh hành vi lại giùm cái?? khác gì mấy đứa đầu đường xó chợ đi làm không vậy?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "mốk trang",
+    "rating": 2,
+    "review_text": "Bình thường trước dịch mình rất thích ăn gà TEXAS- ăn ngon nhất các tiệm gà. Từ lúc dịch hnay ms lại ghé mua mang về set 125.000. Rất thất vọng luôn😵‍💫😵‍💫\n-Vỏ ngoài mềm nói tóm lại vỏ vs gà n chả liên quan gì đến nhau cả. Lỏng lẹt k …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Diễm My Đỗ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon hợp khẩu vị mình phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Minh Khánh Trần",
+    "rating": 5,
+    "review_text": "Gà ngon, không gian ấm cúng, mê nhất khoai tây ở đây 👌 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Hùng Quang",
+    "rating": 5,
+    "review_text": "Gà ngon nv pv dth sẽ ghé thăm thường xuyên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "60 Phút",
+    "rating": 1,
+    "review_text": "Cùng khu vực Gò Vấp mà thua xa chi nhánh Quang Trung, Phan Huy Ích. Làm lâu lắc, chờ cả buổi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Big Bird",
+    "rating": 5,
+    "review_text": "gà nóng ngon,nước uống thoải mái,bánh mật ong thơm ngọt vừa phải"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Bảo Phan",
+    "rating": 2,
+    "review_text": "Gà chiên bóc ra chưa chín, nhờ nhân viên chiên lại lần nữa cho chín nhưng bị từ chối và bảo gà mọng nước 😅. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Ngoc Nhi Nguyen Dang",
+    "rating": 5,
+    "review_text": "siuuu nhonnn, Khoai ngonn lém lém luonnn, tuỵt dời 10 đỉmmm, đi sáng sớmm đồ ăn siuu ngon yên tĩnh nũaaa hehe🥰🥰 iu Texas 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trang Nguyễn thị thu",
+    "rating": 5,
+    "review_text": "Rất ngon, tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Thảo Cao",
+    "rating": 5,
+    "review_text": "Gà tươi ngon giòn, tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "chonlatit Jetdatsakorn",
+    "rating": 4,
+    "review_text": "Mua về ăn , mấy món cuộn kiểu Mexico này ăn ngon quá. Chấm ăn chung với cái ớt ngâm Lý tử thất mua trên mạng thấy hợp ghê."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Ngọc Trần",
+    "rating": 5,
+    "review_text": "Mua mang về nhưng gà vẫn nóng giòn , nhân viên tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tuyết My",
+    "rating": 1,
+    "review_text": "Đi ăn vào thứ 2 quán rất vắng chỉ có 2 bàn, nhân viên quán rảnh quá hay gì cứ đứng bấm chuông hoài, rất ồn và bàn mình đã ra hiệu nhưng thấy và vẫn trơ trơ, ủa bộ ngày vắng đi ăn là được phụ vụ như vậy hả ?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tuong Truong",
+    "rating": 1,
+    "review_text": "Khách order sau có món trước, khách order trước đứng đợi cả buổi. Lại hỏi thì nói chưa làm xong món. Trải nghiệm lần đầu cũng như lần cuối. 20:24 Ngày 5/10/2024"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tiến Nguyễn",
+    "rating": 1,
+    "review_text": "Bảo vệ gửi xe thì không có động thái hướng dẫn khách, chỉ chỉ khách mà mặt thờ ơ, khách hỏi thì không trả lời chỉ dùng ngón ray rồi ngồi một chỗ chỉ. Nhân viên khách yêu cầu thanh toán Zalo Pay đã nhắc lại nhưng không hiểu vì sao cứ để mã Momo, khách ko áp dụng được CTKM trên Zalopay."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Clark Nguyen",
+    "rating": 2,
+    "review_text": "Quán có bãi giữ xe máy được hơn 10 chiếc. Nhân viên đề xuất gửi “ké” bên siêu thị Emart rồi lội bộ qua đường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Vũ Thanh Hà",
+    "rating": 1,
+    "review_text": "Em đặt combo, hỏi nhân viên có đặt đc bơ tỏi ko thì gật đầu cho qua, xong nhận đồ ăn thì mới biết không phải bơ tỏi (nhận bill in như vậy). Ko đòi hỏi gì nhiều nhưng ít cũng nên báo khách là không được chứ ạ?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nguyễn Bùi Xuân Mai",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nóng, nhân viên phục vụ nhiệt tình, nước uống được refill, ko gian sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nha Ngo",
+    "rating": 4,
+    "review_text": "Highly recommended. Gà sốt thảo mộc và khoai tây chiên sốt phô mai là combo tuyệt vời nhất với mình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "y pham",
+    "rating": 3,
+    "review_text": "Ăn tại quán buổi trưa quá nóng. Khách vô không có phục vụ. Tốt nhất là nên đặt giao về nhà. Thường hay đặt về nhà hôm nay ăn tại quán hết hồn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Hieu Tran",
+    "rating": 1,
+    "review_text": "Giao gà là chỉ có gà ạ???\nKhông tương, bao tay, khăn giấy???\nGọi quán thì không nghe máy\nDịch vụ quá tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tiểu Cường",
+    "rating": 5,
+    "review_text": "Gà ngon, quán mát mẻ, mình ăn combo 149k cho hai người, no căng bụng lại được uống nước ngọt không giới hạn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Duy Nguyễn",
+    "rating": 1,
+    "review_text": "Đặt qua app , tài xế nói toàn đợi tài xế đến mới làm đơn hàng , đợi quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Dân Thanh",
+    "rating": 1,
+    "review_text": "Làm đồ ăn rất là lâu tận 20p mới xong"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Quang Linh",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình. Gà sốt bơ tỏi ngon, kem vani cũng ngon nữa. Sẽ ghé lại :3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trâm Phạm",
+    "rating": 5,
+    "review_text": "Đồ ăn rất là ngon đặc biệt là gà bơ tỏi siu thik lun, nhân viên nhiệt tình, món ra nhanh chưa kịp lấy nước là có món rồi, sẽ đến quán nhiều hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Khánh Trân Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, mấy bé nhân viên dễ thương, sẽ ghé lại lần sau!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Anh Trang",
+    "rating": 5,
+    "review_text": "Không gian sạch sẽ, gà ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Quyên Lê Trà Tố",
+    "rating": 5,
+    "review_text": "Mình rất thích ăn gà ở đây, gà ngon mềm mọng. Nhân viên rất dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tân Phạm",
+    "rating": 1,
+    "review_text": "đơn có lâu r mà đợi tài tới mới làm , đã vậy còn lâu thì thôi lun"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trung Nhựt Nguyễn",
+    "rating": 3,
+    "review_text": "Quán phục vụ quá lâu. Tài xế đợi lấy món lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trung Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, gà nóng dòn và các bạn nvien rất dthuong ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Triều Lý",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Ngọc Hoàng Đặng",
+    "rating": 5,
+    "review_text": "Điểm 10 ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trần Hà",
+    "rating": 5,
+    "review_text": "Mình ăn ở đây thấy oke gần nhà tiện đi lại nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Anh Thư",
+    "rating": 5,
+    "review_text": "Quá tuyệt vời, quá xuất sắc, không có gì để chê, 100đ không có nhưng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "BAO TRAN NGUYEN",
+    "rating": 5,
+    "review_text": "Quán ăn ngon,nhân viên thân thiện,phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Kiet Tran",
+    "rating": 5,
+    "review_text": "Thái độ nhân viên tốt offer nhiều chương trình hợp lí cho khách hàng, gà giòn, thích bắp cải trộn thấm sốt, nước uống thoải mái, sẽ đến quán thường xuyên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nguyễn Trung",
+    "rating": 2,
+    "review_text": "Đồ ăn ổn, lần đầu vào nhà hàng chuỗi thương hiệu mà có ruồi, rất ảnh hưởng, 2 sao vì có ruồi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trần Thảo (Chilly)",
+    "rating": 4,
+    "review_text": "Không gian rộng thoáng, mát mẻ , đối diện Emart nha 👍🏻👍🏻👍🏻\n@t4_eattheworld …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Vyy Phạm",
+    "rating": 5,
+    "review_text": "Món ăn ngon quà đẹp và phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Duy to",
+    "rating": 2,
+    "review_text": "Mình ăn tối ở đây cùng bạn, khoai tây đem ra hơi khét nhưng lại mềm, gà sốt ramyeon quá cay, ảnh hưởng mùi vị khác. Lúc lấy xe chú bảo vệ không hướng dẫn, đến khi mình đang dắt xe xuống dốc thì mắng mình sao không đưa thẻ mới rồi mới được …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Yến Như Võ Hoàng",
+    "rating": 1,
+    "review_text": "Coi training lại nhân viên nếu như không muốn mất khách nhé !!! Mình tới hồi tối lúc đó đang đông khách, bạn nhân viên đứng quầy đang trả đơn thì tự nhiên cầm điện thoại chạy đi vòng vòng rồi nói chuyện dt k trả đơn để dồn một đống , bạn bị cái gì vậy ?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Hiền Maiii",
+    "rating": 5,
+    "review_text": "Tiệm sạch sẽ, đồ ăn ngonnnn, ở mặt đường thuận tiện cho vc đi lạiiiii. Sẽ ghé lại nhóooo 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trần Xuân",
+    "rating": 5,
+    "review_text": "Gà ở đây ngon, nhân viên nhiệt tinh, không gian quán sạch sẽ thoáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "_22 Kiều My Trần Hồ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon gà mềm lắm ạ, không bị khô nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "duyanh le",
+    "rating": 2,
+    "review_text": "Bảo vệ đuổi khách qua emart đậu với thái vô cùng khó chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Ba Dat",
+    "rating": 4,
+    "review_text": "Gà tươi , giá khá ok ..nói chung là hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Mai Ngọc Tùng",
+    "rating": 2,
+    "review_text": "Đồ ăn cũng được, trang trí cũng đẹp, nhưng mà thái độ phục vụ thì hơi thiếu chuyên nghiệp: …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "clara phan",
+    "rating": 5,
+    "review_text": "Món ăn ngon, phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Thao Luong Thi Thanh",
+    "rating": 2,
+    "review_text": "Quán ko có chỗ để xe. Có 2 bảo vệ đứng chỉ để nói khách ko có chỗ để xe. Nếu khách mua về phải tự chia người đứng trông xe chứ bảo vệ ko cod trông cho"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Phương Linh Trần",
+    "rating": 5,
+    "review_text": "Gà ngon, sốt mới này siêu ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nguyễn Hưng",
+    "rating": 5,
+    "review_text": "Gà Texas thì không cần phải nói nhiều, luôn chất lượng và ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Ngân Nguyễn Thị Kim",
+    "rating": 5,
+    "review_text": "Thức ăn ngon, phục vụ tốt 🤩 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Le Binh",
+    "rating": 1,
+    "review_text": "Xem lại quản cách quản lý. Quán không hề đông khách mà làm ăn quá lề mề cảm thay ko bán onlyne nổi thì tất app đi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tran Thu Tien",
+    "rating": 5,
+    "review_text": "Món ăn ngon, không gian thoải mái, nhân viên nhiệt tình, lúc nào cũng giao đầy đủ món 🥰🥰🥰🥰🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Giao Lê",
+    "rating": 5,
+    "review_text": "Thịt gà mọng nước, lớp vỏ thơm giòn, gia vị đậm đà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Johny Ng",
+    "rating": 1,
+    "review_text": "Tài xế đến chờ đợi nhắc nhở mới hoàn thành đơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Như Thùy",
+    "rating": 5,
+    "review_text": "Quán phục vụ tận tình, nhân viên dễ thương 💗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Anh Duong",
+    "rating": 5,
+    "review_text": "Gà ngon. Các bạn vui vẻ, nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "TRIEU TRINH",
+    "rating": 5,
+    "review_text": "Lần đầu tiên ăn ở gà Texas và ở chi nhánh này, thấy phục vụ nhanh. Gà thảo mộc ăn cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Phuong Minh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nguyễn Hoàng Khang",
+    "rating": 5,
+    "review_text": "Không gian khá hẹp về bề ngang nhưng vẫn mát mẻ. Có thêm một lầu nhưng lúc mình đi thì chưa cho phép lên. Phan Văn Trị về đêm qua đường khá khó cho nhiều xe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Hong Nguyễn Thi",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Thơ Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, combo hời nếu đi ăn nhiều ng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Hưng Dương Phương",
+    "rating": 5,
+    "review_text": "Quán ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trình Võ",
+    "rating": 4,
+    "review_text": "Quán dễ tìm, món ra nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nữ810 Mỹ",
+    "rating": 5,
+    "review_text": "Không gian rộng rãi, sạch sẽ. Có các ưu đãi khi đặt combo tiệc.\nĐồ ăn nóng giòn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Châu Võ Duy",
+    "rating": 5,
+    "review_text": "Quán bán đồ fastfood nên hơi ồn ào. Đi ăn về sẽ bị ám mùi gà chiên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Vân Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon\nPhục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Mai Trâm",
+    "rating": 1,
+    "review_text": "NÉ CÁI CHỖ NÀY RA!!!\nTrước khi quán sửa lại mình hay ăn ở đây, chất lượng phục vụ và món ăn mình đánh giá 5 sao. Nhưng từ lúc quán sửa lại thì mọi thứ âm vô cực , 9/6/25 khoảng từ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Trung Trần",
+    "rating": 5,
+    "review_text": "Ngon, gà tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Ngọc Tú Quyên Hoàng",
+    "rating": 5,
+    "review_text": "đồ ăn ngon không gian thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Student Young",
+    "rating": 5,
+    "review_text": "Đi cuối tuần đông khách nhưng nhân viên vẫn phục vụ nhanh chóng, nhiệt tình.\nMón ăn ngon ❤"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Bảo Ngân Nguyễn",
+    "rating": 5,
+    "review_text": "Gà ngon s1"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Vương Minh Trịnh Trần",
+    "rating": 5,
+    "review_text": "đồ ăn được, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Bảo Võ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngonnn miệng bắt mắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Bảo Trân Nguyễn",
+    "rating": 5,
+    "review_text": "Rất ngon tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Duy Bảo",
+    "rating": 5,
+    "review_text": "Gà ngon, giòn, nhân viện nhiệt tình 5 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Quang Hoàng",
+    "rating": 5,
+    "review_text": "Quán mát mẻ nhân viên nhiệt tình thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Huyen My",
+    "rating": 1,
+    "review_text": "Phản ánh thái độ của Bảo Vệ chi nhánh texas Phan Văn trị .\nMình đi xe dịch vụ tới quá gà để mua đem về. Nhưng hỏi bảo vệ đậu xe ở đây tạm được không, thì bảo vệ nói \" NẾU ĐẬU ĐÂY THÌ CHO XIN TIỀN CAFE \" thái độ mòi tiền …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Phúc Thịnh Võ",
+    "rating": 5,
+    "review_text": "ngon lắm nha mọi ng, gà lúc nào cũng nóng hổi hết 10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Ngọc Huỳnh",
+    "rating": 5,
+    "review_text": "Ngon. Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tuyen Doan",
+    "rating": 5,
+    "review_text": "Phục vụ thân thiện món ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Cao Vũ Thảo Tâm",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, không gian sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Ngô Đức Thịnh",
+    "rating": 5,
+    "review_text": "siu ngon heheheh, gà ra nóng hổiii , tuy phải đợi hơi lâu xíu nhma chất lượng quá okee hơn mấy hãng khác. Mãi iu ạ🌷 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Long Võ",
+    "rating": 5,
+    "review_text": "Lấy đơn ở đây lần nào cũng nhanh hết, nhân viên siêu nhiệt tình!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Minh Trần Hoàng",
+    "rating": 5,
+    "review_text": "Quay lại nhiều lần. Đồ ăn ngon, nv nice"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "quốc đô lê",
+    "rating": 1,
+    "review_text": "Hmm… bản thân mình chưa bao h đánh giá 1 sao quán ăn nào hết, nhưng trải nghiệm hôm nay của mình khá tệ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Thing Some",
+    "rating": 1,
+    "review_text": "Gà bị bỡ ăn không ngon cái duy nhất hơn các hãng khác là mắc hơn, mình khuyên mọi người đừng tới ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nguyễn Anh Kiệt (Free)",
+    "rating": 1,
+    "review_text": "Quán thuê bảo vệ nhưng chỉ toàn bấm điện thoại, trưa thì ngồi góc mát ngay quán mì udon bấm, tối thì đứng bấm đt khách đưa thẻ xe không lấy, khi dẫn xe thì lại đòi thẻ xe."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Thị Yến Linh Lê",
+    "rating": 1,
+    "review_text": "Đồ ăn rấttttt lâuuuuu lần nào cungz v"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "An Thúy",
+    "rating": 1,
+    "review_text": "Không bàn về không gian và dịch vụ. Chỉ nói về đồ ăn. Nay có dịp qua Gò Vấp chơi, có ghé qua chi nhánh ăn. Mình cũng ăn Texas nhiều chi nhánh rồi, mà không hiểu, cảm giác ăn ở chi nhánh này, tệ thật! Miếng gà bơ tỏi không đậm sốt, không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tiến Hồ",
+    "rating": 4,
+    "review_text": "Nhân viên đứng quầy bị ngọng nói không nghe được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "MIHANA",
+    "rating": 5,
+    "review_text": ",🤤🤤🤤 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Qui Quang",
+    "rating": 5,
+    "review_text": "Gà ngon cực, mọng nước luôn ý, nhân viên vui vẻ nhiệt tình. Mấy bạn nhana viên bạn nào cũng dễ thương, niềm nở nhưng mình không biết tên, có bạn Nhi là mình ấn tượng nhất. Sẽ ghé dài dài…."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Đăng Khoa Trần",
+    "rating": 1,
+    "review_text": "Order xong hỏi thêm món khác thì nv nhăn mặt, đang ăn thì quét rác dính chân mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Quân Dương",
+    "rating": 5,
+    "review_text": "Gà Texas rất ngon nha, thịt rất ngọt. Nhân viên nhiệt tình nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nguyên Nguyễn",
+    "rating": 1,
+    "review_text": "hôm qua, nhà hàng nên xem lại thái độ của quản lí với cả nhân viên. chi nhánh này phục vụ không niềm nở, quầy counter đứng đông vậy cũng không biết chào khách, từ qli đến nhân viên kiệm lời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Đình Tiến Phạm",
+    "rating": 5,
+    "review_text": "Gà mềm mọng nước, nóng giòn\nNước được refill"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Kimthao Nguyenhoang",
+    "rating": 5,
+    "review_text": "Gà ngon, mình tổ chức sinh nhật um sùm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Yen Nhi Phan",
+    "rating": 5,
+    "review_text": "Thích mấy bạn nhân viên ở đây cực 😘 gà viên hơi ngấy nhưng còn lại ngon, giòn rụm á …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "ngân ngân",
+    "rating": 2,
+    "review_text": "Đồ ăn ngon nhưng em ăn không hết xin cái hộp để mai về. Nhưng lại đưa em cái bịch như thế này ạ. Trong khi đồ ăn còn quá trời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Lê Nguyễn Hồng Nga",
+    "rating": 1,
+    "review_text": "Em muốn phản ánh về thái độ và cách làm việc của ông bảo vệ tại Texas Phan Văn Trị (485 Phan Văn Trị, Gò Vấp)\n- Hôm kia, khi em tới thì ông này không hỗ trợ dắt xe cho khách, chỉ ngồi bấm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tran Chi Thoi",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Hằng Hồ",
+    "rating": 5,
+    "review_text": "Gà chắc thit, lớp bột vừa phải không quá dày"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Nghi Nguyễn",
+    "rating": 3,
+    "review_text": "Gà ngon, nhân viên thân thiện, chỉ trừ bảo vệ giữ xe rất thái độ với khách hàng. Mình vừa đến để xe vào đã bị bảo vệ đi từ xa chửi khách không biết để xe. Cửa hàng cần cải thiện để nâng cao trải nghiệm khách hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Tơ Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngonn, tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Young :3",
+    "rating": 5,
+    "review_text": "rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "du long lãnh",
+    "rating": 4,
+    "review_text": "Khoai bữa nay thấy còn sống, vỏ khoai chưa gọt hết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Phú Huỳnh Lê Minh",
+    "rating": 5,
+    "review_text": "Quán ăn ngon nhân viên tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Vũ Nguyễn Trần Trường",
+    "rating": 1,
+    "review_text": "Dịch vụ kém. Đơn hàng có không chuẩn bị mà phải đợi tài xế đến, r để ùn ứ đơn không giải quyết kịp cho tài xế. TẤT CẢ HỆ THỐNG GÀ RÁN CHỈ TEXAS LÀ KHÔNG CHUẨN BỊ ĐƠN TRƯỚC CHO TÀI XẾ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "Gum Bubble",
+    "rating": 5,
+    "review_text": "Ngon í"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175290ee9eb64b3:0x25b2c71245885a84",
+    "shop_name": "TEXAS CHICKEN Phan Văn Trị",
+    "user_name": "32_Nguyễn Phúc Tấn",
+    "rating": 5,
+    "review_text": "Đồ ăn Ngon , không gian thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "VAN HUAN NGUYEN",
+    "rating": 5,
+    "review_text": "Capricciosa Vincom Landmark 81\n\nMình ghé Capricciosa Pizza ở Vincom Landmark 81 sau khi đi chơi cùng gia đình. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyễn Maii",
+    "rating": 5,
+    "review_text": "Quán làm đế bánh pizza khi mình gọi món, có lò nướng tại chỗ nhưng không bị nóng bên ngoài\nPizza  margherita ngon, đế mềm, phô mai thơm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tran Pham",
+    "rating": 4,
+    "review_text": "Pizza ở đây khá ngon và ổn định. Mình đã ăn nhiều lần, trong Landmark 81 đầy quán ra dsi nhưng quán này vẫn còn. Món bò làm khá ngon, thịt đậm vị và dễ ăn. Riêng món gà thì hơi mềm, cá nhân mình thấy chưa hợp khẩu vị lắm nhưng vẫn ở mức ổn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Huyền Lê",
+    "rating": 5,
+    "review_text": "Món ăn trình bày đẹp, đặc biệt pasta sốt đậm vị, ăn rất vừa miệng và chất lượng. Không gian quán sạch sẽ, hiện đại, phù hợp đi ăn gia đình hoặc hẹn hò. Nhân viên phục vụ nhanh, thân thiện, trải nghiệm tổng thể rất đáng quay lại 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "My Cao tiểu",
+    "rating": 5,
+    "review_text": "Đã ăn rất nhiều lần\nNgon, dịch vụ rất tốt\nGiá thành phù hợp với đồ ăn mn nên ghé thử ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Mai Nguyễn",
+    "rating": 5,
+    "review_text": "Lần 3 quay lại, đồ ăn vẫn ổn, pizza phô mai vẫn là món mình thích nhất. Nhưng dĩa thì mình cứ có cảm giác nó ko đc sạch 😅 Giá thành thì theo mình thấy thì khá ổn. Pizza so với 4P mình thấy cũng ngang ngửa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Huy Nguyen",
+    "rating": 4,
+    "review_text": "Rộng thoáng, ngon, phục vụ chu đáo nhiệt tình. Có điều pasta của quán sốt bò bằm cà chua phô mai hơi ngấy vị."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Hai Vu",
+    "rating": 5,
+    "review_text": "Vào Landmark 81 là cứ phải tìm chỗ này để ăn nè tại làm đồ Ý khá ngon á, pizza ở đây thật sự underrated. Giá sẽ hơi cao nhưng ăn đáng nha. Phục vụ cũng dễ thương thân thiện nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Huynh Tien",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ thân thiện, súp ngô là món quán tặng khi review trên Google map từ 10am đến 10pm từ t2 đến t6 trong tuần ak kakaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "MT",
+    "rating": 5,
+    "review_text": "Pizza và mì ý rất ngon. Menu có nhiều món để lựa chọn phù hợp cho cả nhà. Nhân viên phục vụ nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Catherine Pham",
+    "rating": 5,
+    "review_text": "Pizza ngon, nhà hàng sạch sẽ, nhân viên thân thiện. Nhiều món cho trẻ nhỏ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nhật Duy",
+    "rating": 5,
+    "review_text": "Bữa ăn ở Capricciosa được phục vụ tốt. Nhân viên nhiệt tình và vui vẻ. Mình đánh giá các món ăn ngon và tròn vị."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyệt Thanh",
+    "rating": 5,
+    "review_text": "Không gian khá rộng rãi, đa dạng món luôn. Được cái nhân viên nhiệt tình nữa. Nên thử nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Trịnh Cao Như Quỳnh",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình vui vẻ, đồ ăn trang trí đẹp mắt, ngon, có dịp sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "hoaitram lenguyen",
+    "rating": 5,
+    "review_text": "Không gian thoáng, đẹp.\nĐồ ăn giá trung bình nhưng ngon ngoài sức mong đợi. Đặc biệt là món bánh mì vuông và cơm chiên phô mai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Trần Thảo (Chilly)",
+    "rating": 3,
+    "review_text": "Mình vào hơi trễ nên hết bột không còn pizza nhưng thôi ăn đại luôn chứ lười đi nữa nhưng thiệt là không hợp vị món nào cả huhu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Ngoc Phat Nguyen",
+    "rating": 4,
+    "review_text": "Món ăn ngon, phục vụ thân thiện, nhanh, gọn lẹ, không cần đợi lâu.\n\nỔn áp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Khue Do",
+    "rating": 5,
+    "review_text": "Đồ ăn ở đây ngon. Nhân viên phục vụ nhiệt tình.\nSẽ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phu Binh",
+    "rating": 5,
+    "review_text": "Món ăn ngon, đồ ăn lên nhanh, không gian rộng rãi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tiến Dương",
+    "rating": 5,
+    "review_text": "Đồ ăn khá ngon như lại thiếu 1 phần truyền thống của Ý là mỗi phần mỳ ý luôn phải có bánh mì bơ tỏi(vì nó thể hiện cái truyền thống lâu đời của người Ý nhưng quán lại không có điển này). Phần mỳ cụ thể là sốt cho khá nhiều nhưng mỳ lại quá …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Bảo Long Võ Hoàng",
+    "rating": 5,
+    "review_text": "Nhân viên cực kỳ thân thiện và nhiệt tình. Các món được nêm nếm vừa miệng 😄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Bailey Sheridan",
+    "rating": 3,
+    "review_text": "Quán nằm ở tầng hầm của Landmark 81, rất tiện nếu ai tranh thủ ăn xong rồi đi coi phim ở CGV.\nKhông gian quán mở nên nếu ai thích ăn kiểu open space, vừa ăn vừa nói chuyện, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Duyên An Bùi",
+    "rating": 5,
+    "review_text": "Không gian rộng rãi thoải mái. Các bạn phục vụ nhiệt tình.\nGiá vừa phải nhưng thức ăn ngon.\nLần đầu tiên bé nhà mình tự ăn hết phần súp ngô.\nSẽ ghé lại vào lần tiếp theo khi đến đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyễn Thùy Linh",
+    "rating": 4,
+    "review_text": "Đồ mang Ý nhưng mang phong cách Nhật Bản. Tuy nhiên mình thấy hơi mặn.\nNhân viên phục vụ nhiệt tình\nKhông gian quán rộng rãi, thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "LUCY BÙI",
+    "rating": 5,
+    "review_text": "Ngon, giá hợp lý\nPizza đế mỏng ok\nMì ý cá hồi sốt kem béo ổn\nNhân viên Nhân tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Mèo hay ăn",
+    "rating": 5,
+    "review_text": "Nếu bạn đang tìm kiếm một quán pizza ngon với dịch vụ tận tình, Pizza Capricciosa chắc chắn là một lựa chọn đáng thử. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thiên Thủy",
+    "rating": 5,
+    "review_text": "Mình gọi món rigatoni, spaghetti thịt cua, salad  đều đậm vị, nguyên liệu tươi ngon và được chế biến rất chuẩn vị Ý. Không gian ấm cúng, trang trí tinh tế mang. Nhân viên phục vụ nhiệt tình, chu đáo, tư vấn món ăn rất tận tâm. Giá cả hợp lý so với chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Kate Hoang",
+    "rating": 4,
+    "review_text": "- mình có ăn ở bên này hôm 14/2 nhà hàng đông nên phục vụ ra món hơi chậm tuy nhiên nhân viên có báo giảm giá để bù lại. Món salad thì mãi không ra trong khi các món đút lò và beefsteak lại mang ra trước …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "SAIGON LIFESTYLE",
+    "rating": 5,
+    "review_text": "Nhà hàng chuẩn vị Italy .\nNgon tuyệt vời .\nSang trọng , cao cấp . Không gian event cũng chill . …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Mai Thi Ngoc Thach",
+    "rating": 5,
+    "review_text": "Capricciosa tại Vincom Landmark 81 mang đến trải nghiệm ẩm thực Ý tinh tế với không gian kết hợp giữa sự tối giản Nhật Bản và nét hiện đại của kiến trúc Ý. Pizza và Doria Hải Sản Sốt Kem là những món nổi bật, được chế biến công phu, giữ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Bui Cam Ngoc",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian rộng rãi. Pizza có lẽ chưa hợp với mình lắm, nhưng món mực rất ngon, recommended mọi người khi ghé nên thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Hằng Nguyễn",
+    "rating": 5,
+    "review_text": "Món ăn ngon, gia vị phù hợp khẩu vị. Nhân viên phục vụ nhiệt tình thân thiện. Gia đình mình rất hay ăn ở đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyen le vy y",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Đặc biệt pizza đế làm rất ok. Giá phải chăng, nhân viên lịch sự chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Hồng Phương Nguyễn Đăng",
+    "rating": 5,
+    "review_text": "Mình ăn ở đây và gọi 1 pizza half and half, rất ngon và no đủ cho 2 người ăn. Ở đây còn có 1 dãy ghế để có thể vừa ăn vừa xem các đầu bếp làm bánh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "fn1503 2k?",
+    "rating": 5,
+    "review_text": "Không gian mát mẻ, sạch sẽ\nNhân viên nhiệt tình chuyên nghiệppp\nNhất định sẽ quay lại lần sau❤"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Quyên Lương",
+    "rating": 5,
+    "review_text": "Mình đã có trải nghiệm tốt ở đây 😁. Món ăn vừa miệng. Gia đình mình bảo Lasagna rất ngon nên mình đã thử và ngon thiệt nha. Nhân viên đôi lúc không nhiệt tình nhưng mà các bạn ý thân thiện nè. Mình xin sạc nhờ điện thoại các bạn cũng cho và …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thư Nguyễn Ngọc Phương",
+    "rating": 5,
+    "review_text": "Địa điểm dễ kiếm ngay B1 ở landmark 81, khôg gian đẹp. Là địa điểm quen thuộc của công ty mình cho mỗi dịp tiệc tùng. Món ngon nhất đối với mình là thịt bò và thịt sườn. Highly recommended cho mng địa điểm hẹn hò và party"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thanhthuy Tonnu",
+    "rating": 5,
+    "review_text": "pizza đế vừa ăn không ngán, nhà hàng decor đẹp, thức ăn ngon, không gian phu hợp gia đình ăn tối. Nhân viên dễ thương, sẽ quay lại lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "NGỌC QUYÊN",
+    "rating": 5,
+    "review_text": "Không gian sang trọng, ấm cúng; món Âu được chế biến tinh tế, hương vị hài hòa. Nhân viên phục vụ chuyên nghiệp, thân thiện, rất đáng để trải nghiệm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Hanh Tang Nguyen",
+    "rating": 4,
+    "review_text": "Mình ăn ở đây vào tháng 10/2018, chắc lúc đó mới mở hay sao thấy cũng ko đông khách lắm. Nhưng trải nghiệm ok, phục vụ ổn, món ăn ngon, giá cả thì cao rồi vì trong trung tâm thương mại mà, tính ra thì cũng như mặt bằng chung giá các nhà …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Hanh Nguyen",
+    "rating": 5,
+    "review_text": "Không gian cũng lịch sự ớ, mà hơi nóng nha, ở ngoài mát hơn, món ăn ổn áp, mình thích mấy món béo béo nên cũng vừa miệng, phục vụ rất dễ thương nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Anh Thy Trương Ngọc",
+    "rating": 4,
+    "review_text": "Pizza cheese và hải sản khá ngon, đế mỏng vừa miệng. Không gian rộng rãi, có nhiều khách nước ngoài. Nước táo hồng đài mình gọi có hơi chua so với khẩu vị cá nhân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thuỷ Minh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nước cũng siêuu hợp vị. Không gian được decor theo không khí giáng sinh, khá ấm cúng và giá cả siêu hợp lí. Nhân viên còn rất vuiii tínhhh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Ngoc Maggie",
+    "rating": 4,
+    "review_text": "[English below]\nĐây là lần thứ 2 mình ghé Capricciosa Landmark 81.\nKhông gian vẫn sang trọng và ấm cúng nhờ vào thiết kế bàn ghế gỗ và ánh sáng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyễn Lý Gia Hân",
+    "rating": 5,
+    "review_text": "Mình ăn cảm thấy khá ngon, khẩu phần to, có thể ăn được 2-3 người, gọi pizza half and half để thử được nhiều vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nicolas",
+    "rating": 5,
+    "review_text": "Piza phô mai ở đây rất ngon, mình ăn nhiều lần mà vẫn thấy thích"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tú Thành",
+    "rating": 5,
+    "review_text": "Nhà hàng có không gian đẹp, sạch sẽ và tạo cảm giác thoải mái cho khách hàng. Nhân viên phục vụ nhiệt tình, thân thiện và hỗ trợ khách rất nhanh chóng. Các món ăn được trình bày bắt mắt, hương vị ngon và phù hợp với nhiều khẩu vị. Thời gian …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "정미경",
+    "rating": 5,
+    "review_text": "Tất cả các món ăn đều rất rất ngon. Dịch vụ của nhân viên rất thân thiện. Bizing rất sạch sẽ. Nhân viên Phú tử tế hướng dẫn. Cảm ơn các bạn rất nhiều."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Gumby Tran",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên phục vụ thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "An Gia",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý, dịch vụ ok, đồ ăn ngon lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Huong Hoang Thi Thanh",
+    "rating": 5,
+    "review_text": "Bữa ăn ở Capricciosa được phục vụ tốt. Nhân viên nhiệt tình và vui vẻ. Mình đánh giá các món ăn ngon và tròn vị."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tuấn Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Nhà hàng đẹp, nhân viên phục vụ tận tình, món ăn ngon.\nRecommend mọi người mì cua, nui đút lò nhe."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "My Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian thoáng đãng, lịch sự\nNhân viên vô cùng thân thiện, nhiệt tình\nĐồ ăn ngon, ổn trong tầm giá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Doji",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, phục vụ nhiệt tình, thời gian ra món ăn nhanh\nChỉ có điều hơi nóng vì ko có máy lạnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Yolo Kid",
+    "rating": 5,
+    "review_text": "Không gian quán rộng rãi và thoải mái, giá tiền khá phù hợp với số lượng và chất lượng các môn ăn, nhân viên phục vụ nhiệt tình,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phuong Nguyen",
+    "rating": 2,
+    "review_text": "Nhà hàng lớn, nhưng ly uống nước quá dơ, dơ mà đóng cặn ngay phần tay cầm đen thui, kiểu dơ lâu ngày, nói nhân viên đổi ly khác, thì cái ly đó cũng dơ đóng cặn luôn, nói nhân viên đổi ly 1 lần nữa, lần này vừa đem ly dơ vô, là đem liền ly …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "chi nguyen",
+    "rating": 5,
+    "review_text": "Món ăn ngon, đa dạng, nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phương Thủy Nguyễn",
+    "rating": 5,
+    "review_text": "Menu có pizza và pasta, đa dạng sốt các loại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Hoa Thiên",
+    "rating": 5,
+    "review_text": "Mình từng ăn ở đây rồi, đồ ăn ngon, khẩu phần vừa phải, giá cả phải chăng, rất ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Alice Nguyen",
+    "rating": 5,
+    "review_text": "Nhà hàng đẹp đa dạng món ăn, các bạn nhân viên siêu nhiệt tình dễ thương ạ. Rất đáng trải nghiệm và đáng tiền ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Ha Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn khá ngon, nhân viên rất dễ thương, nhà hàng nằm trong trung tâm thương mại, vị trí dễ tìm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Bookaholic Saigon",
+    "rating": 3,
+    "review_text": "Khi mình đến quán rất vắng. Hầu như chỉ có nhân viên và bàn của mình, nhưng phục vụ khá lâu.\nKhi mang ra, đĩa mì có sợi giống tóc, ngắn nhỏ quăn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thi Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ nhiệt tình, mình là khách hàng thường xuyên ở đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "VSX Minh",
+    "rating": 4,
+    "review_text": "Các món trình bày ổn, đồ ăn bình thường, không có gì đặc biệt, các bạn phục vụ niềm nở."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Vinh Pham",
+    "rating": 5,
+    "review_text": "Quán ý theo phong cách Nhật,đồ ăn ngon và chỉn chu. Nhân viên rất nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "nat",
+    "rating": 5,
+    "review_text": "Không gian thoáng mát, nhân viên phục vụ nhiệt tình tư vấn đồ ăn cũng thoải mái, sẽ quay lại ạ 🌞💗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Vy Trần",
+    "rating": 5,
+    "review_text": "đồ ăn lên nhanh, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phương Thuỷ Ngụy",
+    "rating": 5,
+    "review_text": "Đồ ăn hợp khẩu vị, không gian thoáng mát."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Ngô Huỳnh Anh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên thân thiện, sẽ quay lại ủng hộ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Quỳnh Châu Đậu Hoàng",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên thân thiện, không khí thoáng mát."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phúc Phạm Gia",
+    "rating": 5,
+    "review_text": "Quán ăn rộng rãi thoáng mát\nSẽ quay lại thêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "tai tot",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Avi's Corner",
+    "rating": 5,
+    "review_text": "Trưa không biết ăn gì ghé ngang đá 1 bát soup Ngô 😍 không gian ở đây sạch thoáng, thức ăn cũng rất oke nha 😝 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phương Thảo",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, không gian rộng rãi thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Kiệt Vương",
+    "rating": 5,
+    "review_text": "Rất thích món ăn ở đây, mình đã ăn nhiều lần.\nGiới thiệu các bạn ăn món thăn ngoại bò nướng! Phục vụ cũng rất tốt, tận tình. Quán ăn sạch sẽ, thích hợp cho gia đình, bạn bè, công ty. Có cả món ăn cho trẻ em!  Ảnh chụp lúc chờ lên món!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Huy Nguyễn",
+    "rating": 5,
+    "review_text": "Súp khá ngậy và thơm, pizza nướng giòn vành rất ưng ý, nói chung là khó chê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Long Bùi",
+    "rating": 4,
+    "review_text": "Đi ăn đúng ngày skyview khai trương. Vào phải chờ nửa tiếng mới có bàn ăn. Các món ăn thường có bơ nên hơi ngán. Món cá hồi hơi khô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Ngoc Phan",
+    "rating": 5,
+    "review_text": "Lang thang không biết ăn gì thị quẹo phải vào quán này. Pizza hình như chỉ có một size và không làm half half nha. Mình gọi 1 pizza, 1 soup ngô, 1 bò như hình và 1 nước suối hết khoảng hơn 800k. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Âu Hải",
+    "rating": 5,
+    "review_text": "Phục vụ chuyên nghiệp, cute, đồ ăn vừa miệng, giá cả phải chăng, chỗ ngồi ổn áp 💯🙌✨😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Quân Mai Ngọc",
+    "rating": 5,
+    "review_text": "Đến vào dịp khởi chiếu Avengers: Enggame nên ghé vào đây ăn thử. Cảm nhận ban đầu khi bước vào quán là quán rất đẹp, nhân viên phục vụ chuyên nghiệp. Mình gọi 1 món salad và 2 món Ý. Món salad cá ngừ và mực mình cảm nhận hơi chua, mực nấu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thi Ho",
+    "rating": 4,
+    "review_text": "Không gian mở trong trung tâm thương mại nhưng hơi nóng, đồ ăn ổn không quá xuất sắc,  giá cả hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tram Ruby",
+    "rating": 2,
+    "review_text": "Giờ hoạt động để là 22 giờ nhưng 21:26 nhân viên từ chối nhận khách. Nên sửa thông tin giờ hoạt động lại là 21:20 cho chính xác nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyễn Ngọc Quỳnh Trân",
+    "rating": 5,
+    "review_text": "Pizza và mì ý ăn vừa miệng, hợp với khẩu vị. Service ổn. Highly recommend cho các bạn đến landmark có thể ghé quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Định Đinh",
+    "rating": 1,
+    "review_text": "Gọi món bảo 15p xong đợi hơn 40p. Bánh ra bị cháy viền. Bảo đổi lại vẫn cháy y như cũ mà đợi thêm 10 phút. Một trải nghiệm quá tồi tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Heo Hường",
+    "rating": 3,
+    "review_text": "Mì ý sốt mực của con mực có vị hơi nhạt, cọng mì còn cứng. Phục vụ chưa chu đáo lắm mặc dù quán rất vắng khách. Hệ thống làm lạnh hơi yếu nên khá nóng. Trình bày món ăn bình thường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "thuy van pham",
+    "rating": 4,
+    "review_text": "Không gian không quá rộng, giá cả khá đắt đỏ, mì Ý ăn mau ngán vì món nào cũng có bơ hay phô mai gì đó cho thêm vào ,theo cá nhân thì không ngon và đắt, Pizza ở đây ngon, cơm chiên nhìn lạ lạ ăn thấy cũng bình thường, sườn cây thì ngon, sụn được nướng mềm ngon, giá nước uống khá chát."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Annie Phạm",
+    "rating": 5,
+    "review_text": "Mình ăn ở quán được vài lần, quay lại thấy vẫn ngon, pizza đế mỏng không ngán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Dung Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Không gian thoáng sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thanh Trang Nguyễn",
+    "rating": 5,
+    "review_text": "Thức ăn ngon, thoải mái. Tôi thích pasta và pizza ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "big back final boss",
+    "rating": 5,
+    "review_text": "Một trong những nhà hàng pizza founder người Nhật mà mình yêu thích nhất 🥹 chỉnh chu mọi mặt 💗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Vu Van Lich",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá hợp lý... đặc biệt Mì Ý và Pizza"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Chuong Nguyen Minh",
+    "rating": 5,
+    "review_text": "Quán ngon, menu đa dạng, ẩm thực ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Bảo Nghi Tăng",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Thích nhất là ăn bò ở chỗ này luôn. Không có món nào chê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Na Le",
+    "rating": 5,
+    "review_text": "Món ăn ok, đa dạng, có món chay và mặn. Nhân viên nhiệt tình, dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Trang Phạm",
+    "rating": 1,
+    "review_text": "Oder piazza trước đợi 1h mà ko thấy hỏi nhân viên, nói mình ko oder, chắc do mặc đồ bần quá sợ mình ko có tiền trả hay sao mà làm vậy với khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Dung Huỳnh",
+    "rating": 5,
+    "review_text": "Nhóm mình đi ăn lúc 8:40 tối thì quán khá vắng. Không gian sạch sẽ, thoáng mát. Món ăn ra khá, pizza 4 phô mai ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Đoàn Cường",
+    "rating": 5,
+    "review_text": "Quán rộng rãi, đồ ăn chuẩn vị Ý, nhân viên phục vụ rất chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Chau Le",
+    "rating": 5,
+    "review_text": "Pizza ngon, các món đút lò rất ngon. Phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Truc Tran",
+    "rating": 5,
+    "review_text": "Không gian sang trọng, sạch sẽ, đồ ăn ngon. Tôi thường xuyên cùng gia đình ăn cùng nhau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phương Phạm",
+    "rating": 5,
+    "review_text": "mình dùng món thấy khá ấn tượng. mấy bạn nv phục vụ khá nhiệt tình mình sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Ngọc Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon hợp khẩu vị, nhân viên phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Cũng là Thanh Lọ nhưng pha-ke",
+    "rating": 5,
+    "review_text": "Món ăn ngon, nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "My Hung",
+    "rating": 5,
+    "review_text": "Phục vụ tốt, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Huy Khang Tran",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ khá nhiệt tình. Tôi sẽ ghé lại lần sau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyễn Ngọc Phương Uyên",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ rất dể thưn, nhiệt tình nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thảo Linh",
+    "rating": 5,
+    "review_text": "Đồ ăn hợp khẩu vị nha, nêm nếm vừa phải. Món súp bắp này thơm và dễ ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Linh Ngọc",
+    "rating": 5,
+    "review_text": "Món ăn vừa vị, nhân viên siêu nhiệt tình hỗ trợ khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tuong Tran",
+    "rating": 5,
+    "review_text": "Pizza rất ngon, nhà hàng sạch sẽ nhân viên lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nghi Bảo Phan",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ nhân viên thân thiện và phục vụ rất nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Quốc Sinh Bùi Nguyễn",
+    "rating": 5,
+    "review_text": "Pizza pesto ngon\nMì cua ngon hơn chỗ nào đó\nGiá phải chăng đáng để thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Vanilla Cream",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, không gian thoáng mát. sẽ đến ủng hộ dài dàiii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Le minh trang Pham",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ tốt, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nhật Trường Nguyễn",
+    "rating": 5,
+    "review_text": "Tôi  muốn gửi lời khen đến đội ngũ nhân viên tại quán Pizza Capriciossa. Mỗi lần ghé thăm, tôi đều cảm nhận được sự thân thiện và nhiệt tình từ họ. Họ luôn chào đón khách bằng nụ cười và sẵn sàng lắng nghe yêu cầu của chúng tôi. Chất lượng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Ngọc My",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Kim Ngân",
+    "rating": 5,
+    "review_text": "ngon nha nhân viên dễ thương lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Võ Khánh Nghi",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý so với chất lượng món ăn và trải nghiệm mang lại. Mình chắc chắn sẽ quay lại lần nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phuc Lee",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tuấn Kiệt",
+    "rating": 5,
+    "review_text": "đồ ăn ngon nhân viên phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Hưng Phạm",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon\nNhân viên dễ thương\nPhục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thúy Đỗ",
+    "rating": 5,
+    "review_text": "Rất hợp vị và bánh tươi ngon lắm nha.\nĂn hết sạch mới review :D"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Jacey Do",
+    "rating": 5,
+    "review_text": "Không gian sạch sẽ, đồ ăn ngon, dịch vụ dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Jennie Nguyen",
+    "rating": 5,
+    "review_text": "đồ ăn rất ngon và pizza rất ngon và không gian rất thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Huong Giang",
+    "rating": 5,
+    "review_text": "Capricciosa rất ngon, nhân viên phục vụ nhiệt tình, giá cũng rất ok. Nên tới đây ăn thử!!😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thơm Trần Doãn",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon tuy nhiên ko nên gọi món thăn lưng bò bít tết, đắt mà thịt rất khô và dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Huyen Tran",
+    "rating": 5,
+    "review_text": "Pizza rất ngon, giá cả hợp lý, không gian rộng rãi\n10 điểmmm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phúc Cao Hoàng",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, phục vụ nhiệt tình, pizza ăn ngonn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "ngọc nguyễn",
+    "rating": 5,
+    "review_text": "Lần đầu tiên trải nghiệm món ăn Tây ở đây,đồ ăn ngon,phục vụ tốt,giá cả vừa túi tiền..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "ROSIE HUỲNH",
+    "rating": 5,
+    "review_text": "Quán ăn ngon :) view đẹp :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Rachel Pham",
+    "rating": 5,
+    "review_text": "Quán decor đẹp và tone chủ đạo đỏ đen rất ấm cúng. Nhân viên thân thiện, dễ thương. Pizza  ngon, nóng hổi và rấtbắt mắt. Sẽ rủ thêm bạn bè đến đây để ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phuoc Bao Tran",
+    "rating": 5,
+    "review_text": "Pizza ngon, sốt cà chua rất thơm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thao My Le",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, đồ ăn rất ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyễn Thái Công (Harry Riddle)",
+    "rating": 5,
+    "review_text": "Pizza ngon, dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Khanh Hà",
+    "rating": 5,
+    "review_text": "món ngon nhân viên phục vụ tốt rcm mng nhá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Huy Bui",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Súp ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Hồng Hà Nguyễn Thị",
+    "rating": 5,
+    "review_text": "Đồ ân yummy không gian okeee"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyễn Thị Thanh Thảo",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương, không gian thoáng mát, mọi người nên đến trải nghiệm nhen"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Salish Nguyễn",
+    "rating": 1,
+    "review_text": "Hôm qua là thứ 7 ngày 4 tháng 1 lúc tầm 6g rưỡi thì mình vào ăn. Nhân viên tiếp khách kêu thì không nghe mình phải kêu quài khản cổ họng mới chịu quay qua đứng nhìn mình rồi mới tới chỗ. Đồ ăn đặt thì đợi lâu mà dở."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Huu Tien NGUYEN",
+    "rating": 3,
+    "review_text": "Không ngon và không chất lượng so với tầm giá. Phục vụ món hơi chậm mặc dù không đông khách. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Bảo Ngọc Ninh",
+    "rating": 5,
+    "review_text": "Nhà hàng đẹp, phục vụ nhiệt tình, món ngon chuẩn vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "alan",
+    "rating": 5,
+    "review_text": "một ngày đẹp trời đi dạo tại TTTM Vincom Landmark 81 thấy nhà hàng Capricciosa trông thật hấp dẫn, mình cùng bạn đã ghé vào ăn và rất hài lòng với không gian, cách phục vụ và món ăn tại đây. 100 điểm không có nhưng hihi cám ơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "SAMI SAVER VIỆT NAM",
+    "rating": 5,
+    "review_text": "Mình đi gia đình 4 người, món ăn thì với gia đình cũng hợp khẩu vị, bé nhà mình có đổ ly nước và bị bể. Nhân viên có hỗ trợ dọn dẹp và làm giúp mình một ly mới không tính tiền.\nTận tình nên mình sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Aden Nguyen",
+    "rating": 2,
+    "review_text": "Nhân viên mặt như khách ăn ko trả tiền hay do cty ko trả lương mà mặt nó như con mèo. Đồ ăn bình thường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "S M",
+    "rating": 5,
+    "review_text": "Salad siêu ngon, pasta hải sản vừa ăn và hấp dẫn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Trúc An Trần Thị",
+    "rating": 5,
+    "review_text": "Bột piza rất ngon, khác với 4p , mì cua cũng rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Hoàng Phúc",
+    "rating": 5,
+    "review_text": "Pizza ngon phục vụ chu đáo, nhân viên thân thiện, mình có trải nghiệm khá tuyệt với ở quán ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Trân Trần Thị Ánh",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện cung cấp thông tin đầy đủ khi mình hỏi thòi gian gọi món. Món ra khá nhanh do mình đi sớm 6g pm. Vỏ bánh pizza tươi và khá ngon so với các loại pizza giao đi nổi tiếng  9/10. Mì pene nấm sốt kem có sốt ngon nhen ,Steak tươi và vị khá tây nên ai quen ăn khẩu vị Việt thì sẽ thấy hơi nhạt. Salad Ceazar xuất sắc 10/10"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Oanh Nguyen",
+    "rating": 5,
+    "review_text": "Các món đều rất ngon, nhân viên rất chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Giau Ngoc",
+    "rating": 5,
+    "review_text": "Không gian rộng rãi, thoáng mát, phục vụ tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thu Bảo",
+    "rating": 5,
+    "review_text": "Ăn ở đây nhiều lần!\nPhục vụ chu đáo, món ăn ngon và lên nhanh\n💕💕💕 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phúc Nguyễn Xuân",
+    "rating": 5,
+    "review_text": "Nhan vien phuc vu than thien."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Hien Nguyen thi Thanh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cả vừa túi tiền👌 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tam Tam",
+    "rating": 4,
+    "review_text": "Mình đi 4 người gọi 2 pizza và 1 mỳ ý\nCác món đều dễ ăn tuy nhiên phần mỳ hải sản còn hơi tanh vị hải sản, nhưng góp ý với nhân viên và được các bạn điều chỉnh giúp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Mai Thanh Trương",
+    "rating": 5,
+    "review_text": "PIZZA CAPRICCIOSA VỊ PHÔ MAI NGON XUẤT SẮC NHE!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Connie Le",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Katy Ta",
+    "rating": 5,
+    "review_text": "Món ăn ngon, không gian đẹp và thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Ngọc Nhiều",
+    "rating": 5,
+    "review_text": "nhân viên dễ thương đồ ăn siu ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Ngọc Vy",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ tận tình, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Trần Dương",
+    "rating": 5,
+    "review_text": "Piza mỳ ý ngon, sẽ quay lại nhiều lần :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Hi Chow",
+    "rating": 5,
+    "review_text": "Đô ăn ngon, quán không gian đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phương Nghi",
+    "rating": 5,
+    "review_text": "Topping pizza ngon và tươi, nhất là bột của pizza. 3 pizza nhà mình hôm nay đi ăn là Seafood Bianco, Pesto và một sườn heo đều rất ngon. Nhưng nếu  đi đông thì hãy lưu ý là cỡ size khá nhỏ và chỉ có một size, nhưng cũng có thể là mình nhầm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyên Khang Lâm",
+    "rating": 5,
+    "review_text": "Nhà hàng ấm cúng, đồ ăn đa dạng và hợp khẩu vị. Đặc biệt pizza pesto rất vừa ý. Sẽ quay lại lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tram",
+    "rating": 5,
+    "review_text": "Không gian oke nhân viên nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nessa Tran",
+    "rating": 5,
+    "review_text": "Mình đã ghé Capricciosa tại Vincom Landmark 81 và rất ấn tượng với chất lượng món ăn. Mình gọi mì ý hải sản sốt kem, pizza bò nấm cay, salad cá hồi, súp kem rau cà chua. Pizza và mì Ý đều thơm ngon và đậm đà. Mình đặc biệt thích salad cá …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Trang Phương",
+    "rating": 5,
+    "review_text": "rất sang chảnh, ngon, hợp lí, view đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Trung Phanvuhau",
+    "rating": 5,
+    "review_text": "món ăn ngon, phục vụ thân thiện, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Phạm Trân (Mindy)",
+    "rating": 5,
+    "review_text": "Menu món hấp dẫn, vị cũng okk, nv thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Yến Ngân Trương",
+    "rating": 5,
+    "review_text": "Quán ngon đậm chất Ý. Gia đình tôi rất thích món ăn tại đây. Dù ở khá xa nhưng vẫn thích đến đây được dùng bữa. Hy vọng nhà hàng có thể mở thêm chi nhánh trong nội thành hcm thì thuận tiện hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "alfina w",
+    "rating": 5,
+    "review_text": "Không gian đẹp , nhân viên nhiệt tình , món ăn bắt mắt và ngon miệng !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Natalie Hoang",
+    "rating": 5,
+    "review_text": "Chưa ăn Pizza , nhung mi Ý rất ngon . Nhà hàng rong , thoảng mat, khăn dia sach sẽ, thơm như nhà hàng 5 sao . Lại thêm duoc khuyên mai ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Trang Bùi",
+    "rating": 5,
+    "review_text": "Đa dạng món, không gian thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyet Le",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ấn tượng. Không gian sạch ,yên tĩnh . Nhân viên phục vui chu đáo . Mình có một trải nghiệm tuyệt vời ở đây với gia đình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thy Nguyễn",
+    "rating": 5,
+    "review_text": "Pizza Ý phong cách Nhật, đã ăn nhiều lần ở đây. Đồ ăn hợp khẩu vị và nhân viên hỗ trợ nhiệt tình ạ 🫧🫶🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Mina Mina",
+    "rating": 5,
+    "review_text": "Pizza ở chỗ này mình thấy tươi mới, rất ngon. Thích nhất pizza hải sản với cheese."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thơ Huỳnh",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời, nhân viên nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Ellie Jung",
+    "rating": 5,
+    "review_text": "Không gian thoáng, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Minh Hủ",
+    "rating": 5,
+    "review_text": "Nhân viên hoà đồng không gian quán sôi động"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tho Vu",
+    "rating": 5,
+    "review_text": "Siu ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Duyet Bui",
+    "rating": 4,
+    "review_text": "hay dẫn con gái rượu vào ăn piza 4 loại phô mai, hoặc mì Ý vào buổi chiều chiều.\nKhông gian thoáng, sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Yến Chi",
+    "rating": 5,
+    "review_text": "Đồ ăn ở đây rất ngon. Mình thích nhất pizza và mỳ đút lò"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thanh Truong",
+    "rating": 5,
+    "review_text": "Ăn ở đây ba lần rồi, trẻ em và người lớn đều thích. Pizza và mì ý  rất ngon, ngoài ra còn nhiều món ăn kèm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Anh Thư Nguyễn Đình",
+    "rating": 5,
+    "review_text": "Tuyệt vời, đồ ăn ngon, phục vụ nhiệt tình. Đáng trải nghiệm :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nhung Mạc",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon và chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Ngân Lưu",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, trang trí đẹp mắt, nhân viên phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Dai Nong",
+    "rating": 5,
+    "review_text": "Quán đồ ăn ngon, sạch sẽ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Quốc Chiến Lê",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương, món ra nhanh, đồ ăn có vị béo, đậm đà, bố trí đẹp mắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tiên Đặng (Mèo)",
+    "rating": 5,
+    "review_text": "Đẹp mắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyen Dorothy",
+    "rating": 5,
+    "review_text": "Không gian rộng rãi, ấm cúng. Đồ ăn ở đây rất vừa miệng (nhất là mấy món pizza), nhân viên nhiệt tình, thân thiện giá cả hợp lí. Recommended"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "13. Bùi Ngọc Hưng",
+    "rating": 5,
+    "review_text": "Nhân viên rât nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Manh Ha Nguyen",
+    "rating": 4,
+    "review_text": "Ăn trưa, ngày thường, quán vắng yên tỉnh dễ nói chuyện. Món ăn theo mình thì khá ok đó (mình khá kén). Gọi món nuôi đút lò với nấm và phô-mai và một dĩa bông cải xanh hấp và nước uống cho 02ng ~ 400k. Mình thích quán, tuy có một điểm cần …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Cẩm Giang Phạm",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Lên món nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Chương Lê",
+    "rating": 3,
+    "review_text": "Vị trí thuận lợi, không gian khá okie. Đồ ăn ổn nhưng không có gì nổi bật so với cùng phân khúc giá. Điểm trừ lớn nhất là nhân viên, 1 vài bạn dễ thương, nhưng 1 vài bạn khác lại rất thái độ, đặc biệt khi mình nhờ tư vấn về việc thanh toán …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Dinozt",
+    "rating": 5,
+    "review_text": "Đã trải nghiệm thử món lasagna và pizza pesto rất vừa khẩu vị, nhân viên chuyên nghiệp, dễ thương, sẽ ghé lại nhiều hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Thuy Tien Nguyen",
+    "rating": 4,
+    "review_text": "Pizza ngon, đế kiểu truyền thống, thơm mùi nướng lò than. Súp bắp cũng khá ngon. Đã ăn nhiều lần ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tran Khanh",
+    "rating": 1,
+    "review_text": "Mình đi 4 người gọi 3 phần Mỳ Spaghetti: mỳ khô cứng, vị rất chua cả 3 người đều thấy dở, không ngon\nĐến lúc tính tiền thì bạn nhân viên báo không thể cà thẻ, chỉ dùng tiền mặt, dù …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "thuan diep",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, không gian ổn áp, quản lí và nhân viên nhiệt tình, luôn nghe đóng góp ý kiến, quản lí chăm sóc khách hàng ok, ae ghé trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Tracy Pham",
+    "rating": 5,
+    "review_text": "Rat ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Nguyen thi xuan Thuy",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ lịch sự chu đáo, không gian thoáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "duyen mai",
+    "rating": 5,
+    "review_text": "Mình ăn ở đây nhiều lần lắm rồi, recommend mì ý sốt kem và các món bò nha mọi người, must try luôn, ngon lắm lận. Cả nhà có ghé qua thì ghé qua dùng món thử nhe."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Long Nguyễn Hoàng",
+    "rating": 5,
+    "review_text": "ngon, phục vụ chuyên nghiệp đnag tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292656046623:0xcb1b234a266eb628",
+    "shop_name": "Capricciosa Vincom Landmark 81",
+    "user_name": "Văn Lâm",
+    "rating": 5,
+    "review_text": "Đồ ăn ngonn lắm luôn á"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Toan Nguyễn",
+    "rating": 4,
+    "review_text": "+ Vị trí góc đường, dễ tìm, đậu xe hơi khó tí.\n+ Nội thất đẹp, khang trang, sáng sủa, thoáng.\n+ Bánh pizza ngon, dễ ăn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Nguyên Võ",
+    "rating": 5,
+    "review_text": "Hoàn bảo từ nv đến cách phục vụ, đồ ăn rất ngonnn. Chỉ tiếc là mìn đi lúc chiều nên quán vắng quá ngồi ăn trống vắng😢 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Nhi Võ",
+    "rating": 5,
+    "review_text": "Đăng ký làm pizza ở đây siêu thích. Chị Dung hướng dẫn làm bánh vào sáng 7/8 dễ thương, nhiệt tình. Các anh chị khác hỗ trợ hết mình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Hùng Lâm",
+    "rating": 5,
+    "review_text": "Quy trình làm pizza gọn gàng, sạch sẽ. Nhân viên hướng dẫn nhiệt tình, giúp đỡ nhiều. Đăng ký WS làm bánh pizza ở Domino khiến mình hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Athen Nguyen",
+    "rating": 4,
+    "review_text": "Quán ăn được, có nhiều chương trình khuyến mãi. Lâu lâu đi ăn 1 lần đổi vị."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Tuyết Linh Hồ Băng",
+    "rating": 4,
+    "review_text": "Pizza ngon, giá cả phải chăng, có nhiều combo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Đặng Huân Vinh Official",
+    "rating": 5,
+    "review_text": "Tuyệt vời. Hài lòng. Dịch vụ tư vấn nhiệt tình. Phục vụ vui vẻ. Quán thoáng mát sạch sẽ. Chú bảo vệ vui vẻ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Trinh Diễm (Chin)",
+    "rating": 5,
+    "review_text": "Mình order ăn tại chỗ và mang đi luôn. Các bạn nhân viên rất vui vẻ nhiệt tình, nhất là bạn nam lúc lấy cho mình pizza mang về còn chu đáo hỏi mình có cần túi cho phần dư tụi mình ăn không hết không và bỏ túi riêng rất lịch sự. 100 điểm!!!\nKhông gian quán rộng rãi mát mẻ, giá cả ok. Bác bảo vệ cũng tận tình và dễ thương 🤩 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Amy Nè !",
+    "rating": 3,
+    "review_text": "Nay order món pizza núi lửa mới thấy lạ lạ, order trên app được tặng 1 cái pizza nhỏ, pizza núi lửa ở giữa có chén phô mai tan chảy để rưới lên pizza ăn kèm, hương vị thì mình thấy cũng được, không có gì đặc sắc lắm, đế bánh không được dai, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Lý Thị Thúy Kiều",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian sạch đẹp, thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Kai the local",
+    "rating": 5,
+    "review_text": "Bánh ngon, quán không đông, không khí khá thoải mái, nhân viên ngoan ngoãn nhiệt tình.\nCó màn hình chờ khá cool. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "lư ngọc hân",
+    "rating": 1,
+    "review_text": "quá tệ! nhân viên thụ động trong vấn đề giải quyết vấn đề với khách hàng. đặt 1 bill đơn giản 4 món, mình nghĩ đông nên ráng đợi và mình đợi hơn 1 tiếng rưỡi đồng hồ cho 4 món dlv xong khi gọi thì ậm ừa em lỡ em này em kia:) xong cx k có nói cách hoàn tiền với mình ntn đợi mình gọi lại thì nch hời hợt. nchung trãi nghiệm k mấy tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Anh Vũ",
+    "rating": 5,
+    "review_text": "Sau khi có một trãi nghiệm ăn uống tuyệt vời tại domino’s trần quang khải. Về bánh rất ngon hình thức đẹp, cửa hàng sạch sẽ. Nhân viên đẹp trai."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Trần Duy Quang",
+    "rating": 1,
+    "review_text": "Mình đi vào t7 ngày 1/6 do là lễ thiếu nhi nên cũng khá đông người và ai cũng phải đợi 30-35p để có bánh.Mình order lúc 19g03 phút và đợi đến 19g36 để có 2 chiếc bánh đế mỏng NGUỘI NGẮT  thua xa chất lượng phục vụ của những chỗ mình từng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Kiều Trinh",
+    "rating": 5,
+    "review_text": "Đồ ăn siu ngonnn, không gian sạch sẽ, gọn gàng. Nhân viên siêu tận tình, dễ thương luônnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Tuyền Nguyễn",
+    "rating": 5,
+    "review_text": "Hương vị của Pizza Domino vẫn ổn lắm. Ngày nào cũng có chương trình khuyến mãi, mỗi ngày khuyến mãi khác nhau. Vị Seoul mới ra thấy cũng ổn luôn. Không gian rộng rãi, đi nhóm đông hơn 10 người vẫn dc. Khu vực để xe cũng ok. Bác bảo vệ nhiệt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Mỹ Anh",
+    "rating": 5,
+    "review_text": "bánh ngon, hợp khẩu vị, không gian rộng rãi, thoáng mát có 2 lầu\nrcm hải sản xốt chanh xảaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Cẩm Dung Th",
+    "rating": 5,
+    "review_text": "Bánh rất ngon , nhân viên dễ thương . Không gian đẹp , sạch sẽ . Hôm mình tới dùng bánh xúc xích phô mai + mỳ ý rau củ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Đăng Nguyễn",
+    "rating": 1,
+    "review_text": "Thái độ của bạn nhân viên mang đồ ăn giúp mình cảm thấy không vui, bạn có thái độ và hành động thảy đồ ăn lên bàn để đưa cho mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Phạm Uyên",
+    "rating": 4,
+    "review_text": "Mình kêu pizza cua sốt Sing, mà sốt chẳng khác gì ngoài mayonaise nên hơi buồn. Mà ăn vỏ mỏng nên không có cảm giác pizza lắm, bữa sau chắc kêu vỏ vừa . Hi vọng lần sau sốt đặc sắc hơn. Mà quán chủ yếu pick up nên phục vụ cũng bình thường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Thúy Võ",
+    "rating": 5,
+    "review_text": "Lâu lâu mới ăn pizza, mình có mã trên Grab Food nữa nên mua 1 tặng 1. Tụi mình tới tận nơi rồi đặt trên web của Domino, khoảng 10 phút sau là có bánh mang lên rồi. Mình đặt 1 bánh đế dày 1 bánh đế mỏng, mình vẫn thích bánh đế mỏng hơn vì ăn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Khánh Quỳnh",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ thoáng mát , Domino thì chất lượng khỏi bàn nè . Nhân viên phục vụ tốt , 2 bạn đứng quầy rất dễ thương thân thiện và nhiệt tình lắm luôn nhaaaaaaa 🫶🏻🫶🏻🫶🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Quyên Võ",
+    "rating": 5,
+    "review_text": "Giá hợp lý, phục vụ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Như Ngọc",
+    "rating": 5,
+    "review_text": "Lên món nhanh, đồ ăn ngon vừa miệng, nhân viên nhiệt tình dễ thương thân thiện đáng iu. Lần sau sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Đặng Khả Luân",
+    "rating": 5,
+    "review_text": "Nhà hàng Q1 rộng rãi\nPhục vụ nhanh chóng\nMình hay chọn đế mỏng vì ăn giòn và đỡ ngấy.\nPhô mai nhiều và dày, giá cũng hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Nối mi Binh thạnh Mi Ngọc “Nối Mi Bình Thạnh Mi Ngọc”",
+    "rating": 5,
+    "review_text": "Bánh ngon nhân viên niềm nở, chỗ ngồi thoải mái rat sach set"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Thư Ngô",
+    "rating": 5,
+    "review_text": "Bánh ngon, giá cả hợp lí\nKhông gian quán rộng rãi, thoáng mát, sạch sẽ. Các bạn nhân viên dễ thương, nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Hoàng Nhân Lương",
+    "rating": 5,
+    "review_text": "Không gian rộng rãi\nNhân viên nhiệt tình\nLuôn có các chương trình ưu đãi hấp dẫn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Thanh Lê",
+    "rating": 4,
+    "review_text": "Lâu lâu thèm pizza mà lười chạy đi xa thì sẽ ghé Domino vì chất lượng ổn định nhất so với các thương hiệu chuỗi pizza công nghiệp.\nDomino ở TQK nhỏ xinh, nhân viên thân thiện và thời gian lên bánh khá nhanh. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Ngọc Linh Trương",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình dễ thương, đồ ăn ngon, nhiều chương trình khuyến mãi, không gian sạch sẽ, thoáng mát😍😍😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Thanh Trung Trần",
+    "rating": 5,
+    "review_text": "Ngày mưa, ghé Domino ăn pizza 🤣 Nay cuối tuần nên tranh thủ ăn để có khuyến mãi M1T1.  Domino thì nổi tiếng quá rùi, mình ăn từ hồi cấp 2 đến nay thì không thay đổi quá nhiều về hương vị, có nhiều dòng bánh mới hơn. Và menu thì sẽ có sự thay đổi theo từng đợt. Mãi mê bánh bò mỹ, hải sản sốt tiêu, dăm bông 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Hiệp Nguyễn Quang",
+    "rating": 5,
+    "review_text": "Pizza ngon, nhân viên nhiệt tình, không gian rộng rãi mua online rồi ăn tại chỗ giá hời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Linh Phuong",
+    "rating": 2,
+    "review_text": "Tiệm này mới mở mấy hôm thôi. Đang m1t1 đến 15/6. Mình đi chiều CN, ord pizza hải sản sốt tiêu (205k) + nước 25k tặng pizza gà heo j j đó. Quán ở góc ngã 4 nên không gian đẹp, sạch sẽ, rộng rãi, thoáng, có thể nhìn xuống đường. Nhân viên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "thanh nguyen",
+    "rating": 5,
+    "review_text": "hôm nay cả nhà mình đi ăn pizza Domino và làm 1 cái video cho kênh của mình. Các bạn, anh chị em xem thêm tại kênh youtube của Na với từ khoá @khadi2016 , nếu thích hãy like và đăng ký ủng hộ bé Na nha mọi người, cảm ơn ! ….\np/s: bánh pizza ăn rất ngon, ăn đến nổi no nê luôn hjhjhj"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Nguyễn Hoàng Triệu Hưng",
+    "rating": 5,
+    "review_text": "Pizza rất ngonnnnn, nhân viên rất nice và nhiệt tình. 🥰🤤 Cửa hàng rất thoải mát và sạch sẽ 🥰 Ăn ở đây chục lần roiiii 🤤🤤🤤 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Huỳnh Gia Huy",
+    "rating": 5,
+    "review_text": "Bánh ngon nha mọi người, các bạn nhân viên nhiệt tình nữa, bánh ra nhanh lắm mấy bé em họ mình ăn quá tr"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Grimm Buon Ngu",
+    "rating": 5,
+    "review_text": "Bánh gấc ngon, sẽ quay lại ạ, nhân viên dễ viên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Quan Vu Tran Thien",
+    "rating": 4,
+    "review_text": "Domino pizza mới mở, đang khuyến mãi giảm 50% đến 15 tháng 3 2019. Có lẽ mới mở nên nhân viên chưa quen dọn. Nhân viên phục vụ tốt, thân thiện, đi khoảng 6pm nên phục vụ nhanh. Like mạnh domino pizza. Ăn xong có thể qua CGV Trần Quang Khải xem phim luôn, rất gần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "20 PHÙNG ĐỨC NGUYÊN",
+    "rating": 5,
+    "review_text": "mình  thích ăn ở chi nhanh TQK nhat bởi vì thái độ nhân viên vui ve nhiet tinh chat luong banh cung quá oke không có gì chê cả 10 điểm không nhưng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Chung Anh Hào",
+    "rating": 5,
+    "review_text": "Do tết nên ko có combo mua 1 tặng 1 nên mua combo 319k gồm 1 pizza thượng hạng cỡ lớn với 2 món phụ tự chọn và ba ly nước. Theo cảm nhận thì combo này ko đáng mua bằng mua 1 tặng 1 😂😂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Nguyễn Khuê",
+    "rating": 1,
+    "review_text": "Hôm nay mình có order pizza về nhà ăn. Mình order hai bánh size M, cả hai bánh đế đều yểu, một bánh nhân hải sản thì topping mực không tươi và nhân bánh cũng không dính vào miếng bánh, cầm lên là rớt hết cả. Chi nhánh tệ nhất trong số những chi nhánh Domino mình từng ăn. Đề nghị chi nhánh mới này xem lại chất lượng bánh, tránh mất khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Bledjack",
+    "rating": 2,
+    "review_text": "Mình hay ăn Domino Nguyễn Kiệm, nay có chi nhánh mới gần nhà nên ghé ăn thử.\nVề hương vị pizza thì vẫn như ngon như các chi nhánh khác. Tuy nhiên phục vụ không tốt lắm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Sơn Nguyễn Ngọc Hải",
+    "rating": 4,
+    "review_text": "Quán mới sửa lại kèm khuyến mãi mua 1 tặng 1. Bánh phomai ăn ngon hơn là bánh thịt. Phục vụ tận tình. Nhạc hơi ồn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Anh Thy Trương Ngọc",
+    "rating": 3,
+    "review_text": "Không ấn tượng lắm nhưng khẩu phần ổn, vị dễ ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "VỮNG NGUYỄN MINH",
+    "rating": 5,
+    "review_text": "Món ăn ngon, Nhân viên vui vẻ nhiệt tình, Không gian thoải mái. Rất là tuyệt vời ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Vu Thi Thu Thuy",
+    "rating": 4,
+    "review_text": "Pizza ngon, giao hàng trong 30 phút, món đặc biệt là pizza kids gồm phô mai và trứng cút."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Kathy Trần",
+    "rating": 5,
+    "review_text": "Pizza ngon + nhanh nữa. Sẽ ghé lại nhìu 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Hy Hy",
+    "rating": 5,
+    "review_text": "rất ngon, món ăn nhanh,nv nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Lê Ngọc",
+    "rating": 5,
+    "review_text": "Vị trí thích hợp, ngay con đường rợp bóng cây cổ thụ và nhiều tiệm điện thoại sang trọng. Làm nhanh, đúng hẹn. Bánh ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Thanh Tran",
+    "rating": 5,
+    "review_text": "Rộng rãi, sạch sẽ, nhân viên dễ chịu. Pizza bình thường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Sunny Days",
+    "rating": 5,
+    "review_text": "Không gian rộng, pizza cũng ok, mỗi tội quá đông nên ra đồ hơi chậm :("
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Nguyễn Hoàng Anh Khoa (Bin)",
+    "rating": 5,
+    "review_text": "Pizza ngon, ngon hơn khi ăn đế mỏng. Chất lượng, mình đi vào thứ 3 nên được mua 1 tặng 1 quá ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "THẢO PHẠM",
+    "rating": 5,
+    "review_text": "Pizza được, chỗ ăn thoải mái ngắm cảnh đường phố đẹp. Nhân viên 100 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Anh ba Công Vlog",
+    "rating": 4,
+    "review_text": "Pizza ăn tạm được, đánh giá cao các chương trình khuyến mãi và cách phục vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "minh lê",
+    "rating": 1,
+    "review_text": "quán hết tương, hết khắn giấy không fill. Khách hỏi thì kêu đợi tí rồi cũng bỏ đi chỗ khác. Ăn pizza mà không có tương nhạt khiếp. Nhất là bảo vệ quán, lúc mình tới thì mình đổ vô chỗ có mái che xong hỏi bác để được không thì bác gật đầu. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Đức Tân Văn",
+    "rating": 1,
+    "review_text": "Tui cay ông già giữ xe, ông già lẩm cẩm cố tình lãng tai, giữ xe cho khách vô ăn pizza cũng bị làm khó, rồi ông bảo vệ thái độ muốn đuổi khách ra quán khác ăn, lúc đó trời sắp mưa nên hên là cuối cùng được ông khác giữ xe. Tóm lại thì ông bảo vệ giữ xe là dịch vụ kém nhất cái quán pizza, con sâu làm rầu nồi canh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Vy Nguyễn Huỳnh Thảo",
+    "rating": 5,
+    "review_text": "Quán lên món nhanh, giống hình minh hoạ. Nhân viên nhiệt tình, dễ thương. Không gian quán rộng rãi, nhiều bàn ghế. Quán có khu vực lầu 2 tổ chức sinh nhật nữa. Sẽ ủng hộ quán dài dài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "やまあらし.",
+    "rating": 5,
+    "review_text": "Bánh ngon, bột thơm mềm, phủ thêm phô mai rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Thiên Phú Nguyễn",
+    "rating": 5,
+    "review_text": "Bánh ngon, nv từ vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Hoàng Long Dương",
+    "rating": 1,
+    "review_text": "Đặt hàng bên phía nhân viên gọi lần 1 thì mình không nghe kịp mình gọi lại thì cũng không bắt máy xong huỷ đơn thì cũng không báo một tiếng cho người khác phải chờ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Phạm Phú Vang",
+    "rating": 5,
+    "review_text": "Tuyệt. Lúc nào cũng thấy có khuyến mãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Dương Lê",
+    "rating": 5,
+    "review_text": "Pizza ngon, phục vụ thân thiện, dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "H Mr",
+    "rating": 2,
+    "review_text": "Bánh pizza phô mai nói thật không rõ bên cty đã thử mùi vị phô mai chưa . Chứ phô mai vàng mặn quá trời . Mùi vị y chang bột phô mai trong mấy hủ khoai tay chiên phô mai bán ở siêu thị . Ăn 2 miếng ngán tận cổ . Sốt phủ mới pesto ở domino …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Mai Le Quynh",
+    "rating": 3,
+    "review_text": "Phục vụ đôi khi tỏ ra thiếu chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Ga ta",
+    "rating": 2,
+    "review_text": "Chỗ này làm chậm lắm luôn, buổi trưa mà 45p chưa có bánh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Kieu Nguyen",
+    "rating": 5,
+    "review_text": "Cửa hàng mới thay đổi qua địa điểm mới view khá là đẹp\nPizza ở đây ăn rất ngon, sẽ ủng hộ thêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Trâm Nguyễn Thị Bích",
+    "rating": 5,
+    "review_text": "Quán có không gian khá rộng rãi.\nPhục vụ nhiệt tình, mấy pạn nhân viên vô cùng dể thương.\nCác món ăn mang ra rất nhanh chóng, thơm ngon và vô cùng hấp dẫn.\nCửa hàng rất tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Nhật Thảo Trần",
+    "rating": 1,
+    "review_text": "Các bạn gọi cuộc gọi xác nhận đơn hàng đầu tiên cho khách lúc 19h34p. Cuộc gọi nhở thứ 2 lúc 19h35p. 19h36 cuộc gọi thứ 3 tôi vội chạy vào nhấc máy:\nNhân viên: …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Thuy Van Bui",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương biết bán hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "hoanghai6666@gmail.com hoanghai6666",
+    "rating": 2,
+    "review_text": "Vừa mới nhận bánh chưa kịp xem. Nhân viên mở cửa như muốn đuổi khách. Mặc dù đã nói để xem lại bánh rồi đi, nhưng nhân viên cứ đứng mở cửa chực chờ để đẩy khách ra để đóng cửa cho rãnh nợ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Khanh Phan",
+    "rating": 4,
+    "review_text": "tiệm khá rộng rãi, đẹp & sạch sẽ. chỗ ngồi sát cửa sổ trên lầu có view đường phố rất đẹp. mình đi 2 người và có ý định ăn thêm món khác sau pizza nên chỉ gọi 1 pizza và 2 nc suối, hết 189k. pizza khá ngon và giá hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Phi Huynh",
+    "rating": 1,
+    "review_text": "Ghé ăn ngồi tại chỗ đặt món trả tiền báo bánh 10p sẽ có, đợi 25p hỏi 2 lần mới báo bánh bị cháy đen thông cảm 🤧trong khi đó hơn 10 nhân viên giao nhận ra vô lấy đơn ầm ầm khách ngồi tại chỗ ngó lơ 1* cho thái độ phục vụ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Long Dinh",
+    "rating": 4,
+    "review_text": "Có nhiều loại pizza. Hợp khẩu vị. Một số loại thức ăn khác pizza cũng bình thường. Ăn ko kèm theo dĩa, muỗng, nĩa, chỉ có khăn giấy nên đôi khi hơi bất tiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Kim Hoàng",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhân viên thân thiện, chu đáo\nKhông gian thoải mái, sạch sẽ!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "John Martan",
+    "rating": 4,
+    "review_text": "Nhân viên nhanh nhẹn và thân thiện. Nhiều hình thức thanh toán đa dạng. Vị trí dễ tìm nhưng chỗ để xe máy hơi nhỏ.Bánh ngon và nhiều lựa chọn. Có nhiều khuyến mãi hấp dẫn hàng tuần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Daniel N",
+    "rating": 1,
+    "review_text": "chi nhánh ăn hại nhất của Domino, pizza vô vị, cánh gà thì nguội. Ko bao giờ đặt lại ở đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Gerhard Buter",
+    "rating": 1,
+    "review_text": "The order took a very long time, The pizza was soggy and not very tasteful, I won't be going there again , I won't recommend it\nĐơn đặt hàng mất nhiều thời gian, Bánh pizza sũng nước và không ngon lắm, tôi sẽ không đến đó nữa, tôi sẽ không khuyên bạn nên dùng nó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Hiếu Bình Thạnh",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhân viên tư vấn nhiệt tình cho người ít ăn pizza như mình mua được phần tiết kiệm và hợp lý nhất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Cường Tuấn Vương",
+    "rating": 5,
+    "review_text": "Ngon - lên pizza nhanh - sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Nganh Tran",
+    "rating": 1,
+    "review_text": "Đồ ăn ra chậm , đưa món thiếu , ngồi đợi 30ph chưa có món . Lần đầu ăn domino mà trải nghiệm tệ như vậy!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Louis Nguyen",
+    "rating": 5,
+    "review_text": "Mình và bạn bè rất thích pizza ở đây. Độ dày pizza vừa phải, nhân viên phục vụ tận tình vui vẻ.. Sẽ trở lại ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Khánh Vy",
+    "rating": 5,
+    "review_text": "dịch vụ thật tuyệt vời làm sao trang trí nhìn bắt mắt lắm mấy bạn csr đẹp gái lắm nha đặc biệt là bạn đeo mắt kính tên vy nha rất duyên dáng ạ tôi sẽ quay lại nhiều lần và mỗi ngày"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Natalia Nguyen",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiệt, nhanh nhẹn. Không gian quán rộng rãi, đồ ăn ngon, lên món nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Phúc Trần",
+    "rating": 5,
+    "review_text": "10 điểm bánh ngon nhân viên vui vẻ thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Roger Phat",
+    "rating": 5,
+    "review_text": "- Giữ xe okay\n- Nhân viên nhiệt tình\n- Không gian rộng rãi, sạch sẽ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Lý Thạch Phạm",
+    "rating": 5,
+    "review_text": "Sạch sẽ , đẹp , bố trí vị trí hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Khánh Huân Nguyễn",
+    "rating": 5,
+    "review_text": "Pizza ngon, có nhiều lựa chọn. Thứ 3 hàng tuần đang có khuyến mãi mua 1 bánh + 1 chai nước sẽ được tặng 1 bánh cùng loại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "NGUYỄN TRÍ THÀNH 7D26",
+    "rating": 5,
+    "review_text": "Ngon, giá phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Trung Huỳnh",
+    "rating": 1,
+    "review_text": "Khách mua 1 bánh size L, 1 nước ngọt mang về. Nhân viên làm xong giao bánh không giao nước ngọt. Quá ẩu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "AVIAREPS Vietnam",
+    "rating": 2,
+    "review_text": "Chất lượng ngày càng tệ. Đế bảnh mỏng nhưng cũng ko đến nỗi như bánh tráng nướng vậy chứ. Có lẽ lượng bột làm size S dùng cho sze M. Ăn nhiều lần nhưng lần này quá thất vọng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Dung Trần Thị Thùy",
+    "rating": 5,
+    "review_text": "Ăn pizza ở đây nhiều rồi, ổn từ chất lượng đến dịch vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Việt Hùng Nguyễn",
+    "rating": 5,
+    "review_text": "Quán nằm ở vị trí dễ thấy. Chỗ ngồi bên dưới ít nhưng bên trên thì rộng. Phục vụ nhanh. Nhân viên từ bảo vệ đến phục vụ đều nhiệt tình, còn có khuyến mãi nữa. Bị cái điều hoà hơi rét. Ngồi đây ăn cũng ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Pacific Engineer",
+    "rating": 1,
+    "review_text": "Bánh pizza ngon. Sạch sẽ!!\nÀ mình phải chỉnh sửa đánh giá này vì chú bảo vệ buổi tối quá khó chịu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Nguyễn Thị Tường Vy",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon 🍕\nDịch vụ tốt, nhân viên nhiệt tình dễ thương\nMọi người nên đến ăn nha  💞 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "tư",
+    "rating": 5,
+    "review_text": "Rất thích đến Domino's Trần Quang Khải dùng món. Các Bạn vui vẻ, nhiệt tình với những yêu cầu của \" khách nhỏ\"."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Heo Nhồi Bom",
+    "rating": 1,
+    "review_text": "Ăn cực dở, mà giá cực mắc, cả ngày chỉ có vài khách ghé vào. Tháng nào cũng thấy nó khuyến mãi, quảng cáo rầm rộ là đủ hiểu nha mọi người."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Lê Trung Hiếu",
+    "rating": 5,
+    "review_text": "Quán phuc vụ nhiệt tình, món ăn ra nhanh. Đặc biệt các bạn nam ở đây rất đẹp trai và nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "truong nguyen",
+    "rating": 5,
+    "review_text": "Cửa hàng sạch sẽ, bánh xúc xích và quế tây ngon, sẽ ăn tiếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Phú Hoàng Phan Quang",
+    "rating": 5,
+    "review_text": "không gian rộng rãi, pizza ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Đoan Võ",
+    "rating": 5,
+    "review_text": "Theo kinh nghiệm cá nhân, đế dày ngon hơn, đế mỏng pizza sẽ bị mặn. Nhân viên vui vẻ, tận tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Bảo Ngọc Phan",
+    "rating": 5,
+    "review_text": "bánh ngon nhiều chương trình sale ok nha mn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Hoài Trịnh Phương",
+    "rating": 4,
+    "review_text": "Nhân viên phục vụ nhiệt tình, chu đáo. Có màn hình thông báo thời gian chờ pizza."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Nghiem Nguyen",
+    "rating": 5,
+    "review_text": "Ngon, dv nv dễ thương, vị trí thuận lợi đi cái xẹt là tới."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Tuan Nguyen Trung",
+    "rating": 4,
+    "review_text": "Máy lạnh mát mẻ, sạch sẽ. Nhưng shop hơi nhỏ, ít bàn nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Đức L. A.",
+    "rating": 5,
+    "review_text": "Thường xuyên mua ở đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Tien Dat Phan Nguyen",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, đồ ăn nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Anh Thư Nguyễn",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt tận tình lễ phép , nhanh nhạy, bánh ăn cũng ok lắm luôn , marketing ,promotion đều tốt♡♡"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "ngoletranco",
+    "rating": 4,
+    "review_text": "Chổ ngồi rộng . Thoải mái tổ chức nhóm nhỏ 6-8 ng. Đồ ăn ngon !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Khánh Nguyễn",
+    "rating": 4,
+    "review_text": "Bánh ngon giá rẻ. Thứ ba có khuyến mại mua 1 tặng 1"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Vòng Quanh Sài Gòn",
+    "rating": 4,
+    "review_text": "Ngon. Nhưng kỹ thuật bán bánh giỏi khi biết dụ khách mua nhiều bằng giảm giá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Quan Minh",
+    "rating": 5,
+    "review_text": "Oke lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Hoà Nguyễn",
+    "rating": 1,
+    "review_text": "kiu size L, làm size M cực kì khó chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Linh Hồ Ngọc Phương",
+    "rating": 5,
+    "review_text": "nhân viên dễ thương nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Trang Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên phục vụ nhiệt tình!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Khánh Quốc",
+    "rating": 1,
+    "review_text": "Bảo vệ quá kém, khách tới hay về chỉ lo bấm điện thoại mặc kệ khách dắt xe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Lê Kiều Ngọc Dũng",
+    "rating": 5,
+    "review_text": "Pizza siêu ngon giá cả hợp với túi tiền sinh viên 🫶 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "vuong le minh",
+    "rating": 5,
+    "review_text": "Không gian sạch sẽ thoáng mát nhân ziên zui zẻ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Forest Sun",
+    "rating": 5,
+    "review_text": "Rất ngon , ăn loại đế mỏng sẽ ko gây ngán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Khôi Lê",
+    "rating": 5,
+    "review_text": "Quán đồ ăn ngon . Cái gì cũng ngon cả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Hoàng Phát",
+    "rating": 5,
+    "review_text": "Không gian khá thoải mái. Chất lượng phục vụ oke"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Ngoc Dang",
+    "rating": 3,
+    "review_text": "Phục vụ đồ ăn quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Hieu Nguyen",
+    "rating": 5,
+    "review_text": "Rất hợp khẩu vị với bánh Hải sản masonaise , đế vừa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Dũng Nguyễn",
+    "rating": 4,
+    "review_text": "cũng được thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Thắng trương",
+    "rating": 4,
+    "review_text": "Buổi chiều đông khách, nên chờ rất lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Doan Nguyen",
+    "rating": 1,
+    "review_text": "Phục vụ quá chậm, nửa tiếng mới ra đồ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Yến Háu",
+    "rating": 1,
+    "review_text": "Order pizza phô mai nhưng có vị cháy , dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Huyền Nguyễn",
+    "rating": 5,
+    "review_text": "Thích ăn pizza hãng này vì hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Anh Lê Nguyễn Hùng",
+    "rating": 5,
+    "review_text": "Chuyên nghiệp và ngon. Luôn ăn ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Liêm Minh",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "DAT TRAN",
+    "rating": 4,
+    "review_text": "Nhân viên nhiệt tình và bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Isaac Minh",
+    "rating": 5,
+    "review_text": "Ngon, chất lượng, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Su Beo2019",
+    "rating": 5,
+    "review_text": "Ngon giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Tuan Pham",
+    "rating": 5,
+    "review_text": "Ngon nha!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Cuong Vo minh",
+    "rating": 4,
+    "review_text": "Ăn k ngon lắm , phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Mỹ Huyền",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Linh Tô",
+    "rating": 5,
+    "review_text": "Topping nhiều. Ngon. Nhanh nhẹn. Giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Tấn Lê",
+    "rating": 2,
+    "review_text": "Làm đồ ăn quá lâu 😐 không hài lòng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "phong xu",
+    "rating": 5,
+    "review_text": "Ngon lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175299b61080ee7:0x99fc3969e063c798",
+    "shop_name": "Domino's Pizza",
+    "user_name": "Nhat Quang",
+    "rating": 4,
+    "review_text": "Pizza bánh xèo Nhật Bản quá mặn :(("
+  }
+]

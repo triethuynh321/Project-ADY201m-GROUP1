@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Lan anh Bùi",
+    "rating": 5,
+    "review_text": "Nơi chăm sóc sức khỏe tuyệt vời mọi người ạ.  👍👍👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Phi Dang Xuan",
+    "rating": 5,
+    "review_text": "Đúng hôm vào nước xả hơi nóng. Phê lòi mắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "lehue hoang",
+    "rating": 5,
+    "review_text": "Khu này sạch sẽ mà còn có nhiều dịch vụ thuê đồ, ăn uống, giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Huynh Ly",
+    "rating": 5,
+    "review_text": "Nước khoáng nóng thật sự dễ chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Tùng Vương",
+    "rating": 4,
+    "review_text": "Phù hợp tại địa phương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Mentor Lita",
+    "rating": 5,
+    "review_text": "Tắm khoáng rất tốt cho sức khỏe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Xuân Quý Vũ",
+    "rating": 3,
+    "review_text": "Tạm được, trang thiết bị đơn giản, hơi cũ. Nhân viên nhiệt tình!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "yasuo main",
+    "rating": 1,
+    "review_text": "Nhân viên thu vé mặt như đb\nNhìn như kiểu : m tắm thì m đưa vé đây, còn m ko tắm thì cút"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Hòa Lv",
+    "rating": 5,
+    "review_text": "Gần gũi, rẻ hợp với thu nhập của đại bộ phận nhân dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Linh Duy",
+    "rating": 4,
+    "review_text": "Chất lượng khoáng nóng rất tốt. Tắm thích. Mỗi tội cơ sở vật chất cần đầu tư thêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Nguyễn Thanh Hưng",
+    "rating": 2,
+    "review_text": "Nơi tắm khoáng nóng rất tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Tran Nam (BB Ti vi)",
+    "rating": 4,
+    "review_text": "nước khoáng rất tốt, nhiệt độ vừa phải, bể bơi hơi bé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Quang Ninh Tourism",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ phục vụ kém, vệ sinh dọn bẩn, cơ sở vật chất xuống cấp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Phạm Hùng Dũng",
+    "rating": 5,
+    "review_text": "Địa điểm tắm khoáng bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Bình Ngô",
+    "rating": 5,
+    "review_text": "tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "hai pham",
+    "rating": 4,
+    "review_text": "Nước khoáng rất tốt. Mỗi cái cơ sở hạ tầng kém quá."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Cô gái kiều hối NGUYỄN THANH THỦY",
+    "rating": 5,
+    "review_text": "Tắm xong gọi cốc khoáng chanh leo is the best"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Tĩnh Nguyễn",
+    "rating": 3,
+    "review_text": "Nước khoáng nóng ở mức nhiệt khá cao, chất lượng dịch vụ trung bình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Pham Thuong",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ chu đáo, trải nghiệm tốt ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Hoàng Anh",
+    "rating": 5,
+    "review_text": "Bể tắm chung hoặc phòng riêng giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Hải phòng Dầu nhớt nkoil",
+    "rating": 5,
+    "review_text": "Cty TN hh thuong mại và dịch vụ công nghiệp hải yến"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Nga Bui",
+    "rating": 3,
+    "review_text": "Tam khoáng nong ban ban dc mat xa tri lieu rat tot cho suc khỏe cua ban.khoi dc benh ngoai ra nua."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Nguyễn Tĩnh (tinhgopro)",
+    "rating": 4,
+    "review_text": "Cơ sở đã cũ, ngâm bể khoáng mà nhiều người kỳ cọ mất cảm tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Lê Giang Nguyễn",
+    "rating": 3,
+    "review_text": "Cơ sở hạ tầng cũng như dịch vụ ở mức cơ bản."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Hoai Thu Nguyen",
+    "rating": 4,
+    "review_text": "Ok trong tầm giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Quang Hoà - Google Maps QN",
+    "rating": 5,
+    "review_text": "Khoáng nóng tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Atinh Giang",
+    "rating": 1,
+    "review_text": "Dịch vụ bình thường, nhân viên có vẻ không chú ý tới khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Đình Long Hồ",
+    "rating": 5,
+    "review_text": "Quá tuyệt vời để ngâm mình thư giãn gân cốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Linh Hoàng Ngọc",
+    "rating": 5,
+    "review_text": "Tốt, sạch sẽ, giá phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Hai Nguyendang",
+    "rating": 4,
+    "review_text": "Tốt cho sức khỏe xương khớp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Trang Nguyễn",
+    "rating": 5,
+    "review_text": "Tốt cho sức khoẻ. Giá cả bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Nam Nguyen",
+    "rating": 5,
+    "review_text": "Dịch vụ mọi người nên trải nghiệm và sử dụng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Tung Minh",
+    "rating": 3,
+    "review_text": "Cũng tạm được, nhưng còn lộn xộn lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Lê Mạnh Điệp",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Thoan Vũ",
+    "rating": 4,
+    "review_text": "Tuyệt vời rất rất ok cho sức khỏe 🏋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Thu Hoàng",
+    "rating": 5,
+    "review_text": "Tuyệt vời cho các cụ tuổi hưu trid"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Tuấn Sang",
+    "rating": 5,
+    "review_text": "Sạch sẽ, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Thắng Đào Đức",
+    "rating": 5,
+    "review_text": "Rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Trải nghiệm thực tế",
+    "rating": 5,
+    "review_text": "Giá rẻ nên trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "TRAN HOANG",
+    "rating": 5,
+    "review_text": "Thật tuyệt vời và thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "BA N H",
+    "rating": 4,
+    "review_text": "Đang đóng cửa nâng cấp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Luu Nguyen",
+    "rating": 4,
+    "review_text": "Phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Phương Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, giá okk"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Dương Đỗ",
+    "rating": 5,
+    "review_text": "Tắm nc nóng tốt cho sức khỏe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Đào Văn Mạnh",
+    "rating": 5,
+    "review_text": "Khu vực tắm nước khoáng nóng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Phàn San Thành",
+    "rating": 4,
+    "review_text": "Khá ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "LE COIN",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Pham Thuy Dung",
+    "rating": 4,
+    "review_text": "Đáng tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "VINH NGUYỄN",
+    "rating": 4,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Quang Nga Nguyen",
+    "rating": 4,
+    "review_text": "Rất tuyệt, và tốt cho sức khỏe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Hoan Bui",
+    "rating": 4,
+    "review_text": "Tắm khoáng thiên nhiên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Nguyễn thị hà linh",
+    "rating": 4,
+    "review_text": "Tốt cho sức khỏe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "dinh can",
+    "rating": 5,
+    "review_text": "Chăm sóc sức khoẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Liên Nguyễn",
+    "rating": 1,
+    "review_text": "như c"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Phong Vũ",
+    "rating": 5,
+    "review_text": "\"Ngon bổ rẻ\""
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Nam Nguyễn Hải",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Tiến Nguyễn",
+    "rating": 5,
+    "review_text": "Nghỉ , giải rươu tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "thuan vu",
+    "rating": 2,
+    "review_text": "Tắm khóang tốt cho sức khỏe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Quang Huy光辉",
+    "rating": 4,
+    "review_text": "Hơi nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Anh Pham Duy",
+    "rating": 1,
+    "review_text": "NƯỚC QUÁ NÓNG TẮM THẾ THÌ TOANG"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Sơn Thanh",
+    "rating": 5,
+    "review_text": "Trải nghiệm thú vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "A Thang",
+    "rating": 4,
+    "review_text": "Tắm khoáng nóng cực thích"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Thuyên Nguyễn",
+    "rating": 4,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Truong Ngoc Duy",
+    "rating": 1,
+    "review_text": "dịch vụ kém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Tien To Dinh",
+    "rating": 5,
+    "review_text": "Khoáng nóng địa chất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Bay Phung",
+    "rating": 5,
+    "review_text": "Tắm rất tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Javier H",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "ANH TU NGUYEN",
+    "rating": 5,
+    "review_text": "Rất tốt cho sức khỏe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Nguyễn Trung Ngọc",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Anh Duonghoang",
+    "rating": 3,
+    "review_text": "Chán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Cảnh Nguyễn",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Hồng Đức Nguyễn",
+    "rating": 5,
+    "review_text": "Nóng, quá nóng và quá tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Duc phung van",
+    "rating": 5,
+    "review_text": "Tốt cho sức khỏe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "NGỌC MINH YT",
+    "rating": 4,
+    "review_text": "Nước nóng okay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "quý trần xuân",
+    "rating": 4,
+    "review_text": "Tắm khoáng nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Đức Pham Minh",
+    "rating": 5,
+    "review_text": "Thiêng lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "FREAD TOM",
+    "rating": 5,
+    "review_text": "Suối nước nóng tự nhiên ở Quảng Ninh 🎵\nThật sự là tự nhiên! ️\nNằm dưới chân núi và gần biển, nên có nước mặn và hơi mặn. ❗ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Vũ Thanh Bình",
+    "rating": 3,
+    "review_text": "Dịch vụ kém mặc dù nguồn nước rất tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Tâm Nguyễn",
+    "rating": 1,
+    "review_text": "Tôi cảm thấy bị lừa dối—không chỉ lãng phí thời gian và tiền bạc, mà tôi còn tin tưởng vào hình ảnh và mô tả của họ. Đây là một sự thất vọng lớn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Engelbert Richard",
+    "rating": 4,
+    "review_text": "Một nơi dễ chịu, nơi bạn có thể tận hưởng những lợi ích của suối nước nóng mà không cần phải trả giá cao như ở các khu nghỉ dưỡng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "大牛哥",
+    "rating": 4,
+    "review_text": "Ngâm mình thư giãn trong suối nước nóng kết hợp với massage có thể giúp bạn cảm thấy sảng khoái và thư thái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Radek Řihovský",
+    "rating": 5,
+    "review_text": "Tốt nhất là vào buổi sáng, khi ít người, nước khoảng 45°C."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Van Le",
+    "rating": 1,
+    "review_text": "Nó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Lương Tuấn Anh",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Giang Nguyen",
+    "rating": 4,
+    "review_text": "Tắm suối thật tuyệt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Phong Bui",
+    "rating": 5,
+    "review_text": "Vânggggggg"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "Nguyen Nhung Nguyen",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314afe4f40813aff:0xc0a9e7f83d76409a",
+    "shop_name": "Trung tâm Khoáng nóng Địa chất (Khoáng Nóng Địa Chất - Cẩm Phả)",
+    "user_name": "All is well",
+    "rating": 4,
+    "review_text": "Công trình đang được cải tạo và dự kiến ​​hoàn thành vào tháng 6 năm 2026, tuy nhiên trông khá đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "nước mắt của quỷ",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình các cô dễ thương . Vacxin chính hãng, nhà mình hay cho con tiêm ở đây ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Vân Anh Đỗ",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình . Mình cho con tiêm rất hài lòng. Vắcxun chính hãng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hangnga Nguyen",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình uy tín vacxin chính hãng các cô tiêm nhẹ ít đau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "HUY Trần Quang",
+    "rating": 5,
+    "review_text": "Sạch sẽ. Gọn gàng. Rất đáng tin tưởng để đưa các bé nhà đi tiêm. Ngoài vnvc thì ra đây cũng ok. Có chỗ cho trẻ lớn chơi. Các chị nhân viên nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hậu Nguyễn",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, nhân viên và các bác sĩ nhiệt tình, chăm sóc con tốt ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Vy Nguyễn",
+    "rating": 5,
+    "review_text": "Lần đầu tiên 2 mẹ con tiêm tại Long Châu. Cảm giác ban đầu rất là tuyệt vời. Các y bác sĩ ở đây nhiệt tình, tận tâm và rất chu đáo. Có quà và thuốc hạ sốt mang về nữa. Mn nên qua đây tiêm nha ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "lý bùi",
+    "rating": 5,
+    "review_text": "Khuôn viên rộng rãi thoáng mát, các cô tư vấn nhiệt tình, tận tâm rất hài lòng về trung tâm tiêm chủng Long Châu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Ngọc Ánh Thái",
+    "rating": 5,
+    "review_text": "Trung Tâm tiếp đón tư vấn rất nhiệt tình, bác sĩ khám, tiêm rất cẩn thận chu đáo thực hiện đúng theo quy trình....😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thành bình 2a3 Đào",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình. Môi trường rộng rãi thoáng mát, tiêm nhẹ ít đau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Van Dau",
+    "rating": 5,
+    "review_text": "Không gian thoáng mát sạch đẹp, dịch vụ uy tín, nhân viên nhiệt tình, bác sĩ thân thiện 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thiên Nguyễn",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình , uy tín , vacxin chính hãy, tiêm nhẹ ít đau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "nhân phạm đức",
+    "rating": 5,
+    "review_text": "Các bác sỹ tận tâm, các cháu ĐD chu đáo tiêm nhẹ ít đau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thanh nhung Lê thị",
+    "rating": 5,
+    "review_text": "Không gian đẹp, các bác sĩ , y tá , tư vấn nhiệt tình chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hoàn Trần",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt, nhân viên tư vấn nhiệt tình, các chị điều dưỡng tận tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hinako Chan",
+    "rating": 5,
+    "review_text": "Thủ tục nhanh chóng, thân thiện, chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hương Phạm",
+    "rating": 5,
+    "review_text": "Sản phẩm tốt. Tư vấn và chăm sóc chu đáo,nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Quyết Phạm",
+    "rating": 5,
+    "review_text": "Chất lượng phục vụ tốt và nhiệt tình chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hiền Nguyễn",
+    "rating": 5,
+    "review_text": "Các cô nv nhiệt tình, tận tâm, tiêm nhẹ ít đau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Nguyen Giang",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình, chu đáo. Vaccine chính hãng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Nguyễn Thị Như Quỳnh",
+    "rating": 5,
+    "review_text": "Chăm sóc chu đáo nhiệt tình , các cô vui vẻ hoà đồng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "hai yen",
+    "rating": 5,
+    "review_text": "Rộng rãi, tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "huyen vu",
+    "rating": 5,
+    "review_text": "Trứng tâm sạch sẽ, các cô ĐD tận tâm nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "lâm la",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình , vawcxin chính hãng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Meo Mai",
+    "rating": 5,
+    "review_text": "Đội ngũ bác sĩ, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "chinh bui",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt. Nhân viên tận tâm,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Huy Văn",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn chu đáo , chăm sóc tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hoàng tú Phạm",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt, phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hải lý Nguyễn",
+    "rating": 5,
+    "review_text": "Tt sạch sẽ nv tv nhiệt tình , giá thành phù hợp , tt sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Mai Lê",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình vacxin chính hãng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Quyên Lệ",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, nhẹ nhàng, tiêm nhanh chóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thu Trần Thị",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình, hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thu Hằng",
+    "rating": 5,
+    "review_text": "Trung tâm tư vấn nhiệt tình uy tín"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Ha Do",
+    "rating": 5,
+    "review_text": "trải nghiệm tốt nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Linh Trần",
+    "rating": 5,
+    "review_text": "Vắcxin chính hãng, các c nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Vân Lê",
+    "rating": 5,
+    "review_text": "Thân thiện, nhiệt tình, tư vấn ân cần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Nam Trương",
+    "rating": 5,
+    "review_text": "Trung tâm nhiệt tình , chuyên môn tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Linh Nguyễn",
+    "rating": 5,
+    "review_text": "Tiêm chủng ok, nv nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "hue Lethi",
+    "rating": 5,
+    "review_text": "Dịch vụ nhanh gọn , tiện lợi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "phanhailinh phanhailinh",
+    "rating": 5,
+    "review_text": "Dịch vụ chăm sóc chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Nhung Nguyễn",
+    "rating": 5,
+    "review_text": "Dịch vụ ân cần, chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Mai Nguyên",
+    "rating": 5,
+    "review_text": "Tư vấn sâu nhiệt tình, đội ngũ chuyên nghiệp, tiêm rất êm, lại có 🎁 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Ánh Nguyệt Nguyễn Thị",
+    "rating": 5,
+    "review_text": "Thân thiện, phục vị nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thanh Hoàng",
+    "rating": 5,
+    "review_text": "Chất lượng phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Minh Ngọc Vũ",
+    "rating": 5,
+    "review_text": "Mọi người nhiệt tình lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Huy Vi",
+    "rating": 5,
+    "review_text": "Rất ưng ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "hoa hoàng",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "72. Nguyễn Thị Thanh Thuý",
+    "rating": 5,
+    "review_text": "Tuyệt đỉnh không có nhưng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "đoàn nhàn",
+    "rating": 5,
+    "review_text": "Tư vấn tốt, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Nê Phạm Thị",
+    "rating": 5,
+    "review_text": "nhiệt tình , thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thuy Van Nguyen",
+    "rating": 5,
+    "review_text": "Trải nghiệm dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "HẢI YẾN PHẠM",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Ngọc Nguyễn Dương Bảo",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Anh Hà",
+    "rating": 5,
+    "review_text": "Trung tâm nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Quang Hòang",
+    "rating": 5,
+    "review_text": "Hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hang Dinh",
+    "rating": 5,
+    "review_text": "Rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Linh Nguyễn",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Bình Phạm",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Dan Pham",
+    "rating": 5,
+    "review_text": "Tiêm chủng tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Nguyễn vinh228",
+    "rating": 5,
+    "review_text": "Mọi thứ đều tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thảo Phạm",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Phương Nguyễn",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Phong Le",
+    "rating": 5,
+    "review_text": "Tôi rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hòe Ngothi",
+    "rating": 5,
+    "review_text": "thân thiện, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Phi Anh",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "ngoctrang cao",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thanh Tra Hoang",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Phạm Huyền",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hường Đinh Thị",
+    "rating": 5,
+    "review_text": "Rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Tuyen Phan",
+    "rating": 5,
+    "review_text": "Tận tâm và chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thu Phương Lưu",
+    "rating": 5,
+    "review_text": "Phục vụ rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "chi le",
+    "rating": 5,
+    "review_text": "Nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "hang le",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Lan Tô",
+    "rating": 5,
+    "review_text": "Rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "hậu nguyễn",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Trịnh Thị Ngọc Thùy",
+    "rating": 5,
+    "review_text": "dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Van Van",
+    "rating": 5,
+    "review_text": "Rất hài lòng . Mình đã tiêm ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Nga Nguyễn",
+    "rating": 5,
+    "review_text": "Rất hài lòng ,tiêm êm ái, tư vấn nhiệt tình, trung tâm sạch sẽ,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Lá Bé",
+    "rating": 5,
+    "review_text": "Rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hà An",
+    "rating": 5,
+    "review_text": "tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Tâm Lưu Thị Thanh",
+    "rating": 5,
+    "review_text": "Rất hài lòng cho con tiêm Long châu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hương Nguyễn Thị Minh",
+    "rating": 5,
+    "review_text": "Hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thạo Nguyễn Văn",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Linh Cao",
+    "rating": 5,
+    "review_text": "chu đáo tiêm êm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Nho Dinh",
+    "rating": 5,
+    "review_text": "Các cô nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Loan Hồng",
+    "rating": 5,
+    "review_text": "Các cô chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Duc Anh Pham 5A6camthuy",
+    "rating": 5,
+    "review_text": "Các cô tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "lan nguyen",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Huyền Nguyễn",
+    "rating": 5,
+    "review_text": "Bsi nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hai Yen",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Việt Nguyễn",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thùy Linh Nguyễn",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình vắcxin chính hãng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thanh Hải Vũ",
+    "rating": 5,
+    "review_text": "các cô nhiệt tình chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Lan Vu",
+    "rating": 5,
+    "review_text": "Rất nhiệt tình, chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Mai Anh Bùi",
+    "rating": 5,
+    "review_text": "Vắcxin chính hãng. Phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hạnh Tô Thị",
+    "rating": 5,
+    "review_text": "Rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thúy Nguyễn Thanh",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Ngọc Huyền",
+    "rating": 5,
+    "review_text": "Rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hồng Nguyễn",
+    "rating": 5,
+    "review_text": "Nhiệt tình chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thư Tô",
+    "rating": 5,
+    "review_text": "Các cháu rất nhiệt tình tận tâm.."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "bông",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Tuấn Nguyễn",
+    "rating": 5,
+    "review_text": "Các cháu rất nhiệt tình chu đáo tận tâm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Lan Nguyễn Thị",
+    "rating": 5,
+    "review_text": "Trung tâm sạch sẽ thoáng mát, nhân viên nhiệt tình, đầy đủ vắc xin, yên tâm khi đến đây tiêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Quỳnh Maii",
+    "rating": 5,
+    "review_text": "Vacxin bảo quản tốt,sạch sẽ,tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Huyền Nguyễn",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình, chăm sóc khách hàng tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Như Quỳnh",
+    "rating": 5,
+    "review_text": "Trung tâm tư vấn tốt, các bác sĩ nhiệt tình, 2 bạn nhỏ của em đều tiêm ở đây, đánh giá 💯điểm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Miu Nguyen",
+    "rating": 5,
+    "review_text": "Trung tâm rộng sạch sẽ, nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Tâm Đặng",
+    "rating": 5,
+    "review_text": "Nhiệt tình, chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hue Pham",
+    "rating": 5,
+    "review_text": "Trung tâm sạch sẽ nv nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "khuyen nguyen",
+    "rating": 5,
+    "review_text": "Cskh nhiệt tình, có tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Tuệ Nam Đỗ Thị",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình các cô dễ thương . Vacxin chính hãng, nhà mình mũi nào cũng tiêm ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Hoàng Nguyễn Đức Tuấn",
+    "rating": 5,
+    "review_text": "Nhiệt tình, tư vấn chu đáo tận tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Huyen Nguyen",
+    "rating": 5,
+    "review_text": "Cửa hàng xịn xò"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "THƠM PHẠM",
+    "rating": 5,
+    "review_text": "Trung tâm sạch sẽ thoáng mát NV nhiệt tình chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Nguyễn Thị Anh Thơ",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình. Mình toàn cho bé nhà mình tiêm ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Thuỳ Linh Hồ",
+    "rating": 5,
+    "review_text": "Trung tâm rất sạch sẽ tư vấn nhiệt tình nhan Viên tận tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff68bfeace5f:0x15e3cf108302a0dc",
+    "shop_name": "Tiêm Chủng Long Châu Cẩm Phả",
+    "user_name": "Mai Nguyễn",
+    "rating": 5,
+    "review_text": "trung tâm sạch sẽ, to đẹp, bác sĩ tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Lợi Phạm Đình",
+    "rating": 5,
+    "review_text": "Xưởng dịch vụ đầu tư chuẩn mực, phòng chờ là quán cafe đẹp, có cả cafe chuồi 😆😆😆 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Chi Quỳnh",
+    "rating": 5,
+    "review_text": "Chất lượng dịch vụ tốt, rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "anh to",
+    "rating": 5,
+    "review_text": "Sự tận tâm của người thợ và cafe ngon của anh chủ thật tuyệt vời🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Thu Thủy",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, nhân viên nhiệt tình, kế toán đáng yêu, thân thiện, mình sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Đình Minh Phạm",
+    "rating": 5,
+    "review_text": "Chất lượng dịch vụ tuyệt vời, rửa xe sạch sẽ chu đáo. Lễ tân dễ thương nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Vũ Thị Thu Trang",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, giá cả phải chăng, 10đ cho chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Ngọc Nguyễn",
+    "rating": 5,
+    "review_text": "cơ sở vật chất tốt, nhân viên thân thiện. rất hài lòng với dịch vụ. sẽ giới thiệu cho bạn bè, người thân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Bùi Quang Vinh",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Tâm Mai",
+    "rating": 5,
+    "review_text": "Rửa xe siêu sạch, máy móc hiện đại, giá cả hợp lý. Phòng chờ riêng đẹp, sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "hanh bui",
+    "rating": 5,
+    "review_text": "Dịch vụ rất tuyệt vời. Toàn máy xịn. Ngân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "cuong le",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, thái độ thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Hùng Trịnh Văn",
+    "rating": 5,
+    "review_text": "Chất lượng dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "BinhLoi NPP",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời, nhân viên nhiệt tình, cẩn thận. Lần sau mình lại quay lại tiếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Quyen Nguyen",
+    "rating": 5,
+    "review_text": "Giá dịch vụ hợp lý, nhân viên tư vấn tận tình, máy Hunter cân chỉnh mới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Nguyễn Thu Phương",
+    "rating": 5,
+    "review_text": "Đã sdung dvu, để dành cho e 1 lọ thơm cuối tuần em lấy nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Trang Nguyễn",
+    "rating": 5,
+    "review_text": "Chất luợng, phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Thị thu hằng Vũ",
+    "rating": 5,
+    "review_text": "Máy móc hiện đại, chuyên nghiệp và rất nhiệt tình. Vote!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Ngọc Nguyễn",
+    "rating": 5,
+    "review_text": "Dịch vụ rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "thao quynh",
+    "rating": 5,
+    "review_text": "phục vụ nhiệt tình, chất lượng dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "thuy duong duong",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt 5 sao, rất hài lòng nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Quang Trần",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Anh Truong",
+    "rating": 5,
+    "review_text": "Rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Nhung Nguyen",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Ha My Pham",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "hồng phong ngô",
+    "rating": 5,
+    "review_text": "Xưởng rất oke, ủng hộ dài dài ạ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Minh Bùi",
+    "rating": 5,
+    "review_text": "Xe tôi đã làm các dv sửa chữa, bảo dưỡng, thay dầu ở đây rồi. Chất lượng ok, tôi rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Vương Vũ",
+    "rating": 5,
+    "review_text": "Chỗ rửa xe rộng rãi, sạch sẽ. Chất lượng ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Phương Vũ",
+    "rating": 5,
+    "review_text": "Xưởng làm rất tốt, thái độ nhân viên oke"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Mình Anh",
+    "rating": 5,
+    "review_text": "Dịch vụ rửa xe rất oke ạ, thái độ nhân viên phục vụ rất tốt. Ủng hộ dài dài ạ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Lê Văn Trần",
+    "rating": 5,
+    "review_text": "Trải nghiệm dịch vụ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "chi nguyen",
+    "rating": 5,
+    "review_text": "Rửa xe ở đây ok, sạch sẽ, chỗ rửa xe rộng, có phòng ngồi chờ điều hoà mát mẻ. Ủng hộ xưởng dài dài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "trang vũ thị thu",
+    "rating": 5,
+    "review_text": "Dịch vụ siêu nhanh mà nv nhiệt tình lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Tan Nho hai",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01001944ecd1:0x68698b653ca0d031",
+    "shop_name": "LopViet.com",
+    "user_name": "Nguyễn Huyền Trang",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Nam Trần",
+    "rating": 1,
+    "review_text": "Quán làm aen rất bố láo, thái độ rất lồi lõm kiểu gì cũng đóng cửa sớm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Dung Trần",
+    "rating": 5,
+    "review_text": "Đồ uống ok đặc biệt là cafe.giá bình dân nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Trung Kiên",
+    "rating": 5,
+    "review_text": "đi nhiều lần và thấy nước rất ổn, phục vụ cũng rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Mentor Lita",
+    "rating": 5,
+    "review_text": "Đồ uống siêu ngon không gian thoáng đãng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "anenlecbhk canmotnguoihieu",
+    "rating": 4,
+    "review_text": "Đồ uống OK\nTrẻ con không nên cho đi vì quán cho hút thuốc ở trong nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Bien NQ",
+    "rating": 5,
+    "review_text": "Cafe pha chế ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Ngọc hải Lê",
+    "rating": 5,
+    "review_text": "Đồ uống ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Trường Phạm",
+    "rating": 5,
+    "review_text": "Quán này ngon hơn Sài gòn Cafe. Recommen mọi người đến uống và trải nghiệm. Quán rất nhiều các em xinh gái, đọc pass ĐẠT 09"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "bac trinh",
+    "rating": 5,
+    "review_text": "Đồ uống ngon giá bình dân k gian đẹp thoáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Hải Phạm",
+    "rating": 5,
+    "review_text": "Đồ uống ngon giá rẻ bình dân ,không gian phù hợp mọi lứa tuổi.likeeeeee"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Chung Trần thái",
+    "rating": 5,
+    "review_text": "Không gian ok. Nhân viên thân thiện. Đồ uống ok. Giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Thi thuan Nguyen",
+    "rating": 5,
+    "review_text": "Ngon rẻ phù hợp với các gia đình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Thương Vũ",
+    "rating": 5,
+    "review_text": "Đồ uống rẻ, ngon tuyệt vời, không gian đẹp, rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Vuong Tran",
+    "rating": 5,
+    "review_text": "Đồ uống ngon. Nvien nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "hậu nguyễn",
+    "rating": 5,
+    "review_text": "Giá phải chăng, đồ uống ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Lê Đạt",
+    "rating": 5,
+    "review_text": "Quán rất trắng và tròn :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Uk Thang",
+    "rating": 5,
+    "review_text": "quan sach se , không gian đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Chúng Phạm Thị",
+    "rating": 5,
+    "review_text": "Ngon. Giá cả hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Phi Hoàng Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Anh Đào Việt",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "Shin Long",
+    "rating": 5,
+    "review_text": "Quá tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affc1432fcea3:0xdf053dbad2623788",
+    "shop_name": "K'VY CAFE",
+    "user_name": "anh vu quoc",
+    "rating": 5,
+    "review_text": "Tuyệt vời 💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Cuong Tong",
+    "rating": 5,
+    "review_text": "Quán to rộng, dễ tìm. Bàn ghế kiểu bình dân ngồi cũng khá thoải mái. Đồ ăn chế biến ngon, nguyên liệu tươi sống. Duy chỉ có món ốc hương xốt phô mai trứng muối ăn chưa được ổn lắm. Giá cả phải chăng, ăn uống toè mỏ chưa tới 300k/người. Nếu ăn tối nhớ đi sớm không thì không có chỗ ngồi. Quán không cho đặt bàn trước đâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Hoàng Vũ",
+    "rating": 5,
+    "review_text": "Địa điểm ăn ốc ngon tại Cẩm Phả. Giá cả hợp lý, tư vấn nhiệt tình với số lượng người ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Son Dinh415",
+    "rating": 3,
+    "review_text": "Đồ ăn cũng được,ko có gì đặc sắc.giá bình dân, nhưng khu vệ sinh thì chật có mỗi 1 chậu rửa tay,sàn nhà ướt và bẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Tuyet Nhung",
+    "rating": 4,
+    "review_text": "Ốc ăn ngon, ốc hương trứng muối không ngon. Nhân viên nhiệt tình, thân thiện. Quán đông nên hơi ồn ào."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Huong Tran",
+    "rating": 4,
+    "review_text": "Các món ốc giá cả hợp lý, Làm nhanh. Một vài điểm trừ nhỏ do quán đông khách nên ồn ào và vs chưa sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Tuyết Anh Triệu",
+    "rating": 1,
+    "review_text": "Ốc không tươi, làm đồ người vào sau có trước xong người trước còn cười người sau. Khách với chủ quán hợp cạ nhau, mình ăn 1 lần rồi say bye. Kiểu phục vụ này xứng đáng âm sao chứ nói gì 1 sao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "AI MrT",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, tươi, giá bình dân, phù hợp ăn chơi, cuối tuần đông khách, đường đi hơi khó tìm, nên đi taxi và báo điểm để được chở đến đúng nơi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Myji Myzh",
+    "rating": 4,
+    "review_text": "1 từ thôi : Ngon !\nMỗi tội nhìu lúc quán đông quá, sợ hết bàn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Tiệm Thảo nail",
+    "rating": 5,
+    "review_text": "Rẻ ốc to chế biến ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Eden Vũ",
+    "rating": 4,
+    "review_text": "Đồ ăn rẻ hải sản tươi\nTuy nhiên quán đông nên sẽ hơi ồn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Công Thế",
+    "rating": 4,
+    "review_text": "Đồ ngon, chất lượng, chế biến ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Tuan Dinh",
+    "rating": 3,
+    "review_text": "Bình thường, ít món, hơi nóng và đông."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Touki Yuuta",
+    "rating": 3,
+    "review_text": "Ốc mẻ siêu chua, đồ ăn ra nhanh,giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "meo mèo",
+    "rating": 1,
+    "review_text": "Ốc luộc chưa chín kêu 7 món thì hết 5 món sống, kêu chủ quán ra giải quyết thì thái độ nạt nộ khách. Từ nhân viên tới chủ mắt cao hơn đầu. Chả hiểu sao nhiều lượt 5 sao vậy, chắc chạy bài quảng cáo. Khuyên mn đừng tới ăn mất công tiền mất tật mang giun sán kí sinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Bùi Minh Tiến",
+    "rating": 4,
+    "review_text": "Đồ ngon, giá cả phải chăng, quán sạch sẽ, phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Lam Dung Nguyen",
+    "rating": 1,
+    "review_text": "Đồ ăn đợi lâu, 15p đc đĩa dưa chuột, 30p sau đc đĩa rau và cút luộc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Chi Nguyễn",
+    "rating": 4,
+    "review_text": "Đồ ăn khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Pro Long",
+    "rating": 1,
+    "review_text": "Tối ngày 15/04/2025 tôi và gia đình đi ăn ở đây xong cùng khuya hôm đó gia đình tôi bị đau bụng tiêu chảy cả đêm , mn chú ý né quán này coi chừng tiền mất tật mang"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Hai Tran",
+    "rating": 5,
+    "review_text": "Quán rất da dạng món ốc ếch các kiểu. Chế biến ngon, đồ tươi, giá cả cũng bình thường, nhân viên nhanh nhẹn khá nhiẹt tình. Chắc chắn quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Truong Tu",
+    "rating": 1,
+    "review_text": "Vừa mắc vừa dở khuyên mn nên đi quán khác ăn đừng ăn quán này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Nam Nguyễn",
+    "rating": 5,
+    "review_text": "Ốc mẹt đỉnh thật sự..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Ký Nguyễn Thi.",
+    "rating": 5,
+    "review_text": "Nhiều món ốc biển lạ mà rất ngon.  Đặc biệt là món cháo Cù kỳ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Đổng K1C Phạm",
+    "rating": 5,
+    "review_text": "Càng cù kì tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Anhtuan Vu",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon mặt hàng đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "M&H LIM",
+    "rating": 5,
+    "review_text": "Tươi. Nấu ngon. Vừa miệng. Món măng xào lá lốt ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Phương Anh Nguyễn",
+    "rating": 2,
+    "review_text": "thái độ nhân viên tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "thinh nguyen",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Hoc Tran",
+    "rating": 4,
+    "review_text": "Sạch sẽ, ngon, phục vụ tốt..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "THPT Hạ Long Vương Bá Ngọc",
+    "rating": 5,
+    "review_text": "Ốc mẹt siêu ngon, hơn dương ốc nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Văn Triệu",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Van Giang",
+    "rating": 3,
+    "review_text": "Giá cả phải chăng, hương vị ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Lê Thanh Hà",
+    "rating": 5,
+    "review_text": "Ngon, giá tốt, slogan hay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Chí Tâm Nguyễn",
+    "rating": 2,
+    "review_text": "Đợi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "khom chien",
+    "rating": 4,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Hoàng Tử",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Cong Vu",
+    "rating": 4,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Dream Home",
+    "rating": 1,
+    "review_text": "Quán lên món siêu chậm, ngồi chờ 40 phút mới ra được món dù quán không đông lắm, món trứng cút lộn xào me tanh phát khiếp, ốc thì có con bị thối, ốc không tươi, quán không có thùng rác dưới chân nên rất bẩn và trơn dầu mỡ. Giá món không công khai trên menu. Khi thanh toán bill giá đắt so với các quán khác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "드문",
+    "rating": 5,
+    "review_text": "Đây là lần đầu tiên tôi thử ốc biển, và chúng rất ngon 👍🏻\n\nMặc dù nguyên liệu chính khác nhau, nhưng nước sốt có vẻ tương tự. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "大牛哥",
+    "rating": 4,
+    "review_text": "Ốc biển tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Goo Hari",
+    "rating": 4,
+    "review_text": "Giá cả phải chăng. Bạn có thể ăn bao nhiêu hàu tùy thích. Nhớ mang theo bạch tuộc nhỏ và dầu mè nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff8e5b73e767:0xa3c39785cdd71f66",
+    "shop_name": "Ốc Mẹt",
+    "user_name": "Tiên Phong Hà",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Tìm về Tổ ấm",
+    "rating": 4,
+    "review_text": "Chợ nhỏ phục vụ thực phẩm trong ngày người thưa thớt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Dung Phạm",
+    "rating": 5,
+    "review_text": "Đẻ ra từ nhỏ ở chợ cầu luôn á, mà biết sao gọi chợ cầu 20 không. Nghe người ta kể, từ xưa có cái cầu cạnh đấy có 4m mà 20ng xây, nên gọi cầu 20.\nChợ lười mà đầy đủ hết luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Son Dinh415",
+    "rating": 4,
+    "review_text": "Chợ gần cầu 20 , thuộc địa phận phường Cửa Ông.Chợ nhỏ chủ yếu phục vụ nhu cầu cho người dân quanh đó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Phạm Nhất",
+    "rating": 3,
+    "review_text": "Chợ thì ok hơi tối, nhưng đi lai khu này cẩn thận dân sang đường bất ngờ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Châu Minh",
+    "rating": 3,
+    "review_text": "Nhiều loại mặt hàng phục vụ nhu cầu cho các bà nội trợ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Đình Hoàng Hà",
+    "rating": 5,
+    "review_text": "🙋🏻‍♂️ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Nghi Tran",
+    "rating": 2,
+    "review_text": "Chợ khu vực, phục vụ theo nhu cầu cụm địa phương !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Mới Cuộc Sống",
+    "rating": 5,
+    "review_text": "Dễ mua bán nhiều mặt hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "lê thái sơn",
+    "rating": 4,
+    "review_text": "hàng hóa ngày rằm tháng giêng rất phong phú"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "nhì múi tằng",
+    "rating": 1,
+    "review_text": "Chợ này chủ yếu thức ăn là chính"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "thanh thanh",
+    "rating": 5,
+    "review_text": "Có bánh vịt quay ở đấy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "thoa vuong",
+    "rating": 5,
+    "review_text": "Đúng là một chuyến đi tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Nguyen Trung",
+    "rating": 3,
+    "review_text": "Là cái chợ thông thường, ko có gì đặc biệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "ha hai don",
+    "rating": 5,
+    "review_text": "Quê mình nên lúc nào cũng tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "ha nguyen",
+    "rating": 5,
+    "review_text": "yêu nhất cô bán giò"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Dương Nguyễn",
+    "rating": 5,
+    "review_text": "Gần nhà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Tùng Nguyễn",
+    "rating": 4,
+    "review_text": "Đồ ăn tốt 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Nguyễn Đức Thuận",
+    "rating": 5,
+    "review_text": "Đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Minh Hai",
+    "rating": 2,
+    "review_text": "Ít hàng hoá."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Đăng Bùi",
+    "rating": 3,
+    "review_text": "Nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "34-Vũ Xuân Phúc",
+    "rating": 5,
+    "review_text": "Dep"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "hằng khổng",
+    "rating": 3,
+    "review_text": "Bụi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Linh Hoàng",
+    "rating": 2,
+    "review_text": "Bẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Ankit Roy",
+    "rating": 4,
+    "review_text": "Điều tuyệt vời nhất ở nơi này là mọi người rất thân thiện và sẵn lòng giúp đỡ... nếu bạn là người nước ngoài, hãy bật định vị và Google Translate."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "khanh nguyen",
+    "rating": 3,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "john phạm",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Sui Tranvan",
+    "rating": 5,
+    "review_text": "Qt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "Huy Quang",
+    "rating": 5,
+    "review_text": "Rất tốt 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b0115d503441d:0x58dd7cf0e88e9411",
+    "shop_name": "Chợ Cầu 20",
+    "user_name": "TakR ImuL",
+    "rating": 4,
+    "review_text": "Kỳ quan thế giới..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Local guide Ha Noi",
+    "rating": 3,
+    "review_text": "Quán nhỏ phố cổ, đủ loại đổ uống tứ trái cây. Ngồi ngoài ngắm phổ tấp nập rất chill"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Nguyễn Linh",
+    "rating": 5,
+    "review_text": "món trà tắc giải khát mùa nè tôi yêu giá rẻ sạch sẽ siêu ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "thy pham",
+    "rating": 5,
+    "review_text": "1 trong những quán sữa chua dẻo số 1 lòng mình quá hời so với giá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Thổ Chuột",
+    "rating": 5,
+    "review_text": "Mình chờ xe nên dùng đồ uống ở đây.Đồ uống ngon,chị chủ dễ tính. Giá thành khá rẻ so với địa điểm khác ở Hà Nội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Huyền Trang",
+    "rating": 5,
+    "review_text": "ngon, bổ, rẻ, nhân viên cute vãi l"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "YZ Lin",
+    "rating": 5,
+    "review_text": "Tôi đã gọi trà xoài, và nó thật tuyệt vời!\n\nNó ngon tuyệt! Thật sảng khoái! Và tôi còn được ăn xoài nữa! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "joevin ozam",
+    "rating": 5,
+    "review_text": "Sinh tố bơ rất ngon và sảng khoái. Dịch vụ tuyệt vời! Chắc chắn sẽ quay lại để thử các loại đồ uống khác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Chatwin Joanna (Sonia)",
+    "rating": 5,
+    "review_text": "Đồ uống rất ngon và sảng khoái, chúng tôi gọi sinh tố xoài và trà quất, nhân viên rất dễ thương và thật tuyệt khi được ngồi bên trong một lúc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "지은별",
+    "rating": 5,
+    "review_text": "Họ cực kỳ thân thiện, và trên hết, nước ép rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "m t",
+    "rating": 5,
+    "review_text": "Tôi ghé qua đó trước khi đi làm móng. Ngon và rẻ!\n\nQuán nhỏ nhưng có chỗ ngồi bên trong! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "S Touati",
+    "rating": 5,
+    "review_text": "Đây là một địa điểm tuyệt vời để thưởng thức nước ép trái cây tươi (rất nhiều lựa chọn, trái cây được ép ngay trước mặt bạn và không thêm đường). Quản lý rất dễ thương, tôi highly recommend nơi này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "さらせん",
+    "rating": 5,
+    "review_text": "Nước ép chanh dây rất ngon!! ☀️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "らら",
+    "rating": 5,
+    "review_text": "Tôi đã uống một ly sinh tố xoài!\n\nNó lạnh và ngon tuyệt. Thật sảng khoái. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Guy Collings",
+    "rating": 5,
+    "review_text": "Quán cà phê nhỏ xinh và giản dị nằm trong khu phố cổ. Sinh tố dâu tây rất ngon và là thức uống giải khát tuyệt vời trong một buổi chiều oi bức ở Hà Nội. Cô phục vụ rất nhiệt tình và nói tiếng Anh rất tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Ann Kirstine Kirk",
+    "rating": 5,
+    "review_text": "Nước ép và trà ngon, lại nằm rất gần khách sạn của chúng tôi. Vì vậy, tôi đã đến đây vài lần. Chủ quán thân thiện. Chắc chắn nên ghé qua!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Geoffroy Le Tallec",
+    "rating": 5,
+    "review_text": "Sinh tố ở đây rất ngon, chúng tôi đã đến đó 4 lần rồi và mỗi lần đều thử một công thức mới mà không hề thất vọng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Elisa",
+    "rating": 5,
+    "review_text": "Tôi đã đến đây nhiều lần trong thời gian ở Hà Nội vì nó quá tuyệt vời!\n\nSinh tố ngon, nhân viên cực kỳ thân thiện, phòng máy lạnh tốt và giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Long Pham",
+    "rating": 5,
+    "review_text": "Đồ uống ngon - phục vụ tuyệt vời. Nhất định phải đến khi tôi ghé thăm khu phố cổ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Solinity Pictures inc.",
+    "rating": 5,
+    "review_text": "Tôi đã gọi một ly nước ép xoài và một ly sinh tố bơ.\n\nNước ép rất ngon, nhưng nho khô mà cô bán hàng cho tôi thì đặc biệt ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Nikita Kudryavtsev",
+    "rating": 5,
+    "review_text": "Giá cả và dịch vụ tốt. Rất đáng để ghé thăm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Dian Yani",
+    "rating": 5,
+    "review_text": "Nước ép và sinh tố tuyệt ngon... một nơi tuyệt vời để ngồi thư giãn và ngắm nhìn thế giới xung quanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Mascha Schilling",
+    "rating": 5,
+    "review_text": "Sinh tố rất ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Arnaud sapey",
+    "rating": 5,
+    "review_text": "Nước ép trái cây tươi ngon, được pha chế nhanh chóng.\n\nGiá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Stefan L.",
+    "rating": 5,
+    "review_text": "Các con của chúng tôi rất thèm sinh tố chuối và anh ấy đã pha chế rất ngon, cứu cả ngày của chúng tôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "LucienB",
+    "rating": 5,
+    "review_text": "Sinh tố ngon nhất thành phố và giá cả phải chăng. Mamie en slip!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Thị Lương Vũ",
+    "rating": 5,
+    "review_text": "Loại trà rất ngon.\n\nThân thiện. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Quỳnh Anh Đinh Vũ",
+    "rating": 5,
+    "review_text": "Tôi tình cờ tìm thấy một quán nước tuyệt vời ở khu phố cổ, và trà ở đây thực sự là cứu tinh của mùa hè!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Garth Donkin",
+    "rating": 5,
+    "review_text": "Chúng tôi đã đến đây nhiều lần, phục vụ rất thân thiện, sinh tố ngon tuyệt và đây là một địa điểm nhỏ tuyệt vời để ngắm nhìn cuộc sống xung quanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Ron Ringelberg",
+    "rating": 5,
+    "review_text": "Nước ép trái cây ngon tuyệt, hảo hạng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Arianna Masarin",
+    "rating": 5,
+    "review_text": "Đây là một địa điểm tuyệt vời để thưởng thức sinh tố ngon! Nhân viên rất thân thiện, tôi rất khuyên bạn nên đến thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Kiko Sacdalan",
+    "rating": 5,
+    "review_text": "Khuyến nghị 100%"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "anthony cazorla",
+    "rating": 5,
+    "review_text": "Nước ép rất ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Fathayati Hasan",
+    "rating": 5,
+    "review_text": "Ông chủ thân thiện,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Edhel france Ramilo",
+    "rating": 5,
+    "review_text": "Thức uống giải khát tuyệt vời 💕💕💕 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Coco",
+    "rating": 5,
+    "review_text": "Thói quen buổi sáng của chúng tôi 👌🏾 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Luca Accoto",
+    "rating": 5,
+    "review_text": "Trà rất ngon và phục vụ rất chu đáo!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "김형태",
+    "rating": 5,
+    "review_text": "Tôi đến đây hai lần một ngày.\n\nNhân viên rất thân thiện~~~"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Egle Rackaityte",
+    "rating": 5,
+    "review_text": "nước ép ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Mouad",
+    "rating": 5,
+    "review_text": "Nước ép ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "남현석",
+    "rating": 5,
+    "review_text": "Sau khi ăn món kepi trứng ở Cafe Giang, tôi cảm thấy hơi chưa hài lòng.\n\nNếu bạn muốn tránh xa những chiếc ghế không thoải mái và sự ồn ào náo nhiệt, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Anda Bimane",
+    "rating": 5,
+    "review_text": "Nơi rất tuyệt, phục vụ tốt và đồ ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "zhi an",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện. Trà quất và nước ép trái cây ngon. Mở cửa đến 11 giờ đêm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "julia dutka",
+    "rating": 5,
+    "review_text": "Một nơi tuyệt vời với những loại trà ngon và chủ quán rất lịch sự."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Jihene Lamaa",
+    "rating": 5,
+    "review_text": "Cà phê rất ngon, tôi khuyên bạn nên thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Jae GXJ",
+    "rating": 5,
+    "review_text": "Địa điểm tuyệt vời để thưởng thức đồ uống giải khát trong thời tiết nóng bức!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "S. KB",
+    "rating": 5,
+    "review_text": "Một địa điểm tuyệt vời để thư giãn! Hãy thử trà quất... Đó là trà hoa nhài với quất và đá. Không gian bên trong quán mát mẻ và nhạc thư giãn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Sarah Woloszyn",
+    "rating": 5,
+    "review_text": "Nước ép trái cây ngon nhất thành phố. Chủ quán rất thân thiện. Cảm ơn vì tất cả những ly nước ép tươi mát này. 😊 Camòn 🙏🏼 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Sandra",
+    "rating": 5,
+    "review_text": "Sinh tố thơm ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Karla Solis",
+    "rating": 5,
+    "review_text": "Tôi yêu cầu họ thêm gừng vào đồ uống của mình và nó có vị rất ngon.\n\nTrang trí đẹp, không gian yên tĩnh. Thư giãn và sảng khoái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Sevgi Dash",
+    "rating": 5,
+    "review_text": "Sinh tố tuyệt vời, rất thích hợp để bắt đầu một buổi sáng tươi mới! Tôi rất khuyên dùng!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Ha San",
+    "rating": 5,
+    "review_text": "Một nơi tuyệt vời để nghỉ ngơi, giá cả phải chăng, chủ nhà rất thân thiện và có máy lạnh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135ab3b3343bbeb:0xfd2eca0f1083f592",
+    "shop_name": "ChIMiNi : Trà Mãng Cầu.",
+    "user_name": "Remillda Jacob",
+    "rating": 5,
+    "review_text": "Có nhiều loại đồ uống để lựa chọn, nhân viên rất thân thiện.\nNên ghé thăm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Vũ Tâm Hồ",
+    "rating": 4,
+    "review_text": "Quán cafe có từ lâu đời rồi, nay xây dựng lại như 1 toà lâu đài có vòi phun nước, hồ cá koi, quảng sân rộng.\nƯu điểm: Không gian thoáng mát, rộng rãi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Shopvatnuoi. vn",
+    "rating": 5,
+    "review_text": "Tin tưởng vào bản thân, đó là chìa khóa giúp bạn vượt qua mọi khó khăn và thử thách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Bảo Nhi Phạm Hoàng",
+    "rating": 4,
+    "review_text": "Ưu điểm: Rộng, thoáng, mát, giá phải chăng 29k - 39k\n\nNhược: Hút thuốc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Nhân Nguyễn",
+    "rating": 1,
+    "review_text": "quá tệ, bán cafe muối với trứng mà không có, phụ thu tết mà thái độ và chất lượng quá tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Hien Thanh",
+    "rating": 1,
+    "review_text": "Nước dở, ly nước ép mà xác cà rốt còn quá nhiều. Thái độ phục vụ kém mới uống 10p ra hỏi chị tính tiền luôn ko? , quán dơ, bàn dọn mấy bàn mà ko lau, khách vô phải nhắc. Đi giữa tuần, khách ít mà vậy rồi. Ko ghé lần nào nữa . Quán cũng khá mát."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "tuấn phạm",
+    "rating": 5,
+    "review_text": "Không gian hiện đại, thi thoảng máy bay bay ngang qua có tiếng kêu khá khó chịu nhưng cũng là đặc sản của quán này. Quán có bể cá koi đẹp. Đồ uống khá phong phú. Ko có trà bắc (trà thái nguyên…). Trang trí bắt trent. Giá đồ uống hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "박하원",
+    "rating": 1,
+    "review_text": "Cafe kem muối nhưng kem muối thì bọt không, không giống ngày thường. Phụ thu thêm phí nhưng làm ăn như hạch. Thái độ nhân viên khi xử lí vấn đề cho khách tệ vô cùng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Giang Nguyễn",
+    "rating": 4,
+    "review_text": "Không gian mới sửa của quán rất sang trọng phong cách Châu Âu nước uống cũng ok. Nhân viên không rót trà và đợi kêu mới tới oder k chủ động tiếp khách có thể do quán mới nhân viên chưa đc đào tạo kỹ lưỡng. Tuy không gian đẹp nhưng sắp xếp …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Lê Lê",
+    "rating": 3,
+    "review_text": "Không gian phong cách Châu Âu.\nQuán rất đông và chật chội. Người sát người, bàn sát bàn, ồn ào khói thuốc đủ thứ. Ai muốn cafe chill chill yên tĩnh thì không nên tới đây. Rất ồn ào nhức đầu. Quạt thì có mà thiếu chỗ cắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Tiến Nguyễn Duy",
+    "rating": 4,
+    "review_text": "Không gian rộng rải, sạch sẽ  cảnh đẹp, địa điểm thư giản tốt với bạn bè, gia đình, giá hợp lý, nhân viên vui vẻ, chụp hình đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Nhã Trịnh",
+    "rating": 4,
+    "review_text": "Quán mới xây lại nên nhìn khuôn viên quán rất đẹp và sang trọng,nhìn kiểu như lâu đài,uống vào buổi sáng thì hơi nắng nha,giá cả cũng bình dân,ngồi trên lầu thì gió lắm luôn,đi buổi tối thì mát mẻ hơn nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Hoan Trần Văn",
+    "rating": 5,
+    "review_text": "Quán sửa lại không gian phong cách Châu Âu.\nQuán cũng đã rất lâu đời ở Phan Rang. Quán khách đông nên có tiếng ồn, khách nào thích quán yên tỉnh mà chill thì ko nên tới."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Nguyễn Lê Anh Hào (Sophie)",
+    "rating": 4,
+    "review_text": "Quán decor đẹp, sang. Tuy vậy ít nhân viên nên việc take care khách cũng chậm. Giá thành cao nhưng đồ uống chỉ tạm ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Thanh Thảo Nguyễn",
+    "rating": 4,
+    "review_text": "Quán đẹp, phong cách hoàng gia sang chảnh, giá cả theo mình thấy là khá rẻ so với quy mô đầu tư. Các món nước mình thấy cũng tạm chứ k xs. Nếu muốn có không gian nhẹ nhàng sang chảnh để chụp ảnh thì đây là nơi phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Mạnh Hùng Lương",
+    "rating": 4,
+    "review_text": "Quán vị trí đẹp, mới sửa chữa lại, là điểm checkin tốt cho mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Thanh Xuan",
+    "rating": 4,
+    "review_text": "Mùng 6 tết mà vẫn đông ghê. Quán mới thiết kế lại thì thấy thoáng đãng đỡ âm u hơn quán cũ. Mát mẻ thoải mái. Phần Trang trí theo gu cá nhân minh thấy hơi sến 😂. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Thuy Trieu Tran Thuan",
+    "rating": 3,
+    "review_text": "1 quán cafe lâu đời tại Phan Rang, thức uống mắc, đợi lâu, hạt dưa thì có mùi gián, được không gian mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Hồ Thắng",
+    "rating": 5,
+    "review_text": "Thoáng mát.  Phù hợp với nhóm gia đình hoặc tụ họp bạn bè. Không gian rất rộng rãi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Thắng Nguyễn",
+    "rating": 1,
+    "review_text": "Quá tệ , nước ép mà còn cả xác ( bã ) , khách thì ít mà phục vụ khi khách vào chả thấy đâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Nhat Nguyen Minh",
+    "rating": 5,
+    "review_text": "Cảnh đẹp, lịch sự, mát mẻ, cafe ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Dinh Viet Tuan",
+    "rating": 5,
+    "review_text": "Quán cafe sân vườn đẹp, thoáng mát nhất ở đất Ninh Thuận này. Giá thành rẻ hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Duong Thuy",
+    "rating": 5,
+    "review_text": "Quan nay nuoc ngon nhan vien phuc vu nhiet tinh thay rat ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Quoc Nguyen Chan",
+    "rating": 3,
+    "review_text": "Quán cà phê trang trí tương đối được, có vẻ và 1 trong các quán lớn nhất ở Thành phố Phan Rang, cung cách phục vụ tương đối tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Tu Tran",
+    "rating": 4,
+    "review_text": "Cà phê không hiểu tại sao lại có vị mặn. View ổn, không gian thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Pham Dinh Manh",
+    "rating": 3,
+    "review_text": "Quán rất rộng rãi, rất đẹp, nhân viên đẹp, Đồ uống pha chế không ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Hồng Loan Nguyễn",
+    "rating": 4,
+    "review_text": "Thức uống được. Quán rộng. View nhìn hơi chật chội. Có hồ và thác nước\n3 ly cà phê sữa, cam cà rốt, chanh sữa hột gà giá 120k. Cũng tầm nước giá ko thấp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Uyen Thy (thy)",
+    "rating": 1,
+    "review_text": "view quán nước coi là cũm tạm đi. Mà thái độ nhân viên rất tệ🙂. Mình với bạn đi chụp hình, mà mấy ng nhân viên ở đó rất là ấy nha tr. Lần đầu thấy ng đẹp chụp hình hay gì mà cứ nhìn chằm chằm, r xỉa mói này kia. Còn có ông kia đang gọi xong …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Minh. Huynh",
+    "rating": 4,
+    "review_text": "Cà phê biệt thự đẹp. Đầu tư lớn.\nDịp tết đông khách, thiếu nhân viên nên phục vụ còn thiếu sót."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Tuyền Thanh",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên vô cùng tệ , khách đến thì lơ khách gọi lau bàn cũng cười cho qua rồi không lau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Nhi Yến",
+    "rating": 5,
+    "review_text": "Nhân viên hiền, lễ phép , phục vụ tốt nhanh nhẹn , cảnh trang trí rất đẹp, sang"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Chau Thieu Nguyen",
+    "rating": 5,
+    "review_text": "Quán rộng, thoáng, cafe ngon, giá hợp lý, nhân viên lịch sự, phong cách tốt.\nLà quán sân vườn trang hoàng đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Thủ Trần Minh",
+    "rating": 5,
+    "review_text": "Cafe . đồ uống ngon .\nQuán rất chill ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Đặng Ngọc Phương Uyên",
+    "rating": 5,
+    "review_text": "Quán đẹp, thích nhất cà phê muối"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Việt Nguyễn",
+    "rating": 1,
+    "review_text": "Cách phục vụ không có Ý thức quá kém của một số bạn nhân viên hình như quán này bán đắt hay sao nên nhân viên phục vụ rất xem thường đề nghị chủ quán làm việc lại và xem xét lại không có ngày mất hết hết hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Tư Tư",
+    "rating": 5,
+    "review_text": "Quán rộng rãi, view đẹp, nhiều cây xanh tuy nhiên hơi nhiều muỗi 😏😏😏 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "tan phat nguyen",
+    "rating": 5,
+    "review_text": "Quán Dư Âm với không gian cực kì đẹp và lãng mạng sẽ giúp cho các bạn tận hưởng những phút giây thoải mái tuyệt vời nhất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "thanh luu",
+    "rating": 5,
+    "review_text": "Quan rộng, yên tĩnh nằm trong trung tâm thành phố Phan Rang. Nhân viên nhanh nhẹn, nhiệt tình. Không gian thoáng đãng thức uống ngon giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Đức Anh chuyên SX áo mưa, áo nắng Mỹ Thủy Xưởng May",
+    "rating": 5,
+    "review_text": "Ngon, không gian thoáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Hồng Lê",
+    "rating": 4,
+    "review_text": "Cf uống ổn. Nhưng vị cf dạo này pha nhiều nên uống vị không còn ngon như hồi trước."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "HUNG NHON CHAU",
+    "rating": 5,
+    "review_text": "Là 1 teong những quán cafe lớn nhất thành phố Phan Rang - Tháp Chàm. Cafe đậm chất Ninh Thuận,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Thanh Huy Lê",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời với lớp cao học Lý luận và PpDh Vật lý - K41 Ninh Thuận"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Xuan Nguyen",
+    "rating": 4,
+    "review_text": "Phục vụ nhanh không gian đẹp sạch sẽ thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Lan Nguyễn",
+    "rating": 5,
+    "review_text": "Sao quán không để số điện thoại ạ.cho em xin số điện cần liên hệ gấp ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Nguyệt Hải",
+    "rating": 1,
+    "review_text": "M3 tết đến quán cùng gđ, quán rất đông và lộn xộn. Tuy vậy nhưng nhân viên cũng ko take care cho khách. Quản lí rất nhìn mặt, trông gđ mình giản dị thì ko quan tâm, ra hiệu cần order thì nhìn thấy nhưng cũng ko điều nv đến nhận order, lại quảnh đi chỗ khác, mặt vênh vểnh lên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Hai minh Nguyen",
+    "rating": 1,
+    "review_text": "Lần đầu đến quán . Nhìn quán đẹp nhưng kêu thức uống chậm chạp gần 1 tiếng mới ra hết 7 ly. Nước uống pha chua lè, soda vải uống  như đá chanh chẳng thấy chut vaid lấy nước lã thay soda. Quản lý nói chuyên cọc lốc. 350k cho 7 ly ngồi chờ lâu lắc. Khuyên các bạn đừng đến uổng tiền mất thời gian"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Kevin Kim",
+    "rating": 4,
+    "review_text": "Quán không gian rộng cafe ngon !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Khangg Tuấn",
+    "rating": 1,
+    "review_text": "Nước uống dỡ tệ\nNhân viên thái độ chưa tốt\nKhông gian ổn nhưng có quá nhiều ghế làm xấu đi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Trinh Mỹ",
+    "rating": 5,
+    "review_text": "Quán rộng rãi sạch sẽ nhưng ít nhân viên làm cho tiến độ phục chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "HOÀNG (Juno)",
+    "rating": 5,
+    "review_text": "Không gian thoáng mát, sang trọng, nhân viên xinh gái, dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Ngô Quang Khải",
+    "rating": 1,
+    "review_text": "Mình cảm thấy tệ khi dùng dịch vụ ở đây thức uống ra rất chậm cảm giác như bị quên món của khách, nhân viên thì không chuyên nghiệp, không gian quán rộng nhưng rất ồn không quay lại lần 2"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Zoe Trix Vu",
+    "rating": 4,
+    "review_text": "Quán rộng, thoáng, gout nhạc xưa hay, nhân viên đông và dễ thương, cà phê ngon nhưng là dạng có pha trộn (sánh đặc, thơm mùi bơ) không phải rang xay nguyên chất. Cà phê sữa đá giá khoảng 18k."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Sáng Hứa",
+    "rating": 1,
+    "review_text": "Tôi góp ý kiến nên dẹp hết các bạn phục vụ là vừa vc tôi vô ngồi mà chả có bạn nhân viên phục vụ nào ho he tới hỏi dù là đưa một bản menu\nNgồi chờ 30p tới mình kêu mới đi bộ mà kiểu ko coi khách ra gì hết vậy\nTới lượt oder nữa ta nói lâu ác dã mang thôi bye bye luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Minh Nguyen",
+    "rating": 3,
+    "review_text": "Khu nhóm khách hút thuốc k quy định rõ .khói thuốc tràn lan chưa thực sư văn minh và đúng quy trình chuẩn,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Tùng HM",
+    "rating": 5,
+    "review_text": "Cafe muối ở đây ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Thanh Nam Trinh",
+    "rating": 5,
+    "review_text": "Không gian đẹp, giá phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Peace Nguyen",
+    "rating": 3,
+    "review_text": "Quán có diện tích rộng, vị trí đẹp có 2 mặt tiền, nằm gần quán cơm gà khá nổi tiếng ở TP. Phan Rang. Tuy nhiên, thiết kế và trang trí của quán đơn giản, không chăm chút, ko ấn tượng. Nước uống chỉ ở mức trung bình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Vuong Dong",
+    "rating": 5,
+    "review_text": "Quán có cảnh quan rất đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Hoai Tram Nguyen",
+    "rating": 5,
+    "review_text": "Quán không gian rộng rãi, mát mẻ, thoải mái, phù hợp với đi chơi cafe gia đình, hoặc cần góc riêng làm việc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "ANH HUNG LE",
+    "rating": 5,
+    "review_text": "Quán rộng và đẹp, có nhiều cây xanh trong quán vừa mát vừa gần gũi thiên nhiên. Nằm ngay trung tâm thành phố nên những ngày lễ Tết rất đông."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Huy Phan",
+    "rating": 4,
+    "review_text": "Quán rộng rãi, thoáng mát. Cafe uống cũng ok. WC Nam ko có phòng \"đi nặng\" (ko hiểu sao luôn, lần đầu tiên gặp quán lớn mà vậy). Girl phục vụ giống HS cấp 3 (sơ mi trắng quần dài) hơi chán chán, hjhj"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "linh nguyen",
+    "rating": 4,
+    "review_text": "Quán cafe rộng rãi, có ngồi ngoài vườn và trong nhà. Cafe bình thường, không có gì đặc sắc. Đánh giá cao về vị trí và không gian của quán. Ăn sáng cơm gà Phước Thành rồi đi bộ qua ngồi rất hợp :d"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Nguyễn Quang Đại",
+    "rating": 5,
+    "review_text": "Đây là một trong số ít quán cà phê có lượng khách đông và thường xuyên nhất Phan Rang. Không gian mát mẻ, thức uống vừa miệng và vừa túi tiền."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Tan Huynh Le Viet",
+    "rating": 3,
+    "review_text": "Quán cafe rộng, thiết kế theo phong cách Tây - ta kết hợp không có gì đặc sắc, chật chội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Truong Pham Dinh",
+    "rating": 4,
+    "review_text": "Có vẻ yên tĩnh, phục vụ chưa ok cho lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Quỳnh Anh Bùi Thùy",
+    "rating": 3,
+    "review_text": "Không biết nói gì lun. Nước thì bthg nếu ko muốn ns là dở. Mắc lắm luôn. Cái không gian thì ờm kiểu như nhà giàu mới nổi á má. Lòe loẹt tùm lum. 3 sao là cao r á."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Phúc Đặng",
+    "rating": 1,
+    "review_text": "Không gian rộng , tốt cho buổi hợp măt bạn bè và gia đình , quán xem lại vấn đề phục vụ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Jeroen Daan",
+    "rating": 4,
+    "review_text": "quán này là một trong những quán cafe lâu đời ở phan rang..quán có lượng khách ổn định đông đúc hàng ngày ,khung cảnh quán gần gủi với thiên nhiên thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Luận Nguyễn Công",
+    "rating": 3,
+    "review_text": "Quán này khách rất đông, có không gian rộng rãi, cảnh quan trang trí đẹp. Nói chung là khách rất hài lòng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Liêm Thập Kiều",
+    "rating": 1,
+    "review_text": "Quán thoáng mát,rộng rãi nhưng đồ uống rất tệ,pha chế rất ngọt(dù mình đã kêu nhân viên pha ít ngọt lại),thức uống được nhất ở quán là trái dừa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Long Le",
+    "rating": 4,
+    "review_text": "Quán cafe này tuyệt vời roi. Tôi uong từ khi 17+ gio đã 31+ roi. Yen tỉnh có ko giang rieng tư. Và mát. Nhìn có thiẹn cảm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Bảo Lê",
+    "rating": 4,
+    "review_text": "Là 1 trong những quán cafe Sân vườn của TP. Phan Rang, không gian mở, nhiều cây vs thoáng mát, giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "tuan vo",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Truong Le",
+    "rating": 1,
+    "review_text": "Bảo vệ ý thức quá kém. Chửi khách quá nhiều. K làm đúng với chức vụ bảo vệ. Dịch vụ không tốt từ ngoài cổng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Tom Level",
+    "rating": 4,
+    "review_text": "Một trong những quán lâu năm của Phan Rang! Điểm văn hóa của Phan Rang. Là địa điểm check in cho tín đồ sống ảo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Khoa Vo D.",
+    "rating": 5,
+    "review_text": "cafe ngon nhất phố, quán cổ lâu đời nhất Phan Rang nhưng ko cũ, có điều sáng mở bán hơi trễ (sau 6h)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Yến 298 Ngọc",
+    "rating": 1,
+    "review_text": "Dịch vụ rất chán chỗ ngta đang uống nước nói chuyện tự vào đưa bill như đuổi khách v🙄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Min Bá",
+    "rating": 4,
+    "review_text": "Cafe ngon. Không gian đẹp nhưng phục vụ k tốt cho lắm. Nhân viên chưa chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "hoailam trinh",
+    "rating": 3,
+    "review_text": "Quán tạm ổn, đêm hơi tối tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Kim Cương Lê Thị",
+    "rating": 5,
+    "review_text": "Chú chủ quán rất dễ thương!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "HẬU TRUNG",
+    "rating": 1,
+    "review_text": "Phục vụ kém.\nVào ngồi lúc lâu rồi không thấy nhân viên tiếp. nhân viên lơ khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Thi Bích Vân Phan",
+    "rating": 3,
+    "review_text": "Thuc uong ngon, giá đắt... Nhưng ok. Tollet sạch nhung k co giấy... Hic...quán có nhiều mạng nhện và rác..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "QUOC TRUNG NGUYEN",
+    "rating": 4,
+    "review_text": "Không gian thoáng mát, rộng rãi với nhiều cây xanh và hồ nhân tạo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Nguyễn Hải",
+    "rating": 4,
+    "review_text": "Quán rộng , thoáng đãng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "BĐS Đức Thuận",
+    "rating": 5,
+    "review_text": "Cafe ngon phong cảnh  đẹp rạch  sẽ cách  phục  vụ dễ thương  nv lễ phép.  Chấm đc  9điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Văn Nhựt Phan",
+    "rating": 4,
+    "review_text": "Cảnh quan : Phù hợp cho quán cafe chuyên nghiệp (bài trí đẹp & công phu) , giá cả hợp lý ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Hiệp Nguyễn",
+    "rating": 1,
+    "review_text": "Nhân viên phục vụ lơ khách hàng,mặc dù quán vắng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Phương Quỳnh",
+    "rating": 5,
+    "review_text": "Nơi này mát mẻ quang cảnh đẹp uống nước hoặc cà phê thoải mái .Ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "TUẤN TRẦN ANH",
+    "rating": 3,
+    "review_text": "Địa điểm nổi tiếng trong thành phố vì hoạt động lâu năm. Phong cảnh tương đối hài hòa, giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Xuân Văn Lê",
+    "rating": 1,
+    "review_text": "Bảo vệ đuổi khách. Chửi khách k thèm dắt xe cho khách. Dịch vụ k tốt từ bảo vệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Hùng Hoàng Văn",
+    "rating": 3,
+    "review_text": "Quán thơ mộng về đêm. Và là nơi khá lý tưởng để thư giãn..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Hà Phạm Quang",
+    "rating": 5,
+    "review_text": "Địa điểm rộng rãi, thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "007 sanh ve",
+    "rating": 2,
+    "review_text": "Nhà vệ sinh không đảm bảo. Rất tiết cho quán cafe top lớn nhất phan rang."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "BAIGON Design Construction Co.,Ltd",
+    "rating": 3,
+    "review_text": "Không gian rộng thoáng, cafe ngon. Cuối tuần rất đông khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Trung Nguyễn Nhân",
+    "rating": 5,
+    "review_text": "Quán rất rộng, sân vườn mát mẻ. View đẹp tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Nguyễn tâm",
+    "rating": 4,
+    "review_text": "Đã ngừng hoạt động, không còn không gian như ngày xưa nữa. Giờ xây dựng nhà rồi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "huy đinh lê quang",
+    "rating": 4,
+    "review_text": "view đẹp, sinh thái, phù hợp với thư giãn cuối tuần cùng gia đình,và bạn bè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "KÊNH SỨC KHỎE CỦA BẠN",
+    "rating": 3,
+    "review_text": "Không gian rộng và mát mẻ nhưng chỉ có điều giá hơi cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Xuan Vu Nguyen",
+    "rating": 5,
+    "review_text": "Địa điểm thoáng mát, thoải mái sau những giây phút căng thẳng. Giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Xuân Nguyên",
+    "rating": 5,
+    "review_text": "Quán cà phê đẹp, nước rẻ nhưng ít có ổ điện để sạc điện thoại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Thong Dao",
+    "rating": 1,
+    "review_text": "Thực ra thì chưa có gì là ngon rồi , còn phục vụ chưa ổn định."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Đường Ng",
+    "rating": 5,
+    "review_text": "Quán rộng, sạch sẽ, có chỗ đỗ ô tô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Đạt Phạm Quốc",
+    "rating": 4,
+    "review_text": "Ấm cúng thích hợp cho gia đình và hội họp, như ng phục vụ chậm quá nên cho điểm trừ,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Kim Tuyền Nguyễn Ngọc",
+    "rating": 4,
+    "review_text": "Đồ uống ngon, hơi ngọt\nView đẹp\nKhông gian thoáng, lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "NHÂN HOÀNG",
+    "rating": 4,
+    "review_text": "Đẹp, sạch, sang và hơi ồn, nóng vì ngoài sân nắng hắt vào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Trung thanh",
+    "rating": 3,
+    "review_text": "Không gian quán rộng rãi nhưng trang trí khá bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "VU HUYNH",
+    "rating": 5,
+    "review_text": "không gian thoáng mát,sạch sẽ, nhân viên phục vụ lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Jun GUMI",
+    "rating": 5,
+    "review_text": "Cafe ngon, mát mẻ, dành cho ai thích mát mẽ và yên tĩnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "van Thinh trương",
+    "rating": 3,
+    "review_text": "Phong cảnh đẹp giá cũng được không đắt lắm nhận viên phục vụ cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "foukiechoo",
+    "rating": 2,
+    "review_text": "Nhân viên hay bấm điện thoại, lười bưng nước và ghi order"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Sàn bất động sản Ninh Thuận",
+    "rating": 4,
+    "review_text": "Quán cafe sân vườn, thiết kế đẹp, không gian rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Giỏi Nguyễn Văn",
+    "rating": 3,
+    "review_text": "Cafe ngon, các thức uốn khác không ngon, quán rộng rãi, thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Khiêm Nguyễn văn",
+    "rating": 2,
+    "review_text": "Quán ngonĐông kháchNhưng giữ xe không cổ phiếu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Thái Phúc",
+    "rating": 4,
+    "review_text": "Bầu không khí tốt, thực uống ổn, phục vụ kém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Huy Dương",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên ko tốt ,tốc độ làm chậm,thái độ vs khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Nhi Huynh",
+    "rating": 3,
+    "review_text": "Tạm được, không biết nên mô tả thể nào. Ai tò mò thì ghé qua cho biết. Hihi..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Lâm Hoàng Ads",
+    "rating": 4,
+    "review_text": "Quán thiếu tolet ngồi cho nam"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "ngọc Nguyễn nguyên",
+    "rating": 2,
+    "review_text": "nhân viên nam rất mất dạy quán nên xem lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02b8b34648d:0xefacc78a31dfaa8f",
+    "shop_name": "Cà phê Dư Âm",
+    "user_name": "Trọng Phan Đức",
+    "rating": 3,
+    "review_text": "Cafe ngon, khung cảnh đẹp, ngay trung tâm thành phố."
+  }
+]

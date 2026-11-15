@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Ngọc Hữu Trần",
+    "rating": 5,
+    "review_text": "Ngon ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "HOÀNG DUY",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Phúc Nguyễn Bá",
+    "rating": 5,
+    "review_text": "Ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Lam Quang Tuan",
+    "rating": 4,
+    "review_text": "Quán lâu đời ở Cần Thơ. Có bánh mì chảo, ốp la, xíu mại nước, xíu mại khô, há cảo.\nChỗ đậu xe máy thoải mái, ô tô đậu phía trước quán miễn phí hoặc đậu sát con lươn có thu phí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Annlla Vo",
+    "rating": 5,
+    "review_text": "Quán ngon lâu năm, vừa miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Lâm Minh Phát",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Trường Giang",
+    "rating": 4,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Hậu - 7D Lê Minh Hải",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Quốc Thượng Trần",
+    "rating": 4,
+    "review_text": "Ngon!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Life Simple",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Trường Sơn Đặng Tấn",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Quynh Huong Nguyen Thi",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Rob the Nomad",
+    "rating": 5,
+    "review_text": "Quán ăn truyền thống Việt Nam nổi tiếng, chất lượng tốt, giá cả phải chăng, món ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Tina",
+    "rating": 3,
+    "review_text": "Tôi gọi món xào và nó có vị tạm được. Nước sốt quá tươi và đặc, lại hơi ngọt nữa. Các món ăn kèm đặc trưng của quán không được mọng nước như tôi mong đợi, may mắn là họ sẽ không tính tiền nếu bạn không ăn hết. Tuy nhiên, trứng và bánh mì thì rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "natsu",
+    "rating": 5,
+    "review_text": "Quán bánh mì nóng, từng được xếp hạng trong top 10 nhà hàng ở Cần Thơ trên một trang web của Việt Nam, luôn tấp nập người qua lại ngay cả trước khi mở cửa vào sáng sớm, với người dân địa phương đậu xe máy để ăn tại chỗ hoặc mua mang về. Món …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Anna Liu",
+    "rating": 4,
+    "review_text": "Đồ ăn luôn tuyệt vời và phục vụ nhanh chóng. Nhưng tôi cảm thấy càng ngày càng nhiều tỏi hơn 🤣🥲\nNước sốt khá đặc và hơi ngọt. Tuy nhiên, nó rất hợp với bữa sáng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Duc Nguyen",
+    "rating": 5,
+    "review_text": "Món ăn sáng rất ngon, một trong những món ăn địa phương bạn nên thử khi đến Cần Thơ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "quang Phung",
+    "rating": 5,
+    "review_text": "Tôi vô tình ghé thăm nhà hàng này. Tôi rất bất ngờ trước những món ăn ngon và no bụng với giá cả phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "TAXI Cái Tắc",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Tiffany TH",
+    "rating": 5,
+    "review_text": "Rất ngon và thân thiện! Tôi đã có một bữa sáng tuyệt vời ở đó!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Truong Quoc Khang",
+    "rating": 5,
+    "review_text": "Tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Trung Nhat",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Crypto Trader",
+    "rating": 5,
+    "review_text": "Bữa sáng rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "ngoc huan Nguyen",
+    "rating": 5,
+    "review_text": "Tốt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "anhtriet danghuynh",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Tuong Thuy Tran",
+    "rating": 4,
+    "review_text": "Món ăn Trung Quốc ngon tuyệt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Khôi Đỗ",
+    "rating": 5,
+    "review_text": "Phong cách cổ điển ở trung tâm thành phố"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0629f7ee12d43:0xa33d1e450ddd434a",
+    "shop_name": "Bánh bao - Xíu mại - Há cảo Viễn Hưng",
+    "user_name": "Phan Dang Trieu",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "T H I Ệ N (Gấu Béo)",
+    "rating": 5,
+    "review_text": "1 lẩu là 200k cho 2 người ăn xệ môi , thịt đầy ú ụ luôn nha . Lẩu chỉ bao gồm đồ trong lẩu và rau miễn phí , mì gói , bún , đậu hủ ăn gì tính đó nhưng giá rất rẻ . Vị rất miền tây luôn , đậm đà không cần chấm . Ốc xào tiêu thì vị cũng ngon nhưng con ốc hơi nhỏ . Nhân viên quán nhanh nhẹn , lên món rất nhanh tuy nhiên quán hơi nóng ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Thuy Duong Mai",
+    "rating": 5,
+    "review_text": "Lẩu ngon lắm mọi người ơi, nước lẩu đậm đà nhưng ăn vẫn thanh nha, thịt vịt thơm ngon. Mình khách du lịch, được tài xế chỉ vào quán Cô Minh ăn, kêu lẩu nhỏ 200k, nhà mình 2 người lớn 2 trẻ em mà ăn vẫn no nha, rau thịt nhiều, quán còn fill nước lẩu miễn phí nữa. Tiếc là quán hơn nóng, bạn nào tới đây ăn mặc đồ gọn gàng mát mẻ nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Thanh Nhan Nguyen Thi",
+    "rating": 5,
+    "review_text": "150k/ nồi lẩu một người\nLâue chỉ bao gồm đồ trong lẩu + rau miễn phí nha mn. Mì bún đậu .. ăn gì thêm tính nấy, nhưng cũng rất rẻ nhé …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Đạt Nguyễn Tiến",
+    "rating": 5,
+    "review_text": "Nồi 200-250-300k.\nĐi 3 ng gọi nồi 250k hơi dư nha, ăn ko hết.\nGọi thêm dĩa ốc tiêu xanh 50k cũng ứ hự. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Đậu Đỏ",
+    "rating": 5,
+    "review_text": "Vịt nấu chao ngon nà không hợp vị mình. Gà chiên nước mắm thì khá ngon. Nhân viên khá dễ thương👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Chi Trần",
+    "rating": 5,
+    "review_text": "Must try ạ 🫶\n200k ngon toẹt vời, nước rau fill liên tục và là miễn phí. Nhân dịp rằm cô tặng bàn mình rau câu và chè nữa, đáng iu xỉu lunnnn ó 💕💕💕 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "TRUNG THAI VO",
+    "rating": 5,
+    "review_text": "Đến trễ nhưng quán vẫn phục vụ, anh chị chủ dễ thương vui vẻ.\nLẩu nấu vừa miệng không quá ngọt như các quán khác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Y S",
+    "rating": 5,
+    "review_text": "Quán ăn ngon lắm, giá cả rất hợp lí. Mọi người nên ăn thử nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Kiều Tiên",
+    "rating": 5,
+    "review_text": "Lẩu ngonnn, đi 4 người gọi cái lẩu 200k ăn bao no, đượcc refill nước rau liên tục( free). Đi ngay rằm đượcc chủ cho thêm rau câu với chè ăn nữa dĩa huông zô cùng🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "quynhcoitvb",
+    "rating": 4,
+    "review_text": "Hôm thứ 7 vừa rồi có nhóm bạn cấp 3 tụ họp, cả hội chọn quán vịt này vì thấy review trên hội nhóm khá tốt. Đồ ăn nêm nếm đậm đà, đĩa thức ăn bưng ra đầy đặn, nguyên liệu tươi sạch đưa miệng cực kỳ. Điểm trừ lớn nhất là khâu phục vụ giờ cao …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Lu Hí",
+    "rating": 5,
+    "review_text": "Quán ngon lắm - chao ngon béo vô cùng - thành giao đông hơn mà nghe ta nói dân địa phuong k ăn - địa phương vào cô minh thôi - tới nơi ko đông bằng nhưng mng nên qua cô Minh vì ngon lắm - mà dễ thương vô cùng luôn - 10đ nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Thư Nhi",
+    "rating": 1,
+    "review_text": "Đồ ăn ổn nhưng thái độ nhưng viên khi nghe mình nhờ gói mang về rất tệ. Thường mình hay ăn ở đây nhưng cũng ko quan tâm nhân viên như thế nào đâu, mà thường ăn ăn ba bốn ng nên hết kco mang về. Nay ăn có hai ng còn dư nhiều nên mình nhờ bỏ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Thanh Thảo Tạ",
+    "rating": 5,
+    "review_text": "Nồi lẩu trong hình của mình là 150k vừa đủ 2 người ăn (có cho rau ăn kèm miễn phí), còn các món ăn kèm khác sẽ tính phí (các bạn nhớ hỏi trước khi dùng). Nước lẩu rất hợp vị mình, thịt vịt mềm và nhiều, có dịp mình sẽ ghé lại quán😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Jackie Dương",
+    "rating": 4,
+    "review_text": "Quán trong ngõ, bật google tìm thì hơi khó vì định vị sai đường. Quán cũng khá có tiếng, đồ ăn ngon, giá cả rất phải chăng, quán có chỗ đỗ xe máy. Ô tô thì hơi khó vì ở trong ngõ. Hôm mình ăn thì quán nóng quá 😞 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Bichlieu Au",
+    "rating": 5,
+    "review_text": "Quán nhỏ nhưng nấu rất ngon, không nhìu dầu mỡ như đa số quán vịt nấu chao khác. Giá cả bình dân. Nhân viên dễ chịu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Trung Hiếu Nguyễn",
+    "rating": 5,
+    "review_text": "Đặp vô mắt mình cái đầu tiên là sạch sẽ . Cô chủ rất nhiệt tình dễ thương . Đừng thấy nhỏ mà chê nha . Quán dân địa phương ăn là đa số . Nên trải nghiệm . Ngon theo từng vị từng vùng miền của mỗi ng ạ . Tráng miện cũng tặng . Khăn lạnh cũng tặng . Gì cũng cho gì cũng tặng 7 ng ta mà có 500k quá rẻ 🤩 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Mai Huyen NGUYEN",
+    "rating": 5,
+    "review_text": "Thật sự đánh giá cao quán này nha. Bọn mình đến quán muộn tầm hơn 20h vì lạc đường 😢 do map chỉ lung tung, nhưng may mà hỏi đường, chú xe ôm chỉ tận nơi, sợ bọn mình khôbg biết còn dẫn đi tận nơi. Mến chú quá 🥰 ăn giá cực hạt dẻ mà đầy đặn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Tuấn Phòng",
+    "rating": 5,
+    "review_text": "Quán gần quán Thành Giao, được dân địa phương giới thiệu ăn khá ngon, giá cả hợp lý.\nMọi người nên ăn nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Bui Minh the Doan",
+    "rating": 5,
+    "review_text": "Quán nấu ngon, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Nguyên Đoàn",
+    "rating": 4,
+    "review_text": "đồ ăn ngon. giá tốt, phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Trần Trung Kiên",
+    "rating": 4,
+    "review_text": "Ăn nhiều chỗ rồi riêng với chỗ này không hợp khẩu vị mình nước lẩu nhạt và chao ít."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "T2H",
+    "rating": 5,
+    "review_text": "Ngon, đông khách, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Nguyen Khang Khoa Phong",
+    "rating": 5,
+    "review_text": "Do dân bản xứ chỉ, chúng tôi đã đến. Lẩu nấu nước dừa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "MyMy TranPhan",
+    "rating": 4,
+    "review_text": "Mình thấy vịt nấu chao ngon. Nhiều topping. 2 người kêu phần 150k mà ăn no nê vẫn còn đồ ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Cong Hau Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, cả nhà cô chủ nhiệt tình thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Luu Linh",
+    "rating": 5,
+    "review_text": "Phần 200k nhiều thịt, cô chủ thân thiện tận tình nên đánh giá 5 sao nhé. Các món ăn kèm sẽ có món tính phí, các bạn nhớ hỏi kỹ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Ngân Nguyễn",
+    "rating": 5,
+    "review_text": "Ăn ngon. Nước lẩu đậm đà. Thịt kha khá. Miễn phí nước và rau. Quán thấy hết là tự châm luôn 🤣. Thân thiện. Không gian hơi nhỏ, nóng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Như Lê",
+    "rating": 5,
+    "review_text": "Lần đầu tiên mình ăn vịt nấu chao. Mình xem review trên tiktok thấy giới thiệu các quán xung quanh, nhưng mình đi theo comment của các bạn người địa phương. Vịt mềm, nước lẩu ngon, rau sạch và rất tươi. Chị chủ quán rất nhiệt tình và thân …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Kim Khánh Trịnh",
+    "rating": 5,
+    "review_text": "Giá bình dân mà khá ngon nha mọi người\nSẽ quay lại nếu có cơ hội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Đại Ngô",
+    "rating": 5,
+    "review_text": "Món ăn ngon, đậm chất nam Bộ. Giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "THANH TÂM THANH TÂM - Điện Tử Tin Học Âm Thanh",
+    "rating": 5,
+    "review_text": "Giá bình dân 4 tới 5 người ăn cái Lẫu 250k,phụ kiện nước uống luôn trọn gói khoảng 350k là no bụng.👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Huy Minh",
+    "rating": 5,
+    "review_text": "Quán bán đồ ăn ngon, mình đi 4 người còn được tặng rau câu thêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Đình biên Lê",
+    "rating": 5,
+    "review_text": "Lẩu vịt nấu chao ngon,phần 250k nhiều thịt, phục vụ chu đáo,có tặng rau câu tráng miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Alice Trần",
+    "rating": 1,
+    "review_text": "Nhân viên phục vụ QUÁ TỆ, không bao giờ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Chấn Phong",
+    "rating": 1,
+    "review_text": "Đồ ăn tạm đc nhưng còn thua xa thành giao và cẩm tú\n. Nhân viên thiếu sức sống"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Quang Vinh Lê",
+    "rating": 1,
+    "review_text": "lâu ko ghé giờ ghé lại thấy ko ok nữa!!!\nThái độ phục vụ QUÁ TỆ từ nv phục vụ đến bà đeo kính như là chủ quán. lẩu 250k-300k. đồ ăn trên bàn đang ăn chưa hỏi đã tự động bưng vào ko hỏi kh 1 tiếng. quá kém lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Thao Suong Vo",
+    "rating": 5,
+    "review_text": "Lẩu vịt ngon, đồ ăn khá nhiều, nhân viên nhiệt tình vui vẻ. Đã ghé đến lần thứ 4."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Lê Nhi",
+    "rating": 5,
+    "review_text": "Ăn ở đây chắc cũng chục năm ròi, tháng nào cũng qua ăn đều đặn... chỉ thích vị ở quán này thui <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Duong Hung",
+    "rating": 5,
+    "review_text": "Lẩu nhiều topping, giá rẻ, lẩu 150k 2 người ăn không hết, nhưng ngồi phía trong hơi nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Minh Phương",
+    "rating": 5,
+    "review_text": "Vịt nấu chao cực kỳ ngon, nhân viên nhiệt tình, vui vẻ. Mà giá thì rẻ, sạch sẽ nữa. Lần nào xuống cần thơ cũng ghé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Tuan Vo",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, đặc sản của địa phương giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Tran Le",
+    "rating": 5,
+    "review_text": "Quán siêu ngon luôn ạ, nhóm mình đến muộn gần 11g rồi mà quán vẫn mở cửa phục vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Tung Nguyen 79",
+    "rating": 5,
+    "review_text": "Quán này ngon rẻ . Cũng gần 30 uy tín"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "An Thien",
+    "rating": 5,
+    "review_text": "Ngon vl"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Ngan Dinh Ngoc",
+    "rating": 5,
+    "review_text": "Ngon, vui vẻ, hiếu khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Van Truong",
+    "rating": 5,
+    "review_text": "Ngon, rẻ 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Phan Đặng",
+    "rating": 2,
+    "review_text": "Ăn được. Phục vụ nhiệt tình.  Thịt không được tươi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Jenny",
+    "rating": 5,
+    "review_text": "Ngonnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Quang Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon, Rẻ,  Niềm Nở."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "hieu phantrung",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Tran BeBe",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, lẩu vịt nấu chao ngon, đậm đà, vịt không hôi\nPhục vụ dễ thương. Món lên nhanh cực kỳ.\nQuán bước vào không nghe mùi tanh như quán khác, mình thấy người địa ăn nhiều …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Ngoc Truong",
+    "rating": 4,
+    "review_text": "Nước dùng rất ngon, topping cũng tươi, nhưng quán khá nóng, bàn nhỏ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089605e8d22bd:0xe0bf9fafea59b498",
+    "shop_name": "Quán Vịt Nấu Chao Cô Minh",
+    "user_name": "Hien Nguyen",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thị Thu Vân Trần",
+    "rating": 5,
+    "review_text": "🌸 Shop xinh xỉu luôn áaaa!\nQuần áo lên dáng đẹp, vải mềm mịn, mặc siêu ưng 😍\nNhân viên dễ thương, gói đồ còn thơm nữa 🥹\nSẽ ủng hộ dài dài nhaaa 💖 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Duyen Nguyen",
+    "rating": 5,
+    "review_text": "Đồ xinh, nhân viên dễ thương, mình đi ngay khai trương bốc thăm được giảm liền 40k luôn hên ghê ^^ sẽ quay lại mua đồ tiếp vì đồ quá đẹp luôn í"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Binh Le",
+    "rating": 5,
+    "review_text": "Đồ có cái đẹp, có cái may chỉ thừa rất nhiều. Mình khuyên nên qua thử để mua được sản phẩm ưng í nhé. Giá hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Minh Hòa Nguyễn",
+    "rating": 5,
+    "review_text": "Mình dẫn vợ vào shopping thì thấy shop deco đẹp, sản phẩm đa dạng. Không gian mát mẻ và có chỗ cho mình ngồi đợi vợ thử đồ.\nNhân viên thì vui vẻ, hỗ trợ tụi mình rất tốt, bạn nữ bảo vệ phía ngoài còn nhệt tình đòi dẫn xe ra dùm tụi mình nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thơ Yến",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình, đồ đẹp, style tiểu thư bánh bèo dô đây là hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Trân Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, không gian rộng rãi thoải mái, đồ xinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nhi Nguyen",
+    "rating": 5,
+    "review_text": "Đồ xinh, giá iu, must try nha các tình iu ơi🫶🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Trúc Đặng",
+    "rating": 5,
+    "review_text": "Mua hôm khai trương đông đúc nhưng nhân viên rất nhiệt tình dễ thương ❤️ sẽ tiếp tục ủng hộ ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Phuong Nguyen",
+    "rating": 5,
+    "review_text": "Đồ đẹp, rất hợp lý so với giá tiền. Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thư Minh",
+    "rating": 5,
+    "review_text": "Đồ xinh, trải nghiệm tốt, nhân viên nhiệt tình, thử xong đổi đồ mới rồi mới thanh toán 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Tran Thanh Truc Y-H K48",
+    "rating": 5,
+    "review_text": "Shop bán đồ xinh, nhân viên hỗ trợ nhiệt tình. Đồ thơm. Sẽ mua lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Lan Hương",
+    "rating": 5,
+    "review_text": "Thấy mua 1 tặng 1 tò mò dzô coi mua được 4 bộ hihi, đồ đẹp á"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Phúc Song",
+    "rating": 5,
+    "review_text": "Tuyệt vời - nhân viên thân thiện nhiệt tình - đồ đẹp hợp giá cả 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Mỹ Hiền Nguyễn Lê",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, chu đáo, đồ đẹp và giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Sunflower 130_",
+    "rating": 5,
+    "review_text": "Đồ xinh, không gian thoáng mát, nhân viên tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Minh Ngọc Đặng Lê",
+    "rating": 5,
+    "review_text": "store đáng iu vô cùng, các bạn staff xinh quá chừng 🥹 service tốt nữa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "bich nguyen ngoc",
+    "rating": 5,
+    "review_text": "Mua lần đầu mà ưng quá, chắc chắn sẽ quay lại ủng hộ tiếp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Trần Lynh Đan",
+    "rating": 5,
+    "review_text": "Mình hay mua Miều ở Sài Gòn mà nay có dịp đi Cần Thơ chơi thấy Miều mới mở thêm chi nhánh nên ghé xem thử. Mới khai trương nhưng Miều đã để lại ấn tượng cực kỳ tốt với mình! Không gian shop được decor rất xinh xắn, hiện đại, bước vào là …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nguyễn Thị Kim Ngọc 14-09-02",
+    "rating": 5,
+    "review_text": "Đồ đẹp lúm mng ơi, nhân viên nhiệt tình nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Võ Nguyễn Thu Uyên",
+    "rating": 5,
+    "review_text": "Sản phẩm đẹp, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Candy Tran",
+    "rating": 5,
+    "review_text": "Shop Miều nay ở Cần Thơ đủ loại Quần áo đẹp đủ size form chuẩn, giá sale sốc, nhân viên nhiệt tình giúp chọn đồ rất ok\n“ Cần Thơ Gạo trắng nước trong\n… Ai đi đến shop lòng không muốn dzìa”"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thư Anh",
+    "rating": 5,
+    "review_text": "Đồ xinh, shop thân thiện, nhân viên dễ thương 💕💕 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Cương Đỗ",
+    "rating": 5,
+    "review_text": "Sản phẩm của Sốp đa dạng, phong phú, cập nhật theo xu hướng mới, rất Trending.\nGiá cả hợp lý, phù hợp với nhiều đối tượng khách hàng.\nKhông gian mua sắm thoải mái, thơm tho dễ chịu, nhân viên cực kì nhiệt tình tư vấn về Size, mẫu mã."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Cute Bé Du",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình thân thiện đồ đẹppp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Ng Kim Ngân",
+    "rating": 5,
+    "review_text": "style pánh pèo thì mấy bà ghé Miều nhoennn 🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Ngân Kim",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, dễ thương, chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Chăm Mai",
+    "rating": 5,
+    "review_text": "Đồ đẹp, nhân viên rất dễ thương!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Kim Ha Nguyen",
+    "rating": 5,
+    "review_text": "Chiếc sốp xinh iu hay đặt onl giờ đã mở ở Cần Thơ 🥰 đồ siu đẹp nhân viên siu nhiệt tình với sốp thơm lúm. Recommend cho mấy bà tìm sốp bán đồ chất lượng ở CT nha …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Lê Nhi",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, nhiều mẫu mã"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "27-08-02 Trần Thanh Nhã",
+    "rating": 5,
+    "review_text": "Đồ đẹp, nhân viên tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Như Lê",
+    "rating": 5,
+    "review_text": "sốp có cái áo xinh quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Phương Anh Phạm",
+    "rating": 5,
+    "review_text": "Shop đồ xinh, mình hay mua online đồ của shop, nay có chi nhánh ở đây rùi, nhân viên thân thiện nhoéeee. Quá iuuu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Dang",
+    "rating": 5,
+    "review_text": "Áo xinh, quần đẹp, không gian xinh. Rất ưng nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thị Hồng Phúc Đinh",
+    "rating": 5,
+    "review_text": "Sốp đang sale đồ rẻ đẹp xinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Hồng Thắm",
+    "rating": 5,
+    "review_text": "Tối qua đi chơi tiện ghé vào, các bạn nhân viên nhiệt tình lắm ạ, dễ thương, mình đi lựa đồ các bạn í cũng tinh tế khi không có đi gần sát mình quá, nhưng vẫn hỗ trợ tốt lắm í nếu mình hỏi hay cần tư vấn thêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Tiên Nguyễn",
+    "rating": 5,
+    "review_text": "Mình mua đồ ở Miều cũng lâu rồi , giờ có chi nhánh ở Cần Thơ qua thử trực tiếp luôn . Mấy bạn nv xinh dễ thương nhe hehe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Diễm Quỳnh",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thươngg, trang phục mẫu mã cũng đa dạng nữaaa, rất recommend mnggg tới nhoe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Linna Dang",
+    "rating": 5,
+    "review_text": "Shop đồ rất đẹp và nhân viên rất nhiệt tình 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Kim Trần",
+    "rating": 5,
+    "review_text": "Shop rộng, nhiều đồ xinh, hợp trend, style bánh bèo vs dth, giá đúng với chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Phuong Tram",
+    "rating": 5,
+    "review_text": "shop có nhiều mẫu mã đẹp, giá cả hợp lý, nhân viên nhiệt tình, dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "vo thi an nhan RHM K49 A",
+    "rating": 5,
+    "review_text": "shop nhiệt tình nhiều mẫu mã"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Trí Võ Minh",
+    "rating": 5,
+    "review_text": "Đồ đẹp, nhân viên nhiệt tình nha, lần sau ghé ủng hộ tiếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nhi Lê",
+    "rating": 5,
+    "review_text": "Shop rất nhiệt tình, vui vẻ. Đồ chất lượng và phù hợp với thời trang hiện nay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "BAO PHAM",
+    "rating": 5,
+    "review_text": "quần áo đẹp rất style, shop nhìn sang trọng, mình sẽ ghé tiếp mua sắm vì shop phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Ngọc Đặng Thị Bảo",
+    "rating": 5,
+    "review_text": "Cửa hàng dễ thương, nhân viên nhiệt tình. Chúc cửa hàng khai trương phát đạt ^^"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Unknown#82",
+    "rating": 5,
+    "review_text": "Đồ đẹp, nhân viên tư vấn nhiệt tình. Bạn nhân viên hỗ trợ giữ xe dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "阮玉蓉",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn dễ thương, phục vụ nhanh chóng. Không gian mua sắm thoải mái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thư Nguyễn",
+    "rating": 5,
+    "review_text": "Thái độ nhân viên tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Y K47 Quach Tuong Anh",
+    "rating": 5,
+    "review_text": "Đồ đẹp, giá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Trần Thị Mỹ Ngọc",
+    "rating": 5,
+    "review_text": "Quần áo mẫu mã đa dạng, giá cả hợp lý, nhân viên hỗ trợ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Lan Nguyen",
+    "rating": 5,
+    "review_text": "Sốp vibe rất đẹp em rất iuuuu 💜 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "My Diem",
+    "rating": 5,
+    "review_text": "quá tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Phi Kieu",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương nhiệt tình, nhiều đồ đẹp đa dạng nhiều mẫu 🫶 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thị Tường Vi Võ",
+    "rating": 5,
+    "review_text": "Đồ đẹp , không gian thoáng , nhân viên dễ thương, nhiệt tình hỗ trợ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Huỳnh Như Nguyễn",
+    "rating": 5,
+    "review_text": "Miều làm đồ rất hợp gu, đẹp , nhiều mẫu mã, cơ sở ở Cần Thơ rất đẹp sáng sủa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nguyen Quynh",
+    "rating": 5,
+    "review_text": "Sản phẩm đẹp chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nguyên Ngô",
+    "rating": 5,
+    "review_text": "Shop dễ thương nhen"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nguyễn Châu",
+    "rating": 5,
+    "review_text": "shop nhiều quần áo đa dạng, dễ mặc hằng ngày đi học đi chơi , nv dễ thương 😘😘😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "YHCT K45 Bui Ngoc Bao Tran",
+    "rating": 5,
+    "review_text": "Shop đồ dễ thương và nhân viên nhiệt tình lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "KidBiGi",
+    "rating": 5,
+    "review_text": "Hay order đồ lắm mà h có ở Cần Thơ òi nè mấy bà, quá tiện luôn òi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Bảo Ngọc Lê Thị",
+    "rating": 5,
+    "review_text": "Sản phẩm vải đẹp, lên form dáng lắm nên ghé nha mọi người ơi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Song Giang",
+    "rating": 5,
+    "review_text": "Đồ đẹp nhân viên dễ thương nhiệt tình tư vấn chu đáo 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Ngân Chung",
+    "rating": 5,
+    "review_text": "Rất tốt, đồ shop xinh, form đẹp, nhân viên thân thiện dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Hân Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình dễ thương, nhiều quần áo xinh, dễ lựa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "nguyên hoắc đông",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình, đồ đẹp nhiều mẫu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "24.Trương Thuỳ Uyên Như",
+    "rating": 5,
+    "review_text": "shop quần áo đẹp, nhân viên dễ thương và nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Julie Nhu",
+    "rating": 5,
+    "review_text": "Quần áo xinh, giá cả hợp lý, nhân viên hỗ trợ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Tường An",
+    "rating": 5,
+    "review_text": "Đồ đẹp, dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nguyễn Như Điệp",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, mình sẽ ghé lại nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Huỳnh Dương",
+    "rating": 5,
+    "review_text": "Đồ đẹp, giá cả ổn, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Trieu Ngoc Nhi B2200627",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Tiểu Phụng Thái",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình ☺️ sẽ quay lại ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Phương Lê",
+    "rating": 5,
+    "review_text": "Đồ xinh dễ thương, nhân viên nhiệt tình ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Anh Ngô Thị Quế",
+    "rating": 5,
+    "review_text": "shop dễ thương nhân viên cute quần áo vừa túi tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Tuyet Nhu",
+    "rating": 5,
+    "review_text": "Quần áo đẹp, nhân viên thân thiện nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Anh Hong",
+    "rating": 5,
+    "review_text": "Shop thơm, đồ đẹp, nv nhiệt tình dth"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Anh Bùi Tú",
+    "rating": 5,
+    "review_text": "Shop đa dạng quần áo, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Anh Thư Trần Thị",
+    "rating": 5,
+    "review_text": "quần áo đẹp, chất lượng, nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Chin Allis",
+    "rating": 5,
+    "review_text": "Shop đồ đẹp xịn nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Tú Thanh",
+    "rating": 5,
+    "review_text": "sản phẩm chất lượng, nhân viên thân thiện, 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Tuyền Lê",
+    "rating": 5,
+    "review_text": "Chất lượng tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "My Huynh",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, quần áo đẹp ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "MK4 - CTH3 HẢI YẾN",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, quần áo đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Linh Truong",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện , shop rất ok ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Võ Đoàn Trúc Mỹ",
+    "rating": 5,
+    "review_text": "đồ đẹp nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "NGUYỄN THỊ MAI THI 28-09-03",
+    "rating": 5,
+    "review_text": "đồ đẹp, nhân viên nhiệt tình 10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Bang Pham",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tinh, đồ trẻ trung dễ mặc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Ngân",
+    "rating": 5,
+    "review_text": "đồ xinh, nhiều mẫu mã, nvien tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Mai Anh",
+    "rating": 5,
+    "review_text": "đồ shop xinh xĩu, giá cả vừa túi tiền🫶 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thuý Ngọc Tăng",
+    "rating": 5,
+    "review_text": "Đồ xinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thy Nguyễn Anh",
+    "rating": 5,
+    "review_text": "đồ xinh, nhân viên tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Tuyết Nhi Nguyễn",
+    "rating": 5,
+    "review_text": "Quần áo ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "minh kha",
+    "rating": 5,
+    "review_text": "Toẹt, đồ đẹp, nhân viên nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Minh Anh (mr)",
+    "rating": 5,
+    "review_text": "Đồ đẹp, chất vải oki lắmmm mềmmm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Phương Huỳnh Phan",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thanh Trúc Trần",
+    "rating": 5,
+    "review_text": "Đồ xinh lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Bảo Duy",
+    "rating": 5,
+    "review_text": "Quần áo đẹp, shop thơm, vãi chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Chau Tue Man B2410859",
+    "rating": 5,
+    "review_text": "Đẹp ạ, nhân viên nhiệt tìmh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Như Ý Châu Hồng",
+    "rating": 5,
+    "review_text": "Chất lượng sản phẩm tốt đồ quá xinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Yến Phan",
+    "rating": 5,
+    "review_text": "Nhiệt tình hài lòng dịch vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "06-12-01 Võ Minh Anh",
+    "rating": 5,
+    "review_text": "Shop nhiều đồ đáng iu lắm í"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Chi Đặng",
+    "rating": 5,
+    "review_text": "Shop phục vụ tận tình, chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Huy Lê Gia",
+    "rating": 5,
+    "review_text": "Shop thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "mã nhã linh 02-06-03",
+    "rating": 5,
+    "review_text": "Nhân viên tinh tế ,đồ đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Cao Tuyến Nguyễn",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình, đồ xinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Ngọc Đỗ",
+    "rating": 5,
+    "review_text": "Đồ xinh, đa dạng, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Gia Hân",
+    "rating": 5,
+    "review_text": "Đã ủng hộ Miều nhiều lần và sẽ ủng hộ thêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Khánh Hà",
+    "rating": 5,
+    "review_text": "đồ dễ thương, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Bích Trân Lê Nguyễn",
+    "rating": 5,
+    "review_text": "Sp tốt, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Minh Trần Công",
+    "rating": 5,
+    "review_text": "Quần áo xinh, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nguyễn Hoàng Bảo Trân",
+    "rating": 5,
+    "review_text": "nhân viên thân thiện, quần áo đẹp ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Lin Su",
+    "rating": 5,
+    "review_text": "đồ đẹp lắm mụi người ơiiii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Huyền Võ",
+    "rating": 5,
+    "review_text": "Sản phẩm đẹp, đồ dẽ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Anh nguyen Phuong",
+    "rating": 5,
+    "review_text": "Phục vụ tốt, quần áo đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Bảo Nghi Phùng",
+    "rating": 5,
+    "review_text": "Vải xinh giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nguyễn Thị Kiều Tiên",
+    "rating": 5,
+    "review_text": "Đồ đẹp nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "nguyenle hailam",
+    "rating": 5,
+    "review_text": "đồ xinh nhân viên dth lắm íii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Oanh Tạ",
+    "rating": 5,
+    "review_text": "Vải đẹp, giá ok ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thanh Thảo Nguyễn",
+    "rating": 5,
+    "review_text": "Quần áo xinh, phù hợp giá tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Kim Nguyễn Ngọc Thiên",
+    "rating": 5,
+    "review_text": "Shop nhiệt tình lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Khoa Anh",
+    "rating": 5,
+    "review_text": "rất oke về sp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Trang Phạm",
+    "rating": 5,
+    "review_text": "Sản phẩm đẹp, chất lượng cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "12A1 Lê ngọc thuý vy",
+    "rating": 5,
+    "review_text": "nvien nhiệt tình , đồ đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Hoa Huynh",
+    "rating": 5,
+    "review_text": "Đồ xinh , tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nhi Ngô Hoàng Trúc",
+    "rating": 5,
+    "review_text": "Quần áo đẹp nv thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Huyền Trân Nguyễn",
+    "rating": 5,
+    "review_text": "Chất lượng sản phẩm tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thuỳ Dươngg",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thư Lê",
+    "rating": 5,
+    "review_text": "Shop rất dễ thương ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nguyễn Như Huỳnh 5022",
+    "rating": 5,
+    "review_text": "Shop bán đồ xinh iu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Huỳnh Như Ngọc 13-04-03",
+    "rating": 5,
+    "review_text": "Đồ xinh lắm luôn nhooo 💗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nguyen Thao",
+    "rating": 5,
+    "review_text": "đồ xinh, nhân viên đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Tran Dr",
+    "rating": 5,
+    "review_text": "Sản phẩm đẹp, dv tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Ái Hân Phạm Ngọc",
+    "rating": 5,
+    "review_text": "tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Uyên Uyên",
+    "rating": 5,
+    "review_text": "xin chào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Yến Nhi (Zoe)",
+    "rating": 5,
+    "review_text": "Đồ xinh lém ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nicole",
+    "rating": 5,
+    "review_text": "Đồ xinh, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Hào Sĩ",
+    "rating": 5,
+    "review_text": "hàng đẹp ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "anh hinh",
+    "rating": 5,
+    "review_text": "Quần áo đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Ngọc Diệu Trần",
+    "rating": 5,
+    "review_text": "quần áo xinh lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Cao Hiền Nguyễn",
+    "rating": 5,
+    "review_text": "shop đẹp đồ đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Phạm Lê Minh Thư",
+    "rating": 5,
+    "review_text": "Miều dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thiền Định Tâm An",
+    "rating": 5,
+    "review_text": "10 đỉm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nguyen Phuong",
+    "rating": 5,
+    "review_text": "Cảm thấy hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Trâm Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Khánh Hưng",
+    "rating": 5,
+    "review_text": "shop dễ thương =)))))))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Huynh Vo",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thanh Dat",
+    "rating": 5,
+    "review_text": "Oki lắm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Huỳnh Như Vũ",
+    "rating": 5,
+    "review_text": "Tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thanh Chí",
+    "rating": 5,
+    "review_text": "Nhiều lựa chọn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thanh Tâm Trần",
+    "rating": 5,
+    "review_text": "Ok lắm kun"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Hồng Loan",
+    "rating": 5,
+    "review_text": "đồ xinh ạaaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Tú Khánh",
+    "rating": 5,
+    "review_text": "đồ xinh xĩuuu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Kiều Oanh Nguyễn Trần",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Hảo Phan",
+    "rating": 5,
+    "review_text": "Shoppp de thuong"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Đinh Phương Thảo",
+    "rating": 5,
+    "review_text": "Tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thảo Quyên",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Lam Son B2402190",
+    "rating": 5,
+    "review_text": "Hàng chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thanh Vy Phung",
+    "rating": 5,
+    "review_text": "Tuyệt vờiiiiii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Hoa Phạm Ngọc Huỳnh",
+    "rating": 5,
+    "review_text": "tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Nhựt Lê",
+    "rating": 5,
+    "review_text": "tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Ngân Thanh",
+    "rating": 1,
+    "review_text": "Hnay mình với bạn có ghé shop mua đồ, bill 2b gần 1tr3. Nvien gì mà nhìn khách từ trên xuống dưới từ dưới lên trên, bạn mình thử đồ chưa xong đã vào phòng mán lên=))) Nên lúc chốt đồ phải nhờ nvien lấy lại, chuyện tới đây là bình thường rồi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Lan Anh",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt và có nhiều loại khác nhau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Minh Nhật Ngô",
+    "rating": 5,
+    "review_text": "Được rồi được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Ngô Lý Quỳnh Như",
+    "rating": 5,
+    "review_text": "Tuyệt vời 👌🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "03-11-03 Dương Thị Thúy Vy",
+    "rating": 5,
+    "review_text": "Tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thanh Hieu",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Tuyết Nhi Huynh",
+    "rating": 5,
+    "review_text": "ĐƯỢC RỒI"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Thảo Vi Nguyễn Lê",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d1b5363f51:0xff87d0b91275e272",
+    "shop_name": "MIỀU Cần Thơ - 52 Nguyễn Việt Hồng, P.An Phú, Q.Ninh Kiều, Cần Thơ",
+    "user_name": "Cẩm Cẩm",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Phước Hậu Đoàn",
+    "rating": 5,
+    "review_text": "Bánh ở đây rất ngon nhe, bánh bên đây vẽ cũng đẹp mắt nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Phương Nguyễn",
+    "rating": 5,
+    "review_text": "Ngày 20/11 và 22/11 mình có đặt bánh ở tiệm. Dịch vụ ở đây rất ok, bánh làm đẹp nhanh, nhân viên chăm sóc page trả lời khách mau lẹ và hiểu ý khách. Nhân viên tiệm nhiệt tình niềm nở. Mình sẽ luôn ủng hộ tiệm mỗi khi dịp lễ hay sinh nhật người nhà +🫶🏻 dịp noel tới chắc + 1 vote đặt bánh tại Tiệm hihi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Hang Le",
+    "rating": 4,
+    "review_text": "Bánh sinh nhật Singapo, nếu ăn ngán tham khảo bánh này hoặc bánh kem bắp hoặc Tiramisu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Thanh Liêm Phan",
+    "rating": 1,
+    "review_text": "Là khách hàng thường đặt bánh su Singapore, không chỉ đặt ở Cần Thơ mà còn đặt ở các chi nhánh khác nhưng hôm nay, 10.10, bánh sinh nhật Singapore Cần Thơ làm mình thất vọng thực sự. Hay là các bạn nghĩ các bạn là HO nên các bạn không cần …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Phương Thảo",
+    "rating": 1,
+    "review_text": "Tui có đặt bánh cho lớp của con tui tên liên hoan cuối năm, và đã chuyển khoản trả tiền trước nhưng khi shipper giao vẫn nhận chuyển khoản của thầy chủ nhiệm lớp con tui. Đó là sự thiếu trách nhiệm của nhân viên check \"ck đủ\" khi giao hàng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Nguyen Len Le",
+    "rating": 1,
+    "review_text": "Mua bánh mà nhân viên mặt đưa đám…tưởng mua bánh cúng đám ma không đó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "thuy tien Nguyen",
+    "rating": 1,
+    "review_text": "Cảm thấy thất vọng về thái độ phục vụ của bạn lễ tân, mình đặt bánh và trả tiền trước nhưng bạn lại báo không còn nhân mình đã chọn, mất thời gian chọn lại nhân bánh, khách khác tới sau mua ít bánh hơn mình và trả tiền sau khi nhận bánh thì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Anh Pham",
+    "rating": 4,
+    "review_text": "👉Bánh sinh nhật kiểu này được ghép từ nhiều bánh nhỏ trang trí nhiều hình đẹp mắt. Bánh có nhiều nhân ngọt và mặn như : socola, kiwi, đào, táo, chà bông...trên mặt bánh nhiều topping : phomai, mứt, kẹo... …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "hai dang doan",
+    "rating": 1,
+    "review_text": "Đây là lần thứ 3. Lần 1 lần 2 có thể do sự bất cẩn nhừng lần 3 rồi thì xác nhận khách hàng không được tôn trọng các bạn ạ. Trải nghiệm dịch vụ rất rất là tệ. Không có sự tôn trọng khách hàng. Bánh dùng cho những ngày đặc biệt (kỹ niệm, sinh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Tấn Lực Nguyễn",
+    "rating": 5,
+    "review_text": "Bánh trang trí rất đẹp, tư vấn nhiệt tình giá vừa phải, các ac nhân viên rất dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Tuan Pham",
+    "rating": 4,
+    "review_text": "Bánh ngon nhưng làm lâu thái độ nhân viên thấy rất ok tư vấn cũng nhiệt tình mà phần trang trí ko dc ấn tượng cho lắm mua  2 lần rùi mai hoặc mốt định ra mua nữa  mà thấy \"mng nên mua bánh nhân mặn á tại thấy ngon hơn socola\" - ý kiến riêng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "lâm hiền",
+    "rating": 5,
+    "review_text": "Mình mua bánh vào lễ tặng mẹ\nMẹ chưa ăn qua nên đặt biệt mua về vĩnh long\nChạy xa 1 mình ngán đường lắm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Đại Lâm Mộc",
+    "rating": 1,
+    "review_text": "Ngày lễ đầy khách, khách tới mua ngay thì lúng túng ko nói gì, khách đặt trước, chuyển tiền trước 1 ngày mà khi đến nhận ko có đơn, phải dò lại tin nhắn, ko biết quản lý đơn hàng kiểu gì luôn, hàng chục khách nhăn nhó khó chịu đứng đợi vì đặt trước mà ko có bánh, vãi singapore"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "jenny Trần",
+    "rating": 1,
+    "review_text": "mk có đặt bánh chiều này thái độ nhân viên TỆ !!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Mai Trúc Nguyễn",
+    "rating": 5,
+    "review_text": "Bánh ngon. Nhân viên thân thiện. Phải đặt nhiều bánh mới lên đế được. 2 người mình mua set 9 bánh vừa ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "bảo ngân nguyễn hoàng",
+    "rating": 1,
+    "review_text": "Tầm khoảng 14h30 mình có vào fanpage để ib và đặt bánh bên tiệm set 12b và mình chỉ nói với nhân viên là lấy mình bánh vị truyền thống và bánh mặn thoi đừng lấy có vị socola.Và mình hẹn là 15h30 mình nhận bánh nhưng 16h mình ghé tiệm nhận …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "HuuHiep Tran",
+    "rating": 5,
+    "review_text": "Bánh ngon. Giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Nguyen Tamtue",
+    "rating": 1,
+    "review_text": "1. Bé lễ tân Nói chuyện luyên thuyên với chú giao hàng, để khách đợi.\n2. bé lễ Tân kém, mô tả trang trí bánh quá lâu chưa hiểu ra vấn đề.\n2. Bánh kem trang trí sơ sài, đặt bánh lên là xong."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Linh My",
+    "rating": 1,
+    "review_text": "Chăm sóc khách hàng tệ hẹn 6h lấy bánh nhưng có việc hỏi shop 5 giờ được không thì báo đặt 6h thì 6h ghé, miình ghé đại thì có luôn. Bộ nv lười check dùm khách lắm hả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "TRANG NGỌC",
+    "rating": 5,
+    "review_text": "Lần nào ghé đặt bánh miêu tả hình ảnh trang trí nhưng khi nhận được đẹp hơn tưởng tượng rất hài lòng. Nhân viên thiện, hỗ trợ khách khi cần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Loan Nguyen",
+    "rating": 4,
+    "review_text": "Bánh khá ngon và lạ, điểm trừ là vị hơi ngọt quá so với mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Cam Le",
+    "rating": 1,
+    "review_text": "mình thường xuyên đặt bánh ở đây vì bánh rất ngon, nhưng hôm nay thật sự rất không hài lòng về cách phục vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Tiên La",
+    "rating": 1,
+    "review_text": "Sáng nay lúc 11h38 mình đến tiệm nhận bánh nhưng khi add voucher để được giảm giá và nhận bánh tặng thêm thì THÁI ĐỘ PHỤC VỤ của BẠN NỮ không niềm nở và khó chịu tạo cho mình SỰ KHÔNG CHUYÊN NGHIỆP TRONG CÁCH PHỤC VỤ nên mình mong bạn sẽ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Haechan Lee",
+    "rating": 4,
+    "review_text": "Bánh ngon, mình ăn thấy cũng bình thường không có gì đặc biệt, giá đắt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "CoCo Long",
+    "rating": 1,
+    "review_text": "Bánh ngon mà phục vụ quá tệ bé thu ngân không mình hỏi bánh mà tái độ với mình quá tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Vu Huong Giang B2301291",
+    "rating": 1,
+    "review_text": "Đặt bánh rồi tới lúc nhận bánh, tiệm nói quên đơn mà thái độ rất dửng dưng không có 1 lời xin lỗi nào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "trieu minh",
+    "rating": 1,
+    "review_text": "đặt bánh vào buổi trưa hẹn giao từ 17-18h, gần 21h chưa nhận được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Thịnh Trần",
+    "rating": 1,
+    "review_text": "Đặt bánh lúc 4h 5h mấy vẫn chưa có. Tới giờ sinh nhật k có bánh kem luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Sang L.M Tran",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình chi tiết, bánh ngon đủ vị đóng gói chỉnh chu, giao hàng nhanh chóng không mất phí, cảm thấy hải lòng 👏 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Gangz Funny",
+    "rating": 1,
+    "review_text": "nhân viên đứng quầy hôm 10/11 lất cất ghê nói chuyện khi dễ người khác làm như người ta xin nó không bằng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Nhung Doan",
+    "rating": 5,
+    "review_text": "Bánh ngon, trang trí đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Thùy Huỳnh",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhiều vị, rất thích"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Dương Huỳnh Phương Nghi",
+    "rating": 5,
+    "review_text": "Mình khách hàng quen của tiệm, đợt rồi mình có một đơn hàng quan trọng và thời gian cũng khá gấp, nhưng mình đã được các bạn hỗ trợ rất tận tình đến tận khuya, sẵn sàng hỗ trợ, điều chỉnh trang trí theo yêu cầu của khách hàng mà không phát …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Toan Nguyen",
+    "rating": 5,
+    "review_text": "tiệm bánh phục vụ rất chu đáo và nhanh chóng..có nhiều loại bánh su khác nhau..làm quà bánh sinh nhật rất hay đổi khẩu vị với bánh truyền thống..có khuyến mãi thú vị mỗi thứ 4 hàng tuần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Thuc",
+    "rating": 5,
+    "review_text": "Bánh ngon, giá không quá đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Thái Hưng Nguyễn",
+    "rating": 4,
+    "review_text": "Bánh ngon, nhiều khẩu vị, phù hợp nhiều sự kiện khác nhau như sinh nhật, tân gia, khai trương, liên hoan, cưới hỏi, hội nghị khách hàng.... có các gói combo riêng, phục vụ tương đối chậm, thường chờ chừng 10 đến 20ph tùy số lượng do bánh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Minh Nguyễn",
+    "rating": 5,
+    "review_text": "Bánh ngon, dễ ăn, giá rẻ, nv nhiệt tình, nhanh nhẹn và chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Trọng Thái Lê",
+    "rating": 1,
+    "review_text": "Phục vụ khách hàng rất kém. Đặt bánh trước 1 hôm rồi nhưng lại quán phải đợi ? Còn bảo k nhận dc chtrinh khuyến mãi trong khi đi nhận bánh đúng ngày :) Là lỗi do khách phải ko? Vậy là lỗi do khách à?  ĐẶT TRƯỚC 1 NGÀY ĐỂ LÀM GÌ RỒI TỚI QUÁN PHẢI ĐỢI? Là lỗi do khách hết phải ko ?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Khanh vi Nguyen",
+    "rating": 4,
+    "review_text": "bánh ngon nhiều hương vị lựa chọn.không tiệm hơi hẹp nhưng bước vào là mùi hương bánh mới ra lò đầy ngập tiệm .rất thơn ngon\nNhân viên phục vụ chưa được vui vẻ lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Thảo little",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ tệ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Ka Ly",
+    "rating": 3,
+    "review_text": "Ngày mua bánh là ngày tao thấy em ny đi với “cặp sừng” của tao zô đây mua bánh, lần đầu cũng là lần cuối ghé đây, 22/04/19"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Nikki",
+    "rating": 1,
+    "review_text": "Cho voucher xong tới lúc ra mua bánh thanh toán thì lại bảo không phải ngày không sử dụng được, trong khi voucher còn hạn nhưng sài không dc lừa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "THANH HÒA TÔ",
+    "rating": 1,
+    "review_text": "Mình thấy tiệm lúc ít khách đi rất chu đáo, nhưng đông thì giao hàng rất chậm, minh đặt buổi sáng mà tận 15h mới giao...sẽ không chọn là cửa hàng dịp sn nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "MINH TUAN TRUONG",
+    "rating": 3,
+    "review_text": "Bán đắc vì cần thơ có 1 chỗ thôi, giá thì cũng hơi chát, nhưng bánh ngon, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Thai Luu",
+    "rating": 5,
+    "review_text": "Bánh ngon . Nhân viện nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Linh Huỳnh Thị Hồng",
+    "rating": 5,
+    "review_text": "Bánh dễ thương, ngon béo. Có thể đặt bánh theo ý thích của mình. Địa chỉ dễ tìm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Trần Anh Kha (Bs Kha)",
+    "rating": 5,
+    "review_text": "5* thì cần nhận xét gì thêm nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Huỳnh Thảo",
+    "rating": 1,
+    "review_text": "Đặt qua mess và đã xác nhận lại với khách nhưng đến nơi thì tiệm lại không có lên đơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Thạnh Mạc Đình",
+    "rating": 5,
+    "review_text": "Giá bánh kem ok, trang trí bánh đẹp đúng yêu cầu của khách và ăn rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Cherry Lee",
+    "rating": 5,
+    "review_text": "Bánh ngon, dễ ăn, nhân viên trả lời inbox nhanh chóng, dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "sang Nguyen",
+    "rating": 5,
+    "review_text": "Bánh ngon giá rẽ... phục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Minh Trương Minh Quốc",
+    "rating": 5,
+    "review_text": "Ngon, thường đặt bánh khi sinh nhật cho người thân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Tu Le Thanh",
+    "rating": 4,
+    "review_text": "Bánh ngon, phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Thọ Nguyễn Ngọc",
+    "rating": 1,
+    "review_text": "nên né"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Baotieu Giang",
+    "rating": 5,
+    "review_text": "Bánh ngon nhưng giá thì ko rẻ hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Văn Hoàng Lê",
+    "rating": 1,
+    "review_text": "Ngon , rẻ, hấp dẫn.... Trên cả tuyệt vời... 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "kim nguyen",
+    "rating": 5,
+    "review_text": "bánh ngon nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Chí Trọn Lương",
+    "rating": 5,
+    "review_text": "Bánh làm nhiều mẫu đẹp, ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Phi Lê văn",
+    "rating": 5,
+    "review_text": "Cho xin số đt để mình đặt hàng nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Hung Huynh",
+    "rating": 5,
+    "review_text": "Ngon . Thương hiệu lâu năm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Bbi ʕتʔ",
+    "rating": 5,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Hoàng Tú Võ",
+    "rating": 5,
+    "review_text": "Mẫu mã đa dạng, phục vụ tốt đúng hẹn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Lê Uyên",
+    "rating": 5,
+    "review_text": "BÁNH NGON VÀ ĐẸP, ĐẶT BÁNH NHANH GỌN, NHÂN VIÊN THÂN THIỆN"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Hải - Hải Đăng Tax - DVKT Cần Thơ",
+    "rating": 5,
+    "review_text": "bánh ngon, trang trí đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Zy2303 Tu",
+    "rating": 5,
+    "review_text": "tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Lê Văn",
+    "rating": 5,
+    "review_text": "Bánh su kem rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Tram Hoan",
+    "rating": 4,
+    "review_text": "rất ngon nhưng hơi măắ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Nhung nguyen thi",
+    "rating": 1,
+    "review_text": "Tên sn mà ghi sai ?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Cuong Tran",
+    "rating": 5,
+    "review_text": "Tuyệt đối"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "nhàn đặng thanh",
+    "rating": 4,
+    "review_text": "Dịch vụ và phục  vụ  khá tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Băng Khánh",
+    "rating": 4,
+    "review_text": "Phục vụ không tốt lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "An Nguyen Hoang",
+    "rating": 5,
+    "review_text": "Rất ngon và đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Vũ Investify Bank",
+    "rating": 4,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "quốc chương nguyễn",
+    "rating": 3,
+    "review_text": "phục vụ chưa tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Uống Thích Ăn",
+    "rating": 5,
+    "review_text": "Ngon lắm lun"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Lộc Đào Tiến",
+    "rating": 1,
+    "review_text": "Tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Tran Hiep",
+    "rating": 1,
+    "review_text": "Không chuyên nghiệp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Giap Hieu",
+    "rating": 1,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "thạnh nguyễn",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Thống Nguyễn",
+    "rating": 4,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Quang Tung",
+    "rating": 4,
+    "review_text": "Chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "TUẤN KHẢI LÊ",
+    "rating": 4,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Tran Ngoc Chau",
+    "rating": 4,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "THAM HUYNH",
+    "rating": 5,
+    "review_text": "Quán đang sửa nên nhân viên có vẻ hơi cực hơn . Bạn Tài Thái độ rất tốt . Cho bạn 5 sao nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Khương Lê",
+    "rating": 1,
+    "review_text": "Đặt bánh tại chỗ nhân viên ko yêu cầu cọc, mình hỏi bên tiệm có giao ko thì NV bảo có nên mình đặt giao luôn. Mà hình như ko cọc nên tiệm ko làm bánh cho mình đúng ko? Chứ thấy tiệm cho hoàn đơn khi shipper đã đi giao dễ dàng qá, ko sợ bị …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Đào Duy Phương",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Lazic Miroslav (Miki)",
+    "rating": 1,
+    "review_text": "Dịch vụ kém, không thể làm đúng ngay cả đơn đặt hàng đơn giản nhất và đúng giờ. Bánh tạm được, trước đây ngon hơn nhiều."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Khoa Huynh",
+    "rating": 3,
+    "review_text": "Bánh có nhiều vị nhưng quá ngọt, không phù hợp với người ăn kiêng. Và đây không phải là chi nhánh của Chewy Junior Singapore tại Việt Nam."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "anhtriet danghuynh",
+    "rating": 3,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "Lắm Nguyễn Thanh",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a088189c8f9ad9:0x29eacd85d50cc8f9",
+    "shop_name": "Bánh Sinh Nhật Singapore Cần Thơ",
+    "user_name": "DαddΥ Lai",
+    "rating": 3,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Blue Kid",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, quán làm nhanh và sạch sẽ, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Audio Truyện",
+    "rating": 4,
+    "review_text": "Đồ ăn lên nhanh, phục vụ tốt. Phần ăn nhiều."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Ngoc Nguyen",
+    "rating": 5,
+    "review_text": "Nv chuyên nghiệp, không gian yên tĩnh, chỉ có khách làm ồn. Món ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Mountain",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, quán đẹp và sạch sẽ. Các bạn nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Thái Ngọc Lê",
+    "rating": 5,
+    "review_text": "Decor đẹp, món ăn tương đối ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Đoàn Vĩnh Phú",
+    "rating": 4,
+    "review_text": "Quán Sushi Sakura Cần Thơ\nQuán với mức giá tầm trung đến cao, trang trí đẹp, shushi ok với mình vẫn chưa thấy đã lắm\nĐánh giá 4*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Trần Hân Hân",
+    "rating": 2,
+    "review_text": "- Nhà hàng trang trí ở mức bình thường, quán chật, nhỏ.\n- vị trí đắc địa dễ tìm\n- Menu đa dạng nhưng chất lượng thì bình thường, sushi quá lạnh, ko cảm nhận …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Toàn Bùi Minh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên phục vụ nhiệt tình, mọi nguời nên ghé thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Tuấn Nguyễn",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, sạch sẽ, nhân viên nhiệt tình. Nhà 2 nguoi lớn, 2 trẻ em mà ăn gần hết 1500k no căng bụng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Ái Võ Trần Thuý",
+    "rating": 5,
+    "review_text": "Quán ruột ạ.Giá hơi nhỉnh nhưng đồ ăn rất tươi,mì udon cũng ngon lắm nhé ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "YA YA",
+    "rating": 5,
+    "review_text": "Cơm cuộn lươn trứng M82 siêu ngon , mua mang về thường ghé đây - hình 2 phần 156k 2 ng ăn no\nNhân viên lịch sự - lễ phép"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Hoàng Châu",
+    "rating": 5,
+    "review_text": "Ngon thích món cơm lươn lắm nha. Giá cả đắt nhưng chất lượng với món ăn. Nên thử nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Hạnh Như",
+    "rating": 5,
+    "review_text": "Món ăn ngon, giá cả hợp lí, phục vụ chu đáo, nhân viên dễ thương, nhiệt tình. Đã ăn ở quán hơn 5 lần rồi nhưng lần nào cũng rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Hậu Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian rộng rãi, trên lầu hơi ồn, do phòng gia đình có trẻ em..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Minh Thư Hà",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, nhân viên dễ thương nhiệt tình 😍💕 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Thuy Cam Phan",
+    "rating": 5,
+    "review_text": "Quán ruột, trang trí sinh nhật đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Mai Khanh Lê Đoàn",
+    "rating": 5,
+    "review_text": "Không gian quán khá ổn, không ồn ào. Nhân viên phục vụ nhiệt tình, dễ thương. Các món ăn thì luôn tươi ngon, chất lượng ổn định, đến ăn nhiều lần vẫn tươi ngon như vậy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Linh Kona",
+    "rating": 5,
+    "review_text": "Ngon, không gian rộng rãi, có sự riêng tư"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Hungphatfire. com",
+    "rating": 5,
+    "review_text": "Thức ăn ổn, phục vụ tốt, địa điểm ngay trục trung tâm khá thuận tiện, đậu xe ngoài lề đường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Trung Kiên",
+    "rating": 1,
+    "review_text": "quán coi thường shiper quá, trời nắng để shiper ở ngoài, shiper cũng là khách mà tại sao lại coi thường?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "RuiHui",
+    "rating": 2,
+    "review_text": "**TẾT PHỤ THU 20%**\nĐồ ăn ko ngon và phục vụ cũng ko niềm nở vui vẻ. Chất lượng món ăn trung bình, ko khen được món nào, thực ra là quán VN trình bày kiểu Nhật thì đúng hơn; các …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Mai Trúc Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, chu đáo. Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Diệp Huỳnh Fiona",
+    "rating": 5,
+    "review_text": "Một buổi tối yên tĩnh giữa lòng Cần Thơ, mình chọn Sushi Sakura – không phải vì muốn “ăn Nhật”, mà vì muốn tận hưởng một chút thanh tao đúng nghĩa.\nKhông gian ở đây mang nét Nhật Bản nhẹ nhàng: ánh sáng vàng ấm, gỗ mộc, những …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "12A7 Thiên Phú",
+    "rating": 5,
+    "review_text": "_ Nhân viên phục vụ tốt, thân thiện.\n_ Đồ ăn chất lượng, giá hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Yinn",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi, ngon, giá cả phù hợp. Chỉ mong quán phục phụ nhanh hơn ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Vy Phương",
+    "rating": 5,
+    "review_text": "Ngon và vui muốn xĩu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Hà Phương Nhi",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên dễ thương thân thiện, phục vụ tốt sẽ đến ăn nhiều lần nữa hihi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "THANH TRAN QUOC NGOC",
+    "rating": 5,
+    "review_text": "Quán đồ ăn ngon, giá cả phải chăng, phục vụ cũ g tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Mỹ Chi",
+    "rating": 5,
+    "review_text": "Món ăn ngon 🌸🌸🌸\nPvu tốt 🫶🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Thy Huynh",
+    "rating": 5,
+    "review_text": "Mình đã ăn nhiều tiệm sushi khác ở Cần Thơ và thấy đồ ăn ở đấy rất ngon, phù hợp với số tiền bỏ ra. Phục vụ rất nhiệt tình. Không gian vừa đủ, không quá rộng. Trang trí phong cách Nhật Bản rất hợp với bầu không khí.\nNhững ngày lễ rất đông nên đặt bàn trước khi đến."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Ly Nguyễn",
+    "rating": 1,
+    "review_text": "Nhân viên live quảng bá cửa hàng nhưng ăn nói thiếu chuẩn mực, thái độ không tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Hạnh Nguyên Võ Lý",
+    "rating": 5,
+    "review_text": "Tầng trên rất đẹp. Nhân viên rất lịch sự. Sashimi rất tươi. Hải sản cũng tươi nốt. Đồ ăn đều ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "QUỲNH NGÔ",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi ngon, nhân viên phục vụ nhanh và dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Cong Phan",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ\nThức ăn ngon\nGiá phù hợp ở thị trường Cần Thơ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Bảo phạm",
+    "rating": 5,
+    "review_text": "ăn ngon đồ ăn ra lẹ món ăn chu đáo chỉnh chu về mặt hình thức  nhân viên nhiệt tình hơn bên vin com …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Hồng Thuỷ Hồ Thị",
+    "rating": 3,
+    "review_text": "Đồ ăn ngon nhưng nvien sao sao í, dọn hơi sớm với lại có cảm giác nvien thì thầm nấu xói mình, lun có cảm giác bị nhìn sau lưng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "15-Xuân Mai",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian sạch sẽ và nhân viên rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Thảo Ngân",
+    "rating": 1,
+    "review_text": "Mình và em mình có ăn tại nhà hàng vào lúc 19h ngày 9/2/2023. Khi ăn xong đến lúc tính tiền mình có gọi nhân viên để thanh toán. Khi nhân viên lại hỏi thanh toán bạn nhân viên đó tỏ thái độ khó chịu, quạo quọ với chúng mình. Và lúc mình …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Thoai Pham Minh",
+    "rating": 4,
+    "review_text": "Thức ăn tươi, ngon. Chỗ ngồi ăn sạch đẹp. Thoáng mát, trang trí mang phong cách Nhật.\nĐồ ăn hơi ít do chất lượng cao. Phần cầu thang hôi mùi long naoz nhiều. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Terence Iam",
+    "rating": 5,
+    "review_text": "Sashimi cá hồi siêu tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Channel TV (TV channel)",
+    "rating": 5,
+    "review_text": "Bố trí phòng ăn rất tuyệt vời ko có j để chê\nĐồ ăn thì khỏi nói luôn quá tuyệt lên nhanh còn ngon nữa\nPhục vụ tốt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "VO THANH TUAN",
+    "rating": 4,
+    "review_text": "Mình lần đầu ăn sushi ở đây, ngon và mình ăn ok, có dẫn khách đến đây.\nThấy thiếu là nên có 1 bạn hướng dẫn cách ăn thì sẽ hay hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Lys White",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, không gian đẹp, lên món khá nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Pham Tinh",
+    "rating": 5,
+    "review_text": "thật tuyệt vời khi đến đây , từ đồ ăn cho đến nv phục vụ đều rất tuyệt vời . Nếu các bạn có mê ẩm thực Nhật Bản tất nhiên đây là một nhà hàng không thể không đến tại Cần Thơ này. xứng đáng với những gì đã bỏ ra"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Cẩm Lê Hồng",
+    "rating": 5,
+    "review_text": "đồ ăn ngon .ra món nhanh. phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Minh Ca",
+    "rating": 5,
+    "review_text": "Món ăn đậm đà hương vị Nhật Bản, phục vụ rất nhiệt tình chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Lân Võ",
+    "rating": 5,
+    "review_text": "Món ăn ngon, giá cả hợp lý. Sẽ quay lại và giới thiệu cho bạn bè."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "thuy vu",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, tươi, chất lượng vẫn giữ được tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Gọn Nguyễn",
+    "rating": 5,
+    "review_text": "Mới vừa ăn xong..ngon nhe mọi người,giá cả ổn áp..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Long Vũ",
+    "rating": 5,
+    "review_text": "Món ăn rất tươi ngon, không gian đẹp, chắc chắn sẽ quay lại nhà hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Sweet Love",
+    "rating": 5,
+    "review_text": "Đồ tươi,phục vụ rất nhiệt tình.không gian kín đáo,thơm, tất cả đều ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Hồng Nga Trương",
+    "rating": 5,
+    "review_text": "Ngon, vệ sinh, nhân viên lịch sự. Hài lòng. Ăn thường xuyên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "huy le",
+    "rating": 2,
+    "review_text": "thức ăn không được tươi, ăn về bị trúng thực :( mong quán lựa chọn thực phẩm tốt hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Đào Nguyễn Thị",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon trang trí đẹp mọi người nên đến thử để trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Tan Nguyen",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon giá họp lý nên ghé ăn thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Bao Y Nguyen",
+    "rating": 5,
+    "review_text": "Ngonnnnnnn, nhân viên vui vẻ, tốt bụng hơn bên vincom Xuân Khánh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Nguyen Quoc Bao (quocbaoboss)",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Minh Tân Nguyễn",
+    "rating": 5,
+    "review_text": "Phong cách phục vụ nhiệt tình, thân thiện, món ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Thanh Van Nguyen",
+    "rating": 3,
+    "review_text": "Món ăn ngon, phục vụ tận tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Kỳ Trân Trần",
+    "rating": 5,
+    "review_text": "Quán hơi chật, nhưng sashimi rất tươi, đáng đồng tiền ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "25-Võ Hoàng Quốc",
+    "rating": 5,
+    "review_text": "Món ăn tươi ngon, ngon vui vẻ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "thao phuc",
+    "rating": 5,
+    "review_text": "Món ăn tươi, phục vụ chu đáo, đáng để thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Anh Thư",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình chu đáo hơn bên vincom"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "văn vỹ phan",
+    "rating": 5,
+    "review_text": "Lần đầu cứ sợ nhưng ngon thật ấy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Kelvin Nguyen",
+    "rating": 5,
+    "review_text": "Shushi ở đây ngon cực. Gđ mình rất thích"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Tran Ngoc Thuy Duong B2014144",
+    "rating": 5,
+    "review_text": "dịch vụ tốt, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Diễm Trinh",
+    "rating": 5,
+    "review_text": "Không gian ấm cúng, pv nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Kenji Tran",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Minh Nguyễn Ngọc",
+    "rating": 5,
+    "review_text": "Quán ăn shushi lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "lương lý",
+    "rating": 5,
+    "review_text": "Sịn sò"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Thịnh Phan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Hong Tran",
+    "rating": 5,
+    "review_text": "tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Nastu Uzumaki",
+    "rating": 5,
+    "review_text": "10/10"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Bùi Duy Quang",
+    "rating": 4,
+    "review_text": "Ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Phạm Hoàng Tính",
+    "rating": 5,
+    "review_text": "Tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Phước Phạm gia",
+    "rating": 5,
+    "review_text": "10/10"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Tuyết Nguyễn",
+    "rating": 5,
+    "review_text": "Phục vụ tốt, nhiệt tình, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Phương Nghi",
+    "rating": 4,
+    "review_text": "Sashimi tươi, ngon, các món soup cũng vừa ăn. Sushi ngon, hôm mình đi chỉ có món hàu chiên giòn là không thích lắm, thịt hàu béo nhưng có vẻ hơi không tươi, nước chấm không ngon. Nhân viên dịch vụ rất nhiệt tình, bàn mình có làm đổ nước các …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Anhh Tuyết",
+    "rating": 1,
+    "review_text": "thái độ chủ trả lời không ổn đồ ăn dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Vy",
+    "rating": 5,
+    "review_text": "Ngon, đồ tươi và phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Thao Le",
+    "rating": 5,
+    "review_text": "Quán gần mặt đường, phục vụ nhanh và nhiệt tình. Quán đa dạng các món ăn shushi. Tuy nhiên không gian hơi nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "David Heinrich",
+    "rating": 5,
+    "review_text": "Sakura Sushi là một nhà hàng rất tốt. Sushi tươi ngon. Thực đơn đa dạng và món ăn được trình bày đẹp mắt. Phục vụ thân thiện và chu đáo. Không gian nhà hàng dễ chịu và sạch sẽ. Nhìn chung, đây là một nơi tuyệt vời để thưởng thức sushi ngon. Tôi chắc chắn sẽ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "nishi",
+    "rating": 4,
+    "review_text": "Tôi đã ghé thăm nhà hàng này trong chuyến đi Cần Thơ.\n\nSuất ăn trưa (11 giờ sáng - 2 giờ chiều) rất đáng tiền, bao gồm súp miso, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Phuong Tran",
+    "rating": 5,
+    "review_text": "Chuyến ghé thăm nhà hàng Sushi Sakura ở Cần Thơ của tôi thực sự là một trải nghiệm tuyệt vời. Ngay từ khi bước vào, tôi đã được chào đón bởi không gian thanh bình và sự đón tiếp nồng nhiệt từ đội ngũ nhân viên. Nội thất trang nhã và những …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Phil Langdon",
+    "rating": 4,
+    "review_text": "KIỂM TRA HÓA ĐƠN\nĐồ ăn rất ngon. Được đầu bếp chuẩn bị và trình bày rất tốt. Có nhiều món ăn Nhật Bản chính thống, tuy nhiên giá hơi cao một chút. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Dong Dong Pan",
+    "rating": 5,
+    "review_text": "Quán sushi ngon, suất cơm trưa của họ rất đáng tiền. Suất Katsudon thì to thật đấy. Thú thật là mình không ăn hết được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "The Fox",
+    "rating": 5,
+    "review_text": "Tuyệt vời!\n\nSushi ở đây tươi ngon tuyệt hảo, khẩu phần ăn hào phóng và cách trình bày tinh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Owen Wu",
+    "rating": 5,
+    "review_text": "Đồ ăn nhanh và giá cả phải chăng! Chất lượng trên mức trung bình, tôi tin rằng đây là nhà hàng Nhật Bản ngon nhất ở Cần Thơ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Quinnlan Kuhl",
+    "rating": 1,
+    "review_text": "Hôm nay tôi đến và muốn ngồi cạnh cửa sổ. Sau một lúc, một nhân viên đến gần và yêu cầu tôi đổi bàn vì bàn gần cửa sổ đã được đặt trước. Vì vậy, tôi ngồi xuống một bàn khác, ăn hết bữa ăn của mình và rời đi gần giờ đóng cửa. Không ai đến …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "施以中",
+    "rating": 4,
+    "review_text": "Cũng tạm được, nhưng kỹ thuật làm sushi cần được cải thiện. Sushi dễ bị vỡ vụn, và độ tươi chỉ ở mức trung bình. Tuy nhiên, cũng không đến nỗi tệ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Andre Ohren",
+    "rating": 5,
+    "review_text": "Mọi thứ đều tươi ngon, giòn tan và hấp dẫn, và nhân viên đã chơi đùa rất kiên nhẫn và duyên dáng với con trai của chúng tôi (2)."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Ray Swan",
+    "rating": 5,
+    "review_text": "Một trong những nhà hàng Nhật Bản yêu thích của tôi ở Long Xuyên. Giá cả hợp lý và chất lượng tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Karunen Pillay Vencatasawmy",
+    "rating": 5,
+    "review_text": "Đây là một quán sushi tuyệt vời. Sushi tươi ngon và giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Yakult Ninh Kiều",
+    "rating": 5,
+    "review_text": "Được rồi 👌 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "廖豐平",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý và thức ăn rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Aleksandra Kravchenko",
+    "rating": 5,
+    "review_text": "Sushi chính gốc tuyệt vời, nhân viên chu đáo và thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "KEVIN Smith",
+    "rating": 2,
+    "review_text": "Sashimi làm từ cá đông lạnh chất lượng kém, hoàn toàn thất vọng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Giau Truong",
+    "rating": 5,
+    "review_text": "Đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Tram chi Tin",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a089d4e2128291:0x2d79bb26ed91f077",
+    "shop_name": "Sushi Sakura Cần Thơ",
+    "user_name": "Tường Khánh",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Ngân Võ",
+    "rating": 5,
+    "review_text": "Trời ơi các bạn nhân viên ở đây dễ thương xỉu, bàn mình có em bé nhỏ nên có hơi làm phiền các bạn, nhưng các bạn hỗ trợ rất nhiệt tình, kể cả bác bảo vệ cũng dễ thương nữa. Đồ ăn đại khái nêm nếm ngon miệng, nhưng mình có k thích hạt cơm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Thư Đoàn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Tracy",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon . Nhân viên nhiệt tình . Không giãn rộng thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "van thao Le",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cả phù hợp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "I'm Grass",
+    "rating": 5,
+    "review_text": "Món ăn lên nhanh, hương vị tươi mới. Không gian thoải mái, thơm ơi là thơm. Các bạn nhân viên takecare siu kỹ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Dang Nguyen",
+    "rating": 5,
+    "review_text": "Mình đã ăn ở đây 2 lần. Phục vụ nhiệt tình và chuyên nghiệp. Giá thành và chất lượng đồ ăn tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Ngọc bích Nguyễn",
+    "rating": 5,
+    "review_text": "Quán không gian thoải mái và đẹp. Đồ ăn sạch sẽ và ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Mỹ Qúi",
+    "rating": 5,
+    "review_text": "Nhân viên cute, thức ăn siêu ngonnn, không gian ấm cúng đậm chất nhật bản 💯🫶🏻🫰🏻 mãi iu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Tường Vương",
+    "rating": 5,
+    "review_text": "Thức ăn ngon, nhân viên nhiệt tình, phục cụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Michelle Dinh",
+    "rating": 4,
+    "review_text": "Quán này mới mở ở trên đường trần hưng đạo, quá decor theo kiểu nhật bản truyền thống, không gian khá đẹp thẫm mỹ, có nhân viên tiếp đón và hướng dẫn. Quán có trệt và trên lầu, ở dưới thì có thể ngồi ăn nhìn các đầu bếp làm sushi cũng được. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "tdzy nguỹn",
+    "rating": 5,
+    "review_text": "đồ ăn ngon lắm ạ, quán trang trí rất đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Hue Tran",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon trang trí đẹp,  nhà hàng trang trí phong cách, dịch vụ ok luôn ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Quyen Doan",
+    "rating": 5,
+    "review_text": "Món ăn ngon, không gian dễ thương, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Trâm Kiều",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Hà Châu",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ chuyên nghiệp, không gian thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Tran Thi Minh Anh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngonnn hợp khẩu vị, phục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Vỉnh phúc Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, tươi !!! Shusi tươi ngon ! Cơm cari khá ngon. Sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Thái Ngọc",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi, ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Lan Anh Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Viên Viên",
+    "rating": 5,
+    "review_text": "Rất ngon và nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "An Lê Thuỳ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ nhiệt tình 😘😘😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Phương Uyên Vũ Hoàng",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, cá tươi. Không gian quầy đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Thi_Enn Trần",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, không gian rộng rãi, sang trọng, nhân viên nhiệt tình, đồ ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Lee Le",
+    "rating": 5,
+    "review_text": "Đồ ăn ở đây tươi ngon ổn áp ngen, không gian thoáng sang trọng, có phòng ngồi riêng và ở ngoài nữa. Đang có chương trình hè nếu có bé cùng đi tặng kẹo bông gòn  , chụp ả , câu cá trúng quà, ... Mình thấy ở đây đáng nên thử nha ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Vinh Hao",
+    "rating": 5,
+    "review_text": "Đồ ăn oke lắm ạ, mấy bạn nhân viên phục vụ nhiệt tình lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Trúc Ngô",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Nhân viên nhiệt tình. Ra món nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Thanh Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn hợp khẩu vị, không gian rộng rãi, thoải mái, đã ăn nhiều lần ở chi nhánh 1, nay thử chi nhánh mới. Cảm thấy rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Ngân Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, quán trang trí đẹp, nhân viên phục vụ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Kim Ngan Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian thoáng đãng, ấm cúng, 5☆ nhe~"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Hường Phạm",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình, món ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Minh Thư Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, trải nghiệm tốt 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Phương Thảo Lê",
+    "rating": 4,
+    "review_text": "Thức ăn ok nha, hơi mặn so với khẩu vị của mình nhưng ổn\nPhục vụ hơi chậm chắc do quán mới khai trương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Sơn Võ văn",
+    "rating": 5,
+    "review_text": "Nhân viên chu đáo. Không gian đẹp. Nhiều món ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Kha An Tran",
+    "rating": 5,
+    "review_text": "Nói chung là ko gian quán quá đẹp, đồ ăn quá ngon . Chỉnh chu từ ko gian đến món cả nhân viên . Ưng bụng tất cả . Cho 5 sao hết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Ngan Tran",
+    "rating": 4,
+    "review_text": "Nhà hàng nên để thêm chi tiết về món ăn 1 chút. Ví dụ như dưới tên sushi thì bao gồm những gì, raw or cooked."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "trọng anh ngô",
+    "rating": 5,
+    "review_text": "Quán đẹp đồ ăn ngon. Phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Sương Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, vị chuẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Trọn Minh",
+    "rating": 5,
+    "review_text": "Không gian hiện đại, sang trọng, giá cả hợp lý và các bạn phục vụ cũng rất dễ thương nữa ❤️🫶🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Anh Thư Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi, dễ ăn. À menu có rất nhiều món nhe cho mng chọn. Về thời gian thì chờ khoảng 10-15p là có nhe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Quốc Lương",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ nhanh chóng, nhiệt tình. Sẽ ghé lại!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Quang Duy",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, không gian thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Vân Anh Hồ Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon, giá cả hợp lí, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Thảo Ngọc",
+    "rating": 5,
+    "review_text": "Nhân viên quá oki nhiệt tình\nĐồ ăn ngon lém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Thành 42",
+    "rating": 5,
+    "review_text": "trải nghiệm tốt, không gian quan thoải mái mát mẻ. ra món đợi hơi lâu nhưng món ăn ngon trong tầm giá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Nguyen Chi Than B2305142",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , nv pv tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Du Ha Long Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, nhân viên tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Yuki",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian đẹp nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Norah Nguyen",
+    "rating": 5,
+    "review_text": "Gọi 3 món 2ng ăn rất no, món nào cũng ngon, mức giá vừa phải. Nhân viên phục vụ chu đáo, có bếp mở đi 1 mình có thể ngồi xem cũng hay. Có cả phòng riêng và mọi thứ rất Nhật."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "kim hoa duong",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ tốt, quán đẹp và sang"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "thảo nguyên phạm",
+    "rating": 5,
+    "review_text": "Món ăn ngon, hợp vị, nhân viên nhiệt tìn, không gian quán đẹp, rộng rãi và thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Hana Luu",
+    "rating": 5,
+    "review_text": "Món ăn ngon, không gian ấm cúng, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Alain Nguyen",
+    "rating": 5,
+    "review_text": "Không khí tốt, ấm áp, phong cách rất rõ…."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Tran ngoc my",
+    "rating": 5,
+    "review_text": "Không gian quán thoải mái, nhân viên chu đáo, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Vi Tường",
+    "rating": 5,
+    "review_text": "Quán có chương trình Tuna Show rất vuiiiiiii\nĐồ ăn tươi, giá cả ổn so với thị trường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "THIÊN DUYÊN KIỀU LÊ",
+    "rating": 5,
+    "review_text": "Đồ ăn quán ngon, nhân viên nhiệt tình dễ thương ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Kiệt Thái",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Lê Nguyễn",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, không gian quán đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "Thuy Luu Thu",
+    "rating": 5,
+    "review_text": "Rất tốt và nhiều món ngon đáng để thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31a0890049041dd1:0x88b8f067ab3ea4a1",
+    "shop_name": "Nhà Hàng Misato Sushi Cần Thơ (CN Trần Hưng Đạo)",
+    "user_name": "THANH THÚY CHÂU",
+    "rating": 5,
+    "review_text": "Nhà hàng sạch đẹp, phục vụ nhiệt tình"
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fd113d720e9:0xc1f4dc30b48660cd",
+    "shop_name": "Chè bưởi Vĩnh Long",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Hôm nay tôi đến đây để thử món chè thái, một món tráng miệng là gỏi trái cây lạnh của Việt Nam. Vừa ngồi xuống, nhân viên đã đưa cho tôi thực đơn. Trên quầy có rất nhiều nguyên liệu để thêm vào chè thái nhưng tôi quyết định thử loại truyền …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fd113d720e9:0xc1f4dc30b48660cd",
+    "shop_name": "Chè bưởi Vĩnh Long",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Không gian bên trong khá mát mẻ nhờ quạt trần. Có một bàn lớn dành cho 8-10 người và 3 bàn nhỏ cho hai người. Quán nhỏ nhắn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fd113d720e9:0xc1f4dc30b48660cd",
+    "shop_name": "Chè bưởi Vĩnh Long",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Nơi này sạch sẽ nhưng không được ăn hoặc uống gì cả."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fd113d720e9:0xc1f4dc30b48660cd",
+    "shop_name": "Chè bưởi Vĩnh Long",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon tuyệt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fd113d720e9:0xc1f4dc30b48660cd",
+    "shop_name": "Chè bưởi Vĩnh Long",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Thức uống ngon, dồi dào và giá cả phải chăng\nSẵn sàng hỗ trợ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fd113d720e9:0xc1f4dc30b48660cd",
+    "shop_name": "Chè bưởi Vĩnh Long",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngonnnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fd113d720e9:0xc1f4dc30b48660cd",
+    "shop_name": "Chè bưởi Vĩnh Long",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Quá nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fd113d720e9:0xc1f4dc30b48660cd",
+    "shop_name": "Chè bưởi Vĩnh Long",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ok, mới thử mua lần đầu cảm thấy ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mình đã ghé thăm và mua bánh ở đây.bánh rất ngon .giá cả hợp lý.đặc biệt nhân viên rất nhiệt tình và lễ phép"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tiệm bánh ngon nhất tôi từng ăn. Mẫu mã đẹp thôi rồi. Bà chủ dễ thương . lúc nào cũng cười như được mùa khoai."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh đa dạng mẫu mã, hợp khẩu vị. Nhân viên nhiệt tình và chu đáo!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tiệm bánh kem với nhiều loại bánh rất ngon và đẹp, đáp ứng mọi nhu cầu cho mọi người. Quán phục vụ nhanh, chuyên nghiệp, nhân viên nhiệt tình, đặc biệt giá cả rất hợp lý. Địa điểm lựa chọn mua bánh kem uy tín cho mọi người."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh\n\nTừ một tiệm bánh kem nhưng nó đã nhận được sự tin tưởng của rất nhiều khách …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mình đã mua bánh kem ở đây 2 lần. 1 lần là bánh kem chocolate và 1 lần là bánh tiramisu. Cả hai bánh đều rất ngon và mình rất hài lòng. Mọi người nên thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh ăn ngon\nbông lan xốp mịn\ncó điều bánh kem chưa nhiều mẫu mã"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mình hay đặt bánh vị bắp ở đây rất ngon nhưng mẫu mã còn hạn chế , tiệm nên cập nhật các mẫu hiện đại và sang hơn xíu thì tốt hơn ạ ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tiệm bánh chất lượng ngon, mẫu mã đa dạng, tư vấn nhiệt tình và chu đáo.\nVị Trí đẹp, Thuân lợi để ghé mua.\nSẽ ghé ủng hộ nữa Trong Thời gian Tới."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Ở đây có 2 nhân viên 1 chị trẻ trẻ thì vui vẻ còn 1 chị chắc lớn tuổi hơn tỏ vẻ rất khó chịu nha mua bánh lấy đĩa tính thêm tiền thậm chí ko lấy nến số đổi qua nến cây cũng phải thêm tiền."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh kem ngon, ăn vừa miệng (tuỳ khẩu vị mỗi người). Nhân viên nhiệt tình, vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ở đây rất ngon và rẻ\nSẽ ủng hộ tiệm lần sau\n,,,,🥰🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh kem ở đây giá cả hợp lý, mình thiwchs nhất bánh krm bắp. Bánh thơm vừa không ngọt gắt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Đa dạng mẫu mã ,giá cả phải trăng,nhận đặt theo yêu cầu của khách ,nhân viên thân thiện ,đảm bảo an toàn thực phẩm ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Đặt bánh mà k chịu giao. Tắc đường đợi xíu thì bỏ về. Quá tệ. Chất lượng hình thức k dc ok lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "- Bánh kem bắp ngon.\n- Vị ngọt vừa phải ăn ngon hok ngán.\n- Có tích điểm đổi quà."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Chất lượng bánh và thái độ phục vụ tuyệt vời\nSẽ ghé tiệm lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh khá ngon, nhưng mẫu mã hơi ít."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh kem ngon quá, tiệm đẹp phục vụ nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ngon, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon,  phục vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon nhiều mẫu đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Phục vụ nhiệt tình, chu đáo, thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Ăn cũng ngon hợp lý tiêu dùng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "banh kem ngon lắm, nên ghé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhiều mousse hiện đại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh kem ngon top Biên Hoà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, trang trí đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh  rất  ngọn . <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Rất tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Rất ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Banh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Đầy đủ và bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Chất lượng tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Haha ở cạch nhà cho 5 *"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ngon sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ngon, đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Tạm ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Thơm ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh bông lan ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Chuẩn. Trên cả tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Rất tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "Bt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Không sao cả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2af002668b:0xd627543ddce42fb",
+    "shop_name": "Tiệm Bánh Ngọc Long (Bakery). Bánh kem ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "có"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "Tiệm nhìn khang trang, bánh vị ổn, trang trí ơi theo yêu cầu. Nhưng mà thái độ nhân viên hơi chán. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh cực xinh, màu sắc đẹp và đặc biệt bánb siêu ngon, từ nhân đến vỏ bánh đề mịn, mềm, thơm và không hề ngấy, giá thì rất okey luôn….10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, đẹp mắt. Nhân viên thân thiện mà chị chủ còn dth xỉu ạ 😊 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Lần nào sinh nhật tui hoặc sn ng thân cũng đều mua ở shop này hết🫶🏻theo khẩu vị tui thì rất thích ăn bánh ở đâyyy .Bánh ngon ,lúc nào cũng mới ra lò 10điểm không có nhưng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nhà mình hay đặt bánh ở đây bánh ăn ngon, ko bị ngọt nhiều mẹ mình ko thích đồ ngọt nhưng vẫn khen bánh của tiệm, bánh trang trí đẹp và cover đc gần giống mẫu khá ok nha (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh kem ngon, nhân bánh ngọt vừa ko quá gắt, giá cả hợp lý, mẫu mã đa dạng, mình mua ở đây nhiều năm rồi và thấy rất hài lòng về dịch vụ của Moon Bakery. Nếu bạn có tiệc tea break công ty thì bên này có nhận set up luôn nhé, mình cũng giới …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mình có đặt 1 bánh kem size 14 giá 250. Mình đặt trưa mà chiều có rồi. Chữ ghi đẹp. Cốt bánh dâu ăn ngon. Kem với mình hơi ngọt xí nhưng cũng ngon. Mình để tủ lạnh ăn 3 bữa vẫn còn ngon luôn. Với được tặng thêm hộp bánh nhỏ cũng vui. Hi vọng những lần khác đặt cũng được chất lượng như vey"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Kem ngon nhaa mà hong biết do mẫu mình hay sao mà nó bị nhiều kem quá ấy..bị ngán😑 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Làm ko giống hình.\nĐể hình tiệm tự tìm điểm khác nhau.\nThay nguyên liệu cũng không hỏi ý khách. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, vừa, ít ngọt, kem ít màu, nhiều mẫu đa dạng, bánh phong phú, giá phải chăng. Tiệm tư vấn nhiệt tình, lịch sự."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mình đặt bánh tại Moon Bakery và cực kỳ ưng ý. Bánh lên mẫu rất đẹp, tỉ mỉ và đúng ý mình, trang trí dễ thương mà nhìn sang nữa. Hương vị bánh fresh, vừa ngọt, ai trong nhà cũng khen. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh xinh hơn mẫu nữa tròi☺️ xinh mà còn ngonnnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh kem ngon, nhân viên hỗ trợ nhiệt tình 10 điểm sẽ ủng hộ lâu dài ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Đã từng mua và đặt bánh tặng bạn vài lần. Nên hôm cưới mình cũng đặt niềm tin ở tiệm. Ngày cưới có ghi trên bánh là ngày 8. Mình nhận bánh trước 1 ngày là ngày 7.  Ngày 6 mình đã thấy bánh nằm trong tủ do tiệm up. Do ngày cưới bận rộn nên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, chăm sóc kh tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh em đặt theo mẫu em đưa cho sốp, không nghĩ nó xuất sắc y mẫu như vậy. Cho sốp 5🌟 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Mình ghé tiệm mấy lần\nThề nóng điên, mình mới vô đã thấy nó hầm nóng hừng hực luôn\nMong tiệm cải tạo lại vì quá nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh làm đúng mẫu, giao đúng g hẹn, ngonnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mùa sinh nhật hay kỉ niệm nào cũng tin tưởng nhờ shop ạ. Đẹp, chu đáo, nhiệt tình ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Thái độ tệ,coi thường khách hàng.hỏi và trả lời qua loa.Ỉ LÀ LÀM NHIỀU SKIEN CÓ NHIỀU KHÁCH RỒI NÊN CHẮC KHÔNG CẦN KHÁCH NỮA"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Shop siêu đáng yêu đặt liền sinh nhật 2 năm lần nào cũng ưng ý hớt. Ship nhanh nhiệt tình cực kì chiều khách luônnn😘😘😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Năm nào cũg mua bánh vài lần ở đây. Bánh ngon giá rẻ hơn mấy chỗ. Dù ở tân phog xuốg tận tân mai cũg xứg đáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tiệm bánh ăn rất ngon, thời gian tiệm phản hồi nhanh, nhiệt tình tư vấn. Mình đã đặt bánh ở tiệm rất nhiều lần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Năm nào cũng đặt bánh ở đây ,bánh ngon, đẹp mắt mà giá cả cũng phải chăng nữa, shop nhiệt tình lắm luôn. Mười điểm không có nhưng cho Moon Bakery nhóoooo ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh kem ngon, năm nào cũng mua lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ngon rẻ. Không nhiều bánh để sẵn do đó tốt nhất nên đặt trước để có bánh vừa ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "bánh mình mua nhiều lần thấy ngon nên lần này muốn đặt bánh làm kỷ niệm nhưng shop làm không được thì cũng phải nói để biết chứ làm theo ý shop , đưa mẫu một đằng shop làm một nẻo mà vẫn nhận\nlần này làm ăn rất chán ạ mong không có lần sau ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Mình mua bánh tặng sn ba mẹ nhân viên hỏi nến số bnh nói rõ 51 mà nghĩ s bỏ nến cho mình là 18 vậy :))) có bị gì ko trời. Nhà cx k gần k thể ql đổi nến luôn á. Làm gì cũg kĩ kĩ chút đi cho khách đỡ đi tới đi lui"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon tuỵt cú mèo 🩵 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bánh bắp quá dỡ luôn, mình ko đọc đánh giá trước của mọi người, nên hối hận khi đã đặt\nĂn quá dỡ lên đọc đánh giá thấy chửi quá trời. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Né gấp, một sai lầm khi đặt bánh tại đây. Mình không có 1 bức ảnh ra hồn với bánh kem trong ngày sinh nhật, càng nghĩ càng ấm ức. Tối ngiu mình phải đặt cái bánh khác tại Linh Đa. Đừng ham rẻ nha, do mình nghe bảo ổn giá cả ổn, đúng giá …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Giao bánh mà k có nến"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh rất đẹp, ảnh sao bánh vậy. Ngon . Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Đặt bánh online thì không được , bắt chọn mẫu có sẵn , mà mẫu sẵn chỉ có 5,6 mẫu không đẹp . Tới lấy bánh thì cứ chần chừ, cà rề cà rề , thật sự là mình rất vội , nhìn mà nóng ruột . Cốt bánh cũng ko ngon , nhân chanh dây mình không thích tí nào ( bắt lấy bánh có sẵn mà chịu thôi)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Lm đúng yêu cầu bánh cực đẹp 10₫♥️♥️♥️♥️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon xinh c chủ nhiệt tình dễ thương ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "cảm thấy ko đúng giờ dc thì đừng nhận đơn nha làm ăn hẹn 9.30 mà 11 h ko có bánh rồi cả đống tụi nhỏ ngồi đợi vậy hả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Quán nhiệt tình và chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Làm tệ , mình đặt bánh kem bắp cũng đặt trước 1 tuần , cốt bánh dở , nghĩ sao cho lớp kem trắng trộn với bắp vậy , tưởng ăn bánh bông lan hạt bắp không , nói chung thất vọng , chưa bao giờ ăn bánh nào tệ đến vậy , hy vọng càng nhiều thất …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Dịch vụ 10đ luôn ạ\nBánh đẹp , ngon lắm ạ 🩷🩷🩷 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Sản phẩm giống yêu cầu, ngon, đẹp, shop tận tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Oke bạn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời. Bánh đẹp, cốt bánh mềm, tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Rất tiếc là không hợp khẩu vị, ngọt quá với lớp kem ăn xốp xốp không ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "ăn bánh bông lan trúng muối đây bị ải chỉa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh đẹp, chủ dthg"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tiệm bánh xinh xinh dễ thương. Tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Cốt bánh ngon , trang trí ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ổn nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bánh đắc, làm ăn không có tâm ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Trang trí đẹp mắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Tệ,bánh dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "🥰🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Trải nghiệm thất vọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nhân viên chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mình hay mua tặng bbe và bbe cũng tặng mình vào những dịp snhat. Bánh ở đây dành cho những ai thích ngọt nhẹ ạ^^ nvien viết chữ lên bánh đẹp, hỗ trợ treo ra xe nhiệt tình, trong hình là bánh bạn mình xin tự viết chữ ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6cd2b9bfb9:0x61b1ca8e39038adb",
+    "shop_name": "Moon Bakery-Bánh kem Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "khô, không mùi vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "- Một ngày đẹp trời đi công việc, ghé tiệm bánh này mua mấy loại bánh ăn chơi .\nRất bất ngờ vì bánh rất ngon nha mấy bạn dì ơi 😎\nBánh ngon ,cái ổng bán bánh thì đẹp trai như tài tử Hongkong má ơi luôn 😎\nHên mình nam nhi ,ko thì ghé mua bánh mỗi ngày cua ổng luôn kakaka …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Mình từng có dịp ăn bánh mì hoa cúc vị trà xanh ở đây, bánh mềm và thơm. Sau đó mình thử đặt thêm bánh khác là bánh nho dừa, lần này bánh cũng không khác vẫn là mềm và thơm và mình thích vị ngọt của bánh, không quá ngọt. Mình đặt bánh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Rất hài lòng , bánh ngon mềm đã mua rất nhiều lần , và sẽ tiếp tục ủng hộ tiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh đa dạng mẫu mã ,giá cả phải trăng ,nhân viên nhiệt tình ,không gian nhỏ nhưng ấm cúng . Mọi người có thể ăn tại chỗ hoạc mang đi ,bánh mới mỗi ngày ,hãy ghé thử và cảm nhận nha❤"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nếu chọn bánh kem sinh nhật Biên Hòa thì mình xin vote tiệm này các bạn nha, mình cũng được nhiều người giới thiệu đến tiệm bánh Nhà Gấu này, đã đặt và cảm thấy rất ưng ý nên mình để lại vài lời giúp mọi người có thể tìm được tiệm bánh kem sinh nhật Biên Hòa ưng ý nhất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ở tiệm rất ngon và hấp dẫn, giá cả cũng phải chăng. Cách trang trí bánh cũng đẹp và bắt mắt. Chủ tiệm rất vui vẻ và thân thiện nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ngon lắm cả nhà ơi!\nTiệm bánh làm nhiều mẫu bánh cưng xĩu, dễ thương vô cùng!\nBánh ít ngọt, dễ ăn,… …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon và rất chất lượng, đặc biệt nhân viên tư vấn rất thân thiện và nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhân viên thân thiện. Sẽ ủng hộ dài ạ 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon lắm nha . Sẽ tiếp tục ủng hộ shop nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh kem ngon lắm nhà, nhân viên thì tư vấn thân thiện và nhiệt tình. Giá rất là hợp lý và chất lượng tốt. Sẽ ủng hộ lâu dài nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mình từng đặt mua bánh kem ở nhiêu nơi trong thành phố Biên Hòa rồi, biết đến tiệm bánh Nhà Gấu này trên mạng nên quyết định đặt thử xem sao, kết quả rất ngon nha mọi người, nếu nói đến Bánh Kem Biên Hòa thì đây là 1 sự lựa chọn tốt vì giá rẻ, bánh đẹp, nhiều mẫu mã, ngon là cái mình khá hài lòng về tiệm bánh Nhà Gấu này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, độ ngọt vừa phải, đa dạng về hình thức và loại bánh. Chủ tiệm vui vẽ nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Cảm ơn banh nhà gấu nhé, bánh rất mềm thơm và ngon nhé. Sẽ ủng hộ tiếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "#Bánh sinh nhật đẹp biên hoà,\n#bánh sinh nhật ngon biên hoà.\nCám ơn tiệm nhiều lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon.ông chủ nhiệt tình,dễ thương…sẽ tiếp tục ủng hộ!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, Nhin hấp dẫn, ông bà chủ cửa hàng thì hết sức thân thiện! Mọi người ghé ủng hộ nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh kem đẹp ở biên Hòa, các bạn nên đến đây đặt bánh giá rất là hợp lý và bánh rất thơm mềm.\nNhân viên tư vấn rất là nhiệt tình chu đáo, bánh sinh nhật đẹp biên Hòa. Mình sẽ ủng hộ lâu dài nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Cứ ngỡ là các tiệm bánh kem Biên Hòa không ngon như các tiệm bánh nổi tiếng ở Tphcm chứ, nay sinh nhật ông anh ở Biên Hòa nên đặt thử tiệm bánh này. Kết quả khá bất ngờ khi có nhiều mẫu bánh đẹp độc và lạ, giá cả cũng rẻ khá xa so với trên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon. Mềm thơm. Giá okay.\nChủ shop thân thiện và nhiệt tình.\nSẽ ủng hộ quài quài ạ... 😄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Được 1 người bạn khen mãi, nay mới có dịp ghé để đặt bánh tặng người yêu. Bánh Kem Biên Hòa ngon đẹp và rẻ thì mình thấy chỗ này khá ưng ý, tuy nhiên cần phải thêm nhiều mẫu mã hơn nữa để có thêm nhiều lựa chọn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Banh rất thơm và mềm nhé. Sẽ ung hộ dài nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Vô tình đi ngang rồi thấy đói đói nên cũng ghé mua ăn thử. Cũng ko trông đợi gì vì chỉ nghĩ ăn tạm miếng bánh thôi ai dè bánh ngon xuất sắc. Có thể cảm nhận được là bánh làm được từ những nguyên liệu rất tốt nên bánh thơm và đẹp mắt. Có dịp sẽ ghé mua thường xuyên, chủ tiệm rất nhiệt tình nè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, thơm lắm. Chủ tiệm dễ thương nhiệt tình xỉuu :x"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh mềm và không ngọt gắt, rất ngon nha.\nNhân viên hoặc chủ tiệm tư vấn , trả lời khách rất nhiệt tình và thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhìn đã con mắt luôn. Ăn vào hết sức hài lòng. Sẽ tiếp tục ủng hộ Bánh Nhà Gấu ^^"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh rất ngon, nhân nhiên lại nhiệt tình, thân thiện. Cám ơn Shop"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh rất rất ngon, đừng ăn nếu các bạn sợ bị ghiền!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Vô tình ghé mua bánh của tiệm! Ấy vậy mà biết thêm được tiệm bánh ngon. Bánh thơm và vị rất vừa miệng, thử rồi sẽ thích như mình 🤗🤗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh vừa ngon mà lại đẹp nữa. Ngọt vừa phải, ăn rồi ghiền luôn ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh nhìn bắt mắt, ăn vào rất mềm và mịn. Quán sạch sẽ, nhân viên thân thiện. Chúc quán mua may bán đắt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon. Nhân viên nhiệt tình tư vấn loại nào ít ngọt, để lâu được.  :) . Chắc chắn sẽ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh sinh nhật đẹp biên Hòa, bánh kem ngon lắm và trang trí đẹp, bó hoa tặng cũngHoành tráng nữa. Cảm ơn các bạn nhiều lắm sẽ ủng hộ tiếp tục nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhân viên vui vẻ, nhiệt tình. Mình rất thích"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mình đã nhận được bánh thơm ngon quá trời, Anh chị chủ lại rất dễ thương. Chắc chắn sẽ ủng hộ shop tiếp tks shop nhiều ah"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tôi là người sành & từng ăn tất cả các loại bánh từ trong & ngoài nước, từ thương hiệu đến bình dân. Lần này đặc biệt tâm đắc khoái khẩu ghiền với tiệm “BÁNH NHÀ GẤU (BIÊN HOÀ)”. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh Nhà Gấu tuyệt vời.. Bánh ngon, nhìn hấp dẫn. Nhân viên thân thiện và nhiệt tình. Sẽ ủng hộ lâu dài."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, trang trí bắt mắt, khẩu vị phù hợp mọi người, chủ tiệm dễ thương, nhân viên thân thiện…"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mọi người nói bánh ở đây rất ngon, chủ tiệm lại rất nhiệt tình nữa. Mọi người ghé ủng hộ cửa hàng nhé 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, hấp dẫn. Nhân viên quán nhiệt tình, thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, ông chủ dễ thương, nhiệt tình !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Chu choa phải nói là ngon nhất hệ mặt trời. thời giãn cách khó tìm ra được shop nào bánh ngon, nhân viên vui vẻ nhiệt tình, shipper nhanh nhẹn. trên cả là khẩu vị quá đã. SẼ LÀ KHÁCH HÀNG THÂN THIẾT"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon dã man, mềm, thơm ngon như anh chủ 😅 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon và ông chủ nhiệt tình lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, mẫu mã đẹp, giá cả phải chăng. Nhất định làm khách hàng thường xuyên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh rất ngon và mềm nbes . Giá cả lại phải chăng mjnhf sẽ ủng hô lâu dài ne hjhj"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhiều mẫu khá đẹp mắt. Nhân viên thân thiện, sẽ ủng hộ dài dài ah"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon xs ạ ,nhân viên phục vụ thân thiện .Mọi người ủng hộ nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon , ông chủ tiệm bánh thân thiện chu đáo , nhiệt tình 👍👍👍👍👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bạn này người nhà của tiệm nhà gấu à đi chê tiệm bánh người khác xong tự khen tiệm bánh của nhà bạn. Làm ăn mà ... siêu giỏi vậy ai chơi lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "tất cả các loại bánh ngon, bổ dưỡng và chủ tiệm rất nhiệt tình và vui vẻ !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh kem trang trí rất đẹp, tỉ mỉ dễ thướng lắm.\nNhân viên tư vấn nhiệt tình. Sẽ ủng hộ tiếp lâu dài nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ở đây rất ngon, đặc biệt bánh mì hoa cúc. Sẽ ủng hộ shop :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Cửa hàng bán bánh ngon, hấp dẫn , nhân viên phục vụ vui vẻ, thân thiện và nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, trang trí đẹp, giá phải chăng.! Chúc tiệm bánh ngày càng phát triển."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon và đẹp mắt. Cửa hành sạch đẹp. E nhân viên bán bánh đẹp và vui tính."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, mềm, xốp, giá cả phải chăng mùa dịch. Like cho shop đắt khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh thơm ngon, chất lượng, nhân viên phục vụ thân thiện. Mình sẽ ủng hộ dài dài."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh sinh nhật đẹp, bánh sinh nhật ngon nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ăn rất ngon, nhân viên nhiệt tình thân thiện. Tiếp tục ủng hộ shop"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "ở saigon nhưng lần nào đi công tác điều ghé mua bông lan trứng mua , vừa ăn vừa mang về . Giá cả phải chăng . Nguyên liệu làm là nguyên liệu xịn nên chất lượng ngon ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh thơm ngon, mềm mịn\nSẽ tiếp tục ủng hộ cửa hàng nhé 😉 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh thơm mịn ăn rất vừa miệng\nBa ơi mai mua bánh con gấu ăn nữa nha, nghiệm tí thì ra là muốn ăn ở tiệm bánh nhà Gấu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon và hấp dẫn nhân viên rất nhiệt tình và thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon bao bì đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh rất ngon , nhân viên thân thiện , nhiệt tình , vote 5 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mình không phải tín đồ của bánh ngọt.nhưng các loại bánh ở tiệm này rất ngon.rất đáng để thử !!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh mềm xốp, thơm ngon, vệ sinh, đẹp mắt, nên thử mọi người ơi 🥳 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, phục vụ chu đáo và tận tình. 10/10 nhé!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, nguyên liệu xịn xịn nên bánh xuất sắc lắm. Must try 👍🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon qua. Gia phai chang. Nhan vien nhiet tinh! Se ung ho va gioi thieu ban be."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, sạch sẽ và chỉnh chu. Ông chủ có tâm có tầm. Must try!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon lắm, giao nhanh. Và ông chủ siu dễ thương. Nên muaaaaaaaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Chất lượng bánh ngon đi kèm với sự nhiệt tình và hiểu khách từ anh chủ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh tiệm nhà gấu ngon tuyệt vời ..sẽ ủng hộ lâu dài 😋😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, hợp vệ sinh, nhiều loại đa dạng, hợp túi tiền ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon.. sẽ ủng hộ nữa..!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ăn ghiền luôn, bánh xốp mịn, xịn ngon❤️ sẽ ủng hộ tiếp ☺️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, chủ quán nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bạn chủ tiệm nói chuyện dthg lắm,bánh ngon và ko quá ngọt nha. Mọi người nên mua ăn thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "🎁🎀🎉 Đã mua ăn thử và rất hài lòng về chất lượng bánh. Sẽ ủng hộ tiệm yess ♥️♥️♥️ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh mì hoa cúc với trứng muối ngon làm nè. Sẽ ủng hộ tiếp nhá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon; tư vấn kỹ, nhiệt tình; ship nhanh nè 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh ngon, phục vụ tốt. Chúc tiệm ngày càng phát triển."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh Ngon , nhân viên thân thiện !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon tuyệt cú mèo! Mong hết dịch ghé shop mua!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh kem đẹp biên hoà, bánh sinh nhật đẹp biên hoà nè.\nMình sẽ tiếp tục ủng hộ nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh rất là ngon luôn mãi ủng hộ shop"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bán mỳ ngon, ông chủ quán đẹp trai, nên thử nhé mọi người!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh ngon và đẹp lắm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh rất ngon ! Tuyệt vời ông mặt trời luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "5 sao cho bánh nhà gấu vì ko những ngon mà còn bắt mắt nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Cửa hàng giao hàng nhanh , nhân viên dễ thương, bánh ngon quá chừng luôn ạ 😂😂😂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon và trên cả tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Trang trí đẹp, bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ông chủ đẹp, bụng 6 múi,. Vậy mà làm bánh ngon ghê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon tuyệt cú mèo luôn. Ăn một mà muốn ăn hai . Ăn Hoài không ngán. Ngon ngon tuyệt ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh hoa cúc với bông lan trứng muối tiệm làm ngon lắm , sẽ ủng hộ tiệm nè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon hấp dẫn ăn là giền lun"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ở đây rất ngon hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "rất bình thường như các tiệm bánh khác, không có gì gọi là đặc sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon xuất sắc và rất đẹp nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon nhân viên nhiệt tình thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh đa dạng, ăn cũng hợp khẩu vị, giá hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tiệm bán bánh ngon lắm cả nhà ơi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "Bánh ăn cũng khá được, hơi cứng chút, nhưng rất thơm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, mềm, gây thương nhớ mlemmm🍰🍰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Đã được thưởng thức! Hương vị rất đặc biệt! Ấn tượng khó quên! Chúc cửa hàng Phát đạt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh ngon lắm nha shop. Bánh sinh nhật đẹp biên hòa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon! Chất lượng tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon xuất sắc nhe tiệm ơi!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tốt , banh ngon , phục vụ tốt ! Sẽ quay lại 😬😬😬 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh hoa cúc với bông lan trứng muối tiệm làm ngon lắm , sẽ ủng hộ tiệm nè 🥰🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh đẹp và ngon nè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "bánh kem ngon nha, trang trí khá đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh nhà làm ngon...chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh Ngon - Sạch - Đẹp - Giá tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh mềm, thơm ngon. 🤤🤤🤤🤤 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh sinh nhật đẹp Biên Hoà, bánh sinh nhật ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Hãy trải nghiệm, sẽ k bao giờ làm bạn thất vọng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon , mẫu đẹp bắt mắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Huong vi ngon,lạ rất tuyet voi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Thực phẩm kém chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon, hấp dẫn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Ngon, vừa túi tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Thế Giới Điện Giải"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Ghé mua 2 bánh, 1 bánh nhân sữa chua ăn rất ổn, 1 bánh bông lan nho mứt dâu thì đã bốc mùi chua (mình về nhà mở hộp ra đã nghe mùi chua thoang thoảng), cắn thử một miếng bỏ luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Mốt chủ tiệm giao bánh thì làm ơn bên cửa hàng tự đi giao nha,tui đat mua bánh shiper giao đến bánh bị mất fom,thấy shiper cũng tội tui vẫn lấy,chủ tiệm lần sau làm an có cái tâm dùm cái,giao cái bánh 2 tầng bọc trong cái họp sơ sài k gói kĩ để cố định bánh,bánh thì ok mà cách dong goi 1 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh ngon, giá cả phải chăng, chủ tiệm vui vẻ, chỉ tiếc hơi xa trung tâm thành phố\nnên thử nha mn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh ngon, phục vụ tốt và cảm ơn rất nhiều."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh rất ngon, trang trí đẹp mắt, nhân viên tư vấn dễ thương và nhiệt tình.\n\nTôi sẽ quảng bá cho cửa hàng. Hẹn gặp lại sớm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "cf"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Hương vị tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dd6c09b72fbd:0xfe87c3de5e8390f0",
+    "shop_name": "Tiệm Bánh Nhà Gấu (bakery). Bánh Kem ngon Sinh Nhật Ngon Biên Hòa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bánh có sinh vật lạ khiến tôi không thể ăn được . Mong quán chỉnh trang lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Tiệm sạch sẽ, nhiều mẫu bánh với nhiều mức giá, bánh giá tầm trung vậy là ok rồi, với nhiều kiểu bánh ngọt, mặn cũng bắt mắt,. Mình mua bánh kem bắp mà đi đường hơi xa nên có chảy tí nhưng k sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Nhân viên nói chuyện chảnh, mình mua cái bánh tiramisu socola 19.0 hỏi là để ở ngoài 1 tiếng có dc hk. Hk thèm trả lời khách, lườm nguýt khách, bảo hỏi v r mua mấy hộp. Bỏ tiền ra mua bánh mà tưởng đâu quỳ lạy xin ban phát đồ ăn v"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh mì ăn ngon ,  giá bánh mì và các loại bánh tương đối cao so với mặt bằng chung nhưng ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Tiệm bánh Linh Đa là một thương hiệu bánh không còn quá xa lạ với người dân Biên Hòa với thâm niên 14 năm trong ngành làm bánh hiện có 4 tiệm bánh tại Biên Hòa. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Dối với mình bánh có vị ngọt gắt, nên giảm lượng dường. Mẫu này cũng sẽ nhiều kem nên cân nhắc. 2 con mèo bông lan socola, bánh kem bông lan thường, ngon nhưng nhiều kem."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh trái thì đa dạng ngon chất lượng\nNhân viên phục vụ thiên nhiên tinh dễ thương tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "- Tiệm bánh Linh Đa ở Biên Hòa mình thấy có từ khá lâu rồi, nghe nói tầm 2009 (cách đây 15 năm). Hiện tại đã có 4 hoặc 5 cơ sở gì đó tại Biên Hòa.\n- Chất lượng tốt, giá cả phải chăng, chuyên cung cấp bánh kem và các loại bánh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên tệ, mình ghé vào sáng sớm lúc tiệm mở cửa, mình đứng ở ngoài thì thấy 1 anh nvien đang loay hoay ở trong, lúc sau có thấy mình rồi thì lại lơ đi, mình tưởng bận nên đợi thêm xíu nữa thì k hó hé gì thế là mình phải gọi xong …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh ăn rất ngon luôn nhe, giá cả hợp lí, nhân viên rất nhiệt tình và dễ thương😊,nhà mình mua cả thùng bánh hihi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Mua bánh mì chả muối tiêu thì ko có rau hay dưa leo gì cả. Lần đầu tiên mua chỗ này. Phải chăng tôi phải gọi món cụ thể là bánh mì, chả, muối tiêu, dưa leo, rau hành, ớt..., thì mới đúng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh ngọt giá bình dân có bánh rẻ mà dở như hoa cúc bông lan. Bánh sinh nhật đẹp\nBánh mì vs bánh bao ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh kem rau câu ăn dở vãi đái luôn, nhạt toẹt , mà bán mắc lắm, trang trí thì xấu. nhân viên thái độ ko vui vẻ niềm nở ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bánh làm giống mẫu nhưng mình muốn chữ birthday nó thấp xuống tí nữa với sửa chữ ( b thàng B) thì sửa xấu hơn ban đầu. Mình kêu làm lại có nói rõ chữ cách cho đều nhau 1 chút mà bánh ra vậy. Sửa lại 2 lần mà mình thấy chữ bánh mình không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh kem ngon, cốt bánh mềm, không quá ngọt. Nhân viên nhanh nhẹn sạch sẽ, gọn gàng. Mình đã rất nhiều lần đặt bánh ở đây, thấy rất hài lòng về chất lượng và cách làm việc bên này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Có nhiều loại bánh để chọn, bánh có độ ngọt vừa phải dễ ăn, không thé hoặc ngọt gắt (hoặc tùy bánh). Mua của quán từ hồi sinh viên ở cơ sở cũ đến giờ hơn 10 năm rồi. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Sinh nhật, kỉ niệm, dịp lễ nào cần tới bánh kem mình cũng ghé tiệm mua mà lần này quá thất vọng, bánh kem bắp mà k có nổi miếng kem toàn bánh bông lan không. Đó giờ bánh mình mua kem với bông lan nó xen kẽ nhau ngon lắm chứ đâu như này. Nhìn chả khác gì nhân viên thử việc làm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tiệm bánh lâu năm ở Biên Hoà. Nhiều loại bánh ngon và giá cũng hợp lý nên gđ thường xuyên mua ở đây, vị trí cũng thuận tiện và được cái nhân viên thao tác khá là nhanh ít khi phải đợi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Có bạn nữ nhân viên bán bánh mà nhăn nhó khó coi. Dịch vụ không tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Trước giờ thường xuyên mua bên đây vì giá thành phải chăng, vừa miệng, nhưng nay mình đặt bánh panacotta y chang lúc trước thì quán lại tăng giá thành 30k/hộp, tính ra đây là hàng lấy trên quầy rồi xếp dán keo vào đế vuông thôi, mình mua 9 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "Vô mua bánh nv kêu đợi tí, xong quay qua bán cho 6 7 người khác vô sau mình, xong cũng không hỏi mình mua gì, thôi về luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh mỳ, bánh kem và bánh ngọt đều rất ngon mà giá cả hợp lý, sáng ghé mua đồ ăn sáng cũng nhanh và tiện\nUpdate 06.2023, tiệm còn bán thêm nước cũng rất ngon, mua cuối tuần còn đc tặng thêm 1 cái bánh nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Đa dạng các loại bánh ngọt đến mặn (bánh kem, bánh bao, bánh mì,…) Siêu mê bánh bao không nhân ở đây 💯 chỉ 5 cá nhưng rất đặc, trước chỉ là bánh sữa truyền thống thôi nhưng giờ có thêm lá dứa siêu thơm ạ 😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nhiều bánh mẫu tiwf to đến nhỏ. Có bánh siêu nhân cho bé nhỏ. Có dịch vụ ship bánh tận nơi. Nv nhanh nhẹn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "🌿Cửa hàng bán đa dạng các loại bánh: bánh su kem, bánh mì lạt, bánh sinh nhật...\nBánh sinh nhật mình hay mua ở đây, vị bánh vừa vặn, kem béo ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Mua là không dưa leo, lúc lấy thì lại có dưa leo còn lại dưa chua hành ớt không có, ổ bánh mì xẹp lép không đáng cho 22k ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, chất bánh mềm.\nNhiều sự lựa chọn về bánh ngọt, mặn, bánh kem, bánh bao.\nCần cải thiện thái độ nhân viên 👉 nên niềm nở và thân thiện hơn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bông lan trứng muối phô mai \" trứng muối không có vị gì ăn như củ cải luộc \" phần bông lan thì ok nói chung với giá 50k 1 hộp nhỏ thì hơi đắt và không ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, phục vụ tốt, giá cao so với các tiệm khác. Mua khá nhiều lần ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bánh đẹp nhưng lại đưa cho chú xe ôm không biết đường giao lâu còn phải tự ra lấy!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "Trứng muối không biết có phải là trứng muối không, ăn ngư củ cải luộc\nKhông xứng đáng với giá 50k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Nchung ăn cũng ngon, mấy cái bánh bông lan trứng muối ăn ngon chất lượng nha, bánh su ăn cũng ngon luôn. Có bánh creme brulee ăn rất ngon. Nhìn như bánh flan nhưng ăn béo và creamy hơn bánh flan. Bánh kem sinh nhật ăn cũng ngon giá bth ko …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "Mình mua bánh su kem, kem bên trong là kem bánh gato luôn, ngán kinh đi được. Còn cái su kem to thì là nhân dầu trứng, ngán x2 hic. Trk giờ chưa bao giờ ăn dở v luôn. Mong shop nghiên cứu lại nhân khác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Hôm qua ghé mua cái bánh SN 240k bé tý.Nhân viên kêu bánh đặc biệt .mình nói sao ko đẹp kêu sầu nhiều ko làm mịn đc . tưởng thật .về nhà cắt ra toàn bánh bông lan ko có gì bên trong .ko ngon bằng mua bánh bông lan ăn còn ngon hơn .lần sau chạy luôn ko bh mua nữa.. chán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ở đây bán tất cả các loại bánh . Nhân viên nhiệt tình thân thiện ,giá cả phải trăng . Bánh ngon mọi người có nhu cầu đặt bánh thôi nôi .,sinh nhật hay bánh cho gia đình thì nên nghé đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Vị bánh thơm béo ngậy, ngon miệng :D"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Quán có nhiều loại bánh như:bánh kem,bánh mì chả,bánh gối,có cả các loại bánh kem nhỏ nhắn đáng yêu ...\ncửa hàng rất hợp lý ở ngoài đường lớn và mặt bằng rộng rãi thoáng mát ,bánh ngon không ngọt quá vừa miệng và có các nhân viên phục vụ tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "banh an đuoc,gia thanh hoi cao so voi big c."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Tiệm bánh Linda mình hay mua bánh ngọt nhiều loại ăn ok, giá không đắt. Tuy nhiên các bạn mua hàng cần hết sức lưu ý khi tính tiền, vì bánh ở đây rất nhiều loại nhiều giá, nhân viên toàn tính nhẩm để tính tiền cho khách. Mà tính nhẩm thì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, vui vẻ. Phục vụ chu đáo và nhanh chóng. Sạch xẽ an toàn vệ sinh thực phẩm, nhiều loại theo từng nhu cầu của khách. Giá cả phù hợp theo nhu cầu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Vác món bánh khá ổn, sạch sẽ và được nhiều khách hàng ưa chuộng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "mua cái bánh mì ăn hơi nhiều mỡ mà giò trong bánh mì ngonnnnnnnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Lâu lâu đi về trễ mua cái bánh ăn tạm cũng được, tuy nhiên bánh su kem dài ăn hơi ngán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh mì, bánh kem, bánh ngọt các loại rất là ngon. Phục vụ nhanh chóng và lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Không gian thoáng, đỗ xe dễ dàng. Thái độ phục vụ tốt, thời gian phục vụ nhanh & chuyên nghiệp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Mê nhất bánh bao ở đây, trừ 1 sao vì lần nào mua bánh kem ở đây cũng bị thái độ nhân viên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Cửa hàng bán bánh các loại : bánh mặn và bánh ngọt với giá hợp lí .thơm ngon .sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ngon, nhiều kiểu để chọn lựa, bánh đa dạng nhiều loại cho nhiều sở thích khác nhau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nhân viên vui vẻ, tư vấn nhiệt tình, bánh ngọt các loại  đều ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh mì rất ngon, vị trí thuận tiện trên đường đi làm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ăn tạm được. Bánh kem nên cập nhật thêm những loại bánh bằng chất liệu mới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh kem ở đây ngon nhất biên hòa. Giá phải chăng ko đắt không rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon chất lượng, giá cả phù hợp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Một trong những tiệm bánh ngon và rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt đa dạng mẫu mã và nhiều loại phù hợp với túi tiền mỗi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tiệm bánh mà mình ưng ý nhất thành phố biên hòa so với nhiều tiệm khác cùng khu vực"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "ngon nha , nvien thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Giá chấp nhận được  - sản phẩm phong phú  - sạch sẽ, bảo đảm an toàn thục phẩm  - nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Đa dạng các loại bánh, dễ dàng lựa chọn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Rất nhiều loại bánh để lựa chọn, chất lượng ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "Quán nên chú ý tới vấn đề vệ sinh. Ruồi bu vô đồ ăn quá nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon lắm phục vụ cũng nhanh chóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tiệm bánh ngon, vệ sinh mình thật sự hài lòng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon và giá cả phải chăng 😁 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh thơm ngon. Thức ăn đẹp,  an toàn thực phẩm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Nhiều loại bánh, đóng gói, giao hàng nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "thái độ khi phục vụ\năn nói khó chịu vs khách\nhỏi không có chủ ngữ vị ngữ ai biết đang hỏi gì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, giá phải chăng, nhân viên tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh ngon, an toàn vệ sinh ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ngon, nhất là bánh bao, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Rất ngon và chất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Có nhiều loại bánh, bánh thơm giá vừa phải"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Thức ăn khá đc. Nhưng giá khá cao so vs dân lao động"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Cửa hàng lớn. Nhiều mẫu bánh có sẵn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Chỗ này bán bánh khá ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh bt .nhiều loại để lựa chọ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Đã mua nhiều lần,bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ổn, đông khách, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh khá là ngon & đẹp mắt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "nhân viên nhanh nhẹn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nhiều bánh để lựa chọn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Sạch sẽ, bánh ngon , giá vừa phải"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Má siêu xấu còn dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh đa dạng, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh tạm ổn, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Giá ổn\nBánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Thương hiệu bánh nổi tiếng tại Biên Hòa Đồng Nai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bình dân giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh kem SN khá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Banh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bánh giò quá mặn😖 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Ok bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Banh rat ngon mieng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Bánh ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "NGON !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Phục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Chất là do chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Menu đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon, sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "Bánh dạo này k ngon như trước. Nhắn tin tl khách k có chủ ngữ, vị ngữ. Mua rất nhìu lần r, giờ là từ giã."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Được rồi!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc2a344cfa2b:0xb8e38928645b5d94",
+    "shop_name": "Tiệm Bánh Linh Đa",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "Mua bánh ở White lâu năm mà lần đầu gặp trường hợp này, sao chữ viết càng lúc càng xấu tệ đi thế, bánh và chất lượng vẫn như xưa mà chữ của bạn nhân viên thật sự rất xấu, mình mang bánh đi tặng mà quê luôn ấy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ở White Bakery thật sự rất ngon! Mình đã là khách hàng của White suốt 5 năm và chưa lần nào cảm thấy thất vọng về chất lượng. Bánh luôn tươi mới, hương vị ổn định và được chăm chút rất kỹ. Đội ngũ nhân viên cũng cực kỳ nhiệt tình, thân …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh xinhh siu ngon thơm kem lắm luôn và bạn nhân viên tư vấn siu nhiệt tình sẽ quay lại lần sau nếu đặt bánhh thêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon , trang trí đẹp mắt nữa, nhân viên thân thiện nhiệt tình kèm đáng yêu, sẽ ủng hộ lâu dàiiiiiiiiii lun ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mình rất hài lòng với trải nghiệm tại đây. Bánh được làm rất ngon, hương vị vừa vặn, nguyên liệu tươi và chất lượng, trình bày cũng rất đẹp mắt. Không chỉ có bánh ngon mà đội ngũ nhân viên còn cực kỳ nhiệt tình, thân thiện và tư vấn rất tận …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh đẹp, nhân viên hoà đồng, vui vẻ, dễ thưn, sẽ quay lại nhìu lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "mình đã thử mua bánh cho sinh nhật mẹ mình và thật sự bánh rất ngon và dễ thương ạ❤️\nCác bn nhân viên cũng tư vấn nhiệt tình cho mình khi mình kh biết lựa gì ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tối qua mình có qua mua bánh và thấy quán đổi mới rất xinh. Mình được nhân viên phục vụ rất chu đáo, nhiệt tình và dễ thương. Bánh rất ngon có dịp mình sẽ ghé lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ngon nhưng chữ viết xấu quá ạ , tuy nhiên bánh làm hơi cao , thay vì vậy làm chiều cao thấp lại chút xíu và có độ rộng ra thì sẽ đẹp hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh đẹp, làm đúng theo yêu cầu. nhân viên thân thiện nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Đăng mua 1 tặng 1, chạy sang CN Võ Thị Sáu thì 16h bán, 16h30 hết hộp hết bánh. Chạy lên đến tận CN Thánh Tâm thì báo bánh đặt hết rồi, ko bán cho khách đến nữa. Mình nhắm bán được thì chuẩn bị đầy đủ được ko vậy, còn bán mà đặt trước mới …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bánh không giống mẫu tí nào luôn🥹, thất vọng vô cùng, mình muốn màu bánh nó loang loang giống mẫu mà nhận được cái bánh màu nó tách lớp xấu điên, chữ thì lệch không đúng giữa. Mình từng mua ở chi nhánh Tam Hiệp, tiệm có cho đĩa và dao cắt bánh nhưng lần này mà chi nhánh này lại chỉ đưa mình DUY NHẤT 1 CÁI THÌA không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh đẹp và ngon, nhân viên thân thiện nhiệt tình nhưng quán rất nóng trưa vô mà cảm giác như được xông hơi trong quán. Quán cần cải thiện hơn về vấn đề đó còn lại tất cả đều ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Không tôn trọng khách hàng. Mình đến mua bánh từ chi nhánh Vườn Mít báo hết, gọi điện thoại kiểm tra xong kêu mình sang chi nhánh này còn 15 cái. Vậy mà mình cất công chạy tới nơi thì kêu hết sạch. Giỡn mặt với thời gian của khách hả???"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Chưa biết ngon không nhưng Bánh dễ thương lắm luôn 🤗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "chương trình tiramisu douyin 1 tặng 1 ở tiệm quá tệ, khách đã chủ động ck tiền trc đặt lấy VỊ BÁNH, tới nơi kêu ko có hộp đựng xin khách thông tin để giao lại hẹn 5 rưỡi nhưng tới hơn 6g vẫn không có động tĩnh gì, một hồi sau mới giải quyết …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Làm content bẩn, chạy chương trình sales thì bắt khách hàng đặt đơn qua page, khi đặt đơn thì kêu ngưng nhận, bắt ra cửa hàng mua trực tiếp, mà ra cửa hàng thì kêu phải đặt qua page. Mình nhắn thử kêu giờ không cần mua sale mà mua giá gốc thì lại kêu mình ra cửa hàng mua bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bánh vẽ bảo 80% mà thành quả như này … Mặc dù bánh ngon 🙃\nGHI CHÚ : Hình đầu là mẫu, hình sau là sửa gấu thành ngựa theo ý mình …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bán bánh lúc thì hết bánh, lúc thì hết hộp, không đúng thời gian, làm thiếu trách nhiệm xem thường khách vô cùng. Mkt dễ ẹc bán bình thường dùm được rồi ạ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Hôm qua mình vs bạn ra lúc 16h xếp hàng, lúc sau nhân viên nói tiệm dời khung giờ sang 18h và có đăng lên page. Vậy sao lúc khách xếp hàng thì nhân viên không nói năng gì vậy, để ngta xếp hàng chờ hơn 15p rồi mới nói, rồi chốt câu xanh rờn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Lần đầu trải nghiệm mua bánh ở đây , bánh rất ngon , làm đẹp và đúng theo yêu cầu của mình , nhân viên tư vấn lại rất nhiệt tình và dễ thương , sẽ ủng hộ tiệm tiếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bánh thì ok, nhưng giấy lót rất tệ, lớp kem bánh thấm vào giấy làm miếng giấy lót bị mủn ra, rách te tua và dính vào bánh, ăn không cẩn thận là sẽ ăn phải giấy. Ý tưởng rất tệ, cẩu thả."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương cực, tư vấn bánh nhiệt tình lun mà bánh cũng ngon lắm. Mng nên thử nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tiệm bánh số 1 biên hoà nha, bánh ngon rất xứng đáng giá tiền luon, tiệm có không gian rất đẹp, nhân viên tư vấn rất dễ thương lun ❤️❤️❤️❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh đẹp và rất ngon, mình là khách quen ở đây, nhưng một cái nữa nếu cải thiện được aex rất tốt đó là: nhân viên hãy tư vấn cho khách, hỏi thăm về sở thích và dịp khách mua bánh để chủ động chọn sản phẩm và hướng khách đến đúng nhu cầu hơn nữa thì rất tuyệt vời ❤️❤️👍👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ở đây siêu dễ thương, rất style. Không giống như mấy tiệm bắt bông xưa xưa truyền thống không đẹp. Giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhân viên còn tư vấn nhiệt tình. Sẽ quay lại ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "bánh làm xấu, thiếu chỉnh chu bánh ko ngon nch là tiệm càng ngày càng tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh xinh xỉu luôn. Nhân viên tư vấn cũng rất nhiệt tình. Mình khó tính lắm mà các bạn vẫn chiều được 🤣 Mãi ủng hộ tiệm bánh White …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh rất ngon, mình mua bánh tặng bạn nhân dịp sinh nhật, bạn mình rất vui khi nhận được bánh, và đã có nhiều lời khen dành cho tiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Lần đầu mình đặt bánh ở White là ở chi nhánh này bị một cái là lúc mình nhờ viết lời chúc lên bánh thì nhân viên nói là không viết lên bánh được, chỉ viết lên đế, trong khi tối mình lại thấy White cũng đăng ảnh cái bánh này nhưng là viết …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ của quản lý và nhân viên quá tệ\nMình đặt bánh ngày 31/08, lấy 2/9\nCó gửi hình mẫu và có check lại nhân viên hỏi lại nhân viên trước khi đặt nhưng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Tiệm làm ăn kì đặt bánh trc mấy ngày đặt cọc mà hẹn chiều nay lấy thì bảo hết bánh kêu lấy bánh khác còn tăng tiền kêu hoàn tiền thì cứ ép mua bánh khác gọi cho Fanpage thì thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh ngon nhân viên xinh nên ghé mua vì nhân viên xinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ thái độ rất tốt, ân cần, bánh rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "2 sao này là cho cái bánh đẹp\nCÒN NHÂN VIÊN THÌ THÁI ĐỘ RẤT TỆ\nbạn mình đã cảnh báo mình trc về thái độ làm việc của nhân viên tiệm rất tệ mà …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh kem ngon. nhân viên tư vấn nhiệt tình, dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bánh thì ăn cũng ok tuỳ loại nhưng thái độ nhân viên tệ vô cùng, mình đi lần đầu thấy không hài lòng lắm nhưng hôm nay ghé lại thì thôi khỏi nói, mua bánh mà tưởng đâu đi xin không đó. Không có lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Trời ơiii, bánh đợt này xinh xỉu luôn á. Bạn em thích ơi là thích!\nW làm thêm nhiều mẫu xinh như này nha.\nMời mọi người xem hình ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Giá hợp lý so với chất lượng, sẽ quay lại ủng hộ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon nvien phục vụ tốt, dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Đã ghé chi nhánh này để đặt bánh vài lần. Mỗi lần ngồi trong tiệm chọn bánh đều rất NÓNG, dù nhân viên đã hỗ trợ quay quạt về phía mình. Không gian bên trong khá bí, bước vào cảm giác như trong lò. Mong tiệm sớm khắc phục để khách hàng cảm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh chanh dây ngon lắm nhé mọi người! Vị chua chua lạ lạ đặc biệt lắm. Nhà mình ăn thử và thích lắm😀 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, nhân viên dễ thương, 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nhân viên thu hương thái độ nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương nhiệt tình, take care khách hàng tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Mình đặt bánh kem trước 1 ngày lúc tư vấn thì có size 18 minh đồng ý rồi chuyển khoản cọc chuyển khoản xong báo lại không có size 18 yêu cầu minh đổi sang size nhỏ hoặc lớn hơn hoặc sang vị khác. Mình yêu cầu hoàn tiền thì kiu tài khoản …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "mệt ra kh có bánh hẹn quài khỏi gthich di"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Đã mkt thì làm cho đàng hoàng nhắm mà làm không được thì đừng mkt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Tiệm làm ăn chán. Đặt bánh nhắn gửi trước để kiểm tra mã tới lúc hẹn cũng không liên lạc được. Bánh giao tới không đúng vị, trang trí trái cây thì héo. Không bao giờ mua lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Tiệm làm ăn tệ vô cùng, 2 lần đặt bánh lần nào cũng hết sức khó chịu.\nLần thứ nhất thì nhân viên tư vấn cọc cằn, nhưng chất lượng bánh không tới nỗi nên vẫn du di đặt lần 2. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Pannacotta của tiệm Siêu Ngon&Đẹp xuất sắc🥰😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon , nhân viên tận tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "mình đặt bánh, lúc giao thì mẫu mã như hình( không giống 100%), về lúc tư vấn và ghi note và tính tiền mình theo giá bánh kem phô mai nhưng lúc về nhà ăn thì là kem thường( vì mình ăn bánh kem thường ở đây rồi nên biết vị nó ra sao) nhắn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Lần đầu trải nghiệm mua bánh ở đây , bánh rất ngon , làm đẹp và đúng theo yêu cầu của mình , nhân viên tư vấn lại rất nhiệt tình và dễ thương , sẽ ủng hộ tiệm tiếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, ít ngọt, cực kỳ ấn tượng vì lần đầu mua, sẽ tiếp tục ủng hộ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "mỗi lần có sn mình đều đặt bánh ở đây rất ngon mà dạo này thấy kem phô mai ít phô mai hẳn nhỉ, k còn đậm vị phô mai nua hơi tiếc hicc, nv de thuong ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 3,
+    "review_text": "Giá mà tiệm có thêm những điều sau thì thành 5*\n- nhân viên mặt vui và ngọt ngào hơn\n- thanh toán qua thẻ tín dụng thay vì chỉ có chuyển khoản, bán bánh  lời mà, cover được hết chi phí thêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 2,
+    "review_text": "Một trải nghiệm mua bánh vô cùng tệ ở CN Võ Thị Sáu. Bước vô nhân viên không chào và khi mình hỏi về loại bánh kem vì lần đầu tới tiệm mua. Lúc nv giới thiệu về bánh thì mình có nghe không rõ nên có hỏi lại thì nv kêu “em vừa mới nói rồi đó chị ơi”. Tự nhiên bị quạo ngang luôn. Thôi thì mong CN này train lại nv xíu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "nhân viên đứa nào cũng mất lịch sự và k có đạo đức nghề nghiệp. Khi có việc hay đẩy trách nhiệm vu khống cho khách hàng. Mọi người nên lưu ý khi mua hàng tiệm này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Bánh ngon nhưng hẹn khách 5h30 mà phải chờ tới tận 7h, bảo có lí do trễ nhưng lại không báo khách trước. Lần sau sẽ không đặt nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh đep và ngon từng thử qua banh kem bắp nhieu tiêm nhưg ở đây hợp với mih nhâtt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Làm bánh xấu, cẩu thả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "😍💝🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon 💓💓💓 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, ít ngọt, sẽ ủng hộ tiếp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Tệ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon 10₫"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon , đẹp , tư vấn nhiệt tình quán vào giờ trưa chiều hơi nóng và hầm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Đồng hành cùng White đã hơn 5 năm dù là mua cho gia đình hay các sự kiện cho Công ty thì vẫn rất hài lòng.\nBánh ngọt dịu không quá gắt và đa dạng mẫu mã, mùi vị."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Khiếu nại chính thức & Xem xét công khai – Từ chối hoàn tiền và hành vi lừa dối\n\nTôi sẽ gửi đơn khiếu nại chính thức đến cơ quan cảnh sát địa phương và cơ quan …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Tôi đã đặt một chiếc bánh Giáng sinh (bánh nhung đỏ). Tôi đã từng thử bánh cupcake của họ và thấy rất ngon nên tôi cho rằng bánh kem cũng sẽ ngon như vậy, nhưng không phải. Bánh bị khô và lớp kem phủ bắt đầu nứt. Chắc chắn không đáng với …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df66a70a8a71:0xb8ff7dbb5ebfc1f0",
+    "shop_name": "Tiệm bánh White Bakery - CN2 - Võ Thị Sáu",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Luôn hết hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Quán không gian đẹp, nước uống tạm, bánh ngon. hy vọng sẽ còn tiếp tục đồng hành cùng quán!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Không gian quán đúng kiểu mình thích, bàn gỗ, tông trắng, với nhiều xương rồng 🌵🌵🌵. Bánh, nước ngon, giá cả hợp lý. Mình thích tiramisu quán này, thơm và béo hơn một số nơi mình từng thử. Đã 2 lần mua bánh sinh nhật ở đây, sẽ quay lại ủng hộ 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Mình cực kì ưng không gian tần trên của quán, thích cái cảm giác ngồi ở dãy ghế cao, ngắm hoàng hôn buổi chiều, thả hồn theo tầm mắt hướng về phía cây có hoa màu hường nổi bật trên nền trời xanh sâu thẳm... …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh bò thốt nốt vị ngọt vừa phải, thơm, hơi nhão, cầm miếng bánh mà dính tay quá, cảm giác nó ko xốp. Quán mà nướng sơ bánh trước khi giao cho shipper thì khi đến nơi ăn bánh sẽ ngon hơn, giá cả cũng same same sài gòn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh kem và bánh su dai khá ổn và trang trí bắt mắt, kem làm bánh ít ngọt, có điều nhân kem bánh su nhiều, kem phủ bánh kem cũng nhiều dù có ghi chú phết ít kem khi đặt bánh. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Quán bánh & nước uống Bé Ba mình cũng ghé lần đầu - quán nước có 3 không gian : chỗ ngồi cạnh pha chế nước / trên lầu : 1 không gian bên ngoài hiên và phòng máy lạnh. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh su ăn bình thường vỏ dẻo nhân nhiều ,  pana cotta ăn như sữa chua nha đam loãng không ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Đợi lấy bánh hơi lâu nhưng mà do mình tới hẹn luôn trong ngày nên đợi. Bánh vị việt quất ngon trang trí ổn nè. Nhân viên cũng quan tâm hỏi han khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, ít ngọt! Nước cũng ngon có điều quán lên nước sẽ hơi chậm một xíu! Không gian nhỏ xinh sạch sẽ! Lần đầu đến quán bánh chocolate ngon, mềm! Tiramisu khá to, không ngọt gắt bông xốp rất mềm, đậm cà phê, vị rượu rất nhẹ gần như k …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Quán view nhỏ nhỏ xinh lắm, hôm mình đi thì vắng khách, yên tĩnh hợp để chill một mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Đặt mẫu bánh trước 2 ngày, cọc hàng đầy đủ, đến ngày lấy bánh thì bảo sót đơn chưa làm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Hình thức bánh làm mê ly nè. Dù mình k thích cup cake cho lắm hiuhiu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Không gian dễ thương, bánh đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Bánh ở đây ngon và giá rẻ so với mặt bằng chung\nMình hay đặt bánh cho công ty và cho bản thân ở đây , đặt bánh bên này từ khi chị chủ còn bán onl trong tân phong nay đã khai trương được 2 cơ sở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Đồ uống với bánh ăn rất ngon!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "KHÔNG BAO GIỜ QUAY LẠI.\n\nMình đến vào buổi tối, khi đến chỉ có 1 nhóm khoảng 6 khách đã ngồi từ lâu ngồi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Quán xinh, chủ quán nhỏ nhẹ dễ thương, thức uống bình thường không ngon lắm, trà sữa thiếu vị béo, được cái bánh của tiệm khá ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, cô chủ dễ thương, nhiệt tình, thân thiện,ưng lắm luôn!Địa điểm đáng lưu lại để ghé nhé mọi người !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh bò thốt nốt vừa ăn, ngon, Bánh mì bơ đường ngon muốn xỉu, ko cần đi Thái Lan mua, haha! chủ quán và nhân viên dễ thương,thân thiện! 5 sao!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "thái độ nhân viên tệ, e chỉ hỏi lại tổng bill hết nhiêu để chuyển khoản cho chắc mà rep e thái độ quá ạ, e hỏi lần 1 thì kh rep , lần 2 thì rep vô cùng thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon, có không gian"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh ngon, nước thì mình thấy trà trái cây cũng được zới mấy bạn nhân viên ở đây dth lém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Quán nhỏ xinh , ghé qua rất nhiều lần rồi, nhân viên ai cũng dễ thương\nThích nhất bánh crepe ngàn lớp sầu riêng mà lâu rồi chưa có"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 1,
+    "review_text": "Phục vụ tệ, lên món chậm, đến sau có trước, nhân viên thờ ơ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Trang trí dễ thương, bánh ngon, mềm, ít ngọt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "View đẹp, nc ngon, có thể ngắm đc hoàn hôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "bánh ngon lắm nha mn <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Có ko gian sân thượng thoán mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Được nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Chúng tôi là những người yêu thích ẩm thực."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2b8268b805:0x3176206762e29211",
+    "shop_name": "Beba cake",
+    "user_name": "Unknown",
+    "rating": 5,
+    "review_text": "Bánh ngon quá! 🍰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dfc5fa6e6839:0x5e0c70d3ea79f4ed",
+    "shop_name": "CHEWY CHEWY BIÊN HÒA",
+    "user_name": "Unknown",
+    "rating": 4,
+    "review_text": "Quán nằm ở mặt đường dễ tìm. Bánh làm ngon, mùi vị ổn. Tạo hình bánh sự kiện đẹp rất ok, mà kem màu dính tay chùi rất khó ra, nên phần kem cho con nít ăn là gạt ra hết."
+  }
+]

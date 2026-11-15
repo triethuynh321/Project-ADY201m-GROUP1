@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Giang Nguyen Hoang",
+    "rating": 4,
+    "review_text": "Quán ăn ngon, nước có hương vị. 1 tô vừa ăn.\nGiá cả hợp lý.\nVị trí quán dễ tìm.\nLưu ý: Không cho chó mèo vào quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Phuong Nguyen",
+    "rating": 5,
+    "review_text": "Sau khi chuyển về khu An Khánh An Phú, mình đã tìm được quán bún bò tâm đắc này\nMọi thứ đều tròn trịa. Vừa miệng\nGiá cả thì cũng đa dạng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Yên Lưu Trọng",
+    "rating": 5,
+    "review_text": "Quán mình thường ăn mỗi khi nhận lương, buổi sáng rất đông, có nhiều bàn bị nắng chiếu nên nếu có tấm che sẽ tốt hơn.\nQuán có sụn ngon và to, nếu ai thích ăn xí quách nên đi lúc 8.00-8.20 sẽ có. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Wayne Nguyễn",
+    "rating": 5,
+    "review_text": "Quán có vị riêng, ăn ổn. 1 phần cơ bản bò + chả 32k\nKhông gian thoáng đãng, không quá sạch sẽ nhưng chấp nhận được. Phục vụ nhiệt tình nhưng đôi khi làm vẫn sai order."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Jesse Hoang Nguyen",
+    "rating": 4,
+    "review_text": "Đồ ăn tươi ngon, nhiều. Chỗ ngồi thoáng mát, sạch sẽ dù bàn ghế nhựa súp. Giá khá là mềm. Để xe máy hay oto được hết. Gia đình bán nên mọi người nói chuyện dễ thương thân thiện. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Ngọc Tỷ Trần",
+    "rating": 1,
+    "review_text": "Thật sự là 1 trải nghiệm rất tệ, bún thì nhạt nhẽo - nhiều bột ngọt nha ăn vào là biết liền luôn, mình gọi 2 tô đặt biệt 47k/tô mà toàn mỡ ko là mỡ, đc 2 miếng thịt tan - đụng vào thịt tan luôn, nước thì nguội ko hề nóng 1 tý nào . Quán …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "TUẤN VINH TRẦN",
+    "rating": 4,
+    "review_text": "( Bún Bò Nhớ )\n(+) Nước lèo ngon, đậm đà theo vị miền trung.\n(+) Toping thịt cho nhiều, ấn tượng nhất là giò heo khoanh bự ăn ná thở."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Long Nguyen",
+    "rating": 5,
+    "review_text": "Quán ruột của mình, bún bò giá bình dân nên hay ra ăn lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Vy Nguyễn",
+    "rating": 5,
+    "review_text": "Quán rộng rãi, cũng tương đối sạch sẽ, ko gian mát mẻ dù ăn buổi trưa. Ngon, đậm vị, rẻ và nhiều topping. Nhân viên dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Mạnh Tường Đào",
+    "rating": 3,
+    "review_text": "Bún Bò đa dạng chọn lựa, có sụn ngon. Giá cũng rẻ nữa. Hehe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Pham Julie",
+    "rating": 4,
+    "review_text": "giá tầm trung, đồ ăn ra nhanh với khá nhiều nhma hong hợp khẩu vị của mình lắm, nchung vẫn ổn nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Nguyen Garfield",
+    "rating": 4,
+    "review_text": "Giá cả hợp lí so với chất lượng. Trung bình full topping 50k, còn lại từ 40&45k. Đường nội bộ đậu xe thoải mái. Phù hợp ăn sáng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Duy Tran",
+    "rating": 5,
+    "review_text": "Bún bò nước ngon, đậm đà. Bún xí quách 37k, trà đá 3k. Giá ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Thanh Pham",
+    "rating": 5,
+    "review_text": "Món ăn ngon, quán rất đông nên hơi chật 1 xíu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Vo Minh",
+    "rating": 5,
+    "review_text": "Giá tốt nên ăn cũng ngon miệng, chắc quân làm bòa nên thịt nhèo.\nSườn sụn rất ngon, ăn đúng kiểu Huế chấm mắm ớt thôi. Tô dưới 40k mà chất lượng như vầy hy vọng quán bán đc nhiều hihi. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Hải Đăng Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ, phục vụ nhanh. Bạn oder nhanh chóng và chính xác 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "PN",
+    "rating": 2,
+    "review_text": "Bún bò ngày càng dở, sang nay ăn nước lèo mặn chát, gân thì cứng ngắc k nhai nổi. Ngày xưa nấu ngon, dạo này đông chất lượng giảm thấy rõ. Quán cần cân nhắc cải thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Ngân Yến",
+    "rating": 4,
+    "review_text": "Giá hợp lý, nhiều cũng khá oke"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "V XH",
+    "rating": 5,
+    "review_text": "Bún bò ngon bổ rẻ.\nNhiều thịt, sụn, gân cắn ngập răng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Minh Hiền Phan",
+    "rating": 5,
+    "review_text": "Quá Bún Bò bình dân.\nNgon lắm nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Hà Hoàng Hồng",
+    "rating": 5,
+    "review_text": "Nguyên liệu rất tốt: từ thịt bò, gân, sụn... đến miếng chả bò đều rất ngon. Hương vị thì theo cá nhân mình thấy hơi thiên về độ mặn, thiếu ngọt, tuy nhiên cơ bản là vẫn ngon. Đặc biệt là great value for money (dưới 40k/tô). Mặt bằng ngay đường lớn, tha hồ đậu ô tô xe máy... Quán có bán riêng chả bò 70k/0.5kg"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Quynh Nguyen Ngoc Dan",
+    "rating": 5,
+    "review_text": "Quá ngon. Quán bình dân đậm vị. 32k 37k tô nạm chả bắp 5 sao. Bán sáng đến 12h là hết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Yen Nguyen",
+    "rating": 5,
+    "review_text": "Giá rẻ. Bán ăn sáng và ăn trưa sớm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Vu T",
+    "rating": 1,
+    "review_text": "Quán đông nên giờ dịch vụ KÉM lắm rồi. Đến ngồi 10 phút kêu chờ từ từ, chờ hoài không ai hỏi cũng k dọn bàn\nThật tiếc khi mình là những người ủng hộ quán lúc mới mở và giờ sẽ chia tay từ đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Huy Nguyen",
+    "rating": 4,
+    "review_text": "Bún bò ngon. Thịt đầy ắp. Nước dùng thơm ngon\nĐiểm trừ có quá nhiều ruồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "John Nguyễn",
+    "rating": 5,
+    "review_text": "Bún bò ăn cũng được, quán ngồi bàn ghế nhựa thấp kiểu lề đường, giá cả cũng vừa, người ăn khá đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Khoa",
+    "rating": 5,
+    "review_text": "bún bò ngon, thịt gân vừa đủ mềm, dai giòn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "wanderer",
+    "rating": 5,
+    "review_text": "Quán guột, ngon đầy đặn, giá hợp lý, sụn ngon tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Food hunter",
+    "rating": 4,
+    "review_text": "Giá rẻ, siêu nhiều thịt. Sụn, xí quách là điểm nhấn. Nước dùng chưa đc dậy mùi xả lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Sunny Nguyen Channel",
+    "rating": 5,
+    "review_text": "Bún bò ngon nhất Q2, đậm đà, phù hợp khẩu vị miền Nam"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Tuan Nguyen",
+    "rating": 5,
+    "review_text": "Bún xí quach bò là tuyệt phẩm ở đây, nên đến sau 8h giờ mới có xí quách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Phong Phú GIS",
+    "rating": 5,
+    "review_text": "Quán lịch sự, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "vy nguyen",
+    "rating": 4,
+    "review_text": "Nước lèo hơi cay, gân và sụn k mềm. Giá 40k/tô bình dân tạm chấp nhận"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Minh Hoàng",
+    "rating": 5,
+    "review_text": "Quán bún bò yêu thích của mình. Cứ thèm bún bò là mình ra đây ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Hoang Le",
+    "rating": 5,
+    "review_text": "Đồ ăn bình dân, vị ổn áp đậm đà. Khá ổn so với mặt băằng chung."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "van anh Nguyen",
+    "rating": 5,
+    "review_text": "Giá mềm, bún ngon, quán đông khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Vu Le",
+    "rating": 3,
+    "review_text": "Hương vị không còn ngon như khi ở chỗ cũ bên đường số 9"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Thuy Nguyen",
+    "rating": 5,
+    "review_text": "Nước Dùng ngon, chất lượng, giá phù hợp, phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Thuan Doan Hữu Thuận",
+    "rating": 5,
+    "review_text": "Bún bò ngon. Giá cả bình dân."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Nguyễn Toàn",
+    "rating": 5,
+    "review_text": "Nói chung mọi thứ đều ổn với tiêu chí : ngon bổ rẻ 🤣 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "HAN vu ngoc",
+    "rating": 5,
+    "review_text": "Bún ngon giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "saigon goo",
+    "rating": 4,
+    "review_text": "Ok món ngon nhưng hết món nhanh lúc 12h"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Lâm Đỗ Hoàng",
+    "rating": 3,
+    "review_text": "An sáng tai đây : ngon giá re,khách đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Bính Nguyễn Quốc",
+    "rating": 5,
+    "review_text": "ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Quyên Hoàng",
+    "rating": 5,
+    "review_text": "Bún ngon giá rẻ đồ ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Bách Vân Cù",
+    "rating": 5,
+    "review_text": "Ăn ngon, giá rẻ, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Trung PhanHQ",
+    "rating": 5,
+    "review_text": "Bún bò sườn sụn ngon tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Vinh Huynh Cong",
+    "rating": 5,
+    "review_text": "Chất lượngbtuyeetj vời với giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "T P Media Production",
+    "rating": 5,
+    "review_text": "Xuất sắc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Dương Nhật",
+    "rating": 5,
+    "review_text": "Topping ở đây rất ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Lê Ngọc Điều (Hùng)",
+    "rating": 5,
+    "review_text": "Ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Vân Hoàng",
+    "rating": 2,
+    "review_text": "Tàm tạm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Vinh Nguyen Ha",
+    "rating": 5,
+    "review_text": "Ngon. Phục vụ nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Hiếu Phạm Hoàng",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Nguyen Huy",
+    "rating": 4,
+    "review_text": "Ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Thanh Phạm",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Tran Huu Sang - Gmail",
+    "rating": 4,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Nguyễn Cao Chi",
+    "rating": 5,
+    "review_text": "Mình dễ ăn, thấy ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Genevieve Vox",
+    "rating": 5,
+    "review_text": "Chỉ với 32.000 VND, tôi đã được thưởng thức một bát phở bò đầy đặn. Xét về giá cả, hương vị không hề tệ chút nào. Tuy nhiên, tiếc là quán chỉ phục vụ vào buổi sáng và giờ ăn trưa, nên nếu bạn muốn ăn phở bò vào buổi tối thì đành chịu vậy. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Anh Trai",
+    "rating": 4,
+    "review_text": "Món ăn ngon! Giá cả cũng hợp lý! Còn về vấn đề vệ sinh…"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Phuong H",
+    "rating": 5,
+    "review_text": "Bún bò địa phương, chất lượng tốt nhất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "dat tran",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "ÔNG RÂU",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175278a27334c3f:0xec0f02b906f05449",
+    "shop_name": "Bún Bò Nhớ",
+    "user_name": "Trieu Nguyen",
+    "rating": 4,
+    "review_text": "Thơm ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "2",
+    "rating": 4,
+    "review_text": "Mình thấy bún bò ăn ổn nha, hương vị huế thì k giống lắm, cũng cũng á, chưa tới mức wow nên chưa 5 ⭐️ được kakaka nhưng mà giá cả cũng ổn á, mình thấy khá ôk, phần mình gọi là 40k, chắc nào thèm thì quay lại\nchú dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "nhat ngo",
+    "rating": 3,
+    "review_text": "Quán giá bình dân, ăn tạm được, vị đậm đà. Nếu nói vị Huế thì mình cũng không biết vị Huế thế nào nhưng không thấy mùi ruốc Huế như 1 số nơi khác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Trí Dũng Bùi",
+    "rating": 5,
+    "review_text": "Ăn khá ổn, giá 35k cho 1 tô như ảnh thì cũng oke rồi. Sate khá cay nên bỏ từ từ tránh cay quá ăn không nổi. Có chuyển khoản momo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "ANH MINH",
+    "rating": 5,
+    "review_text": "Quán nằm trên đoạn giao Lê Văn Thịnh & đường 38. Đã ghé được 5 lần và khá hài lòng. Tô thường giá 35k (giá thị trường)\n1. Thiết kế : 4.5đ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Kim Châu Nguyễn",
+    "rating": 5,
+    "review_text": "Quán siêu ngon, tuần nào cũng ăn, nước lèo đậm đà thơm mùi ruốc và quế, có gầu giòn và sườn bò, nên thử. Giá phải chăng so với chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "RuiHui",
+    "rating": 4,
+    "review_text": "Vị bún bò nhạt, phù hợp số đông, có sườn bò và nạm khá ngon, giá rẻ, tô bún khá nhiều. Nếu có sườn bò nguyên cây chắc sẽ ngon hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Chung Võ",
+    "rating": 5,
+    "review_text": "Bún ngon cô chú nhiệt tình, quán sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Huong Vu",
+    "rating": 5,
+    "review_text": "Quán rộng rãi ,sạch sẽ ,  chị chủ quán dễ chịu , giá bình dân . 5⭐"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Thanh Phan",
+    "rating": 5,
+    "review_text": "chất lượng quá trời, rẻ nữa 1 tô ăn no ứ hự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "MEN TRUNG",
+    "rating": 2,
+    "review_text": "-/ Hnay mình ăn Tái giò, cảm nhận: Giò bị mặn, như kiểu tẩm ướp nên mất vị giò, Tái thì bở, nhạt, ko thơm kiểu bò; Nước dùng thì nhiều vị giuốc nên át hết mùi bò. Nói chung, ko phải mùi Gốc Huế. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Thuấn Dương Đình",
+    "rating": 2,
+    "review_text": "Ăn tô 40k vẫn đói mà quảng cáo bao no 😂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Trang Công Thành",
+    "rating": 5,
+    "review_text": "Bún ngon\nPhần đặc biệt siêu nhiều thịt bò\nBest bún bò Sg :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Khang Nguyen",
+    "rating": 5,
+    "review_text": "Mình dân SG nên không biết có đúng vị Huế không. Nói chung bún bò ăn ngon, giá ổn, quán rộng rãi ngồi thoải mái, free khăn giấy và trà đá."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "my truong",
+    "rating": 4,
+    "review_text": "Nếu nói về từ \" quán ăn\", so với mặt bằng những quán khác thì chỗ này rộng rãi thoáng mát, chỗ ngồi ăn thoải mái . Mình hay ăn bún bò nên nh.xét về món này thôi nhé, mỗi chỗ nấu vị bún bò khác nhau theo mình chấm thì 7_8/10 ( bao gồm nc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Hưng Trần Thịnh",
+    "rating": 5,
+    "review_text": "Quán có đồ ăn khá ngon, không gian quán khá rộng rãi và sạch sẽ, phục vụ cũng chuyên nghiệp kêu lần 5 6 tô khác nhau mà vẫn nhớ đúng oder để mang cho khách chả cần ghi lại mới hay chứ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Nhân Huỳnh",
+    "rating": 5,
+    "review_text": "Cô chủ siêu dễ thương. Đồ ăn cũng khá ok. Rau xin thoải mái nha. Mà đem ra nhiều lắm chắc không cần xin đâu. Tô nhỏ 35 (2 món) 40 (3 món- tái nạm chả) to lắm nên mn căn nhắc nói cô để ít bún thôi nha 😄😄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Long Hoàng",
+    "rating": 4,
+    "review_text": "Thỉnh thoảng lại vô đây kêu suất đặc biệt 60k ăn cho đã miệng. Nước dùng ngon, thịt khá nhiều và đặc biệt là ở miếng sườn bò to và mọng nước. Ăn xong thấy cũng đáng tiền."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Quanglam Nguyen",
+    "rating": 5,
+    "review_text": "Bún bò ở đây ngon, cảm giác chất lượng nguyên liệu yên tâm, không gian khá rộng, giá cả ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Quang Bach",
+    "rating": 5,
+    "review_text": "Ngon - giá bình dân. Hài lòng nhất trong các quán bún bò mình đã ăn qua."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Kỷ niệm Gia đình Việt",
+    "rating": 4,
+    "review_text": "Do mình thích bún bò có vị ruốc Huế nên thấy ok.một số bạn ko thích mùi ruốc Huế và mùi thịt bò có thể xem xét lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Thao Nguyen",
+    "rating": 5,
+    "review_text": "Quán ăn rất sạch sẽ. Hương vị đậm đà. Có tỏi ngâm chua 🤣 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Thien Trinh",
+    "rating": 5,
+    "review_text": "Quán bán đồ ăn ngon. Giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Vy Pham",
+    "rating": 5,
+    "review_text": "Bún bò ngon, giá bình dân. Quán rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Son Lai",
+    "rating": 5,
+    "review_text": "Bún bò ngon đúng chất, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "duong vu",
+    "rating": 3,
+    "review_text": "Nước dùng hơi mặn không thơm. Không đúng vị bún bò huế"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Hoàn Thiên Phạm Văn",
+    "rating": 4,
+    "review_text": "Món ăn ngon .  Rộng rãi thoáng mát ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Phong Phú GIS",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Tiến Trần",
+    "rating": 4,
+    "review_text": "Bún bò rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "0360_ Nguyễn Vĩ Hào",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Lâm Hằng",
+    "rating": 5,
+    "review_text": "Giá vừa phải\nNước dùng đậm đà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Nguyen Le",
+    "rating": 4,
+    "review_text": "Bún ok, nước lèo hơi mặn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Le Huynh",
+    "rating": 5,
+    "review_text": "Bún ngon, quán sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Khanh Phạm Tú",
+    "rating": 4,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Exciter Sports Quận 2 (Dont Think Just Move)",
+    "rating": 5,
+    "review_text": "siêu ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Q G.B",
+    "rating": 5,
+    "review_text": "Ngon!\nHợp vị người Miền Nam"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Phong Phạm",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Brave John Lê",
+    "rating": 5,
+    "review_text": "Rất ngon, rẻ, sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Rin Nguyễn",
+    "rating": 4,
+    "review_text": "Tạm được, khá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Phương Doanh Phan",
+    "rating": 5,
+    "review_text": "điểm 10 cho chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Wyndi Ha",
+    "rating": 5,
+    "review_text": "Hương vị bún bò Cố đô thơm lừng mùi mắm ruốc thanh nhẹ, thịt bò tái nạm tươi ngon cùng rau sống đầy đặn, sạch sẽ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "T.a.m .Đ.ie.p",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, giá tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "mugphish",
+    "rating": 5,
+    "review_text": "Sườn bò là điểm nhấn chính!\n\nBạn có thể cảm nhận được tình yêu thương, sự chăm sóc và tâm huyết trong từng bát sườn thơm ngon tuyệt vời 🍜 ♥️ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Duy Ngo",
+    "rating": 4,
+    "review_text": "Mọi thứ chỉ ở mức tạm được, phù hợp với nhu cầu ăn nhanh. Giá rẻ. Nằm trên đường Lê Văn Thịnh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752778b3cd5897:0xb9b800d335e9967f",
+    "shop_name": "Bún bò huế Sông Hương",
+    "user_name": "Cty CP - ĐT - XD Thạnh Phát",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thu Hien from HCMC Vietnam",
+    "rating": 5,
+    "review_text": "Vô tình ghé ăn Bún Bò Huế Hạnh (137 Bành Văn Trân -Tân Bình) lần đầu nay đã cách nay 20 mươi mấy năm rồi và sau đó cũng thường xuyên ghé ăn vì tui thấy ngon mà giá cũng Ok👍😍 Nhưng bẵng đi 1 thời gian... \"dòng đời xô đẩy\" dzùi dzập sao đó mà …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thu Bui",
+    "rating": 5,
+    "review_text": "Quán bún bò mình ăn thấy nước rất thanh, ko có mùi bò hoặc mùi gia vị, mắm ruốc đậm đặc như đặc trưng của rất nhiều quán bún bò khác. Quán rộng rãi, sạch sẽ, lên món nhanh, có gian nhà bên cạnh để xe rất thuận tiện. Nói chung là ưng ý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hạnh Nguyễn",
+    "rating": 1,
+    "review_text": "Nhân viên phục vụ quá tệ. Gọi tô bún mang ra toàn bún k thấy nước dùng đâu. Món ăn cũng tệ: thịt dai, nước lạt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tấn Đào Lê",
+    "rating": 5,
+    "review_text": "Lần đầu mình ăn cách đây cũng đã gần 10 năm quay trở lại thì hiền thoáng vẫn to rộng và hoành tráng và các món ăn nhìn hấp dẫn như xưa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cường Trần",
+    "rating": 2,
+    "review_text": "Quán này lâu r quay lại thấy không ngon như trước mà lại mắc hơn rất nhiều. Tô đặc biệt nhìn có đồ ăn là 75k, còn tô thường thấy chỉ toàn là nước lèo. Trông không hấp dẫn nên mình order tô đặc biệt. Quán cũng vắng rất nhiều chắc do chất lượng xuống mà giá lại quá cao so với mặt bằng chung bây giờ. Chắc không quay lai."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Vy Thảo",
+    "rating": 1,
+    "review_text": "Quán làm nước dơ, có kiến ở trong, khách nói thì không một lời xin lỗi, thái độ vô cùng lồi lõm. Lần đầu tiên ăn bún bò mà 70% là thịt heo, hồi xưa hay ăn lâu rồi quay lại giờ vĩnh biệt luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hinu",
+    "rating": 5,
+    "review_text": "Nổi tiếng với các loại chả chuẩn vị Huế, nước lèo thanh đạm và những tô bún chất lượng. Bún Bò Hạnh dù đã hơn 30 năm nhưng vẫn là một trong những quán bún bò ngon phải thử ở Sài Gòn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "binh bong",
+    "rating": 5,
+    "review_text": "Sáng nay rủ bạn thân qua đây làm bát bún bò Huế lấy năng lượng đi làm. Bún ở đây sợi to chuẩn vị, thịt bò nạm và gân ninh mềm mướt, nước dùng thơm nồng mùi sả dứa nhưng hơi thiếu chút vị mắm ruốc đặc trưng nên ăn cảm giác chưa phê lắm. Nhân …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tu Nguyen",
+    "rating": 4,
+    "review_text": "Bún bò lâu năm ở khu Ông Tạ, hương vị Sài Gòn dễ dùng. Đặc biệt ở đây là giữ được hương vị chứ ko như theo công thức của nơi khác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "loan le",
+    "rating": 1,
+    "review_text": "Quán ruột của mình cách đây 15 năm. Sau chuyển nhà lâu lâu vẫn ghé ăn. Cảm thấy chất lượng càng ngày càng đi xuống. Và lần cuối ăn thì hoàn toàn thất vọng. Giá 60k nhưng topping lèo tèo quá ít, nước nhạt nhẽo k ra vị bún bò. Thật sự không hiểu nổi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Andy Hoang Nguyen",
+    "rating": 3,
+    "review_text": "Vô tình ghé ăn, vị bình thường nếu không muốn nói là không ngon, nước dùng nhạt nhẽo, nấu không ra vị Bún bò Huế.\nGiá vừa phải không đắt không rẻ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "dung ngô",
+    "rating": 1,
+    "review_text": "Theo khẩu vị của mình thì thấy không ngon, bún bò mà không có mùi mắm ruốc đặc trưng mùi sả cũng không có, vị cứ nhạt nhẽo sao đó đã vậy 1 tô ít topping mà 60k/tô quá mắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hoài My Lê Thị",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ mát mẻ, thoáng mát. Là người Huế nên mình thấy bún bò ở đây khá hợp khẩu vị. Quan trọng nhất là chỗ để xe rộng rãi quán nhìn sạch sẽ chỉnh chu. À có rau câu dừa ngon nữa hehe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Phong Le Cong",
+    "rating": 4,
+    "review_text": "Quán bún bò huế mở từ lâu nằm trên đường Bành Văn Trân. Quán rộng, không gian thoáng đạt, chỗ ngồi mát mẻ. Bún bò ngon, thịt, chả, giò heo đều vừa miệng, rau tươi, sạch sẽ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tiến Đông Bùi Đặng",
+    "rating": 5,
+    "review_text": "Quán do một người Huế gốc làm chủ, bán gần 30 năm nay. Bún bò Huế ở đây có vị đậm đà, nước dùng thanh và ngọt tự nhiên. Bạn có thể lựa chọn từ bò bắp, giò heo, bò tái, bò gân, cho đến các loại chả như chả cây, chả đòn, chả cua cho phần bún …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thu Hà Đậu",
+    "rating": 3,
+    "review_text": "Cảm giác chất lượng k phù hợp với giá tiền. Mình ăn ở HN 1 tô cùng giá 60k chất lượng và topping nó khác hẳn. Thích ăn bún bò Huế mà vào SG chưa tìm đc quán Bún bò Huế nào ưng cái bụng cả, haizz."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tung Pham",
+    "rating": 4,
+    "review_text": "Mình ăn bún bò ở nhiều nơi thì mình thấy quán đây ăn ngon nhưng không quá xuất sắc hay gì để đáng với giá tiền.\nMình gọi 1 tô đặc biệt giá 75k chỉ lấy tái và nạm ko nước béo. Như hình thì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tú Lê Thanh",
+    "rating": 2,
+    "review_text": "Quá đắt ăn tô 60k mà dc đúng 2 lát thịt bò và 2 viên chả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "HẰNG NGUYỄN",
+    "rating": 4,
+    "review_text": "Quán này có từ lâu lắm rồi, nghe nói khoản 30 năm gì đó, tôi thỉnh thoảng ăn bún khi đi qua khu vực này.\nQuán gốc huế, mùi vị rất chuẩn, nước lèo trong và ngọt. Tôi khoái nhất là giò, chín vừa ăn, đại, giòn, thơm. Đặt biệt có người trông xe miễn phí.\nGiá cũng phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nga Nguyen",
+    "rating": 3,
+    "review_text": "Lúc nhân viên bưng ra cứ tưởng tô mình là tô nhỏ. Đến lúc tính tiền mới biết tô mình là tô lớn. Tô lớn nhưng bún ít, lỏng bỏng, rau cũng ít, mình phải xin thêm. Nước lèo ko đậm đà. Lúc đầu mình ăn thấy nêm bình thường, có mắm huế, vị kiểu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tai Pham",
+    "rating": 5,
+    "review_text": "Mình ăn ở quán này nhiều năm, rất thích không gian sạch thoáng. Nhân viên nhiệt tình, gọi thêm topping rau trụng hoặc hành lá rau răm đều vui vẻ phục vụ (chi tiết nhỏ thôi nhưng làm khách hàng ăn thấy vui). Bún bò Huế ở đây có hương vị Sài …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hiếu Lê",
+    "rating": 5,
+    "review_text": "1 quán bùn bò rộng, thoáng mái, nằm trong khuôn viên của 1 nhà xây theo kiểu xưa. Khẩu vị cá nhân của mình với 1 tô bún bò 50k  chỉ có 1 viên chả (cua) 2 miếng thịt, 1 cục thịt giò thì giá khá cao. Bù lại nước dùng thanh, ngọt xương, không béo, kiểu ít gia vị và hơi nhạt với mình. Ăn 1 lần cho biết, để quay lại chắc sẽ không"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyễn Tiên",
+    "rating": 5,
+    "review_text": "Ăn tiệm này từ bé đến lớn. Nước bún bò hơi cay nhưng mình thấy ngon. Highly recommend"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thai Cao Hoang",
+    "rating": 5,
+    "review_text": "Quán đông nhưng cần không đợi lâu, thức ăn vị đậm đà vừa, phục vụ ổn, quán có nghỉ trưa, … !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tuấn Thanh Trịnh Anh",
+    "rating": 5,
+    "review_text": "Thoáng mát,bàn ghế cao ráo sạch sẽ.\nBún bò ngon.ko ngọt vị kiểu miền tây. Mọi thứ vừa vặn,ko dở cũng ko quá xuất sắc. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Vũ Bảo Đỗ",
+    "rating": 4,
+    "review_text": "Quán bún bò khá ngon.\nNước dùng: bình thường, vị thanh\nTopping: không quá nhiều, giò rất ngon và nhiều thịt, chả cua ngon nhưng chưa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "BK09X1",
+    "rating": 4,
+    "review_text": "Một quán rất lâu đời và nỗi tiếng ở Sài Gòn. Nhận xét về nước lèo thì ở đây nấu vị thanh mộc, nêm nếm thiên ngọt thích hợp người lớn ăn thanh cảnh , không gian gọn gàng thoáng mát, sạch sẽ, giá cả thì cũng tuong xứng với mặt bằng và nhân viên (65k). Xét chung cũng là một trãi nghiệm rất lý thú."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Phuoc Hoang",
+    "rating": 5,
+    "review_text": "Mình đã ăn quán được 2 lần và rất hài lòng. Nước lèo đậm đà vừa ăn nên thực khách không cần phải nêm thêm. Thịt mềm và đậm mùi bò chứ không như các quán khác. Trước khi cho vào tô thì bún còn được trụng qua nước xả nên rất thơm. Nhân viên vui vẻ, tận tình mặc dù quán rất đông. Một tô lớn 40k nhưng rất nhiều đồ ăn và dư sức ăn no."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyen Thanh Tung",
+    "rating": 4,
+    "review_text": "Quán rộng rãi, không gian thoáng mát. Giá hơi cao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Ellie",
+    "rating": 4,
+    "review_text": "Tô như hình là 55k tô lớn, thức ăn khá nhìu. Nhưng ko hợp khẩu vị ng Huế mình, mình thấy ngang và ko đậm ruốc, mùi xương heo nhìu hơn. Bạn mình ng Nam thì ăn bảo ngon, nên chắc tùy khẩu vị. Có chỗ giữ xe trong căn nhà, sạch sẽ, phục vụ nhanh. Giá cũng khá cao nhưng miếng thịt nạm rất chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "KimHoa Hoang",
+    "rating": 4,
+    "review_text": "Quán ăn nằm trên đường Bành Văn Trân, quán rộng rãi, thoáng mát. Nhân viên phục vụ chu đáo, nhiệt tình. Món ăn vừa miệng. Có chỗ gửi xe."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nghĩa Trần",
+    "rating": 5,
+    "review_text": "Ăn vì hoài niêm đúng hơn, 1 tô giò + 1 miếng chả cua nhỏ neyn giá mắc. Mình ăn từ 2005 đến giờ nên gia vị ko còn dc như xưa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Bobby Tran",
+    "rating": 5,
+    "review_text": "Bún bò ngon, vị thanh nước lèo trong vắt. Giá cả 1 tô đặc biệt tầm 65-70k."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Quỳnh Lê",
+    "rating": 5,
+    "review_text": "Quán bún bò lâu đời. Ăn từ hồi học Trung Cấp, hôm nay tiện đường ghé lại ăn.\nChủ quán đã mua thêm nhà kế bên để làm chỗ giữ xe. Bộ cửa gỗ tùng cúc trúc mai vẫn bóng bẩy (đùa vui). …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cute Siu",
+    "rating": 4,
+    "review_text": "Quán sạch sẽ, rộng rãi, thoáng mát, một tô 50k, chả ăn bình thường ko đặc sắc, bún bò ăn tạm ổn chưa đc ngon như mong đợi nhưng bù lại quán sạch sẽ phục vụ tốt nên tiện vẫn ghé ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Huỳnh Khánh Duy",
+    "rating": 5,
+    "review_text": "Mình toàn ăn ở đây, nước dùng thanh, vừa vị, ko phải nêm nếm thêm gì nhiều, chỉ cần nặn chanh vào và thưởng thức, giá cả ổn, sạch sẽ vệ sinh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Rainie Green",
+    "rating": 4,
+    "review_text": "Ăn cũng tạm được. Giá ko mắc nhưng cũng ko rẻ. Nước lèo màu trong nên nhìn tô bún thấy hơi nhạt nhẽo. Phục vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Sơn Vi Hoàng",
+    "rating": 3,
+    "review_text": "Quán cũng ngon service hơi đông nên quên món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Elvis Nguyen",
+    "rating": 2,
+    "review_text": "Tô này tái chả - 50k, chả ở đây là chả lụa và chả cua be bé. Nước dùng nêm bột ngọt kha khá, ai dị ứng chắc sẽ chịu không nổi. Chả thì bao gồm chả lụa và chả cha. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "ngu tam",
+    "rating": 3,
+    "review_text": "tạm được, ko ngon cũng ko dỡ, quán thoáng mát vệ sinh, phục vụ tốt, nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Lương Nguyễn",
+    "rating": 4,
+    "review_text": "Bún bò theo khẩu vị cá nhân mình ăn thì thấy cũng ok thôi ạ. Các bạn đến ăn thử và cảm nhận nhe. Không gian rộng rãi, chỗ để xe cũng rộng nữa. Đồ ăn lên cũng khá nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cindy Gia",
+    "rating": 4,
+    "review_text": "Quán ngay mặt đường có nhà đỗ xe rộng rãi\nBên trong không gian mở khá thoáng\nLâu rồi mới kiếm được quán bún ưng bụng dị ở Sài Gòn\nNói chung là hợp khẩu vị 😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Lê Vương",
+    "rating": 5,
+    "review_text": "Ngon, sạch sẽ, vệ sinh, mát, có giữ xe miễn phí,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "lâm lê",
+    "rating": 3,
+    "review_text": "Lần đầu ghé ăn thử, quán rộng rãi sáng và thoáng.\nSa tế trông đậm màu, thơm, ko bị quá gắt hay quá hăng.\nNước dùng ngọt thanh nhưng khá ít hương bún bò, nếu nhiều hương hơn và đậm hơn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Kouga Tran",
+    "rating": 4,
+    "review_text": "Không gian mát mẻ, buổi tối quán bán lẩu bò. Món ăn ngon và khá đa dạng. Nhân viên nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cao T. Lan Huong",
+    "rating": 5,
+    "review_text": "Quán rộng, sạch sẽ, thoáng mát, chỗ để xe rộng rãi. Mà bún bò ở đây nấu ngon lắm nha. Mình thích ăn bún bò lắm. Và quán bún bò Hạnh này là nơi mình rất hay ghé đến"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "阮維Duy Nguyen",
+    "rating": 5,
+    "review_text": "Có bánh flan. Bún bò bãn lâu năm. Ngon. Hợp vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Duyên Trần",
+    "rating": 1,
+    "review_text": "Là một người lần đầu đến quán, mình thấy quán khá sạch sẽ, chỉn chu, không gian thoáng mát, rộng rãi. Mình khá thích chả cua ở đây, giai và ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Bé Ba Lê Thị",
+    "rating": 5,
+    "review_text": "Bún bò ngon, Gia đình là Khách hàng rất lâu và thường xuyên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thắng Vũ",
+    "rating": 4,
+    "review_text": "Nước suop ngon,bò mềm ngon,chả bò ngon,chả cua bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyễn Tuấn",
+    "rating": 1,
+    "review_text": "Gọi tô đặc biệt đưa ra thật bất ngờ đc 2 lát mỏng nạm bò, 1 cục giò heo, 1 cây chả. Vậy cũng được ở quán này gọi là tô đặc biệt 75k.. Thật sự hết hồn..phải gọi thêm 4 cây chả mới đủ ăn, 2 tô 182k hú hồn thiệt, nước dùng quá nhạt nhẽo ko có chút hương vị nào là bún bò huế."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Bui Dang Long",
+    "rating": 5,
+    "review_text": "Bún bò rất ngon. Thịt mềm, không dai. Tô đặc biệt nhiều bún, ăn no căng cả bụng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Ngô Bích Châu",
+    "rating": 5,
+    "review_text": "Giá rnem lai ngon lai them rau rung hap dan qua tuyet"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyễn Xuân Vĩnh Hưng",
+    "rating": 4,
+    "review_text": "Bún bò ngon, có thịt heo, mỳ tôm nhiều thức uống, tráng miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyen Ho Huy Khai",
+    "rating": 5,
+    "review_text": "Omg ngon khủng khiếp tôi đã đi cùng các bạn FTU"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Genie Tran",
+    "rating": 5,
+    "review_text": "Lâu rồi ko ăn do dở, nay quay lại bất ngờ vì đã thay đổi cách phục vụ và chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Vu Tran Hoang",
+    "rating": 1,
+    "review_text": "Bún bò rất dở và giá mắc, nói chung đói ghé tạm ăn mà thất vọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thạch Lê Thế",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ thoáng mát.\nNước lèo thanh, không dầu mỡ...\nHợp khẩu vị!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Trudy Do",
+    "rating": 5,
+    "review_text": "Bún bò ngon nha, mình hay ăn ở đây và cả order trên shopee food hoặc grab. Đường vào quán có thể đi ô tô 1 chiều được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Ngân Đỗ Thị Thu",
+    "rating": 5,
+    "review_text": "Cháo ăn rất ngon gà tươi\nPhục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "no umm",
+    "rating": 5,
+    "review_text": "Bún bò này có thể đc ví như 1 người gì cũng hoàn hảo nhưng ko để lại ấn tượng gì. Cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Phương Anh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon (đặc biệt là nước dùng)! Giá cả không mắc. Quán rộng rãi, nhiều bàn và có chỗ giữ xe miễn phí. Đi ăn vào buổi sáng thấy đông khác. Thời gian chờ đồ ăn không lâu lắm!! Trải nghiệm rất tốt ở quán này :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Danh Hoàng Nguyên",
+    "rating": 5,
+    "review_text": "Mấy năm dịch Covid mới quay lại ăn trực tiếp. Vẫn còn ngon lắm nha bà con."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "ハハヒヒ",
+    "rating": 1,
+    "review_text": "1 tô bún lớn, có tận 1 viên chả cua, 1 miếng thịt bò, 1 miếng móng giò.\nNước dùng lạt, ko rõ vị, rau sống ít, rửa bẩn.\nMình đã trải nghiệm rất nhiều quán bún bò Huế, nhưng tới đây thì thực sự thất …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Mạnh Hùng Đào",
+    "rating": 4,
+    "review_text": "Nước dùng rất thanh, không bị gắt, vẫn có độ ngọt, rất hợp khẩu vị mình.\nCác loại thịt chả ăn kèm cũng rất ngon, chỉ tiếc là mình đến ăn hơi sớm nên chưa có giò (khoảng sau 6h chiều mới có)\nTô đặc biệt trong hình 70k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cao Ky Nguyen",
+    "rating": 5,
+    "review_text": "Bún bò ngon, ko thấy nhiều bột ngọt. Nhân viên dễ thương\nTôi gọi 2 phần bún bò tô lớn nước trong\nNên gọi thêm giá trụng + rau thơm + xà lách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "MMoh Minh Ngô",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, chuẩn vị Huế sau hơn chục năm.\nChỗ ngồi thoải mái rộng rãi, tuy nhiên cần trang bị thêm quạt/hệ thống phun sương làm mát. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "quynh nguyen",
+    "rating": 5,
+    "review_text": "Quán ngon vừa ăn,giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cường Vũ",
+    "rating": 1,
+    "review_text": ".   Đánh giá  Đồ ăn dở ăn như  ... . Hai vợ chồng ăn. Hai Bát 50 nghìn mà đúng được 2 miếng thịt bò với lại 1 cục xương với cục chả cua bé tí hết. Gia vị thì mỗi chai nước mắm với ớt với chanh xa tế.  Nước lèo thì dở nhạt toẹt . Khuyên mọi người không nên tới ăn không xứng với giá tiền. Còn muốn trải nghiệm lấy bài học thì tới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Vĩnh Thụy Bảo Anh",
+    "rating": 3,
+    "review_text": "Bún bò ở đây có vị khá phổ thông, nước dùng không có gì đặt sắc, ko nghe được mùi ruốc huế đặc trưng của món bún bò này. Phần thịt đi kèm hầm khá mềm nhưng hơi tiếc là khá ít về số lượng trong 1 tô và không có nhiều loại thịt để lựa chọn, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Trang N",
+    "rating": 3,
+    "review_text": "Bún bò ngon nhưng mình ăn xong bị đầy bụng cả ngày…"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nhung Di",
+    "rating": 3,
+    "review_text": "Mình đến với tâm thế ăn bún bò ngon số zách ở Sài Gòn vì nghe bạn mình cũng như vô số review khen ngon. Cơ thế mà thất vọng lắm ạ. Nước lèo topping, sa tế...cái nào cũng ở mức chấp nhận như bún bò thông thường. Thậm chí nước lèo thua xa bún bò mấy O Huế ở SG. 🥺🥺🥺 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Luu Joshep",
+    "rating": 5,
+    "review_text": "Một tô bún bò lớn 50k, có thể là một giá chấp nhận được.\nNước dùng thanh, cay nhẹ tê tê lưỡi, thịt cắt hơi dầy nhưng mềm, chả cua dai và giò. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thien Dinh",
+    "rating": 5,
+    "review_text": "Quán bán đã lâu đời, rất đông khách, giá cả vừa phải, mặt bằng rộng rãi, sạch sẽ. Chât lượng bún thì rất ngon, đúng vị Huế, có chả cua đúng kiểu người Huế làm. Quán chỉ bán buổi sáng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Le MMya",
+    "rating": 5,
+    "review_text": "Quán bún bò lâu đời từ khi mình sinh ra đến nay cũng được 25 năm.\nDù đi đâu, đã từng nếm qua rất nhiều bún bò ở các quán khác nhau nhưng vẫn không bằng quán này. Một vị bún bò Huế rất riêng, nước thanh. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Ivy Lê",
+    "rating": 1,
+    "review_text": "Tô lớn 50k, y hình,nước dùng lạt, ko rõ vị.\nTrải nghiệm dở tệ.🥲🥲🥲 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Anh Toàn Trần",
+    "rating": 1,
+    "review_text": "Hôm nay tôi mua 2 tô bún bò ở đây, lần đầu thấy quán to lớn tưởng ngon nên mua 2 tô có giò heo 50k/1 tô, nhưng về ăn thì thất vọng quá, được 2 miếng bò mỏng như lá lúa, một cục giò nhỏ, 1 cục mọc lớn hơn ngón tay cái, nước lèo thì lợt lạc, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Điền Nguyễn P.T",
+    "rating": 3,
+    "review_text": "Gọi là bún bò nhưng có bỏ thêm thịt heo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyên Cao",
+    "rating": 4,
+    "review_text": "Rất ngon, nước ngọt thanh  thơm sả, không nồng mùi mắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Minime",
+    "rating": 3,
+    "review_text": "Tất cả sao đều dành cho không gian quán chứ không phải chất lượng món ăn, không gian quán xuất sắc, mát mẻ thoáng đãng nhưng bún bò thì lạt lẽo trắng trắng, ko nghe mùi ruốc huế, ít hành ít nước béo, thịt lèo tèo (3 miếng nạm nhỏ cỡ 2 ngón …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tran Thien Phuc",
+    "rating": 4,
+    "review_text": "Thức ăn rất tuyệt với thịt được ninh nhừ, mềm mại; chả các loại thơm ngon; rau ăn kèm vệ sinh và tươi ngon; nước dùng thanh ngọt vị từ thịt, rất tuyệt.\nGiữ xe miễn phí, rộng rãi phù hợp với xe máy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Duong Ai Phuong",
+    "rating": 3,
+    "review_text": "Trước đây rất ngon, lâu ngày quay lại thì quán được mở rộng, sạch sẽ, khang trang hơn nhưng bún bò không còn ngon nữa! Rất thất vọng! Không hiểu được, giống như đổi chủ vậy!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Henry Tran",
+    "rating": 4,
+    "review_text": "Bún bò tô to 40k, nước lèo ngọt nhưng hơi nhạt vị ruốc không nhiều. Giá cả hợp lý với chất lượng, giữ xe miễn phí có người dắt xe giùm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cong Thinh Vo",
+    "rating": 5,
+    "review_text": "Quán bún bò đã có từ 1989 tới nay ,quán phục vụ chu đáo, chân tình, hương vị bún bò Huế vẫn còn lưu giữ dẫu thời gian đã lặng lẽ trôi qua ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Phu Tran Trung",
+    "rating": 4,
+    "review_text": "Nổi bật: quán bún bò Huế lâu năm\n(Phần st)\nQuán do một người Huế gốc làm chủ, bán gần 30 năm nay. Bún bò Huế ở đây có vị …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thuong Nguyen",
+    "rating": 4,
+    "review_text": "Quán này nổi tiếng từ lâu. Quán rộng rãi, sạch sẽ.\nNước lèo đúng hương vị Huế. Thịt mềm ngọt. Cục giò rất mềm, cắn nhẹ là thưởng thức được tài nghệ của chủ quan quán. Chả ở đây thơm, ngon... …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Account Legacy",
+    "rating": 5,
+    "review_text": "Là khách hàng của quán này hơn chục năm, từ lúc mình còn bé tý đến khi mình đi làm vẫn thường ghé ăn. Gia đình mình rất thích vị bún bò ở đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Quy Tran",
+    "rating": 4,
+    "review_text": "Bún bò gốc người huế nấu rất ngon.giá hợp lý tô thường 45k,tô đặc biệt 60k.đậu xe hơi thì cực chút.quán thoáng mát,sạch sẽ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "sony15i hung",
+    "rating": 5,
+    "review_text": "Quán bún bò Huế Hạnh ăn rất đậm đà thơm ngon, mùi vị đặc trưng bún bò Huế.Vệ sinh an toàn thực phẩm đạt tiêu chuẩn.Quán bún bò Hạnh đã nổi tiếng hơn 20 năm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Michael Jackie",
+    "rating": 2,
+    "review_text": "bún bò cũng bình thường , ko có gì xuất sắc\năn ở đây rất nhiều lần , nhưng lần nào đến mua mang về , là đứng đợi rất lâu , có những khách vô mua sau , nhưng lại giao bún cho họ trước , còn tôi đến trước …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Trương Hiệp",
+    "rating": 4,
+    "review_text": "Cũng là người con của Huế, tìm được quán bún bò nấu với hương vị Huế để ăn là điều vui, đã rất nhiều lần chở bạn gái đến ăn và khi nào cũng hài lòng với hương vị quen thuộc. Phục vụ rất chu đáo và nhanh, mà ngoài chủ quán hình như nhân viên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "tran thang",
+    "rating": 5,
+    "review_text": "Bún bò và chả khá ngon :3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Kevin Dut",
+    "rating": 5,
+    "review_text": "Quán bún bò ngon nhất từng ăn, giá cả phải chăng 35k-40k/tô. Phục vụ chu đáo, nhiệt tình, vệ sinh sạch sẽ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Have A Bite",
+    "rating": 3,
+    "review_text": "Quán do một người Huế gốc làm chủ, bán gần 30 năm nay. Bún bò Huế ở đây có vị đậm đà, nước dùng thanh và ngọt tự nhiên. Bạn có thể lựa chọn từ bò bắp, giò heo, bò tái, bò gân, cho đến các loại chả như chả cây, chả đòn, chả cua cho phần bún …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Vợ Chồng Trẻ Con",
+    "rating": 5,
+    "review_text": "Chị chủ quán siu dễ thương mà bún ăn ngon nha mn, nên ghé trãi nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Que Huong",
+    "rating": 5,
+    "review_text": "Một trong những quán bún bò ngon nhất Sài Gòn. Ông chủ quán lớn tuổi nhưng vẫn thường ra trông coi, thậm chí dọn bàn, giàu có nhưng rất giản dị. Hệ thống Du Miên cũng từ đây mà ra."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Trần Tiểu Thư",
+    "rating": 5,
+    "review_text": "Mình ăn uống thì dễ nhưng để mình quay lại thì khó. Lần đầu ăn ở đây mình biết chắc sẽ quay lại. Món này là món ruột của mình nên mình đòi hỏi hơi cao tý.\nTrước hết là sợi bún thì mình vẫn thích sợi bún to hơn là sợi nhỏ. Ở quán này là …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Heidi Action now",
+    "rating": 5,
+    "review_text": "Quán ăn có tuổi thọ lâu đời ở khu ông Tạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Leo Zzz",
+    "rating": 5,
+    "review_text": "Cách nêm vừa miệng. Muốn có vị bùng nổ quao thì nêm thêm sa tế và chanh vào. Phục vụ ổn, xin chén ớt sắt riêng vẫn cho, ko giang quán hơi nóng đc cái nhìn sạch, nhưng giá cg cao hơn mặt bằng chg 1 tí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Rocky Ping",
+    "rating": 4,
+    "review_text": "1 tô bún không quá nhiều nhưng bù lại được nước lèo và nước mắm rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "TRINH PHẠM",
+    "rating": 5,
+    "review_text": "Rất ngon, tôi bị nghiện món này, mỗi tuần ghé ăn ít nhất là 3 lần...."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hoài Vy",
+    "rating": 5,
+    "review_text": "Bún bò rất ngon, rất dễ ăn, vị nước dùng hài hòa. Các chị chủ quán tuy lớn tuổi nhưng phục vụ văn minh lịch sự."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hoàng Huy",
+    "rating": 5,
+    "review_text": "Quán bún bò tủ ngon nào giờ gùi. Ai muốn đổi gió thử vị Huế độc lạ cứ ghé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Huỳnh Xuân Bảo 1",
+    "rating": 4,
+    "review_text": "Món ăn ngon, khá ổn.\nNhân viên phục vụ cơ bản, và  xem thường khách hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tran Nam",
+    "rating": 5,
+    "review_text": "Quán bún bò lâu đời, có nghỉ trưa không bán. Sợi bún rất ngon, thịt tươi, ngày nào cũng thấy 1 xô thịt để ninh nước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thinh tan hung",
+    "rating": 1,
+    "review_text": "Tôi chỉ ăn bún bò NHUNG (kế bên bún bò Hạnh). Nước dùng đậm đà, toàn quyền lựa rau theo ý muốn, đi sớm trước 7h còn có xí quách bò. VC chủ quán dễ chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Kiến Nam Vũ",
+    "rating": 5,
+    "review_text": "Bún ngon chuẩn vị, nhân viên vui vẻ nhiệt tình, tuần ăn 4 lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Truyền Lê Vũ",
+    "rating": 4,
+    "review_text": "Quán bún bò khá nổi tiếng khu vực Bảy Hiền  , chợ Tân Bình. Nhân viên khá dễ thương, tận tâm, chu đáo. Giò chả ngon, nước dùng ít dậy mùi bò."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Châu Nguyễn",
+    "rating": 4,
+    "review_text": "đồ ăn  ok, nước  dùng  trong, không  thơm\nmùi ruoc và  sả lắm,  tô  đầy đủ  có  thịt  bắp,  giò, thịt  xắt, rau bình  thường  nhưng  hộp  dùng đựng  thức  ăn không  nên  dùng  cho thực  phẩm nóng,  quán nên  lưu  ý để ăn toàn  cho ng tiêu  dùng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hùng Nguyễn Tăng",
+    "rating": 4,
+    "review_text": "Thơm ngon , rộng rãi thoáng mát ...nhưng nước lèo mình thấy quán đựng trong xô nhựa (hình như thùng sơn nước) chở đi .mong chủ quán xem lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyễn Hiếu",
+    "rating": 4,
+    "review_text": "Nước ngọt, đậm đà, không biết tả sao nhưng ăn vào nghĩ thế này: hình như đây mới là bún bò, có điều so với những quán bún bò khác thì với giá ở đây những quán khác nhiều thịt hơn gấp đôi (đánh giá trên tiêu chí ko biết chất lượng thịt sạch của các quán, vì ăn thấy vị thịt như nhau)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cao Bao Quynh Anh",
+    "rating": 4,
+    "review_text": "Quán này mình ăn 10 năm nay, mấy năm trước rất ngon, sau này dở đi nhiều, nhưng ăn vẫn chấp nhận được so với mức giá. 40k một tô, có chả cua, chả lụa, thịt bò. Tô lớn rất nhiều bún. Vị nấu hơi ngọt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "G. Yang",
+    "rating": 5,
+    "review_text": "Ngon. Rẻ. Sạch sẽ. Nước dùng vị rất ngon, thanh, lâu lắm mới ăn được tô bún bò ngon như vậy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "kien bui",
+    "rating": 5,
+    "review_text": "Bún bò rất ngon , giá cả phải chăng, không gian thoáng mát, có chỗ để xe máy trong nhà."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hoa BT",
+    "rating": 4,
+    "review_text": "Quán rộng, thoáng mát, nhân viên phục vụ nhanh nhẹ và vui vẻ. Bún vị ổn, vị chung nên ko đậm đà hay nồng mùi sả, mùi mắm ruốc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tram Le",
+    "rating": 4,
+    "review_text": "quán khá lâu đời,ăn mỗi bún bò ở đây,khi bưng tô bún ra có thể sẽ thấy lỏng bỏng ko màu sắc nhìn ko muốn ăn nhưng bỏ ớt sate vào màu đỏ ăn rất cay và ăn hoài ko hết tô bún mặc dù lúc đầu thấy rất ít,chén thịt thêm hơi mắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyễn Bá Vụ",
+    "rating": 4,
+    "review_text": "Quán bún khá lâu đời. Bún bò ngon, quán rộng rãi, sạch sẽ. Tiếc là không có chỗ đậu xe hơi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Vũ Lê",
+    "rating": 5,
+    "review_text": "Mình ăn từ bé ở đây, ngon, đúng hương vị Huế, giá đúng với chất lượng, không rẻ không mắc, phục vụ dễ thương, giữ xe rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Vu Le",
+    "rating": 4,
+    "review_text": "Quán tốt sạch sẽ, thịt bò ngon, ko thích các bạn phục vụ lắm, nhưng bù lại chị chủ vui vẻ sẽ ghé lại lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Rachel Pham",
+    "rating": 5,
+    "review_text": "Bún khá dễ ăn,giá phải chăng.chỗ đậu xe thoải mái.Quán rộng rãi,thoáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Lạc Vĩ",
+    "rating": 4,
+    "review_text": "giá cao hơn so với mặt bằng chung một tí, nhưng vị vừa miệng muốn gia vị bùng nổ thì nêm thêm satế và ớt,thái độ nhân viên bình thường nhờ lấy thêm chén ớt thì vẫn cho, không gian khá là nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Trần Hoàn Võ",
+    "rating": 4,
+    "review_text": "Cũng ổn ,có chỗ đậu oto, sạch sẽ, món ăn nhiều. Tuy nhiên mình thấy ko ngon bằng 1-2 năm trước."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Khoa Tran",
+    "rating": 5,
+    "review_text": "Không gian thoải mái. Sạch sẽ. Chất lượng tuy cảm thấy không bằng hồi xưa nhưng vẫn khá ngon. Quán đã nổi tiếng hơn mấy chục năm rồi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyen Thanh Tuan (Tony)",
+    "rating": 3,
+    "review_text": "Khá ngon. Phù hợp khẩu vị người Sài Gòn ăn Bún Huế. Nhưng người Huế và Đà Nẵng sẽ không cho là ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thiện-Ân Trần",
+    "rating": 5,
+    "review_text": "Quán bún bò lâu đời. Chất lượng duy trì theo năm tháng. Nay quán đã mở rộng và khẳng trang hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hiền Nguyễn",
+    "rating": 2,
+    "review_text": "Tô của mình 45k tái khoanh giò và gân.\nQuá ít thật sự, tái vs gân hai ba miếng\nGiá như vầy quá mắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thanh Thao Le",
+    "rating": 5,
+    "review_text": "Ngon nhì thì không có tiệm bún nào ngon nhất cả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hàn Xích Nguyệt",
+    "rating": 5,
+    "review_text": "Bún bò ngon, là khách quen của quán nhiều năm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nha Nguyen",
+    "rating": 5,
+    "review_text": "Bún bò ngon lắm, vừa miệng. Không có mùi tanh của bò, nước dùng thanh và ya-ua rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Ly Nguyen",
+    "rating": 4,
+    "review_text": "Bún ăn khá ổn, giá cả chấp nhận được. Khu vực này có lẽ là quán tốt nhất (quan điểm cá nhân)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thinh Vo",
+    "rating": 4,
+    "review_text": "Mặt bằng rộng, thoáng, phục vụ chu đáo nhưng cần nâng chất lượng tô bún hòan thiện hơn, giá 50k/tô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Phúc Hoàng",
+    "rating": 5,
+    "review_text": "Quán bún bò lâu đời! Ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Albert Chan",
+    "rating": 5,
+    "review_text": "Quán này có từ lâu đời, tôi ăn từ thời học cấp 2 đến giờ tôi đã tuổi 4 tuần. Quán ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hoan Trần",
+    "rating": 2,
+    "review_text": "Không hiểu sao nhưng gần đây mình ăn không còn thấy ngon như cách đây 1-2 năm trước. Nước dùng trước dùng xương, bây giờ cảm thấy vị bột ngọt hơi nhiều."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Trung Nguyen",
+    "rating": 1,
+    "review_text": "8h sáng ghé vào gọi 2 tô ...hỡi ơi , thịt vụn ko gắp đc , nhìn tô bún lỏng lẽo , dùng 1 nữa bỏ 1 nữa .."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cong Pham",
+    "rating": 5,
+    "review_text": "Quán bún bò lâu năm tại khu này. Sợi bún bò rất đặc biệt. Nước lèo ngọt thanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Bach Le",
+    "rating": 4,
+    "review_text": "Bún bò rất ngon, phần lớn nhiều thịt. Quán rộng, không gian thoải mái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "장이",
+    "rating": 3,
+    "review_text": "Quán đã được M&A thì phải , tô bún bò Huế ăn không còn đậm đà như xưa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Dang Hue",
+    "rating": 5,
+    "review_text": "Quán ăn ngon sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Freda Happiess",
+    "rating": 5,
+    "review_text": "Không hiểu sao quán lại bán ngon tới dzậy lun. Tới quán nên ăn ya-ua nữa nha. 😊 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Bella Phan",
+    "rating": 4,
+    "review_text": "Nước lèo khá ngon. Bún và thịt hơi ít. Chỗ giữ xe rộng rãi miễn phí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Kity Nhung",
+    "rating": 5,
+    "review_text": "quán từ năm 1989 khoảng 30 năm ko chi nhánh.  e thấy quán này đối với e ngon nhất từ trước tới giờ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyen Tran Le",
+    "rating": 1,
+    "review_text": "Bún bò không ngon còn đắt nữa! Thua bún bò sông hương ở đường gò dầu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thuy Le",
+    "rating": 3,
+    "review_text": "Bạn hãy ghé dùng bún bò, rất ngon, hợp vệ sinh, 45 ngàn/ tô."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Coki Nguyen",
+    "rating": 4,
+    "review_text": "Đến ăn rất nhiều lần, nhưng càng ngày cảm thấy không ngon bằng ngày xưa, cũng có thể khẩu vị mình thay đổi chăng?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thảo Mai Chí",
+    "rating": 4,
+    "review_text": "35-50k/tô nước ngọt ăn được, mình đi làm ngang thấy thường xuyên có khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thuy Vo Thi Thanh",
+    "rating": 4,
+    "review_text": "Bún ngon. Nhân viên để xe trông hơi dữ và không được nhiệt tình!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Khai Nguyen",
+    "rating": 3,
+    "review_text": "Nơi thưởng thức ẩm thực cho bạn bè và người thân , người ở Cà mau (huyện Năm căn)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Skdhdbs Dgcfdgf",
+    "rating": 1,
+    "review_text": "Quán này mà ngon tôi cũng lạy nước lèo nhạt nhẽo không nghe mùi lai gì cả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Diem Bui",
+    "rating": 5,
+    "review_text": "Ngon. Sạch sẽ, nhân viên phục vụ lịch sự. Điểm cộng cho bác gởi xe và không tính phí."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thùy Trâm Lê Trần",
+    "rating": 5,
+    "review_text": "Nước dùng trong và đậm đà. Thịt bò không bị dai. Ngon. Đã ăn rất nhiều lần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Binh Nguyen",
+    "rating": 3,
+    "review_text": "Bún bò Huế rất ngon. Đây là một quán lâu năm ở Sài Gòn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "TG",
+    "rating": 5,
+    "review_text": "Bún bò rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Đức Nguyễn Phạm Mạnh",
+    "rating": 5,
+    "review_text": "Nước lèo đậm đà hương vị bún bò Huế, đặc biệt là sợi bún thon, ko bị ngán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cang Nghiemmanh",
+    "rating": 4,
+    "review_text": "Đồ ăn sạch, ngon. Không có khăn giấy tại bàn mà tính tiền khăn ướt riêng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Trần Nhật Minh",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon quán sạch, nhân viên order k niềm nở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "tuan nguyen",
+    "rating": 5,
+    "review_text": "Đây là quán bún bò ngon nhất khu vực quận Tân Bình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Phương Anh Lê Lý",
+    "rating": 4,
+    "review_text": "theo mình thì ăn ổn chứ kh phải gọi là quá wow"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "ThaiKy Tran",
+    "rating": 4,
+    "review_text": "Quán rộng, để xe vi vu. Nước bún bình thường ko đặc sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Anh Le",
+    "rating": 4,
+    "review_text": "Ngon có vị đăc trưng riêng quán này bán trên 25 năm rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "doan nguyen",
+    "rating": 5,
+    "review_text": "Bún bò bao năm vị vẫn vậy, sạch sẽ, thêm bánh plan và yaourt ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "PHẠM NGUYÊN TÚ ANH",
+    "rating": 1,
+    "review_text": "Tô 40k mà lèo tèo mấy cọng bún. Bán mắc hơn ở q3."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyen Bao",
+    "rating": 1,
+    "review_text": "Giá hơi mắc. Ăn tạm nhưng khăn giấy lau keo kiệt ko có. Tô 45k nên tặng khăn lạnh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Hưng Nguyễn",
+    "rating": 4,
+    "review_text": "Ngon theo vị của mình. Gần nhà ăn cũng 30 năm rồi!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Quan Do",
+    "rating": 5,
+    "review_text": "Bún bò rất ngon, nước lèo thanh mà đậm vị."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Anh Vũ (Bo Hành)",
+    "rating": 4,
+    "review_text": "Không ở đâu có Mùi vị Bún Bò Huế giống như ở Bún Bò Hạnh . Rất Ngon ... 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Pham Hoang Chung",
+    "rating": 4,
+    "review_text": "Thịt ngon, nước lèo ngọt nhưng không thơm và dậy mùi, chả cua ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "van nguyenthuy",
+    "rating": 3,
+    "review_text": "Ngon ,sạch sẽ, chu đáo,gọn gàng , tuy ko rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Vy Thiện",
+    "rating": 4,
+    "review_text": "Quán đông quá trời, Bún cũng được - tô bình thường 40k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Phúc Thiên Lang",
+    "rating": 5,
+    "review_text": "Ăn ở đây suốt 16 năm qua và vẫn sẽ mãi ủng hộ khi có dịp đi gần đó."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Ha Hoang Manh",
+    "rating": 5,
+    "review_text": "1 quán bún bò ngon ở Tân Bình, giá cả trung bình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Viet Le Hoang",
+    "rating": 4,
+    "review_text": "Bún nấu ngon, sạch sẽ, nước ngọt thanh không mặn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Huu Thanh Ho",
+    "rating": 5,
+    "review_text": "Bún ngon, nêm vừa miệng, giá cả hợp lí, rau sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "[SW] -M16A4",
+    "rating": 1,
+    "review_text": "Gọi 1 tô giò nhưng quán tự đổi thành 1 tô giò đặc biệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nhut Nguyen Dang Minh",
+    "rating": 5,
+    "review_text": "Bún bò ngon, giá mềm, rộng rãi thoáng mát."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "The Telescope",
+    "rating": 1,
+    "review_text": "quảng cáo láo xin mọi người đừng tin và tránh xa quán này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Long Nguyễn",
+    "rating": 4,
+    "review_text": "Good, đồ ăn vẫn như xưa h, nhân viên phục vụ tốt,trận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tony Ng",
+    "rating": 3,
+    "review_text": "So so hót but Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Phi Lưu Hồ",
+    "rating": 5,
+    "review_text": "Món ngon, lên món nhanh , chuyên nghiệp. Nên ăn thử nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "anh khoa Duong",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, nước hầm chuẩn vị. Nói chung ăn ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Nguyen Tan Dat",
+    "rating": 4,
+    "review_text": "Ngon, quán rộng, bãi xe có phiếu. Giá hơi cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "NTV",
+    "rating": 4,
+    "review_text": "Quán nấu ngon, giữ được hương vị qua nhiều năm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Teresa Ruan",
+    "rating": 4,
+    "review_text": "Bún ăn vừa miệng nhưng nhân viên phục vụ không có nụ cười"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Si Hong Nguyen",
+    "rating": 4,
+    "review_text": "Ấm cúng ,ăn ngon,nhanh lẹ,xe gửi riêng ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Bình Nguyễn Huy",
+    "rating": 4,
+    "review_text": "Nước trong, Bún bò nấu kiểu ko đậm đà, giá hơi cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cong Ngu",
+    "rating": 5,
+    "review_text": "Ngon, chất lượng, giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thanh Bui Duy",
+    "rating": 4,
+    "review_text": "Bún bò khá ngon, nước trong, hương vị hơi lạt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Điền Trần Thanh",
+    "rating": 4,
+    "review_text": "40k 1 tô, chất lượng tương xứng với giá, ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Thanh Vinh Nguyen",
+    "rating": 3,
+    "review_text": "Tưởng quán ngon, nhưng ăn cũng bình thường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Lan Chi",
+    "rating": 4,
+    "review_text": "Tô bún khá nhiều. Và chả cua ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Phung Le",
+    "rating": 5,
+    "review_text": "Bún bò ngon, quán sạch sẽ, nhân viên ok."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Vu Tuan",
+    "rating": 5,
+    "review_text": "Món bún bò ở đây cũng rất hợp khẩu vị của mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Cuoc Dong",
+    "rating": 5,
+    "review_text": "Thức ăn ngon, giá vừa phải - phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Vũ Lê Hoàng",
+    "rating": 4,
+    "review_text": "Hợp khẩu vị, giá cả phải chăng, sạch sẽ, phục vụ tốt. Sẽ ghé lại khi có dịp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Quang Nguyen",
+    "rating": 5,
+    "review_text": "Có khách bị covid tới quán ăn, mọi người cẩn thận 29/01"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Quốc Bảo Nguyễn",
+    "rating": 4,
+    "review_text": "Khẩu vị ngon, giá bình dân, chỗ đễ xe thoải mái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Tiểu Bun",
+    "rating": 3,
+    "review_text": "Bình thường, không có gì ngon. Giá 50k/tô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Mai Trần",
+    "rating": 5,
+    "review_text": "Ngon👍👍👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Diện Chẩn Cô Ba",
+    "rating": 5,
+    "review_text": "Món ăn thường xuyên của gia đình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752ecb9f4b45fb:0x2e65514e5b8c0f1b",
+    "shop_name": "Bún Bò Huế Hạnh",
+    "user_name": "Trí Đạt Bao bì",
+    "rating": 3,
+    "review_text": "Mon an ngon, phuc vu nhanh, gia ca hop ly"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Ng Tuyên - An Thái Trung",
+    "rating": 5,
+    "review_text": "Nằm ngay mặt tiền đường lớn tại địa chỉ 585 Huỳnh Tấn Phát (phường Tân Thuận, Thành phố Hồ Chí Minh), Bún bò Bến Ngự từ lâu đã trở thành tọa độ quen thuộc của những tín đồ trót mê mẩn hương vị ẩm thực miền Trung. Nếu bạn đang tìm kiếm một …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hà Phương Lương Thị",
+    "rating": 5,
+    "review_text": "Quán có chỗ để xe phía trước hơi nhỏ\nKhông gian quán rộng rãi, ghé vào giữa trưa mà vẫn mát rượi.\nGiá từ 45k cho tô bình thường đến 60k cho tô đặc biệt. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hoa Nguyen Thai",
+    "rating": 4,
+    "review_text": "Quán bún bò Bến Ngự nằm mặt tiền Huỳnh Tấn Phát\nĐặt viện bảo vệ giữ xe rất nhiệt tình\nBún bò và thức uống đa dạng dễ lựa chọn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Trang Nguyễn",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, nhân viên rất dễ thương lun🫶 chú bảo vệ cực dễ thương thân thiện 🔥 đồ ăn ngon nè hợp khẩu vị tui . Giá cả hợp lí 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Dylan Le",
+    "rating": 5,
+    "review_text": "Bún bò ngon tuyệt vời. Ăn ở đây rồi là tất cả những chỗ khác đều dở. Có điều nên bớt mặn xíu, hơi mặn với khẩu vị mình. Mắm ruốc thêm rất thơm và ngon. Ko có máy lạnh nên nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Casey Khuc",
+    "rating": 5,
+    "review_text": "Quán này ăn được lắm.\n\nCó lựa chọn bát bé 30 35 cành gì đó 2 loại bò, bò mình thấy ko bị thái mỏng, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Macar Dang",
+    "rating": 5,
+    "review_text": "Bao ngon nha ae, mình hay ăn đặc biệt xương bò"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Mya Kaming",
+    "rating": 5,
+    "review_text": "Ăn rất nhiều lần rồi và rất ngon thơm béo ạ\nNên mua thêm chai sữa hạt sen nữa, rất ổn cho 1 buổi sáng\nGiá tầm 30-50k tuỳ tô\nMust-try ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Duy Ngo",
+    "rating": 3,
+    "review_text": "Tô quá nhỏ so với giá 50k, vị thì cũng tạm thôi, có mắm ruốc đúng kiểu Huế nhưng bún bò là sợi lớn.\nDọn bàn chậm do khách đông, nhân viên dọn xong cũng ko rửa tay.\nChỗ để xe nhỏ, chú giữ xe vui vẻ nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "An Truong Van",
+    "rating": 5,
+    "review_text": "Đã ăn nhiều quán bún bò nhưng đặc biệt ấn tượng với quán này. Nước dùng thơm, thanh, không quá nồng. Thịt tái mềm, gàu giòn. Nhân viên và chủ đều nhiệt tình, thân thiện, chủ động dắt xe cho khách. Giá cũng không mắc, 35 ngàn tô bình thường, 40 ngàn tô lớn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tèn Ten Production",
+    "rating": 4,
+    "review_text": "Vừa có phở và bún bò. 1 tô tái nạm chả xương bò 55k cũng tạm về giá. Thịt mềm nước dùng trong, được phục vụ thêm trà đá.\nCó chú dắt xe thân thiện và nhiệt tình. Ăn vào thời điểm quán đông nên chờ tầm 10p mới ra món."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Khánh Trình Nguyễn",
+    "rating": 5,
+    "review_text": "Vị bún bò ngon hơn quán bên cạnh. Không gian khá thoáng mát, sạch sẽ. 8/10"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Trung Che Hong",
+    "rating": 2,
+    "review_text": "Quán ăn sạch sẽ, thoáng mát, giá cả vừa phải. Tuy nhiên bún bò Huế không đúng vị, ăn hơi nhạt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Long Ngo Quoc Kim",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, tô rất to, thịt rất nhiều, rau rất tươi, phục vụ rất hách nhưng vừa miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Lương Nguyễn",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ. Chú giữ xe siêu nhiệt tình. Bún, phở ăn đều ngon hết đó ạ. Giá từ 35-50k. Tùy vào sức ăn mỗi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Phúc Trần",
+    "rating": 4,
+    "review_text": "Quán sạch sẽ, gọn gàng. Rau ớt đầy đủ. Bún ăn được, hợp khẩu vị người miền Nam. Nước dùng đậm đà. Chấm điểm bún bò 8,5/10\nNhưng nếu là bún bò Huế thì 7/10\nQuán phục vụ vui vẻ lịch sự. Bonus 1 điểm : )"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hoàng Thanh",
+    "rating": 5,
+    "review_text": "Mình rất thích ăn ở đây.\nNước dùng ngọt xương và ngon.\nRau luôn trụng nóng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Huyen Nhu",
+    "rating": 5,
+    "review_text": "Thơm, ngon.\nMình ăn tô Bún bò nạm nhỏ 35k. Vừa đủ ăn với mình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "sĩ thúy lê",
+    "rating": 5,
+    "review_text": "Bún bò ngon, phục vụ vui vẻ, đồ ăn sạch sẽ!\nVề phần vị: nếu thích ăn kiêu không nồng vị, đủ vị ngọt của bò, từ thịt, nhẹ nhàng mùi sả cây, thanh nhẹ vị chua ngọt của thơm thì bún bò ở đây có đủ.\nChổ ngồi thoáng mát, sạch sẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "An VuLe",
+    "rating": 1,
+    "review_text": "Chỉ làm đơn cho shipper, chờ 20p ko ra món ??? Hỏi ko trả lời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Dung Nguyen",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, bún ngon, giá cả rất phải chăng, mọi người trong quán cũng rất thân thiện. Điểm cộng nữa đó là có những bức tranh trang trí vẽ về Sài Gòn rất đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Điều Hùng",
+    "rating": 5,
+    "review_text": "Ăn ngon\nRau thoải mái ( điểm cộng)\nGiá hơi cao chút.\n#Hriviu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tuấn Nguyễn",
+    "rating": 4,
+    "review_text": "bún bò quan trọng nhất nước lèo, nước đậm đà ngon nhưng hơi ít thịt, nếu k muốn nói là mắc.\nngười việt có xu hướng ăn rẻ hơn ăn ngon, vì vậy quán bún bò kế bên đông người ăn mặc dù nó dở hơn quán bến ngự :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tâm Nguyễn",
+    "rating": 1,
+    "review_text": "Hình như chủ quán không phân biệt được khách đến trước và đến sau. Phục vụ rất chậm. Chỉ có chú giữ xe là tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hộ Nguyễn",
+    "rating": 5,
+    "review_text": "Quán bún bò Huế ngon nhất khu vực, chế biến nguyên liệu tại chổ luôn, thịt nhiều và ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "trần minh trí",
+    "rating": 5,
+    "review_text": "Quán ngon. Mình chấm bún bò ở đây 9/10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Duy Phan",
+    "rating": 5,
+    "review_text": "Bún bò ngon, chất lượng tô 50k."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hung Ngo Nguyen",
+    "rating": 5,
+    "review_text": "Quán mát mẻ, món ngon, sạch sẽ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Sang Nguyen",
+    "rating": 5,
+    "review_text": "10/6/2025:\nSáng trời mưa to, mình và bà xã ghé mua 3 phần mang về. Chú bảo vệ dễ thương cho mình mượn dù che khi mình đậu xe đợi ngoài mưa cùng thằng nhóc 4t. Vợ mình khen người bán trả lời lịch sự. Tiệm có mỡ nổi. 5 stars."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hào Lý",
+    "rating": 4,
+    "review_text": "Quán rộng và sạch sẽ, không gian thoáng. Giá cả bình dân. Ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Lộc Phạm Hữu",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, nhân viên nhiệt tình chỉ có điều là quán hay hết sớm.\nRiêng thứ 2 là hết trước 6h tối\nCác ngày còn lại qua 8h tối là quán dẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nguyễn Huỳnh Thúy Ngân (Thúy Ngân)",
+    "rating": 4,
+    "review_text": "Tạm. Không ngon bằng quán kế bên 🥹 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Minn Haley",
+    "rating": 5,
+    "review_text": "Không gian sạch sẽ. Nước lèo đậm vị ngon nhưng hơi nguội. Đáng thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "06.Dương Công Điền",
+    "rating": 1,
+    "review_text": "Bắt đợi 30p xong bảo hết phở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Ho Chau",
+    "rating": 4,
+    "review_text": "Ăn quán bún bò kế bên quán này ngon lắm mọi người...chuẩn Huế luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Minh Trần",
+    "rating": 5,
+    "review_text": "Bún bò ngon. Tô bình thường có 3 loại thịt lựa chọn như tái, nạm, gân, viên giá 40k. Tô đặc biệt có giò 50k. Ngoài ra còn có phở, chưa thử phở nên chưa biết. Giá bình dân, quán rất đông vào giờ cao điểm. Ăn bún bò  thì nghĩ ngay Bến Ngự."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Thinh Nguyen",
+    "rating": 5,
+    "review_text": "Quán nấu món bún bò rất ngon, rẻ, rất thoáng mát và sạch sẽ. Buổi sáng có mở nhạc nhẹ. Có người giữ xe, dắt xe cho khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Mr CooL",
+    "rating": 5,
+    "review_text": "bún bò ngon, đậm vị, giá cả phải chăng.\nBà chủ hay la chồng con do ông chồng làm biếng. Ai hay ăn quán này sẽ biết là bả la vui thôi chứ ko phải kiểu la cộc cằng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nguyễn minh Cảnh",
+    "rating": 4,
+    "review_text": "Quán xạch xẻ ăn được không ngon lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Minh Van",
+    "rating": 1,
+    "review_text": "Nước lèo rất tệ. K thanh như bún bò sông thương. Nay bên kia nghĩ bán nên qua bên này ăn thử. Nước lèo nấu bằng viên gia vị nêm sẳn chứ không phải nêm tay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "D Min",
+    "rating": 3,
+    "review_text": "Mình thấy nước dùng khá vừa, ko quá đậm đà như gốc Huế. Mình gọi bát tái nạm giò. Nạm bò bị khô và có mùi như để tủ lạnh. Phần tái thì hơi vụn. Không gian sạch sẽ, mát mẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Diệu Thảo Trần",
+    "rating": 4,
+    "review_text": "Hay ăn bún bò gốc huế kế bên. Mới thử ở đây 1 lần. Quán thoáng mát, phục vụ nhanh. Khác biệt ở chén mắm nêm thêm. Tuy nhiên không thích bằng quán gốc huế kế bên. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nguyen Phan Long",
+    "rating": 4,
+    "review_text": "Mọi thứ cho trải nghiệm ok hơn quán Sông Hương kế bên rất nhiều, nhân viên, người bán hay chú giữ xe vui vẻ hòa đồng...Hoi đắt 1 tí nhưng chất lượng nhen...ăn uống thoải mái chứ không phải nghe chửi như quán nào đó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Thanh Trúc [Bách Khoa Land]",
+    "rating": 4,
+    "review_text": "Quán bún bò huế này mình mới ăn lần đầu, thấy cũng khá ngon, mình đánh giá 4 sao nhé, hy vọng sẽ có cơ hội ghé ăn nữa :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Vivid Tran",
+    "rating": 5,
+    "review_text": "Quán này ăn rất ngon nha mọi người . Ở đây khi ăn sẽ có trà đá miễn phí nữa nhé ,giá cả phải chăng ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Adv Myx",
+    "rating": 3,
+    "review_text": "Nước lèo mặn, dở. Nhưng thái độ phục vụ tốt, thân thiện, chứ ko ăn nói mất dạy, bất cần khách như quán của con mẹ \"gốc Huế\" kế bên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hung An Nguyen",
+    "rating": 4,
+    "review_text": "Nói chung là bún bò ăn được nhất trong quận 7 (khu vực gần KCX/ cầu Phú Mỹ, xa hơn thì có thể có quán khác ngon hơn)."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hùng Nguyễn",
+    "rating": 2,
+    "review_text": "Quá mắc !\nĂn 1 tô nhỏ trẻ em gồm bún và vài lát thịt , thêm chai trà C2 mà hết 50000 ! Khiếp !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Vien Nguyen",
+    "rating": 5,
+    "review_text": "Món ăn ngon, đúng chất bún bò xứ Huế. Chồng bà chủ vừa dắt xe ra vào cho khách, vừa liến thoắng hỏi chuyện khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Ánh Phương Nam",
+    "rating": 4,
+    "review_text": "Hợp khâu vị. Ăn ngon. Phục vụ nhiệt tình và bàn ghế rất sạch sẽ hợp vệ sinh. Khó đậu xe hơi nhưng liều vẫn đậu được. Có nhân viên giữ xe. Ăn ngon sạch sẽ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Lộc Nguyễn",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, mặt bà chủ luôn luôn quạo, nhưng thôi kệ, cứ ăn đi, ngon và giá cả phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "PHƯỚC TUẤN PHAN",
+    "rating": 3,
+    "review_text": "Quán này có bà chủ rất đanh đá, nhiều lần ghé ăn mà phải ngồi nghe bà chủ chửi chồng như chửi chó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Vo Thanh Duy",
+    "rating": 5,
+    "review_text": "Bún bò vs phở khá ngon, không gian quán sạch sẽ, nhân viên vui vẻ nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nhân Dương",
+    "rating": 4,
+    "review_text": "Ok ngon.\nNhìn vậy là đã đủ biết ngọt nước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hung Nguyen Huu",
+    "rating": 4,
+    "review_text": "Quán ăn ngon, phục vụ nhiệt tình. Ngon nhất là nước dùng rất vừa miệng ..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Lập Tấn",
+    "rating": 1,
+    "review_text": "- Mấy năm về trước ăn ngon .\n- Lúc ăn dỡ còn mắc nữa .\n- Bà chủ ko thân thiện . …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tai Tran",
+    "rating": 4,
+    "review_text": "Giá phải chăng. Món ăn ngon nhưng hơi nhiều bột ngọt. Chú dẫn xe thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "giang tran",
+    "rating": 1,
+    "review_text": "Ngồi đợi gần 20p ch ai lại kêu gọi món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "toan le van",
+    "rating": 3,
+    "review_text": "Ngon, rẻ so với giá trị của tô bún,sạch,tạo cảm giác ngon miệng khi ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Linh Nguyen Bao",
+    "rating": 5,
+    "review_text": "Bún bò ở đây khá ngon, sạch sẽ và thoáng. Giá cả cũng ok nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Lộc Lầy family",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, đồ ăn ngon nhưng quán hay đóng cửa sớm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Phong Nguyen Thuong",
+    "rating": 5,
+    "review_text": "Quán bún bò này khi ăn nhớ cho vào 1 ít măm mới thực sự cảm thấy sự khác biệt. Good.!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Phuc Vuong Gia Hsing",
+    "rating": 4,
+    "review_text": "Hương vị nước rất ngon nhưng thịt cắt rất nhỏ làm món ăn mất tính hấp dẫn rất nhiều..nên chấm 4 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "thanh minh",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, đồ ăn ngon có thêm các loại nhóc giải khát tuy chọn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Vy Tran",
+    "rating": 5,
+    "review_text": "Món ăn ngon,hợp vệ sinh.\nDịch vụ thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Mạnh Quân",
+    "rating": 2,
+    "review_text": "Lúc trước bún ở đây đậm hương vị. Nhưng càng về sau không được như trước. Và bà chủ ko thân thiện. Hay có tiếng cãi cọ. Cảm giác ko thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Kha Phan",
+    "rating": 5,
+    "review_text": "Một trong những quán ngon, chất lượng & sạch sẽ nhất mình từng ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Quang Duong",
+    "rating": 5,
+    "review_text": "Vẫn ngon như ngày nào, dịch covid ko ảnh hưởng lắm đến chất lượng tô bún 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "hoàng vy nguyễn",
+    "rating": 5,
+    "review_text": "Nước lèo ngon, đậm đà\nNhân viên phụ vụ dễ thương và quán vệ sinh tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "An Huy Nguyen",
+    "rating": 5,
+    "review_text": "Vị thanh dịu ít béo, rau tươi ngon, anh giữ xe siêu nhiệt tình hỗ trợ. Giá phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Phát Kim",
+    "rating": 5,
+    "review_text": "Giá hợp lý 40-50k, nước dùng ngon. Nên ăn thử ít 1 lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "giang hue",
+    "rating": 5,
+    "review_text": "Giá bán hợp lý, phục vụ chu đáo, món ăn ngon, vừa miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hận Anh",
+    "rating": 1,
+    "review_text": "Món bún bò ỏ đây nấu nước quá mặn, thịt bò không được tươi, mà giá hơi mắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Cường Trương",
+    "rating": 5,
+    "review_text": "Bùn bò ngon, sạch sẽ, nhân viên vui vẻ nhiệt tình, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Trần Lâm",
+    "rating": 4,
+    "review_text": "Bún bò ngon, vừa miệng\nCó bán thêm sữa hạt sen rất thanh và mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Son Ha Bui",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, nhân viên thân thiện, phục vụ nhanh, đồ ăn cũng ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Mỹ Hòa Cty CP TM XD",
+    "rating": 5,
+    "review_text": "Quán có Bún bò và phở các loại. Hương vị bún bò rất ok!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nguyễn Văn Đông",
+    "rating": 5,
+    "review_text": "Bún ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "anhhung nguyen",
+    "rating": 4,
+    "review_text": "Tạm thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Lê Thành Phát Nguyễn",
+    "rating": 5,
+    "review_text": "thoáng mát, sạch sẽ, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Dung Hoang Thi Thu",
+    "rating": 4,
+    "review_text": "Mắm ruốc huế ngon.\nChú phụ dắt xe rất nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Minh Mom",
+    "rating": 4,
+    "review_text": "Quán ổn nhưng hơi mặn so vợi mình. Mọi người nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tien Trinh",
+    "rating": 5,
+    "review_text": "Ngon, sạch sẽ, nước lèo thanh trong, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "MR API",
+    "rating": 5,
+    "review_text": "Bún bò Huế ngon, vị vừa ăn, không bị nặng mùi ruốc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "THUY LAM TRAN",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ,  thoáng  mát. Bún bò ngon,  chất lượng,  giá rẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Giang VanMinh",
+    "rating": 5,
+    "review_text": "Chuẩn, ngon 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nhi Pham",
+    "rating": 5,
+    "review_text": "Bún bò Huế rất ngon nha mọi người!\n+ Quán sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Lành Nguyễn Công",
+    "rating": 5,
+    "review_text": "Ngon, sạch sẻ... Phục vụ nhiệt tình, chỗ để xe hơi nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Đăng Nguyễn",
+    "rating": 5,
+    "review_text": "Quán ăn sạch sẽ, chủ quán thân thiện, dắt xe dùm khách luôn :D"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "tai trantien",
+    "rating": 5,
+    "review_text": "thức ăn ngon, không gian sạch , hợp vệ sinh, phhujc vụ chu đáo, ân cần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tp. HCM Hạt Tiêu",
+    "rating": 5,
+    "review_text": "Mình hay ăn quán bên cạnh cũng rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Dung Trần",
+    "rating": 4,
+    "review_text": "Ăn ngon, đậm vị. Hơi ít chỗ ngồi. Phục vụ hơi chậm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "mạnh phạm văn",
+    "rating": 4,
+    "review_text": "Chỗ để xe nhỏ quá nhưng bún bò thì chuẩn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tùng Võ Thanh",
+    "rating": 5,
+    "review_text": "Món ngon, đúng chất huế. Giá 35 40k 1 phần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Trần Duy Minh",
+    "rating": 5,
+    "review_text": "Quán ngon, sạch sẽ, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Bảo Thy Vi",
+    "rating": 1,
+    "review_text": "Nhân viên quá tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "truong phat loc",
+    "rating": 4,
+    "review_text": "Ngon. Nhân viên phục vụ hơi ít nên tính tiền khá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Mai Thảo",
+    "rating": 4,
+    "review_text": "Mắm ruốc ok, bún ok! :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hoangde Le",
+    "rating": 5,
+    "review_text": "Quán bình dân mà ăn rất là ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Long Nguyen Hoang",
+    "rating": 5,
+    "review_text": "Bún bò ngon. Mắm ruốc vắt chanh chấm thịt bò ngon bá cháy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Minh Huy Hồ",
+    "rating": 3,
+    "review_text": "Quán ngon sạch sẽ nấu đậm đà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Pungg Pung",
+    "rating": 4,
+    "review_text": "Phục vụ tốt, có vẻ sạch sẽ, mà nước dùng cũng bình thường thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "leejong chae",
+    "rating": 2,
+    "review_text": "Tạm dc.giá khá cao.điểm cộng vệ sinh.điểm trừ phục vụ chưa rõ ý khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Khi gia",
+    "rating": 5,
+    "review_text": "Bún bò rất ngon, giá rẻ, phục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Lê Hồng Vỹ",
+    "rating": 5,
+    "review_text": "Quán bún bò ngon nhất đường huỳnh tấn phát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Thắng Vũ",
+    "rating": 5,
+    "review_text": "Quá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Ngọc",
+    "rating": 4,
+    "review_text": "Ăn ngon, nhưng chỗ đậu xe hơi hạn chế"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tiên phan",
+    "rating": 5,
+    "review_text": "Quán bán ngon. Giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "MC BÙI ANH TUẤN",
+    "rating": 5,
+    "review_text": "Chuẩn vị Huế. Có ruốc Huế cực thơm. Giá hợp lý. Phục vụ nhanh!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Trinh Trần",
+    "rating": 5,
+    "review_text": "Bún bò ngon, sạch sẽ, phục vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Linh Ideas",
+    "rating": 4,
+    "review_text": "Món bún bò vừa ăn, thơm ngon, hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "phuoc loc nguyen",
+    "rating": 4,
+    "review_text": "Ngon,  đậm đà hương vị Huế.  Giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "BẾN ĐA NGÔ KIM",
+    "rating": 4,
+    "review_text": "Phục vụ tốt, ăn cũng ngon,sạch sẽ, nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "LẨU DÊ ÚT DUNG",
+    "rating": 5,
+    "review_text": "Nước lèo thơm hương vị đậm đà.đặc biệt nước chấm rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nhất Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon,nhưng hơi nhỏ và ồn ào."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Quang Trong Bui",
+    "rating": 5,
+    "review_text": "Quán ngon, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "nam dinh ngoc",
+    "rating": 5,
+    "review_text": "Ăn cũng ngon tô hơi to có mùi thơm của Huế"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "THANG NGUYEN MINH",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon,vệ sinh sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nam Nguyen Ba",
+    "rating": 4,
+    "review_text": "món ăn vừa miệng, 35-45k/tô, trẻ em ăn được,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nelson Nguyen",
+    "rating": 5,
+    "review_text": "Chú coi xe là chủ quán, rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "QUYNH NGA BUI",
+    "rating": 5,
+    "review_text": "Ngon các bạn ạ\nNên gọi nạm gầu nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Duc Nguyen Trung Vu",
+    "rating": 3,
+    "review_text": "Không ngon lắm, giá tương đối rẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Bình Hồ Ngọc Sơn",
+    "rating": 5,
+    "review_text": "Quá ngon luôn..e ăn hơi bị ghiền ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tống Kthông",
+    "rating": 5,
+    "review_text": "Ngon, rất ngon. Khu vực bếp sạch sẽ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Thuy Vo",
+    "rating": 4,
+    "review_text": "Quán sạch sẽ, ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Steven Vu",
+    "rating": 3,
+    "review_text": "Quán sạch sẽ, thoáng mát."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hoài Nhã",
+    "rating": 5,
+    "review_text": "Ngon giá cả hợp lý nên thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "xung lam",
+    "rating": 5,
+    "review_text": "đã ăn quán này: NGON, SẠCH SẼ..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Khánh Trần",
+    "rating": 3,
+    "review_text": "Tạm. Giá cũng vừa. Phục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nhan Tran",
+    "rating": 5,
+    "review_text": "Một quán bún bò nên thử qua."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nguyễn Việt Linh",
+    "rating": 2,
+    "review_text": "Bún bò thơm ngon, hợp khẩu vị."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "VAN 478 TRAN",
+    "rating": 3,
+    "review_text": "quan an ngon nau theo phong cach nguoi hue"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Đan Tăng",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ từ chổ ngồi đến chiếc đũa 👍👍👍, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Cần Minh",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, miễn phí giữ xe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hường Thái",
+    "rating": 5,
+    "review_text": "Nước lèo rất ngon, quán sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "hanh nguyen",
+    "rating": 5,
+    "review_text": "Quán bán bình dân ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Van Tien Le",
+    "rating": 4,
+    "review_text": "Đồ ngon.. Giá phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Vu Vo Hoang",
+    "rating": 4,
+    "review_text": "Quán hơi nhỏ nhưng vị đậm đà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Le Quan",
+    "rating": 5,
+    "review_text": "Bún bò ngon chủ quán nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Khắc Tiến Nghiêm",
+    "rating": 5,
+    "review_text": "Phục vụ sắp xếp, rắt xe ra rất chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Minh Quân Xe Tải",
+    "rating": 5,
+    "review_text": "Bún bò ngon chủ quán vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tran Duc Thuan",
+    "rating": 5,
+    "review_text": "Quán gần nhà, món ăn yêu thích"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Kỳ Nguyễn",
+    "rating": 5,
+    "review_text": "Quán ruột, không thể thay thế 😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hồng Bàng Đế Vũ (Hùng Anh Minh)",
+    "rating": 4,
+    "review_text": "Ngon bình dân , đúng chất Huế ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Thuy Nguyen",
+    "rating": 5,
+    "review_text": "Quán ngon , phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Sơn Nguyễn",
+    "rating": 5,
+    "review_text": "Nấu vị ăn rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "ika Tako",
+    "rating": 5,
+    "review_text": "Quán quen của mình!!! Ngon ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "quang tuân trần",
+    "rating": 5,
+    "review_text": "ngon, hương vị đúng huế, chả ngon, chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Minh khang Nguyễn",
+    "rating": 5,
+    "review_text": "Quán bán ngon.giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Thanh le long",
+    "rating": 5,
+    "review_text": "ngon vkl ra, dm thằng nào chê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tien Tung Nguyen",
+    "rating": 5,
+    "review_text": "Ngon, sạch sẽ, dịch vụ tốt 😁 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "HAPHI THOI TRANG THIET KE",
+    "rating": 1,
+    "review_text": "Quán không có wifi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Chick de Le",
+    "rating": 5,
+    "review_text": "Ngon, giá cả phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Thanh Vy Nguyễn",
+    "rating": 5,
+    "review_text": "Bún ngon giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Le Cong Thuan",
+    "rating": 3,
+    "review_text": "Ăn ngon, giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Duy Phuong Nguyen",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Thanh Binh",
+    "rating": 3,
+    "review_text": "Sạch sẽ, ngon , giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tuan Nguyen",
+    "rating": 3,
+    "review_text": "Nước kèo nấu rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "MAI CUC NGUYEN",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ. Ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "MESSI VIET",
+    "rating": 5,
+    "review_text": "Ăn ngon. Nên ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Duc Le",
+    "rating": 5,
+    "review_text": "Ngon, vừa miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "hien chau",
+    "rating": 3,
+    "review_text": "Chú quán la um.sùm mất lịch sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "duchuy Tran",
+    "rating": 4,
+    "review_text": "Món ngon. Nhân viên tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Phú Cường Phạm",
+    "rating": 5,
+    "review_text": "Ngon, rẻ chất lượng Huế."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Kim Lau",
+    "rating": 4,
+    "review_text": "Thức ăn và bia ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Quân Lương",
+    "rating": 5,
+    "review_text": "Ngon, sạch sẽ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Kha Nguyen",
+    "rating": 4,
+    "review_text": "Bún ngon chả cũng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Ha Nguyen Hoang",
+    "rating": 4,
+    "review_text": "Bún bò Huế ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "THÁI VIỆT",
+    "rating": 5,
+    "review_text": "Ngon lắm. Đáng để thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Dương Bets pro",
+    "rating": 5,
+    "review_text": "Ngon hết xảy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Deferasirox Novartis",
+    "rating": 4,
+    "review_text": "Ngon vừa túi tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Bắc Mercedes Vietnam Star",
+    "rating": 4,
+    "review_text": "quan này không ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Vo Van Hai",
+    "rating": 5,
+    "review_text": "Ăn uống giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Ngoc Thach Vu",
+    "rating": 5,
+    "review_text": "Ngon, bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "TRANG TRÍ THIÊN NGỌC KỲ CÔNG TY TNHH TM DV",
+    "rating": 4,
+    "review_text": "Ngon và sạch."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tuong Tran Van",
+    "rating": 5,
+    "review_text": "Ngon, giá phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Dong Thaithanhdong",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Dung Tran",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nhan Ho",
+    "rating": 3,
+    "review_text": "Bún ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Nguyễn Thị Bạch Tính",
+    "rating": 5,
+    "review_text": "Ngon, sạch, rẻ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Thanh Tùng Võ",
+    "rating": 5,
+    "review_text": "Ngon để và sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "tola thach",
+    "rating": 5,
+    "review_text": "Cực ngon luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Quốc Việt Ngô",
+    "rating": 5,
+    "review_text": "Ngon bá cháy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Do Jimmy",
+    "rating": 3,
+    "review_text": "Quán bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Hoang anh Le",
+    "rating": 5,
+    "review_text": "Ngon .re"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Quốc Bùi",
+    "rating": 5,
+    "review_text": "Quán tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Tú Hồng",
+    "rating": 5,
+    "review_text": "Ngon, sạch sẽ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Thang Nguyen",
+    "rating": 5,
+    "review_text": "Ngon giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "luân nguyễn",
+    "rating": 4,
+    "review_text": "Sạch sẽ, ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Duy Nguyen",
+    "rating": 4,
+    "review_text": "Bán sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Anh Da Đen",
+    "rating": 4,
+    "review_text": "Bún khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175257928f97225:0x72851782842692a0",
+    "shop_name": "Bún bò Huế - Bến Ngự",
+    "user_name": "Gia Phước Huỳnh",
+    "rating": 5,
+    "review_text": "Ngon lắm nghen"
+  }
+]

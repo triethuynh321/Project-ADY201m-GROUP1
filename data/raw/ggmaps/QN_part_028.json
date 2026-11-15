@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Anh H",
+    "rating": 5,
+    "review_text": "Ngon, rẻ, mở trễ 😋\nTasty, cheap, opens late 😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "nguyen ho",
+    "rating": 5,
+    "review_text": "Ngon, mọi người nên đến 1 lần để ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Hảo Nguyễn",
+    "rating": 3,
+    "review_text": "Đồ ăn tạm được, chất lượng phù hoẹp với giá tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Quang Xavi",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, nhưng giá hơi đắt 1 chút"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Linh Võ",
+    "rating": 5,
+    "review_text": "Giòn và ngon bánh đạt tiêu chuẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Nguyen creator Chuong (thợ gỗ điêng điêng)",
+    "rating": 5,
+    "review_text": "Giá bình dân.nhiều loại nước chấm rất ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Huy Le (Bom)",
+    "rating": 5,
+    "review_text": "Ăn rất ngon. Quán quen của địa phương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Dragon Hoàng",
+    "rating": 4,
+    "review_text": "Ko biết phải nói sao cho đúng  , nhưng ăn ko bằng lúc trước nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Sàn bất động sản Ninh Thuận",
+    "rating": 3,
+    "review_text": "bánh xèo ngon, món ăn đặc trưng Phan Rang"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Hoàng Sơn Bùi",
+    "rating": 1,
+    "review_text": "đồ ăn ngon mà phục vụ quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Sakaisp Thiên",
+    "rating": 5,
+    "review_text": "Bánh xèo rất giòn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Tiến Đại Võ",
+    "rating": 4,
+    "review_text": "Bánh ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Thảo Vy Nguyễn Ngọc",
+    "rating": 2,
+    "review_text": "Bình dân hơn bánh xèo Quê Hương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "SON Taxi-Cab",
+    "rating": 5,
+    "review_text": "giá cả Khá Ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Phuong Nguyen Xuan",
+    "rating": 4,
+    "review_text": "Quán lâu năm, vị ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Trương Thanh Bình",
+    "rating": 3,
+    "review_text": "Quán bình dân, giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Thi hoa Nguyễn",
+    "rating": 3,
+    "review_text": "Ngon,sạch nhưng chờ lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Nguyễn Quốc Trung",
+    "rating": 4,
+    "review_text": "Ẩm thực bánh xèo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "H Luong",
+    "rating": 4,
+    "review_text": "Bánh xèo ngon  ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Em Nguyễn",
+    "rating": 3,
+    "review_text": "Ngon giá cả họp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Khoa",
+    "rating": 4,
+    "review_text": "ngon, phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Lân Lê",
+    "rating": 5,
+    "review_text": "tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "dung khuulam",
+    "rating": 4,
+    "review_text": "Ngon nhưng đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "MINH VƯƠNG PHẠM NGỌC",
+    "rating": 4,
+    "review_text": "Ngon , thiếu chỗ ngồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Yumi Map",
+    "rating": 3,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Văn phước Nhật Duy",
+    "rating": 5,
+    "review_text": "Ăn ngon okela"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Phúc Nguyên",
+    "rating": 4,
+    "review_text": "Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "BAIGON Design Construction Co.,Ltd",
+    "rating": 4,
+    "review_text": "Đặc sản Phan Rang. Ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Ngoc Nguyen Thuy Ai",
+    "rating": 5,
+    "review_text": "Ngon quá xâ ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Ann R",
+    "rating": 5,
+    "review_text": "Bánh xèo rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Bui Xuân Trung",
+    "rating": 2,
+    "review_text": "Ngon lại dẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Lê Quang Dũng",
+    "rating": 3,
+    "review_text": "Ngon, rẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Ken Pr85NT",
+    "rating": 2,
+    "review_text": "Đợi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Quốc Xuân Phạm",
+    "rating": 5,
+    "review_text": "Chỉ là ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "an nguyen hong",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Pham Sum",
+    "rating": 1,
+    "review_text": "Tạm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "NHÂN HOÀNG",
+    "rating": 5,
+    "review_text": "Ngon, rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Huy Phan",
+    "rating": 5,
+    "review_text": "Đặc sản phan rang !!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Triều Nguyễn Nhật",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Tri Truong Minh",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Thu Huyền Tạ",
+    "rating": 4,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Thuy Thai",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "LAV",
+    "rating": 5,
+    "review_text": "Bánh căn ngon. 3 cô nhiệt tình vui vẻ. Hổm mở hàng không biết ngày hôm đó các cô bán ok không kkkk.\nMình gọi 2 phần bánh căn thập cẩm (mỗi phần 5 cặp), 3 cái bánh xèo và 1 tô cá …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Trọng Trần Đức",
+    "rating": 4,
+    "review_text": "Quán ăn địa phương\nBánh xèo, bánh căn. Tôm mực …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Eric Vo",
+    "rating": 5,
+    "review_text": "Quán 10đ mấy cô chú cực kỳ dễ thương lun. Mắm cá dầm mấy cô cho miễn phí. Rất ngon lạ lun. Bánh xèo 5 cái 55k. Tôm mực tươi ngon. Rất đáng thử nhe."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Nam Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon, bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "6153_Nguyễn Đình Huy",
+    "rating": 1,
+    "review_text": "Thái độ không cần khách hàng, tới trước mà đưa trước cho 2-3 bàn tới sau, nói thì kêu sao mà hối, ko bao giờ quay lại nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "HeeSung Park",
+    "rating": 4,
+    "review_text": "Chỉ có một tiếng chó sủa. Nhưng thức ăn đa dạng và nguồn gốc phong phú. Giá cả hợp lý. Mở cửa từ 3 giờ 30 chiều."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "YouPiano",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và giá cả phải chăng! Một số ghế bị hỏng nên hãy cẩn thận."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Boris Vivares",
+    "rating": 4,
+    "review_text": "Quán bánh xèo Phan.Rang ngon nhất. Nếu đông khách thì phải chờ lâu trừ khi bạn chọn dịch vụ trực tiếp. Nhân viên rất thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Phong Nguyen",
+    "rating": 3,
+    "review_text": "Đồ ăn ngon nhưng phục vụ rất chậm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Thu Hiền Hoàng Thị",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Nguyen Nhat",
+    "rating": 5,
+    "review_text": "Bánh xèo, món ăn địa phương rất ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Chiju Cj",
+    "rating": 5,
+    "review_text": "Giá cả phải chăng và hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Tuan Le",
+    "rating": 3,
+    "review_text": "Được rồi 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Doãn Huỳnh Nhật",
+    "rating": 5,
+    "review_text": "Nốt Rê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "QC Firesmin",
+    "rating": 5,
+    "review_text": "Thực phẩm địa phương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "Em Nguyễn",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d02e90f84f9f:0x118e303815e6f48c",
+    "shop_name": "Bánh xèo 22 Quang Trung",
+    "user_name": "dinhbao computer",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tú Trần",
+    "rating": 5,
+    "review_text": "Mì cay ngon, giá hợp lý, nước dùng ngọt thanh, sợi mì dai, sốt chấm bò rất vừa miệng. Kimpap ở đây có màu đậu biếc, thơm bùi chấm tương siêu ngon luôn. Ramen thơm nhưng nước dùng tương đối nhạt so với mình nhưng vẫn ngon nhe. Mấy món chiên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Vân Anh",
+    "rating": 1,
+    "review_text": "Nhân viên trên lầu thái độ cực kì tệ và không nghiêm túc. Bọn mình vào quán khoảng 19h50 ngày 15/06 gọi nvien lấy nước đá thì bảo nước lọc ở đây là mình tự lấy. Sau đó bọn mình có oder thêm 1 lon siting thì k thấy nv đem tới nhưng các b cố …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tân Nguyễn Thị",
+    "rating": 3,
+    "review_text": "Đi ăn về dô trang của quán đọc 3 sao 1 sao không là hiểu rồi quán nên trending lại nhân viên chứ không sau này mất khách dài dài , chẳng hạn như mình , mình sẽ không quay lại nữa . …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tram Nguyen",
+    "rating": 1,
+    "review_text": "Vô ngồi cả buổi nhân viên đi qua đi lại không ai thèm hỏi 1 tiếng trong khi quán vắng tanh. Đến khi lên tiếng mới lại oder mà không 1 tiếng xin lỗi. Khi gọi món, nhân viên đọc lại món thế mà ra đồ vẫn bị thiếu. Khách hỏi thì nhân viên ngơ ngơ ngáo ngáo không 1 câu xin lỗi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Trung Thiện",
+    "rating": 3,
+    "review_text": "Phục vụ rất chậm (gần 20p cho 1 tô mỳ dù quán lúc đó không đông), nhưng cũng đánh giá cao các bạn nhân viên nhiệt tình khắc phục vấn đề. Không gian mát mẻ thích hợp đi nhóm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tuệ Minh",
+    "rating": 5,
+    "review_text": "Nhóm mình đi 6 người, oder đồ ăn ở đây khá nhiều. Đồ ăn ngon, nóng hổi, nhân viên oder nhanh, tận tình.Nói chung tất cả đều tuyệt vời, 5 saooooooooo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Bảo Nhi Phạm Hoàng",
+    "rating": 4,
+    "review_text": "Đây là những gì mình quan sát và trải nghiệm:\n- Nhân viên không niềm nở lắm\n- Quán sạch sẽ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Ngân Kim",
+    "rating": 4,
+    "review_text": "đồ ăn cũng ngon nhưng thái độ của nhân viên không thân thiện cho lắm , khách tới ngồi 10p vẫn k dọn dẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Như Ái",
+    "rating": 5,
+    "review_text": "⭐⭐⭐⭐⭐ 5/5 sao! Nước dùng đậm vị, topping đầy đặn, cay tê đầu lưỡi nhưng cực cuốn. Ăn một lần là muốn quay lại lần nữa! 🍜🔥 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Oanh Tran",
+    "rating": 5,
+    "review_text": "mì cay ngon lắm nha , nhân viên nhiệt tình , hải sản tươi , món ăn ra nhanh không phải đợi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "duong lan Duong",
+    "rating": 3,
+    "review_text": "Mì ngon nhưng trứng nên để lòng đào thì ngon hơn . Trà khế vị lạ nhưng ngon nhé . Góp ý nhỏ nhà hàng thì lớn mà cho khách cái chén nước chấm vừa ô nhiễm môi trường, vừa ko phù hợp với không gian . Chủ quán nên cân nhắc sài qua chén nhựa tái sử dụng để thân thiện môi trường nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Joseph Bá",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, quán thoáng mát, nhân viên thân thiện dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thuận Thảo",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon\nNhân viên nhiệt tình\nBầu không khí thoảng mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Trâm Anh",
+    "rating": 1,
+    "review_text": "Nhân viên quán chỉ lo ở trong đùa giỡn, khách tới ngồi lúc lâu, phải vào trong quầy gọi mới chịu ra oder. Thái độ nhân viên quá coi thường khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nguyễn Ngọc Thư",
+    "rating": 1,
+    "review_text": "Dịch vụ rất tệ , vào trước nhưng đồ ăn lại mang ra sau . Đã vậy đến khi hỏi bắt đợi thêm 5 phút . Bái bai không hẹn gặp lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thanh phước Phạm",
+    "rating": 1,
+    "review_text": "Đồ ăn ra rất lâu chờ cả tiếng chả thấy món đâu.\nNhân viên mình kêu không chạy lại order mà cười đùa giỡn không xem khách hàng ra gì."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Đình Nguyên Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon lắm luôn, chắc là brand mì cay mình thích ăn nhất ( trừ yagami thủ đức:)) )"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "My Nguyen",
+    "rating": 1,
+    "review_text": "Hôm qua mình đi ăn ở yagami có kêu 3 tô mì cay và 1 ly nc, tổng 3 tô mì của tụi mình là 165 , ly nước là 30 tổng là 195 , lúc đầu bạn mình đưa tiền mặt 160k cho nv , nv đếm tiền xong tui bảo tui ck phần của t cái nv lại bảo t chuyển thêm 86k nữa mà trong khi đồ chỉ có 55k bắt mình chuyển 86k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "kieu pham",
+    "rating": 5,
+    "review_text": "Ngon, sạch sẽ và phục vụ rất nhiệt tình, chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "KaNhi Đ",
+    "rating": 2,
+    "review_text": "Mình đi lúc 9g rưỡi sáng, nhân viên thái độ rất lồi lõm, phải kêu ord mới tới hỏi món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Huy Hoang",
+    "rating": 4,
+    "review_text": "Tiệm hơi nóng dù có máy lạnh\nMì cay ăn được, sợi mì không được dai lắm\nPizza không ngon, dù gì cũng là quán mì cay mà, không sao cả."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "An Khánh",
+    "rating": 5,
+    "review_text": "Quán có nhìu sự chọn, đồ ăn khá ngon, mik đã quay lại quán rất nhìu lần, nhân viên nhiệt tình, siêu cute 😘. Lẩu rất ngon 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Hoàng Nguyên Đs",
+    "rating": 4,
+    "review_text": "Đi vào quán từ 17h  nhưng vẫn chưa được order, trong khi lúc vô là nhân viên đang dọn bàn và 2 bàn khách sau vô thì được order trước, đến khoảng 17h10 thì mới có 1 bạn nhân viên khác mới ra hỏi và order."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Ngọc Lê Kim",
+    "rating": 5,
+    "review_text": "Không gian mát mẻ, rộng thoải mái, đồ ăn ngon vừa miệng, nhân viên nhiệt tình. 🫶 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nguyen Khoa",
+    "rating": 1,
+    "review_text": "Mình đến từ hồi 7h mà đợi hơn 1 tiếng trong khi vẫn có đồ ăn,đoàn mình đi 5 người có 1 bạn vội nên đặt đồ ăn trước rồi về,rồi 2 bạn kia cũng có.rồi mình với 1 bạn thấy bạn tụi mình đều có nên cũng chờ,cuối cùng đợi 1 tiếng vẫn chưa có đồ ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Huan Vo",
+    "rating": 1,
+    "review_text": "Mì cay tạm ổn. Nhưng nhân viên phục vụ không được tốt. Nhầm món nhầm độ cay, gọi mỳ cay thập cẩm, mang mì cay hải sản..., thêm món rất lâu. Quá tệ đối với cách phục vụ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Gia VY Hang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngonn, nhân viên phục vụ nhiệt tìnhh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Trí Lê",
+    "rating": 1,
+    "review_text": "Odo 2 tô  nữa tiếng bưng ra 1 tô,trong khi mấy người dô sau lại có trước,rồi tý nữa mới bưng ra thêm 1 tô nữa,trong khi quán ko đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nhi Truc",
+    "rating": 5,
+    "review_text": "Mình ăn ở đây cũng khá nhiều lần, nhưng lần nào cũng có điểm chung đó là thái độ nhân viên phục vụ như mẹ mình v đó :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Phong Hoàng",
+    "rating": 5,
+    "review_text": "đồ ăn ngon , nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tuấn Trần",
+    "rating": 4,
+    "review_text": "Nước dùng ngon, cái muối chấm ớt đỏ và cá viên rất ngon , mỗi tội tôm hơi nhỏ và không được tươi 🤷🏻‍♂️ , nhân viên linh hoạt nhiệt tình …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Trân Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thiện",
+    "rating": 1,
+    "review_text": "khó nói thật, bạn gái em order mì bò cấp 2 mà quán đem ra tô mì bò cấp 7, vì bạn gái em cũng hơi hướng nội nên cũng ráng ăn, đồ ăn cũng chẳng được ngon mấy, ăn xong bạn gái e bị đau họng, quán làm ăn quá ẩu tả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Như Bò Ngu",
+    "rating": 2,
+    "review_text": "đi tầm buổi trưa 1h , quán vắng tầm 6 7 khách mà chờ lên món tận 1 tiếng! nhân viên thì chậm chạp vấn đề bé tí cũng kh giải quyết được.Nước mì cay hơi mặn kh hợp khẩu vị lần đầu cũng như lần cuối tới quán này… …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Long Trần Hoàng",
+    "rating": 5,
+    "review_text": "Quán sạch không gian thoáng mát đồ ăn ngon nhân viên tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Hồng Nhật",
+    "rating": 1,
+    "review_text": "dở dở dở nói chung dở, nhân viên thái độ với khách hàng, bỏ tiền ra đi ăn mà như đi ăn trực, bảo vệ ok tuyệt vời nên giữ chân bảo vệ lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nezzi",
+    "rating": 5,
+    "review_text": "Ưng vô cùng luôn nha, bé Như vs bé Sương phục vụ rất tận tình niềm nở với khách lắm nha, bác bảo vệ rất nhiệt tình dắt xe cho tụi em í, nước mì ăn rất vừa miệng luôn nói chung là oke la lắm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Liên Kim",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình không gian mát mẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Lam",
+    "rating": 5,
+    "review_text": "mì ngon , nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Quỳnh Sển Thị",
+    "rating": 3,
+    "review_text": "Đồ ăn ngon, nhưng nhân viên phục vụ rất thái độ.Kiu món trước nhưng mà tận 20p mới ra. Trong khi đó bọn tui là ng đến trước mà lại nhận đồ ăn sau người đến sau mình.Nên xem,và chỉnh lại nhân viên phục vụ của quán nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Đa Phạm",
+    "rating": 5,
+    "review_text": "Quán có không gian mát mẻ, nhân viên khá tinh tế, dễ thương, mì cay ngon rất hợp khẩu vị. Mọi người nên đến trả nghiệm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Quỳnh Như Trần Ngọc",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, máy lạnh mát okela"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Đông Nguyễn",
+    "rating": 5,
+    "review_text": "quán nhân viên phục vụ rất nhiệt tình, đồ ăn  thì ngon mà ra còn siêu nhanh, mấy lúc quán đông ra hơi lâu mà nv rất lịch sự xin lỗi đàng quàng luô."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thịnh Võ",
+    "rating": 5,
+    "review_text": "Rất ngon, phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Soobin Hoàng Vũ",
+    "rating": 5,
+    "review_text": "Không gian thoáng mát rộng món lên nhanh nhân viên để thương mọi người nhớ đến trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nguyên Thảo",
+    "rating": 1,
+    "review_text": "Mình thấy mỳ thì bth nhưng cách phục vụ nên coi lại. Để giá tô mỳ 49k mà đến lúc tính tiền 4 tô thì phải thối 4K nhưng nhân viên lơ đi và ko gửi lại tiền thối cho tụi mình. Mình có hỏi r cũng dạ dạ đi, cứ 1 bàn lơ mấy ngàn như v thì khẳm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Binh Nguyen",
+    "rating": 4,
+    "review_text": "Không gian quán rộng, mát mẻ. Menu đa dạng mì cay, mì trộn đủ cấp độ cay. Ăn vừa miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nhân Trần",
+    "rating": 2,
+    "review_text": "Nhân viên không chu đáo, lơ là. Vào quán 15p mà nhân viên không thấy khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Minh Lê",
+    "rating": 4,
+    "review_text": "Lần đầu ăn lẩu tại Yagami vị nhạt, hải sản bình thường tôm không tươi lắm. Còn lại ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Gia Huy Lương",
+    "rating": 5,
+    "review_text": "đồ ăn ngon hộp khẩu vị nhân viên nhiệt tình lịch lự mọi người nên đến quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Đặng Ngọc Thiên Ân",
+    "rating": 1,
+    "review_text": "Nhân viên cực kì tệ, thái độ k nghiêm túc, thái độ cực kì khiến khách hàng khó chiuyj, nhân viên khiến cho chất lg của quán ăn đi xuống, các banj nhân viên quá trẻ và thiếu ý thức trầm trọng, quản lí nên coi lại, tôi sẽ k bao giờ ghes lại ở đây nữa ! các bạn làm nv thì nên làm trong trắc nghieemj của mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thảo phng",
+    "rating": 1,
+    "review_text": "mì cay ổn ngon , nhưng mìng nghĩ quán cần cải thiện về vấn đề nhân viên , ra gọi món k đưa menu biết gọi mì gì đợi đến lúc mình nói mới đưa , đưa nước ra thì để nước lên ngay cái menu quán k đặt hẳn xuống bàn , nhân viên ồn ào ,cười giỡn và thái độ chỉ vì vậy mà ăn cảm thấy cũng k ngon nổi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thuỳ Nguyễn",
+    "rating": 1,
+    "review_text": "Mì cay gọi là tạm ổn , pizza thì tệ không có j đặc biệt còn mì trộn thì vừa ngọt vừa hắt khó chịu vô cùng . Đồng thời nhân viên khi order rất thái độ với khách hàng xong sau đó lại quay qua giỡn với nhân viên khác làm ồn . Và đặc biệt là ra món rất lâu . Chắc có lẽ mình sẽ ko quay lại nữa ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "tien thanh",
+    "rating": 5,
+    "review_text": "món nào cũng ngon, nghiền quán này ghê luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Mẫn Lê thị thanh",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình dễ thương đồ ăn ngoan mọi người nên đến"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Quyên Tú",
+    "rating": 5,
+    "review_text": "quán ăn rất ngon nhân viên nhiệt tình lắm ạ❤"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tin Tin",
+    "rating": 1,
+    "review_text": "Nhân viên quán hỗn láo cực, cuối ngày còn ít khách ngồi trong quầy chửi đổng với nhau cực kì thiếu văn hoá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Uyên Thảo Hán",
+    "rating": 1,
+    "review_text": "đi 10 khách tưởng 1 hay gì mà không thấy rồi k ra ord, ra ord mà thái độ liếc khách, mặt 1 đống, đi lúc sáng. NHÂN VIÊN QUÁ COI THƯỜNG KHÁCH HÀNG"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tui Nè",
+    "rating": 3,
+    "review_text": "Đây là góp ý mong quán đọc rồi xem xét. Các bạn nhân viên có vẻ giỡn hơi nhiều, nhiều khi mình đang ngồi ăn nhưng các bạn lại tập\ntrung và nhảy quay video khiến mình cũng không thoải mái cho lắm. Có mấy lần …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nguyễn Nguy",
+    "rating": 4,
+    "review_text": "Mỳ cay k cay quán mở nhạc t cay :)))) ms ct con ẻm ghệ quán mở nhạc 10 bày đúng 10 bài nyc t up story :(((\nPV 10d₫ nha ok â có tại đang buồn đánh giá 4 sao hoy nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "C12 Realme",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình đồ ăn ngon hộp khẩu vị không gian rộng thoáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Hứa Thị Thảo Nguyên",
+    "rating": 5,
+    "review_text": "Mỳ cay ngon\nGiá cả ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nguyễn Hoàng Anh",
+    "rating": 1,
+    "review_text": "nhân viên thái độ với khách cực kì thậm tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thảo Bích",
+    "rating": 1,
+    "review_text": "Lần thứ nhất em có tới ăn thì quán và phục vụ rất ok. Nhưng lần thứ 2 em tới thì phục vụ rất tệ nha, em và bạn đi vào ngày cn mà hết bàn, lúc đó có bàn khách vừa đi nên em và bạn có tới chờ phục vụ dọn bàn,, khi dọn xong nó cho người tới …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Như Phương",
+    "rating": 5,
+    "review_text": "mì lẩu thái ngon nhân viên dễ thương nhiệt tình rất oke"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Vy Nguyễn",
+    "rating": 2,
+    "review_text": "Nhân viên nữ thái độ, lau bàn cũng không sạch... đúng như lời đồn về quán 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Đức Lê",
+    "rating": 1,
+    "review_text": "mì ở đây ngon nhưng thái độ nhân viên không thể chấp nhận được cười giỡn, ồn ào trong giờ làm và rất thái độ với khách cảm thấy ăn kh còn được ngon miệng. quản lý nên thay đổi nhân viên ở quán cần khắc phục điều này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Vi Lê",
+    "rating": 1,
+    "review_text": "Order xong đã xác nhận lại món rồi ngồi đợi 15-20p rồi ra báo sót bill chưa làm món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Taro Dosu",
+    "rating": 1,
+    "review_text": "Nhân viên khá cọc,không có bình nước đá như bên seoul"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tài Nguyễn",
+    "rating": 1,
+    "review_text": "tới trước nhưng chưa có món bàn sau lại có món trước???"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Kiên Phạm",
+    "rating": 2,
+    "review_text": "Menu không có nhiều lựa chọn, các loại mì cay không đa dạng, mùi vị ăn cũng được, các món khác khẩu phần khá ít.\nNhân viên khá thiếu tinh thế không chủ động mang cốc nước, chén, tương chấm (để …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "NGỌC BÍCH",
+    "rating": 5,
+    "review_text": "Mì cay ngon , không gian thoáng mát, đẹp, sang, sịn, mịn 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tienfydgi tdgHo",
+    "rating": 4,
+    "review_text": "Hải sản tươi ngon..nhưng vê cach phuc vu thì chưa chu đáo ,bàn mình đi 8ng . Gọi 8phan mì đem ra có 1phan còn 7ng kia ngôi đợi 15phut sau, lúc sau ra 6phan nưa rồi 1ng ngồi đợi tiêp khoảng 10phut nưa. làm nguoi ăn truoc ngại khó khăn vô …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "belen25ss",
+    "rating": 5,
+    "review_text": "bạn nhân viên nữ tên Duyên làm việc okii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Mi Nhi",
+    "rating": 1,
+    "review_text": "Ăn lẩu chén thì dơ còn dính cọng rau, đũa thì dính dầu mỡ gì đó, đồ nhúng lẩu thì có hải sản bị ươn quá dơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Đz Khang",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ, kêu thiếu chén tương ớt mà đem lên quăng lên bàn như dằn mặt khách, cười cợt đùa giỡn thiếu tôn trọng khách hàng, nói chung vấn đề nằm ở thái độ nhân viên. CẦN QUÁN KHẮC PHỤC NẾU CUỐI LÀM ĂN LÂU DÀI"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "범이금",
+    "rating": 5,
+    "review_text": "Từ ngày pik đến yagami chỉ ăn ở đây thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thu Uyen",
+    "rating": 3,
+    "review_text": "Đồ ăn ổn nhưng lên món quá lâu,đợi gần 1 tiếng mới có, hỏi nhân viên đến lần thứ 3 mới lên món.Nhưng vì quán mới mở nên hoan hỉ mong sẽ có trải nghiệm tốt hơn lần sau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Bình Phúc",
+    "rating": 1,
+    "review_text": "Tết biết là đông, nhưng dịch vụ không thể chấp nhận. Khách vô oder đợi 30p rồi ra tiếp bảo đợi bếp đang làm. Tiếp lần sau tới là đang kẹt bill, máy không ra bill cho bếp. Trong khi nhiều bàn đã được lên món. Không có sự ưu tiên khi nhầm lẫn, nên xem lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Ngân Giang Lê",
+    "rating": 1,
+    "review_text": "Lần đầu cũng như lần cuối. Nước lẩu ngon nhưng dịch vụ siêu tệ! Đi 4 người nhưng chỉ mang 2 ly đá mặc dù đã dặn trước lấy 4 ly:))\nMua lẩu mang về thì quán siêu rề siêu lâu. Nói chung né quán này từ nay🙏🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Y21s Vivo",
+    "rating": 5,
+    "review_text": "Nhân viên chu đáo nhiệt tình đồ ăn ngon lên món nhanh không gian thoáng mát mọi người nên đến trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Như Trịnh Huỳnh",
+    "rating": 2,
+    "review_text": "Dịch vụ tệ, nhân viên nữ k nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Huỳnh Nữ Kim Phượng",
+    "rating": 5,
+    "review_text": "Ngon hơn chữ ngon . Nhân viên cực thân thiện 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Hòa Nhã",
+    "rating": 5,
+    "review_text": "đồ ăn ngon,lên nhanh mặc dù quán rất đông,nv thân thiện,không gian quán rộng rãi thoáng mát, sạch sẽ , 10đ nên đến"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thắng Nguyên Nguyễn",
+    "rating": 1,
+    "review_text": "Quán nhận viên thái độ ,chửi tục trc mặt khác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Kim Yến Lê",
+    "rating": 1,
+    "review_text": "nhân viên thái độ kh làm đúng yêu cầu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nguyễn Ngọc Minh Trang",
+    "rating": 1,
+    "review_text": "nhân viên thái độ khinh khinh ra, nói xấu khách hàng chả hiểu làm ăn kiểu gì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thư Minh",
+    "rating": 5,
+    "review_text": "Yagami là s1 hì hì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "nhi doan",
+    "rating": 1,
+    "review_text": "em không hài lòng lắm với cách giải quyết này của quán lắm ạ. Nhà em xa mà thu ngân của quán bắt e quay lại trả mì, cũng không rep lại comment của em , cảm ơn quán đã xem bài của em"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Cao Huyền Nguyễn Hồ",
+    "rating": 2,
+    "review_text": "Bột ngọt quá nhiều ăn xg là bị say bột ngọt ngay gọi cấp 3 mà cay như cấp 6-7 vừa cay vừa nóng dẫn đến khó tiêu nhân viên chậm chạp nc dùng nước uống quá nhạt gọi trà sữa khoai nhưng chỉ có thạch tct trà sữa bị lạt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "hồng anh",
+    "rating": 5,
+    "review_text": "tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Quyênn Lann",
+    "rating": 5,
+    "review_text": "Không gian mát mẻ. Nhân viên siêu dễ thương, nhiệt tình, đồ ăn ngon rất hợp khẩu vị. Nên ghé quán ạ❤❤❤"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Hồ Phương Uyên",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, không gian thoáng đãng, phù hợp đi ăn nhóm và gia đình. Mình thích ăn mì cay ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Gái Bùi",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình đồ ăn ngon hộp khẩu vị không gian thoáng mát mọi người nên đến"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Phương Trâm",
+    "rating": 5,
+    "review_text": "Mì cay đậm đà rẻ hơn những chỗ khác nhưng chất lượng thì khỏi phải bàn nhân viên nhiệt tình thái độ thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tien Thanh Pham",
+    "rating": 5,
+    "review_text": "nv dth mà mì cũng ngon lắm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "ha thanh",
+    "rating": 5,
+    "review_text": "đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Quyên Đayyy",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện nhiệt tình mì cay ngonn k có gì để chê 😋 10₫ 🥵🤗😶‍🌫️🥀🌹🌺🌾🌸💐🌷🌝 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thanh Ngọc",
+    "rating": 5,
+    "review_text": "Nhân viên xinh vui vẻ nhiệt tình lịch sự , đồ ăn ngon rẻ , nên đến thử ạ Tuyệt Vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Hiền Kim",
+    "rating": 1,
+    "review_text": "Đợi món quá lâu kiu nhân viên thì nhân viên làm ngơ xin bình nc thì đợi lâu mới đem"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thanh Như",
+    "rating": 5,
+    "review_text": "ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Truc Tran",
+    "rating": 1,
+    "review_text": "Mì bò được 2 miếng mò , nước dùng thì quá hăng quá ngọt , đánh giá chân thật là kh nên tới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nguyễn Khoa Trường Thành",
+    "rating": 4,
+    "review_text": "Quán phục vụ hơi chậm, đồ ăn ngon hơn so với một số quán tương đương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Anh Quỳnh",
+    "rating": 5,
+    "review_text": "Mì cay thì ngon khỏi phải bàn nhân viên thì nhiệt tình vui vẻ  hòa đồng phục thì rất chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Hạo Duy",
+    "rating": 1,
+    "review_text": "những món như mì trộn , pizza quá dở nghe như mùi rượu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tan Quy Ho",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình đồ ăn ngonnn\nsẽ rủ nhiều ng tới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "h hongthaoo1",
+    "rating": 1,
+    "review_text": "nhân viên thái độ khó chịu , thái độ với khách hàng k thích !!!!!!!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Châu Bảo",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình, dễ thương, đồ ăn ngon 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Kiet Duong",
+    "rating": 1,
+    "review_text": "Nhân viên rất bất lịch sự, chạy lun tung đùa giỡn nhảy ầm ầm ồn ào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thien Thien",
+    "rating": 5,
+    "review_text": "Mì cay ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Phạm Tuyết Nhung",
+    "rating": 5,
+    "review_text": "ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Bạch yến Trần",
+    "rating": 5,
+    "review_text": "Tui thich ăn lẩu ở đây vì lẩu ở đây nước dùng đậm đà vừa miệng nhân viên chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Khánh Băng",
+    "rating": 2,
+    "review_text": "chờ quá lâu, xin nhân viên bình nước mà đợi 20p chưa có"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tô Thư",
+    "rating": 5,
+    "review_text": "Quán ngon , nvien dth"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "An Đặng Thành",
+    "rating": 2,
+    "review_text": "món ra lâu\nnhân viên k. tôn trọng khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "gà con",
+    "rating": 5,
+    "review_text": "Mì ỡ đây rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Ngoc Nguyenduc",
+    "rating": 1,
+    "review_text": "mi udon ko duoc ngon nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Meoo Bé",
+    "rating": 1,
+    "review_text": "nhân viên cười cợt không tôn trọng khách, nói xấu khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Xinh Hoai",
+    "rating": 5,
+    "review_text": "Ko gian thoáng nhân viên dẹt đo an ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Diệu Huyền",
+    "rating": 5,
+    "review_text": "Nvien phạm quỳnh anh dễ  thương cute lắm luôn á:3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thanh Nga",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tue Gia",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Lam Ngọc",
+    "rating": 5,
+    "review_text": "đây là lần đầu tiên ăn nó rất hợp khẩu vị với tôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thanh Hiền Nguyễn",
+    "rating": 5,
+    "review_text": "Bạn Nhi , Thắng , Sương rất cute mà còn nhiệt tình 10d"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "B Ninh Thuận",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên phục vụ CHÁN"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Vân Thảo",
+    "rating": 2,
+    "review_text": "Quán lên món siêu lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Anh Tuấn Lê",
+    "rating": 5,
+    "review_text": "Cảm ơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Luan Ngoc",
+    "rating": 5,
+    "review_text": "Mì cay ngon quá , sẽ ghé lại lần sau 😍😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nga Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "gia hânn",
+    "rating": 5,
+    "review_text": "đồ ăn siêu ngon , nhân viên siêu nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Anh Kim",
+    "rating": 5,
+    "review_text": "Menu đa dạng đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Dân An",
+    "rating": 5,
+    "review_text": "Ngoan"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Đức Phú",
+    "rating": 1,
+    "review_text": "mi tron bo do qua nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Trần Thị Tuyết Nhi",
+    "rating": 5,
+    "review_text": "View đẹp, đồ ăn lại ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Ngoc Le",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên ko đc nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tu Ngoc",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thùy Phương",
+    "rating": 5,
+    "review_text": "mì cay ngon sẽ tới nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Hạ Khánh",
+    "rating": 4,
+    "review_text": "cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "nguyên lê",
+    "rating": 4,
+    "review_text": "Nhân viên nhiệt tình ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nhàn Thanh",
+    "rating": 1,
+    "review_text": "phục vụ tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nguyễn Võ Nhật Quỳnh",
+    "rating": 1,
+    "review_text": "Tô Mì Bò Mỹ 59k ???\nMình có hỏi nhân viên thì NV bảo là khẩu phần có định lượng 40-45g gì đó. Được 2 lát bò gió thổi bay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Hiếu Nguyễn Thái",
+    "rating": 1,
+    "review_text": "Mình vào mua mang về nhưng không có 1 nhân viên nào ngoài sảnh để Oder , mình vào chỗ gần bếp có 1 bạn thì mình kêu Oder nhưng ngồi vài phút sau cũng không ra Oder , phải tự vào chỗ quầy để gọi món . Vào trong thì thấy nhân viên tụ tập , ăn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tuyền Thanh",
+    "rating": 1,
+    "review_text": "hôm qua mình đi ăn thì có bạn nữ oder lùn lùn tóc đen kh nghiêm túc cho lắm, khách còn ngồi đó mà giỡn nch kh xem khách ra gì , bộ bạn mắc giỡn lắm hả:))??"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thủy Tiên",
+    "rating": 3,
+    "review_text": "Nhân viên thái độ tệ, xin thêm 1 bình nước thôi mà đứng sau lưng, bộ xin 1 bình nước để uống là sai hay sao?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "HD NQ",
+    "rating": 1,
+    "review_text": "Mình ăn rất nhiều lần nhưng lần này khá thất vọng, mình đến quán ngồi hơn 10p kh thấy nhân viên đến order, gọi không trả lời, biết quán đông nhưng những người đến sau lại được order trước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tắc Minh",
+    "rating": 1,
+    "review_text": "Quán gì ngồi cả buổi mà chả thấy ai đi qua order, ngay cả khi gọi nhân viên mà kiểu giả điếc, không thèm nghe, đề nghị quán tuyển nhân viên biết nghe nói được với ạ. Chứ quán ăn được mà nhân viên quá tệ , tức tới nổi bỏ về chứ ăn uống gì ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thanh Xuân",
+    "rating": 1,
+    "review_text": "Mình order món 7h50 tối mà tới 8h30 chưa có đồ ăn, trong khi người đi sau mình người ta có đồ ăn và đi về trước mình rồi. Xong mình hỏi có đồ ăn chưa, tầm 10ph nhân viên mới mang đồ ăn qua. Rồi nếu mình không hỏi thì sao. Trải nghiệm này có lẽ mình không quay lại quán nữa ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Thanh Thao",
+    "rating": 1,
+    "review_text": "nhân viên giỡn trong khi khách dặn mì chín thì đem ra mì sống cho khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Hiệp Lê",
+    "rating": 1,
+    "review_text": "Vô quán ngồi chờ 15p chưa thấy nv gọi món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Tuyền Kim",
+    "rating": 1,
+    "review_text": "Đi cùng gia đình và có trải nghiệm quá tệ\nThứ nhất nhân viên đứng nói chuyện và để 1 bàn dài đồ ăn không ai dọn, để khách đến sau phải đứng chờ, dọn bàn thì dồn lại 1 bàn chứ không đem xuống …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Trúc Thanh",
+    "rating": 1,
+    "review_text": "quán 10g mới đóng cửa mình bước vô quán 9g10 có vẻ nvien hơi cọc. Trong tô mì thì có lá cây và 1 cọng tóc, mình oder mì thập cẩm nhưng sao kh cs cá viên, cấp 2.3 bth ăn kh cay nhm g bỏ rất cay, chưa hết g khách còn ăn mà nvien đã tắt máy quạt???thái độ kh tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Nhân Nguyễn Hoàng",
+    "rating": 5,
+    "review_text": "Tạm biệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3170d15ce6462829:0xae2c561760bfedfb",
+    "shop_name": "Mì cay Yagami Phan Rang Ẩm thực Lẩu Thái - Nhật - Hàn",
+    "user_name": "Ngân Thu",
+    "rating": 5,
+    "review_text": "Ngonnnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Phong Phúng phính",
+    "rating": 5,
+    "review_text": "Đồ ngon , hợp khẩu vị. Nv Phục vụ nhiệt tình. Mọi người nên ghé qua trải nghiệm. Tôi đã ăn ở đây rất nhiều lần , chưa lần nào phải chê trách gì. Có khi phải đăng kí hội viên thẻ VIP ở đây. Cảm ơn nhà hàng đã mang đến cho tôi những trải nghiệm thật là tuyệt vời và đáng nhớ. Tôi sẽ quay trở lại vào 1 dịp gần nhất."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Phạm Thị Cẩm Hà",
+    "rating": 5,
+    "review_text": "Món tráng miệng rất ngon\nẤn tượng với món cơm mực chiên lên một tầm cao mới trong ẩm thực, đây là sự sáng tạo. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hùng Xuân",
+    "rating": 5,
+    "review_text": "Một nhà hàng sang trọng, đồ ăn thức uống được phụ vụ rất chu đáo, một trải nghiệm tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Duong Cuong",
+    "rating": 5,
+    "review_text": "Đồ ăn xuất sắc vị trí đắc địa nhưng đặc biệt nhất là rượu vang những câu chuyện và chia sẻ về kiến thức rượu vang cùng bạn Tú cảm ơn bạn rất nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Nguyễn Thùy Linh",
+    "rating": 5,
+    "review_text": "Chất lượng nhà hàng đáng được đánh giá 5 sao. Từ phong cách phục vụ, không gian nhà hàng đến chất lượng thực phẩm, cách trang trí món ăn. Chất lượng bò ổn nhất tại Hạ Long"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hiep Vu",
+    "rating": 5,
+    "review_text": "món ăn hợp với khẩu vị với giá cả phải trăng nhân viên phục vụ chu đáo và nhiệt tình . giới thiệu sẽ quay lại☺️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Anh Duong",
+    "rating": 5,
+    "review_text": "đồ hải sản rất tươi và ngonn, không gian quán sang trọng và sạch sẽ. Đây là nhà hàng các bạn nên đến khi du lịch Hạ Long"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Nhung Bùi",
+    "rating": 5,
+    "review_text": "Nhà hàng đẹp, nằm ngay tại vị trí Trung Tâm Bãi Cháy, ngay cạnh Sunworld\nĐồ Âu khá ngon, trang trí đẹp rất phù hợp cho Couple"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "thuy trieu",
+    "rating": 5,
+    "review_text": "Highly recommend một nhà hàng hải sản ở phố cổ Bãi Cháy cho mọi người!\nĐồ ăn tươi ngon, giá cả hợp lý, không hề có tình trạng “chặt chém” khách du lịch. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Tú Văn",
+    "rating": 5,
+    "review_text": "Mình và bạn bè tối qua có ăn tại đây. Theo cảm nhận và đánh giá từ bản thân mình thì mọi thứ rất tốt và chỉnh chu từ không gian cho tới món ăn .\nCảm ơn Á Đông Cuisine đã cho mình và bạn bè có một sự trải nghiệm tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Đức Lê Anh",
+    "rating": 5,
+    "review_text": "Một trải nghiệm thật tuyệt vời, đồ ăn rất tươi ngon giá cả phù hợp. Lần sau chắc chắn sẽ quay lại cùng người thân, bạn bè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Nhi Hoàng Uyển",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương, nhiệt tình, thân thiện, quan trọng đồ ăn ngon, ghẹ tôm rất ngọt, nước lẩu ngon tuyệt… có lần sau quay lại sẽ ghé thăm tiếp.😍😍😍😍😍 Halongbay 15/7/2025 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Thao Thao",
+    "rating": 5,
+    "review_text": "Gia đình mình đến Hạ Long và được người bạn giới thiệu điểm ăn tối đồ Âu ở Hạ Long nên mình chọn Á Đông Cuisine, đồ ăn ngon , nhân viên nhiệt tình phục vụ , các bạn ấy còn giới thiệu các điểm đi chơi vui ở Hạ Long cho gia đình mình. Mọi thứ rất ổn , sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Tâm Anh",
+    "rating": 5,
+    "review_text": "Tôi cảm thấy rất hài lòng và tôi rất biết ơn vì nhà hàng đã cho chúng tôi thưởng thức những món ăn ngon 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Cảnh Nguyễn",
+    "rating": 5,
+    "review_text": "Tuyệt vời. Không gian thoáng đãng giữa lòng phố cổ hạ long. Hải sản tươi ngon, bắt mắt, đầu bếp nấu ăn chấm 9,5 điểm. Nhân viên cùng ông chủ nhiệt tình thân thiện. 1 địa điểm không thể bỏ qua khi đến hạ long 🥰🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hoài Nguyễn",
+    "rating": 5,
+    "review_text": "Mình cứ nghĩ nhà hàng ở khu vực phố cổ sẽ rất đắt nhưng ko hề đúng tẹo nào.vừa bước chân tới nơi đã thấy không gian rất ấm cúng và sang trọng.đồ ăn ngon và trình bày đẹp thêm nữa các em nhân viên rất chu đáo,nhiệt tình.mình đi 2 người cả ăn và rượu vang hoá đơn chưa đến 1tr.rất đáng để trải nghiệm!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Thuy An",
+    "rating": 5,
+    "review_text": "Mọi thứ rất ngon, nhân viên nhiệt tình và dễ thương.mình rất thích phong cách decor của quán.cảm ơn nhà hàng vì bữa ăn mình rất ấn tượng vs món steak của quán."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Serent G",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, dịch vụ rất tốt, siêu ưngg trong lần đi đến hạ long lần này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Đặng Khuyên",
+    "rating": 5,
+    "review_text": "Không gian thoải mái và rất đẹp , đồ ăn ngon giá cũng phù hợp. Nhiên viên nhiệt tình chu đó đáng để thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Anh Bui",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, địa điểm chill chill. Quan trọng là các bạn phục vụ dễ mến, chuyên nghiệp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Duc Tran",
+    "rating": 5,
+    "review_text": "Không gian quán rộng rãi thoáng và có rất nhiều view để check in. Đồ ăn rất ngon hợp khẩu vị của chúng tôi và rất vừa túi tiền cũng như nhân viên takecare chúng tôi mỗi khi chúng tôi cần. Tôi đi cùng bạn bè và bạn bè của tôi cũng rất ưng í."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Loan Trương Ngọc",
+    "rating": 5,
+    "review_text": "Quán rất tuyệt. Nhóm chúng tôi đã quay lại lần thứ 2 rồi đồ ăn ngon,trang trí bắt mắt,nhân viên nhiệt tình recommend mn đến và trải nghiệm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "LUN LUN",
+    "rating": 5,
+    "review_text": "Không gian sang trọng, thoáng mát ,vị trí ngay trung tâm. Đồ ăn rất ngon. Phong cách phục vụ của nhà hàng rất chuyên nghiệp có dịp mình chắc chắn sẽ quay lại ủng hộ nhà hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Quang Lưu Đàm",
+    "rating": 5,
+    "review_text": "Nhà hàng rộng và trang trí đẹp. Không gian sang trọng. thích hợp hẹn hò hoặc không gian riêng tư.Nhân viên nhanh nhẹn, Quản lý nhiệt tình hỏi thăm khách . Sẽ ghé lại lần sau :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Bùi Le",
+    "rating": 5,
+    "review_text": "Lần đầu tôi trải nghiệm tại á đông thật sự rất bất ngờ Đồ ăn siêu ngon, hợp khẩu vị.\nKhông gian quán siêu xinh,nhiều sống ảo đẹp.Nhân viên chăm sóc chúng tôi tận tâm cảm ơn nhà hàng vì bữa tối tuyệt vời ạh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Nguyễn Cường",
+    "rating": 5,
+    "review_text": "Nhà hàng hải sản tươi ngon giá cả hợp lý nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Quân Trần",
+    "rating": 5,
+    "review_text": "Món ăn chuẩn vị, đáng để thử.\nBeef wellington"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Quyền Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , Điểm trung tâm dịch vụ ổn nha\nMình có được nhà hàng tặng trang trí Honeymoon rất ưng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Phương Đông Travel Lệ Bùi",
+    "rating": 5,
+    "review_text": "Mình rất thích món pizza của nhà hàng vỏ bánh giòn,nhiều cheese. Không gian sang trọng mình rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hoà Sơn",
+    "rating": 5,
+    "review_text": "Quán lịch sự, giá hợp lý. Rất ngon nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hiệp gà",
+    "rating": 5,
+    "review_text": "Nhà hàng trang trí đẹp , nhân viên thân thiện , đồ ăn thì ngon trang trí bắt mắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "D’Anava Hill Mister",
+    "rating": 5,
+    "review_text": "Ông chủ tính cách vui vẻ và hòa đồng,  nhà hàng là một trong những nhà hàng chuyên nghiệp nhất của khu phố đi bộ Bãi Cháy hiện tại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Manh Diep Vu",
+    "rating": 5,
+    "review_text": "Món ăn phong Phú chất lượng cao đặc biệt nhân viên phục vụ chu đáo và thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Nguyễn Phương Quỳnh",
+    "rating": 4,
+    "review_text": "Nhà hàng phong cách Âu, có nhiều loại rượu cho bạn lựa chọn, món ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hưng Bùi",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, không gian thoải mái phù hợp với các buổi date"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Thuy Trieu",
+    "rating": 5,
+    "review_text": "Mỳ Ý và Pizza ngon tuyệt vời. Nhân viên thân thiện nhiệt tình. Sẽ còn quay lại nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hoa Le",
+    "rating": 5,
+    "review_text": "Đội ngũ nhân viên trẻ  nhiệt tình tư vấn khách hàng. Đồ ăn ngon trình bày đẹp mắt. Mình rất thích nơi này😊😊😊😊😊 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "cong tung",
+    "rating": 5,
+    "review_text": "Đồ ăn quá ngon mà giá lại hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "canh đặng",
+    "rating": 5,
+    "review_text": "chị khuyên phục vụ tốt, đồ ăn ngon, view đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Dương Bin",
+    "rating": 5,
+    "review_text": "Không gian đẹp, đồ ăn ngon, nhân viên thân thiện, chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "uyên đỗ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cả hợp lý, không gian lãng mạn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Bùi Lihn",
+    "rating": 5,
+    "review_text": "Đồ ăn rất chỉn chu và xứng đáng với giá tiền, phục vụ cũng rất chu đáo lun ó. Rcm mọi người đến thử và trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "David Nguyễn",
+    "rating": 5,
+    "review_text": "Một nhà hàng tuyệt vời và chất lượng\nĐồ ăn bắt mắt hấp dẫn\nNhân viên nhiệt tình …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Tuyên Văn",
+    "rating": 5,
+    "review_text": "Sang trọng, lịch sự, mình rất hài lòng về đồ ăn & cách phục vụ của NH"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "nguyen thanh",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "vân bế",
+    "rating": 5,
+    "review_text": "Nhân viên quán siêu siêu đáng yêu, nhiệt tình, đồ ăn chất lượng giá cả phải chăng, mn nên thử nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Phương Anh Lê",
+    "rating": 5,
+    "review_text": "Không gian nhà hàng khoáng đãng,vị trí ngay trung tâm đồ ăn hợp khẩu vị,tôi rất hài lòng với cách phục vụ của nhà hàng. Cảm ơn a quản lí đã nhiệt tình giới thiệu những món ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hiền Lê",
+    "rating": 5,
+    "review_text": "Ngon tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Thùy Dung",
+    "rating": 5,
+    "review_text": "Đồ ăn nóng hổi rất hợp khẩu vị với gia đình mình. Pizza của quán siêu nhiều chesse, nhân viên thân thiện. Nhà mình hơn 10 thành viên ai cũg ưng ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Bùi Lệ",
+    "rating": 5,
+    "review_text": "Món ăn nêm nếm rất ngon, hợp khẩu vị.không gian nhà hàng rộng rãi. Thực đơn đa dạng nhân viên phục vụ rất nice cảm ơn vì đã tư vấn cho mình nhiều món ăn hấp dẫn có dịo mình sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Tên Vũ",
+    "rating": 5,
+    "review_text": "Mình khá ấn tượng vs món steak của nhà hàng tươi ngon,trang trí đẹp mắt. Vị trí ngay trung tâm. Mình rất hài lòng với phong cách phục vụ của nhà hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Thuỳ Ngô",
+    "rating": 5,
+    "review_text": "Đây là lần đầu tiên mình tới Hạ Long cũng như là tới với Á Đông Cuisine mình cảm thấy rất hài lòng. Đồ ăn ngon, không gian thoáng đãng , nhân viên tác phong nhanh nhẹn, nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Kiểm Định H09",
+    "rating": 5,
+    "review_text": "đồ ăn ngon phục vụ tốt, quán có điều hoà mát sạch đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Thanh Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, hợp khẩu vị. Mình rất thích món nem rán Hạ Long của nhà hàng. Cảm ơn mr Long đã nhiệt tình giới thiệu cho mình những món ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "20.Trần Thị Hương Lan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon trang trí đẹp mắt.không gian thoáng đãng,giá cả hợp lý,nhân viên chu đáo.10đ cho nhà hàng có dịp mình sẽ quay lại ủng hộ nhà hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Quỳnh Trang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon,nhân viên nhiệt tình.các món ăn trang trí bắt mắt và cực kì chất lượng.hi vọng có dịp tới hạ long mình sẽ quay lại ủng hộ nhà hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Bảo Khanhh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon,phong phú,đặc biệt menu âu,á phù hợp với tất cả thực khách .Ông chủ nhà hàng đẹp trai vui tính và cực thân thiện nhé mn❤️👌Đáng để trải nghiệm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Huệ Trần",
+    "rating": 4,
+    "review_text": "Không gian nhà hàng thoáng mát, rộng rãi. Đồ ăn và đồ uống nhà hàng ngon, menu đa dạng. Phục vụ nhiệt tình. Mình đã có bữa tối thật tuyệt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Trần Thị Hoa",
+    "rating": 5,
+    "review_text": "Mình khá ấn tượng với món ăn của nhà hàng, đồ ăn ngon,trang trí bắt mắt, mức giá hợp lý. Vị trí ngay trung tâm,không gian quán đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Dung Nguyễn thùy",
+    "rating": 5,
+    "review_text": "Món ăn ngon. Không gian thoáng đãng,trang trí hiện đại,vị trí ngay trung tâm.nhân viên rất nhiệt tình và thân thiện phục vụ rất chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Bé Bê vờ lốc Shin",
+    "rating": 5,
+    "review_text": "Ăn ngon, quản lý nhiệt tình, sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hương Thanh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình. Không gian quán siêu xinh. Mình đã có một bữa tối tuyệt vời cảm ơn nhà hàng Á Đông vì bữa tối chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "蓝蓝",
+    "rating": 5,
+    "review_text": "Nhà hàng phục vụ  tốt, ứng biến nhanh. Tác phong nhân viên tốt nhanh nhẹn, thân thiện. Bữa ăn chất lượng giá cả hợp lý,trang trí bắt mắt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Liên Ngọc",
+    "rating": 5,
+    "review_text": "Địa điểm này là một trong những nhà hàng đẹp nhất tôi từng thấy trong thành phố. Các nhân viên đều rất niềm nở, thân thiện. Đồ ăn cũng rất ngon với mức giá hợp lý như vậy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Trần Phương Ly",
+    "rating": 5,
+    "review_text": "Mình rất hài lòng với chất lượng của nhà hàng cũng như view ở bên ngoài. Không gian bên trong được bài trí rất đẹp, phục vụ tận tình và nhanh nhẹn. Mình xin lỗi vì lỡ làm đổ chén nước nhưng được nhân viên rất nhiệt tình tới và giúp đỡ hết mình. Trải nghệm này thật sự 5 sao nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hùng Nguyễn",
+    "rating": 5,
+    "review_text": "Mình đã ăn 2 lần ở đây, món Việt và món Âu ở đây đều ngon, hải sản tươi sống, rượu ngon và nhân viên nhiệt tình. Lần buổi tối mình khá đông khách và được bạn Cường quản lý tư vấn món và rượu rất tốt. Tks và sẽ quay lại nếu có dịp ở Hạ Long"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "NGUYỄN THÚY HỒNG",
+    "rating": 5,
+    "review_text": "Nhà hàng thoáng mát, phục vụ chu đáo. Hải sản tươi, đầu bếp chế biến rất ngon. Chắc chắn mình sẽ quay lại lần nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Duy Nguyen",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, đồ ăn ngon, trang trí bắt mắt . Không gian đẹp, lịch sự. Phong cách phục vụ của nhà hàng tốt nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "trường Đinh",
+    "rating": 5,
+    "review_text": "Đồ ăn nhà hàng ngon, phục vụ tận tình, thân thiện. Mình khá ấn tượng với menu của nhà hàng khá đa dạng,không gian nhà hàng thoải mái sang trọng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Việt hoàng Đỗ",
+    "rating": 5,
+    "review_text": "món ăn ngon, giá cả hợp lý. Nhân viên chuẩn bị món khá nhanh, không gian rộng rãi, recommend mọi người đến ăn thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "quang hoang",
+    "rating": 5,
+    "review_text": "Nhà hàng trang trí đẹp và sang trọng.món ăn hợp khẩu vị. Nhân viên nhiệt tình, tư vấn rất kĩ càng. Trải nghiệm đáng nhớ mình sẽ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Rebeca Johranne",
+    "rating": 5,
+    "review_text": "Nhà hàng nằm ở vị trí đẹp, không gian nhà hàng sang trọng, có cả khu vực ngoài trời, trong nhà và khu vực phòng riêng, đồ ăn rất ngon, bài trí đẹp mắt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Lệ Bùi Thị",
+    "rating": 5,
+    "review_text": "Đồ ăn của nhà hàng rất ngon, trang trí đẹp mắt. Tôi khá ấn tượng với phong cách phục vụ của nhà hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "ken Robert",
+    "rating": 5,
+    "review_text": "1 nơi lý tưởng để gặp gỡ bạn bè, giao lưu văn hóa và đặc biệt có shisha đẳng cấp châu âu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Lan Kiều",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Nhi Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian thoáng mát, sạch sẽ , phục vụ nhiệt tình , rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Minh Hương",
+    "rating": 5,
+    "review_text": "Mình rất ưng ý với cách phục vụ và ấn tượng với cách trình bày độc đáo của đồ ăn, nhân viên thì rất niềm nở, chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "nguyen long nguyen long",
+    "rating": 5,
+    "review_text": "Nhà hàng mới nhất tại Hạ Long về ẩm thực Âu & Á\nKhông gian cực rộng và rất chill cho các buổi gặp gỡ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Huong Do",
+    "rating": 5,
+    "review_text": "Nhà hàng vị trí ngay trung tâm,không gian thoáng đãng. Đồ ăn rất ngon, hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hường Thanh",
+    "rating": 5,
+    "review_text": "Không khí tốt cho bữa trưa và bữa tối. Đồ ăn thật tuyệt vời, dịch vụ tốt. Recommend mn nên đến thử và trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Sơn Nguyễn Ngọc",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon\nGiá thành tốt\nDịch vụ hoàn hảo\nNên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Thuong Duong Thi",
+    "rating": 5,
+    "review_text": "nhân viên thân thiện, phục vụ tốt,\nđồ ăn ngon\nkhông gian sang trọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Thuý Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , nv  và chu quán phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "thư nguyen",
+    "rating": 5,
+    "review_text": "thái độ nv phục vụ tốt đồ ăn tươi và rất ngon không gian sạch sẽ mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Anh Duong",
+    "rating": 5,
+    "review_text": "Quán đẹp, đồ ăn ngon, Vị trí trung tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Kiet Le Tuan",
+    "rating": 5,
+    "review_text": "Rượu vang nhiều lựa chọn giá vừa phải, đồ ăn ngon, không gian đẹp.\nChúc mừng nhà hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hiệp-Phương Đông transport",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon và đa dạng.phục vụ nhiệt tình vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "hieu tran",
+    "rating": 5,
+    "review_text": "Nhân viên vui vẻ hoà đồng và thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Le Quan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , dịch vụ tốt , nhân viên niềm nở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "quangtca (Lucas Do)",
+    "rating": 5,
+    "review_text": "Giá rẻ, nhiều đồ ăn, chất lượng cao, thái độ phục vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Phuong Pham",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên phục vụ nhiệt tình, check in cực đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Thu Phuong Do",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên phục vụ nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hồng Vân Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cả hợp lí, phục vụ rất tốt 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "QUANG HIEP Nguyen",
+    "rating": 4,
+    "review_text": "Đồ ăn rất ngon. Không gian hơi hẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Phạm Mai Hương",
+    "rating": 5,
+    "review_text": "Nhân viên rất thân thiện , Đồ ăn rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Nam Lê Mỹ",
+    "rating": 5,
+    "review_text": "Mọi thứ đều rất tuyệt vời ! Nhân viên nhiệt tình, chuyên nghiệp!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "TUANBANGBG NGUYEN",
+    "rating": 3,
+    "review_text": "Khá tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Tứ Đinh Trọng",
+    "rating": 4,
+    "review_text": "Món ăn ngon, không gian đẹp, phục vụ chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "BBN Official",
+    "rating": 5,
+    "review_text": "Không gian lịch thiệp, sang trọng. Nhân viên phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Giang Hoàng",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Thơm Vương",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon và giá rẻ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Truong Pham Quang",
+    "rating": 5,
+    "review_text": "Quán ăn ngon+ nhân viên thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hùng Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon ,dịch vụ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Thien Nguyen",
+    "rating": 5,
+    "review_text": "Nhân viên đẹp trai , đồ ăn ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Lione Messi",
+    "rating": 5,
+    "review_text": "Một nhà hàng tốt\nNên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hung Tien",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Do Hoang Ha",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "LADY K",
+    "rating": 5,
+    "review_text": "Ngon xức xắcccccc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Delta-V Citadines-Hạ Long",
+    "rating": 4,
+    "review_text": "khá ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "quy hoang",
+    "rating": 4,
+    "review_text": "Cũng đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Mai Nguyễn Hiền",
+    "rating": 5,
+    "review_text": "rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Đức Thuận",
+    "rating": 5,
+    "review_text": "View đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Nghị Muỗi",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Phạm Quốc Hùng",
+    "rating": 5,
+    "review_text": "Lich sự sang trọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "duy lâm official",
+    "rating": 5,
+    "review_text": "Đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "C. 123",
+    "rating": 4,
+    "review_text": "Tôi gọi suất ăn bít tết phi lê, giá 450.000 VND. Giá này không hề rẻ so với giá cả ở Việt Nam. Miếng bít tết khá dai và khó nhai. Nhìn chung, bữa ăn khá bình thường; tôi sẽ không giới thiệu đây là một nơi ăn uống đặc biệt. Nước sốt tiêu đen …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Eamon G",
+    "rating": 1,
+    "review_text": "Đồ ăn tạm được, chỉ tạm được thôi. Khẩu phần ăn nhỏ xíu, siêu nhỏ. Phần khoai tây nghiền thì đúng là trò đùa. Nhân viên phục vụ nhầm lẫn tất cả các món và đưa nhầm cho người khác với nước chấm sai. Cocktail nhạt nhẽo như nước lã. Gân không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "GG",
+    "rating": 5,
+    "review_text": "Một trong những nơi tuyệt vời nhất ở Bãi Cháy, đặc biệt nếu bạn đã chán đồ ăn Việt Nam. Bít tết chất lượng hàng đầu. Dịch vụ khách sạn tuyệt vời. Nội thất và không khí cũng tuyệt vời. Tôi muốn ở lại lâu hơn nên đã gọi một chai rượu vang Pháp hảo hạng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Triệu Thị Loan",
+    "rating": 5,
+    "review_text": "Món ăn ở đây thực sự xứng đáng điểm 10 tuyệt đối cả về hương vị lẫn cách trình bày. Rau củ tươi ngon và giòn, thịt xông khói thơm lừng, thịt gà mềm, trứng cút béo ngậy, và bánh mì nướng giòn tan kết hợp hoàn hảo với nước sốt đậm đà, cân …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Yvonne Hung",
+    "rating": 5,
+    "review_text": "Chúng tôi đến đó vì những đánh giá tích cực có vẻ là thật. Và chúng tôi đã không thất vọng. Thật vui vì đã tìm thấy nơi này vì có rất nhiều nhà hàng hải sản nằm sát nhau. Thức ăn ở đây rất tuyệt vời. Chúng tôi đã gọi hàu, tôm, ốc biển và …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Elizabeth Marie",
+    "rating": 3,
+    "review_text": "Đồ ăn Việt Nam được phục vụ khá ngon. Bít tết không ngon lắm, không được nấu đúng yêu cầu và không hề có chút cháy xém nào. Nước sốt nấm khá nhạt nhẽo và gây thất vọng. Khoai tây nghiền ăn kèm chỉ có một thìa, rau chỉ được hấp mà không có …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "JJ",
+    "rating": 4,
+    "review_text": "Tôi không chắc có phải do đang là mùa thấp điểm hay không, nhưng thực đơn khác với những gì được đề cập trong các bài đánh giá. Chủ yếu là món ăn phương Tây, chỉ có một vài món Việt và không có nhiều hải sản. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "SebAstian",
+    "rating": 5,
+    "review_text": "Nếu bạn đang tìm kiếm nhiều món ăn địa phương và quốc tế ngon miệng, A Dong là địa điểm lý tưởng. Bên ngoài nhà hàng có nhiều bể cá chứa đầy tôm hùm, tôm, vẹt và cá. Bạn không thể tìm được hải sản nào tươi ngon hơn thế nữa! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Niki Tao",
+    "rating": 1,
+    "review_text": "Tôi và gia đình đến đây ăn tối. Tôi muốn gọi món bít tết T-bone 500g giá 580.000 VND, nhưng người phục vụ nói họ không có. Vì vậy, tôi gọi món sườn cừu cho món chính, giá khoảng 560.000 VND. Mười phút sau, họ mang ra cho tôi hai miếng sườn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Lucas S",
+    "rating": 5,
+    "review_text": "Đây là một nhà hàng thực sự tốt, phục vụ cá tươi ngon. Tôi đã gọi món lẩu hải sản và hàu, phần ăn rất lớn và thực sự ngon. Một phần lẩu có thể dễ dàng chia sẻ cho 3-4 người. Bia tươi cũng rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Andrew Burgess",
+    "rating": 5,
+    "review_text": "Bữa ăn tuyệt vời, vợ chồng tôi gọi món ăn Việt Nam kiểu gia đình để ăn chung, còn con trai tôi gọi pizza... tất cả đều rất ngon 👏 Nhân viên cũng cực kỳ thân thiện. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Jamesline Jeudy",
+    "rating": 3,
+    "review_text": "5/10 Bít tết thăn bò: gọi món chín tái nhưng hầu hết các phần đều sống. Bít tết và khoai tây chiên cũng không có hương vị gì và khá nhạt nhẽo. Khoai tây chiên thậm chí không có muối. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Mạnh Hảo Hảo",
+    "rating": 5,
+    "review_text": "Tôi đã có một khoảng thời gian tuyệt vời tại nhà hàng A Dong. Món ăn rất ngon và hợp khẩu vị của tôi. Nhân viên rất thân thiện, đặc biệt là Tu và lễ tân Anh. Cô ấy đã giúp đỡ tôi rất nhiều. Bạn nhất định không thể bỏ lỡ địa điểm này nếu đến Hạ Long."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Manuel Meza",
+    "rating": 5,
+    "review_text": "Vợ chồng tôi đi ăn tối ở nhà hàng A Dong Cuisine. Chúng tôi gọi một số món ăn kết hợp ẩm thực Nhật Bản và quốc tế, tất cả đều rất ngon. Súp bí ngô rất tuyệt vời và là điểm nhấn của bữa tối. Các món khác cũng rất ngon. Phục vụ nhanh chóng và rất chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Yiannis Toumazis Beach Tennis",
+    "rating": 3,
+    "review_text": "Chúng tôi tìm thấy nhà hàng này trên Google Maps vì đây là một trong số ít nhà hàng trong khu vực có xếp hạng trên 4.5 và hơn 400 đánh giá. Vì vậy, chúng tôi quyết định thử vì thấy đây là một lựa chọn an toàn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Nathaniel",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, phục vụ tuyệt vời và toàn bộ trải nghiệm thật sự đáng kinh ngạc. 10/10 rất đáng để giới thiệu. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "tim treasure",
+    "rating": 5,
+    "review_text": "Vì cả khu vực đều có rất nhiều nhà hàng hải sản, tôi ghé qua với ý định thử món ăn phương Tây, nhưng suất ăn kiểu Việt trông ngon mắt nên tôi đã gọi món đó. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Ivan",
+    "rating": 5,
+    "review_text": "Đồ ăn tuyệt vời, nhân viên thân thiện và giá cả hợp lý. Rất đáng để ghé thăm và thử tại nhà hàng Dong, chúng tôi đã gọi suất ăn 4 món bít tết bò và phần ăn rất thịnh soạn/ngon miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Grace Ngô",
+    "rating": 5,
+    "review_text": "Không gian ngoài trời đẹp và thoải mái. Dịch vụ tuyệt vời và người quản lý rất thân thiện và chu đáo suốt thời gian chúng tôi ở đó. Giá cả đồ ăn hợp lý và món bít tết sườn bò thì tuyệt vời. Chúng tôi sống ở Quy Nhơn và em trai tôi luôn cố …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Cheng Kevin",
+    "rating": 5,
+    "review_text": "Đây chắc chắn là một trong những nhà hàng yêu thích nhất của tôi ở Việt Nam, món hàu xào dầu ô liu rất tuyệt vời, tôm xào trứng muối cũng ngon, xoài cũng ngon nữa. Tôi hy vọng lần sau nếu có dịp đến Việt Nam và Hạ Long, tôi sẽ quay lại đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Keifh Canlas",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhiều rau, kết hợp hoàn hảo với mực và thịt bò. Cả hai món xào đều rất đậm đà hương vị. Chỗ ở cũng rất tuyệt, nhân viên thân thiện. Vị trí đẹp. Nhìn chung, đây là một điểm dừng chân lý tưởng khi đến thăm Việt Nam."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Jasmine Coviello",
+    "rating": 5,
+    "review_text": "Chúng tôi đã ăn trưa ở đây và rất thích nên đã quay lại ăn tối cùng ngày.\n\nNgày hôm sau chúng tôi lại quay lại vì đồ ăn quá ngon! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Love,flower,world愛的花花世界",
+    "rating": 5,
+    "review_text": "Một nhà hàng tuyệt vời. Đặc biệt là món hàu nướng. Siêu ngon và giá cả phải chăng. Chưa đến 30 Đài tệ mỗi con. Chấp nhận thanh toán bằng thẻ tín dụng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "sheena lin",
+    "rating": 5,
+    "review_text": "Không gian và đồ ăn thực sự tuyệt vời! 👍🏻 Món mì Ý có hương vị đậm đà. Mọi thứ khác đều xuất sắc. Nhân viên nói tiếng Anh rất tốt và rất chuyên nghiệp. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Tessa Steneker",
+    "rating": 4,
+    "review_text": "Là một phụ nữ đi du lịch một mình, tôi đã gặp rất nhiều nhà hàng vắng khách. Ngoại trừ ở đây. Tôi quyết định ăn ở đây vì thực đơn trông rất hấp dẫn. Tôi gọi một chiếc pizza, và nó hoàn toàn ổn. Nước sốt Tabasco ăn kèm đặc biệt ngon. Một chiếc nhỏ là quá đủ đối với tôi. Cô phục vụ đã cố gắng hết sức để nói tiếng Anh và rất thân thiện và lịch sự. Tôi hoàn toàn hài lòng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "karen ladd",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời. Tôi đã đi đường hai tuần liền chỉ toàn ăn đồ ăn phương Đông. Tôi thèm đồ ăn Mỹ lắm, pizza margarita ở đây ngon tuyệt, và rượu vang trắng Sauvignon Blanc của Chile cũng xuất sắc, phục vụ thì trên cả tuyệt vời. Rất đáng để thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Jay Carleton",
+    "rating": 5,
+    "review_text": "Một viên ngọc quý bất ngờ. Đồ ăn và dịch vụ 5 sao. Được chuẩn bị cực kỳ tốt, hương vị tuyệt vời, không gian dễ chịu. Ngon đến nỗi vợ chồng tôi đã quay lại vào tối hôm sau. Do bận tập luyện cho cuộc đua, chúng tôi không tham gia vào việc lựa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Katra Kwon",
+    "rating": 5,
+    "review_text": "Món ăn rất ngon! Chúng tôi bắt đầu với món salad Caesar, mỗi người gọi một miếng bít tết, và kết thúc bữa ăn với kem tự làm và món creme brûlée. Mọi thứ đều ngon tuyệt! Nhưng chúng tôi quên chụp ảnh món tráng miệng rồi 😅 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Linda",
+    "rating": 5,
+    "review_text": "Bữa tối rất ngon 😋. 5 sao ⭐️ Món khai vị kiểu Việt Nam + Thêm nem rán, bánh mì nướng kẹp giăm bông Parma, bít tết sườn bò, mì Carbonara cá hồi Na Uy, cơm risotto/mực xào, khoai tây chiên và kem brûlée. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Helene Enehov",
+    "rating": 5,
+    "review_text": "Nhà hàng đẹp với đồ ăn ngon và dịch vụ tốt. Thực đơn đa dạng, phù hợp cho gia đình muốn thưởng thức ẩm thực Việt Nam, đồng thời có nhiều lựa chọn để làm hài lòng cả những thực khách khó tính nhất.\nSẽ rất vui khi quay lại nhà hàng này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Zori Ivanova",
+    "rating": 5,
+    "review_text": "Tôi rất khuyến khích mọi người đến nhà hàng này khi ghé thăm Hạ Long.\n\nNgay từ khi bước vào, bạn sẽ được nhân viên phục vụ chào đón nồng nhiệt. Họ được …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Georgii Goncharuk",
+    "rating": 3,
+    "review_text": "Tôi đã nhờ nhân viên giả vờ tặng mẹ tôi một món tráng miệng miễn phí nhân dịp sinh nhật, nhưng tính vào hóa đơn để tôi trả tiền và để mẹ tôi có thêm dư vị ngon lành. Rồi một người đàn ông mang món tráng miệng đến hỏi mẹ tôi: \"Bà có gọi món …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "McKenzie Freihaut",
+    "rating": 5,
+    "review_text": "Nhất định phải thử khi đến Vịnh Hạ Long!! Chúng tôi đã gọi súp bí ngô, nem rán, gà nấu măng với xôi và bít tết thăn bò với khoai tây nghiền, tất cả đều rất ngon. Súp bí ngô là món tôi thích nhất, tôi có thể ăn đến 5 bát. Phục vụ rất nhanh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Monique",
+    "rating": 2,
+    "review_text": "Không nên đến đây! Chúng tôi gọi súp bí ngô và lượng súp thì quá ít, chắc chỉ khoảng 75cc thôi. Món mì hải sản thì nhiều nước sốt hơn cả cá hay mì, làm tôi đau bụng. Bạn tôi gọi cá hồi và phần ăn thì nhỏ đến mức khó tin. Chúng tôi ra về vẫn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Kasey Heah",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon.\nChúng tôi gọi suất ăn, phần ăn rất lớn và đồ ăn rất ngon.\nNếu bạn ở đây, hãy đến và thử nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Christina A",
+    "rating": 5,
+    "review_text": "Chúng tôi là một nhóm 12 người không có hướng dẫn viên du lịch người Việt. Tình cờ tìm thấy quán này khi đang đi dạo tìm chỗ ăn tối. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Kim모땡이",
+    "rating": 5,
+    "review_text": "Quản lý nhà hàng nói tiếng Anh rất tốt và luôn tươi cười.\n\nPizza được nướng bằng lò củi, và đế bánh rất ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Ezequiel Zanetti",
+    "rating": 5,
+    "review_text": "Đồ ăn và thức uống tuyệt vời. Chúng tôi gọi salad Caesar và hamburger, cả hai đều rất ngon. Quán có chương trình khuyến mãi mua 2 tặng 1 bia Halida, cũng rất tuyệt. Nhân viên rất thân thiện. Quán mới toanh và rất đẹp. Rất đáng để ghé thăm!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Sarah Burgess",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon tuyệt với giá cả rất phải chăng. Không cần đặt bàn trước và phục vụ nhanh chóng. Có khu vực ngồi ngoài trời rất đẹp, và cũng có thể ngồi trong nhà. Rất nên ghé thăm nơi này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Steven Fang",
+    "rating": 5,
+    "review_text": "Tối qua tôi đã có một bữa tối tuyệt vời. Món tôm hùm rất đáng tiền vì chúng tôi được đến 2 món: tôm hùm nướng với phô mai và cháo với đầu tôm. Alex đã tư vấn rất chu đáo. Giá cả phải chăng với dịch vụ tuyệt vời (nhân viên phục vụ đeo găng tay). Có nhiều loại rượu vang để lựa chọn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hannah Yapp",
+    "rating": 4,
+    "review_text": "Tôi đến đây cùng một nhóm bạn và chúng tôi đã gọi một đĩa ăn gia đình cùng với một vài món chính. Đĩa ăn gia đình rất ngon, trong khi các món chính thì chỉ ở mức tạm được. Tôi rất khuyên bạn nên thử đĩa ăn gia đình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Lina Territo",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ rất tốt. Chắc chắn nên ghé thăm. Nem cuốn và bít tết là ngon nhất!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Krishna Thenappan",
+    "rating": 5,
+    "review_text": "Nhất định phải ghé thăm, đồ ăn và rượu vang tuyệt vời, giá cả rất phải chăng!\n\nVợ chồng tôi đang đến thăm Vịnh Hạ Long từ Mỹ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Anna Trieu",
+    "rating": 5,
+    "review_text": "Tôi rất thích món Bruschetta, tươi ngon và giòn tan. Món Crème Brûlée thì tuyệt vời nhất — kem béo ngậy bên trong với lớp caramel giòn rụm bên trên. Tôi rất khuyên bạn nên thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Jennifer Lynn",
+    "rating": 5,
+    "review_text": "Một viên ngọc quý ẩn mình với dịch vụ tuyệt vời, đồ ăn ngon và không gian dễ chịu. Chúng tôi đến đây vào mùa thấp điểm nên không có nhiều quán ăn mở cửa, và những quán mở cửa thì cũng không có nhiều/hoặc không có khách ngồi ăn bên trong, nhưng quán này vẫn mở cửa và đông khách mỗi tối. Rất nên ghé thăm!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Marco Bombino",
+    "rating": 5,
+    "review_text": "Hạ Long vào mùa thấp điểm hơi gây thất vọng nếu bạn không phải là người thích hộp đêm vì bãi biển ở đây biến thành một nơi náo nhiệt. NHƯNG, tôi đã tìm thấy một viên ngọc quý vào ban đêm. Đồ ăn và rượu vang TUYỆT VỜI, giá cả cũng rất phải …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Emilia M",
+    "rating": 5,
+    "review_text": "Tôi rất thích đồ ăn ở đây! Món mì Ý cá hồi rất tuyệt vời, đặc biệt là khi tôi thèm đồ ăn châu Âu sau một tháng ở Việt Nam. Dịch vụ tuyệt vời, và không gian cũng rất dễ chịu. Rất đáng để thử :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Christos Iliopoulos",
+    "rating": 5,
+    "review_text": "Tôi sẽ chấm 99% (luôn có chỗ cho sự hoàn hảo) chứ không chỉ 5/5. Mọi thứ đều rất ngon, khẩu phần ăn lớn, nhân viên rất tốt bụng và thân thiện, giá cả rất hợp lý so với những gì chúng tôi đã ăn. Nếu đến Hạ Long, hãy bắt đầu từ nhà hàng này! Đây là nhà hàng ngon nhất tôi từng đến (hôm qua tôi đến Papa BBQ và hơi thất vọng)."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "jenny Kim",
+    "rating": 5,
+    "review_text": "Tôi chọn thực đơn Giáng sinh và đã có một bữa ăn vui vẻ cùng gia đình 4 người. Cửa hàng đã tặng một em bé một con búp bê. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "金富",
+    "rating": 5,
+    "review_text": "Nhà hàng này có không gian tuyệt vời; rất sạch sẽ và gọn gàng. Món ăn không chỉ đẹp mắt mà quan trọng hơn, hương vị tuyệt vời – một bữa tiệc cho cả thị giác và vị giác. Phương pháp chế biến giữ được hương vị nguyên bản của nguyên liệu. Có …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Valentin Zürn",
+    "rating": 5,
+    "review_text": "Một nhà hàng khá tốt cho một bữa ăn sang trọng hơn một chút. Pizza chúng tôi đã thử đều ngon và giá cả hợp lý. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Gábor Valasek",
+    "rating": 5,
+    "review_text": "Một nơi tuyệt vời với những món ăn ngon khó cưỡng và đội ngũ nhân viên rất thân thiện và nhiệt tình. Chúng tôi không thể ngừng quay lại đây, món bít tết và thịt cừu hầm ngon tuyệt vời. Nếu bạn đang ở Bãi Cháy, hãy tự thưởng cho mình một chuyến đến đây nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Xinyu Ye",
+    "rating": 3,
+    "review_text": "Đối với một bữa ăn kiểu phương Tây ở Hạ Long, Việt Nam, đây là một lựa chọn tốt. Thức ăn được nấu chín kỹ, hương vị ở mức chấp nhận được và no bụng ở mức trung bình, 3/5 điểm. Dịch vụ rất tốt và thân thiện, nhân viên phục vụ rất chu đáo và …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Abigail and Oliver Muir",
+    "rating": 5,
+    "review_text": "Chúng tôi để ý thấy nhà hàng này khi đi dạo quanh khu vực Bãi Cháy, trong số tất cả các nhà hàng chúng tôi đã đi qua, Á Đông có vẻ ngoài thu hút ngay từ cái nhìn đầu tiên và rõ ràng là có không gian tuyệt vời. Chúng tôi đã gọi món Mắm Cơm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Lisa Ziemietzky",
+    "rating": 5,
+    "review_text": "Thức ăn thực sự ngon và chất lượng cao với giá cả hợp lý. Dịch vụ tuyệt vời và không có rào cản ngôn ngữ. Cảm ơn rất nhiều, chúng tôi chắc chắn sẽ quay lại vào lần sau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Maurice",
+    "rating": 2,
+    "review_text": "Tóm lại trải nghiệm của chúng tôi ở đây: không nên đến.\n\nChúng tôi đã gọi một đĩa phô mai và thịt nguội, hai ly rượu vang đỏ và hai chai …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Dave and Dexter",
+    "rating": 5,
+    "review_text": "Đồ ăn tuyệt vời, chúng tôi đã ăn ở đây hai lần và dự định sẽ ăn thêm một lần nữa trong chuyến đi này. Nhân viên rất thân thiện, chất lượng đồ ăn đạt 100%. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Tikyana Haas",
+    "rating": 5,
+    "review_text": "Tuyệt vời!! Chỉ một từ thôi: Xuất sắc!\n\nNhất định phải thử: tôm hùm phô mai và bít tết T-bone. Giá cả và chất lượng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Ken Klausen",
+    "rating": 5,
+    "review_text": "Sau khi dạo bộ trên đại lộ, nhà hàng này trông thật hấp dẫn với thực đơn kết hợp ẩm thực Việt Nam hiện đại cùng hải sản tươi sống địa phương. Tôi đã gọi món cơm risotto mực và nem cuốn tôm tươi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Mirkku Uotila",
+    "rating": 5,
+    "review_text": "Chúng tôi đã có một bữa tối tuyệt vời. Dịch vụ xuất sắc và món ăn rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Leigh Buchanan",
+    "rating": 5,
+    "review_text": "Một địa điểm nhỏ xinh xắn tình cờ tìm thấy khi đang dạo chơi. Thực đơn rượu vang rất phong phú, điều này khá bất ngờ, và đồ ăn thì tuyệt vời. Nhân viên cực kỳ chu đáo. Phục vụ nhanh chóng và hiệu quả."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Tho Nguyen Van Dinh",
+    "rating": 5,
+    "review_text": "Tuyệt vời. Hương vị, mùi vị, cách trình bày, màu sắc. Món ăn rất ngon. Có nhiều loại rượu vang hảo hạng, một số chai rất ngon với những thương hiệu nổi tiếng... Không phải Conti, nhưng vẫn là rượu vang Vosne-Romanée."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Irene Bonciani",
+    "rating": 5,
+    "review_text": "Chúng tôi đã dành hai buổi tối tại nơi tuyệt đẹp này. Các nhân viên phục vụ rất thân thiện, dịch vụ tuyệt vời, và đồ ăn cũng vậy. Mọi thứ đều hoàn hảo. Bạn có thể tìm thấy các món ăn quốc tế ở đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "אושר אלי",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời, món ăn ngon xuất sắc, hương vị rất tuyệt, nhà hàng đẹp. Cảm ơn rất nhiều! ❤️🙏🏽 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "chrystelle aubry",
+    "rating": 5,
+    "review_text": "Tuyệt vời. Sự đón tiếp rất thân thiện và bữa ăn thì tuyệt hảo. Thịt bò rất mềm; tôi làm theo lời khuyên của người phục vụ và không hề thất vọng. Rất đáng để thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Brooke Cannon",
+    "rating": 5,
+    "review_text": "Nhà hàng rất tuyệt vời với đồ ăn xuất sắc. Dịch vụ cũng rất tuyệt! Tôi đã gọi món bít tết sườn bò với sốt tiêu và tôi rất khuyên bạn nên thử. Thịt được chế biến hoàn hảo (tái vừa)."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "A PB",
+    "rating": 2,
+    "review_text": "Khẩu phần nhỏ, giá cao. 2 bát súp bí ngô, 1 phần cá hồi nướng, 1 phần mì Ý, 2 chai nước nhỏ = 800k …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Theis Vincent",
+    "rating": 4,
+    "review_text": "Mọi thứ đều thực sự tuyệt vời. Thịt bò không được mềm như mong đợi, nhưng có lẽ chúng tôi chỉ gặp phải phần thịt không ngon. Chúng tôi đã thử phần ăn kết hợp dành cho gia đình. Tuy nhiên, mọi thứ khác đều vượt ngoài mong đợi! Không gian rất …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Sasha Perera",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời, nhân viên thân thiện - rất nên ghé thăm nhà hàng này. Ông Long đã chăm sóc chúng tôi chu đáo trong suốt chuyến thăm (chúng tôi đến từ Anh). Có thực đơn món ăn phương Tây và Việt Nam - mực rất ngon! Cảm ơn một lần nữa xxx"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hanh Nguyen",
+    "rating": 5,
+    "review_text": "Nếu bạn đang tìm kiếm dịch vụ nhanh chóng và thân thiện, đồ ăn ngon và không gian dễ chịu thì đây là nơi dành cho bạn. Bánh mì kẹp thịt rất ngon ngọt, mì Ý béo ngậy, bít tết mềm, và nếu bạn có bất kỳ yêu cầu đặc biệt nào, nhân viên phục vụ luôn sẵn lòng giúp đỡ! Nhìn chung, đây là một trải nghiệm tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Dawid Ciarka",
+    "rating": 5,
+    "review_text": "Một địa điểm bạn nhất định phải ghé thăm. Mọi thứ đều tuyệt vời: đồ ăn ngon, phục vụ chu đáo và không gian tuyệt vời. Thật là một trải nghiệm tuyệt vời 👍🇻🇳😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Zareth Ashman",
+    "rating": 1,
+    "review_text": "Đối với một nhà hàng bít tết, họ HOÀN TOÀN KHÔNG BIẾT CÁCH NẤU THỊT BÒ!!!\n\nĐây là miếng thịt tệ nhất mà tôi từng ăn trong suốt 31 năm cuộc đời. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Valerie Rangel",
+    "rating": 5,
+    "review_text": "Hiep là một chủ nhà tuyệt vời và đã giới thiệu những lựa chọn ăn uống tuyệt vời, đảm bảo chúng tôi gọi đúng món ăn mình thích. Không gian của nơi này cũng rất tuyệt vời, và tất cả đã làm cho buổi tối của chúng tôi trở nên hoàn hảo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Stefan Remund",
+    "rating": 4,
+    "review_text": "Sườn rất ngon. Không hẳn là mềm như ở châu Âu, nhưng vẫn rất ngon. Có một vài chỗ khá dai. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Ana Espino Caballero",
+    "rating": 5,
+    "review_text": "Chúng tôi bắt đầu bữa ăn với món nem cuốn rồi gọi thêm hamburger. Mọi thứ đều rất đáng tiền. Quán cũng có không khí tuyệt vời và rất thân thiện, phục vụ nhanh chóng và nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Hung-Hsueh Tai",
+    "rating": 5,
+    "review_text": "Địa điểm lý tưởng cho những buổi đi chơi và ăn uống cùng bạn bè, đồ ăn ngon và giá cả phải chăng!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Ryan R",
+    "rating": 5,
+    "review_text": "Bữa ăn ngon và phục vụ tốt, không gian dễ chịu, đang là mùa thấp điểm nên không đông khách. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Myriam Racette",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon\nDịch vụ tuyệt vời 🫶\nGiá cả rất hợp lý so với chất lượng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Sophie Kondogiannis",
+    "rating": 5,
+    "review_text": "Không gian và đồ ăn ở đây thật tuyệt vời. Chúng tôi gọi món bít tết sườn bò và món bít tết, nước sốt và măng tây đều hoàn hảo! Rất nên thử!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "harvey brock",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, đúng kiểu pizza bít tết, tuyệt vời, phục vụ chu đáo, chắc chắn sẽ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Joshua Leahy",
+    "rating": 5,
+    "review_text": "Trải nghiệm ăn uống tuyệt vời, bữa ăn gia đình truyền thống rất ngon (mặc dù hơi nhiều đồ ăn cho hai người 🤣🤣)\nNhân viên rất tuyệt vời và chu đáo …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "nathalie schmidt",
+    "rating": 5,
+    "review_text": "Nhân viên rất thân thiện và nhiệt tình. Nói tiếng Anh tốt. Món ăn Việt Nam tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Beatrice Haas",
+    "rating": 5,
+    "review_text": "Tôi cực kỳ khuyên bạn nên đến ăn ở đây. Thức ăn rất ngon và được trình bày rất đẹp mắt. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Maximilian Koch",
+    "rating": 5,
+    "review_text": "Một nhà hàng rất tốt với thức ăn chất lượng cao và dịch vụ xuất sắc. Thực đơn rượu vang tuyệt vời, và các món ăn, cả địa phương và phương Tây, đều được cân bằng hoàn hảo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a59dbca2b1387:0x83d3067d45e14d90",
+    "shop_name": "A DONG RESTAURANT",
+    "user_name": "Joep Van Heteren",
+    "rating": 5,
+    "review_text": "Món ăn rất ngon! Chúng tôi đã gọi món sườn heo, và nó thực sự rất ngon. Mặc dù quán không đông khách, nhưng nhân viên rất thân thiện!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Minh Đỗ Hoàng",
+    "rating": 5,
+    "review_text": "Đi giữa tuần nên ko bị đông. Hôm mình đi trời đẹp ko bị nắng. Chỉ hơi hơi oi chút. Đến nông trại cừu từ 11h rồi chờ đến 13h30 để chơi trượt phao nhưng lúc gần 14₫ mới thấy mấy em zai tỉnh ngủ để vận hành trò chơi. Đến đây chơi từ sáng đến chiều cũng ok. Có biểu diễn cá heo và xiếc thú tổng hợp. 300k/ người cho 4 điểm vui chơi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Vân Khánh",
+    "rating": 4,
+    "review_text": "Cảm nhận cá nhân thì mỗi show cá heo có giá trị. Đi công viên King Kong với mấy chỗ còn lại không có gì mà nóng + mệt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Thảo Nguyễn",
+    "rating": 1,
+    "review_text": "Tệ của tệ, đừng bao giờ vào nữa\nMua vé vào cổng xong vào đc 15’ mưa nhỏ xong lên chỗ trượt thì phải đi quá khu sạt lở do bảo vệ chỉ, đi 1 vòng leo cầu thang lên thì ko cho chơi bảo 4r lên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Trang Pham",
+    "rating": 5,
+    "review_text": "Nên mua vé online để đc tặng nước. Nên đi ngày trong tuần để ko bị đông nên trải nghiệm rất thoải mái. Tuy khu trò chơi hơi ít nhưng không ảnh hưởng quá nhiều tới trải nghiệm. Xong bên cạnh đó rất thích bạn nữ trong nhà kính gấu bông, bạn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Huy Hoàng Nguyễn",
+    "rating": 1,
+    "review_text": "Trải nghiệm quá tệ, rước thêm bực vào người. 300k vào chỉ xem dc 30 phút cá heo, còn lại không như nv bán vé giới thiệu...xem cá xong đến gần 11h đợi đến 13h30 chiều mới hoạt động lại, nhưng đến 13h30 đi vào khu vui chơi thì bỏ hoang, ko …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Pham My",
+    "rating": 4,
+    "review_text": "Nhà mình đến lúc 9h30 xếp hàng mua vé vào xem cá heo thì kịp. Nhưng ko kịp đi Tuần Châu farm, Kingkong park. Nếu các gd muốn đi thì nên đi sớm hơn ạ. Vé xem cá heo là 300k- ng lớn. E bé 80cm k mất tiền. Mua vé onl thì đến vẫn phải vào quầy lấy vé xếp hàng nên cũng k cần mua trc đâu ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Bác sĩ Nam Hà",
+    "rating": 4,
+    "review_text": "Có khu xiếc cá heo, hải cẩu, xiếc thú, công viên king kong, farm, vé combo 300k, cơ sở vật chất và chương trình đã khá cũ, cần nâng cấp, thay đổi cải tạo thêm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Tôi rất may mắn",
+    "rating": 4,
+    "review_text": "Hôm mình đi có xiếc thú và hải cẩu, cá heo. Còn lại các chỗ khác như bị bỏ hoang, khu giải trí ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "trường lê",
+    "rating": 5,
+    "review_text": "không gian giải trí đa dạng và sôi động giữa khung cảnh thiên nhiên tuyệt đẹp. Đội ngũ nhân viên phục vụ thân thiện, nhiệt tình và chuyên nghiệp. Giá vé hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Thanh Nguyen Danh",
+    "rating": 4,
+    "review_text": "còn mỗi cái heo với công viên. còn lại các dịch vụ trò chơi khác gần như bỏ hoang"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "vanmui nguyen",
+    "rating": 3,
+    "review_text": "Cá heo thì 20h mới diễn muộn nên mình không xem đc. Tuần châu farm thì quá thất vọng, kingkong thì đi dạo còn tạm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Linh Nguyen thi dieu",
+    "rating": 5,
+    "review_text": "Giá vé ngày lễ là 350k bao gồm xiếc cá heo, hải cẩu, công viên king Kong, tuần châu farm. Nhưng đi vào ngày mưa thì chỉ xem cá heo được thôi. Cá heo và hải cẩu cực đáng yêu cùng với các huấn luyện viên biểu diễn rất giỏi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Khoan Lang",
+    "rating": 5,
+    "review_text": "Công viên Tuần Châu hay còn gọi là khu vui chơi giải trí Tuần Châu Park là công viên chủ đề lớn nhất đảo Tuần Châu và thứ 2 Quảng Ninh. Công viên được mở rộng và đưa nhiều khu vui chơi giải trí mới vào khai thác vận hành vào năm 2022. Khi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Kim Ngân Hoàng",
+    "rating": 5,
+    "review_text": "Một nơi không thể bỏ qua khi đến Quảng Ninh\n20 phút nữa là đên giờ xem cá Heo biểu diễn. Hôm nay nhân ngày 27.7 còn được giảm giá nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Dat Pham Quoc",
+    "rating": 5,
+    "review_text": "Dịch vụ ok lắm nha, đưa trẻ con đi chơi bé nào cũng thích. Sẽ đưa các bé nhà mình quay lại chơi tiếp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Tran Nam (BB Ti vi)",
+    "rating": 4,
+    "review_text": "Lễ giá vé tăng cao, quá giờ diễn 10h đến 10h15 mới biểu diễn. Từ khu cá heo sang Farm rất xa, xe điện không có, farm có mỗi cừu và ngựa không, quá chán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Phương Linh",
+    "rating": 5,
+    "review_text": "khu vui chơi rất tuyệt vời, đồ ăn ở khu ẩm thực ngon, farm có nhiều động vật rất đáng yêu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Anh Pham",
+    "rating": 5,
+    "review_text": "Trải nghiệm rất đáng để thử, cá heo, hải cẩu rất thông minh và thân thiện. Farm thì đi bộ tuy hơi xa nhưng có mấy bé dê biết làm nũng để xin đồ cũng đáng yêu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Phương Tiểu",
+    "rating": 5,
+    "review_text": "Hơi mùi nóng nên xử lý điều hoà tốt hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Đoàn Diệp Anh",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình. Cô quản lý Kinh Kong siêu thân thiện, nhiệt tình luôn ấy, trời mưa có 2 ce mình đi thôi mà cô rất tận tình luôn. Người dân ở Tuần Châu cũng thân thiện nữa, chỉ đường cho bọn mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Thuy Hoang",
+    "rating": 2,
+    "review_text": "Công viên như bỏ hoang không có 1 hoạt động hay trò chơi gì ngoài show cá heo. Vé thì quá đắt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Hằng Hoàng",
+    "rating": 5,
+    "review_text": "Tuần châu Park hiện nay có 3 địa điểm vô cùng hot là kvc Cá heo và King Kong, trong đó mới gần nhất đây có Tuần Châu Farm nơi bạn có thể cho những bé thú cưng ăn. Các bạn dê, cừu, ngựa,...vô cùng đáng yêu, dễ gần và dễ ăn. Tuần Châu Farm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Hồng Anh Thái",
+    "rating": 5,
+    "review_text": "Khu vui chơi và trải nghiệm tuyệt vời. 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Hien DT",
+    "rating": 5,
+    "review_text": "Gia đình mình vừa có chuyến trải nghiệm vào cuối tuần vừa rồi.\n+ Hiện thời show diễn Vũ điệu đại dương (hải cẩu và cá heo) chỉ diễn vào thứ 6-7-CN với 2 khung giờ 10:00 và 15:00 (cho tới khi có thông báo mới). …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "văn thiện trương",
+    "rating": 3,
+    "review_text": "Hoạt động cá heo và xiết thú khá vui, đáng xem và tuyệt vời với mọi người. Nhưng còn lại thì món ăn mắc và dở: chỉ có pizza tí hon, cơm gà chiên, bánh mì que. Công viên kingkong đóng cửa và Farm nghỉ trưa 11h30_13h30"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Anh Tuấn Hoàng",
+    "rating": 4,
+    "review_text": "Tuần Châu nên có những đổi mới và cải cách về chương trình giải trí để du lịch Tuần Châu phát triển hơn. Điểm xem hải cẩu và cá heo rất phù hợp với trẻ em, nhân viên huấn luyện rất nhiệt tình khuấy động chương trình. Khu KingKong mình thấy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Thu Tran",
+    "rating": 5,
+    "review_text": "Nên đi buổi chiều nha. 15:00 xem hải cẩu xong rồi ra vườn thú, trượt cỏ. Xong đi tắm biển. Vé combo hết là 250k/người. Trẻ từ 1m trở lên thu = ng lớn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Thị Thoan Nguyễn",
+    "rating": 5,
+    "review_text": "Tuần châu park nơi có cá heo, king Kong và nông trại vô cùng đẹp, giá thành hợp lý, thích hợp cho gia đình có trẻ nhỏ đến tham quan và du lịch khi đến tuần châu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Duyen Tong T Khanh (Demy Tong)",
+    "rating": 5,
+    "review_text": "Điểm du lịch tại Tuần Châu Hạ Long. Mình đi Tuần Châu Farm nên được vào King Kong Park miễn phí.\nCổng vào có bộ xương khủng long với king kong to. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Thái Hòa Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian đẹp, các con được chơi và trải nghiệm với những thú nuôi đáng yêu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Nguyễn Linh Đan",
+    "rating": 1,
+    "review_text": "Kh nên đi tốn tiền, tiền đó đi vịnh sướng hơn. Nơi đây cô chc chỉ xem đc mỗi hải cẩu vs cá heo.vs cái số tiền 300 1 ng thì t thấy quá là đắt. T thấy ai đi cug trg tâm trạng mệt mỏi,chán nản và đòi về. Trò chơi cug bảo trì hết. Kh nên đi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Dương Nguyễn",
+    "rating": 3,
+    "review_text": "các công trình xuống cấp rất nhiều không được tu bổ lại, nhìn như khu bỏ hoang. Chỉ có mỗi xiếc cá heo là đáng xem nhưng không còn nhiều tiết mục đặc sắc như hai chục năm trước khi vẫn còn các hlv nước ngoài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Hùng Trần",
+    "rating": 5,
+    "review_text": "Một gócquen với cát và sóng biển. Có nông trại, có công viên hoàn toàn khác của hạ long nếu các bác đã quá quen với cát và sóng biển. Có nông trại, có công viên điêu khắc, có biểu diễn hải cẩu. Đi 1 buổi được nhiều bộ ảnh với concept khác nhau. Thật tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "H D",
+    "rating": 1,
+    "review_text": "1/5 – Trải nghiệm rất thất vọng\n\nThái độ của nhân viên tại khu Farm thực sự không thể chấp nhận được. Nhiều nhân …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Tran Thi Mai Huong",
+    "rating": 5,
+    "review_text": "Tuần Châu Park là một lựa chọn hợp lý cho gia đình với con nhỏ, ngoài show cá heo đã rất nổi rồi thì nhà mình còn trải nghiệm farm ở đây, hai bé nhà mình rất thích cho dê ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Linh Nguyễn Trang",
+    "rating": 4,
+    "review_text": "M đi trọn gói xem hải cầu 10h30. Đi king kong vs tuần châu Farm là 250k/người. Đi king có 1 chút xíu trẻ cho nhìn quanh quanh vậy chứ đi 1 chút là hết#cũng k có sự kiện hay dịch vụ gì trong đó cả. Xong đi sang tuần châu farm cách đấy 1.5km …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Le Ngoc Tien",
+    "rating": 5,
+    "review_text": "Với thời tiết mùa hè miền Bắc, thực sự nhà có con nhỏ chỉ nên đi xem biểu diễn cá Heo, farm và Kingkong park cơ bản là không có gì, đi lại ko thuận tiện. Các chú cá Heo và Hải Cẩu đáng yêu, trẻ em xem rất thích"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "huong nguyen thi thanh",
+    "rating": 1,
+    "review_text": "Mất mấy triệu bạc vô chỉ để xem mấy c hải cẩu cá heo biểu diễn. Nv thái độ còn hơn cha mẹ t. Các hạng mục trò chơi gần như bảo trì gần hết.  Ns chung kh nên đi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Huy Lâm",
+    "rating": 5,
+    "review_text": "Công viên có cá heo vs hải cẩu cùng nhiều tiết mục rất hay. Phù hợp khi đưa trẻ em đi du lịch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Đào Nguyen",
+    "rating": 5,
+    "review_text": "Mặc dù đa số trò chơi đã ngưng hoạt động sau đợt bão để bảo trì đổi lại các bạn nhân viên rất nhiệt tình.Bạn bán hàng bên Kingkong rất nhiệt tình :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Hiếu Nguyễn Trung",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt , sẽ quay lại trong tgian gần nhất , show cá heo tuyệt vời lắm luôn , mọi người nhất định phải thử khi đến hạ long nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "HANH NGUYEN",
+    "rating": 2,
+    "review_text": "Giá vé cao. Nhiều khu bị bỏ hoang. Biển chỉ dẫn vòng quanh vì nhiều đường bị chặn. Giá vé được ghi là tặng kèm cả khu kinhkong và farm nhưng xem show cá heo xong chưa kịp ra farm thì thấy giờ thú nghỉ trưa. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Hải Lê",
+    "rating": 4,
+    "review_text": "Thật sự đến Tuần Châu park chỉ để xem biểu diễn cá heo và hải cẩu đáng yêu vô cùng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Khanhnocnoc340k",
+    "rating": 3,
+    "review_text": "Khu farm hill có mỗi trò cầu trượt xếp rất lâu. Khu tuần châu châu chỉ vài con cừu dê, nắng quá thì đừng đi. Khu king kong đi cho biết. Biểu diễn cá heo ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Chau Le",
+    "rating": 4,
+    "review_text": "Tuần Châu xây biệt thự quá chừng..cơ mà vắng que hà...đường xá j không thấy xe lun ak..chỉ có chỗ bãi tắm mới đông đúc nhộn nhịp thôi..đc cái hai bên đường trồng hai hàng dừa thik quá đi..bãi biển sạch, cát trắng nắng vàng..có chữ trùng tên nên bỗng thấy đẹp hơn xíu nữa 🤭🤭 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Đàm Thanh Tú",
+    "rating": 5,
+    "review_text": "Chương trình tổ chức hay, các bạn hải cẩu và cá heo biểu diễn vui và thú vị. Có dịch vụ chụp ảnh cùng hải cẩu mỗi người 100k. Các bạn hải cẩu thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Chiến Nguyễn Văn",
+    "rating": 3,
+    "review_text": "Biểu diễn cá heo rất hay.\nPhòng vệ sinh hơi bẩn\nPhòng chờ và khu mua đồ ăn uống phục vụ khá kém."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Minh Nguyen",
+    "rating": 4,
+    "review_text": "1 chương trình hay, nên cho trẻ con trải nghiệm ( tại đảo Tuần Châu) khi đến với Hạ Long. Các bạn nên đặt vé trước ( tham khảo số ĐT trên web)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Duyên Trương Thị",
+    "rating": 5,
+    "review_text": "La điểm  vui choi rất  bổ ích  cho các  con minh đã  cho con đi  mấy lần. Giá  ve 280k 3 cong viên  rất  re hợp  ly đáng  trải  nhiệm  mọi  người  nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "hang cao",
+    "rating": 3,
+    "review_text": "Ngoài show diễn hải cẩu, cá heo ra thì không có gì đặc biệt, khu vui chơi xuống cấp, không chơi gì được,So với giá vé thì quá đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Nhung Đàm",
+    "rating": 1,
+    "review_text": "Tệ kinh khủng . Không có 1 cái gì xứng đáng mức vé 350k . Vé cá heo 350k được tặng vé trang trại và king kong paảk nhưng 5h đóng cửa nên nhà mình đi xem 8r k vào đc mà vẫn bán giá thế . cá heo hải cẩu k có gì đặc sắc . Tẩy chay . Mọi người nên tránh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Phạm Tuấn",
+    "rating": 5,
+    "review_text": "Khu vui chơi với nhiều trò chơi mạo hiểm đặc biệt có chương trình biểu diễm hải cẩu và cá heo rất hay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "MinBox",
+    "rating": 5,
+    "review_text": "Bãi biển đẹp, không quá đông đúc như ở Bãi Cháy, sóng cũng không quá mạnh, rất phù hợp cho gia đình có trẻ nhỏ, các dịch vụ ở đây giá cả cũng phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Endministrator",
+    "rating": 2,
+    "review_text": "Không đáng tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "LA PrOdUcTiOnS",
+    "rating": 3,
+    "review_text": "Ngoài sô biểu diễn cá heo thì ko có gì đặc biệt. Cơ sở vc xuống cấp nghiêm trọng. Gđ mua vé combo 280k/người nhưng ko có gì xem ngoài show cá heo trình diễn vào 10g hàng ngày. Nên cân nhắc trước khi mua vé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Phương Anh Nguyễn",
+    "rating": 5,
+    "review_text": "đẹp ơi là đẹp ấy ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Ho Dang Thang",
+    "rating": 1,
+    "review_text": "Một trải nghiệm cực kỳ tồi tệ, công viên hầu như không được đầu  tư thêm gì, các trò chơi cũ kỹ, bẩn thỉu, nhân viên thì thái độ như cha mẹ khách hàng, khu vui chơi trẻ em thì máy móc không sử dụng được hầu như mua vé vào chỉ để xem biểu diễn hải cẩu và  cá heo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Nam Đặng",
+    "rating": 4,
+    "review_text": "Đến buổi tối nên chưa trải nghiệm đc nhiều, khu nhà bóng trẻ em đồ đã cũ hỏng nhiều và ko đc vệ sinh cho lắm, cho nhiều sao vì biểu diễn hải cẩu và cá heo rất hay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Nam Tran",
+    "rating": 3,
+    "review_text": "giá đắt 280k chỉ để xem cá heo.. show buổi tối 8h30 cá mệt không chịu diễn, chương trình bị cắt xén kết thúc sớm chỉ có 40’ thay vì 1h"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "BĐS Đại Lâm Mộc",
+    "rating": 5,
+    "review_text": "Tắm biển tại Tuần Châu Park vào ngày cuối tuần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Thao Chu Văn",
+    "rating": 1,
+    "review_text": "Quá tệ so với giá vé. KHÔNG CÓ 1 CÁI GÌ may có khu cá heo vớt lại dc 30%. Khu vui chơi như bỏ hoang. Quá tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "DucDuy Nguyen",
+    "rating": 4,
+    "review_text": "Chương trình cá heo hơi chán, được cái khu vui chơi thì ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Nguyễn Nhân Hậu",
+    "rating": 5,
+    "review_text": "Đẹp, chạy xe trên đường vòng quanh đảo khá là chill"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Nguyễn Lâm",
+    "rating": 3,
+    "review_text": "Đồ chơi cũ, dc chương trình cá heo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "An Nguyen",
+    "rating": 1,
+    "review_text": "Các bạn đi xe điện chú ý khi đi từ chỗ mua vé lên farm thì không có dịch vụ của đơn vị chủ quản mà chỉ có xe dịch vụ ngoài (theo lời kể nhân viên), mình ko biết nên có thoả thuận và trả tiền luôn 2 lượt đến farm và quay lại chỗ cá heo. Tuy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Entertainment Funny",
+    "rating": 4,
+    "review_text": "Thất thích thú khi nhìn thấy cá heo biểu diển và hải cẩu đánh bóng rổ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "HOÀNG THIÊN 3.2",
+    "rating": 2,
+    "review_text": "2 sao đanh cho hải cẩu và cá heo, còn lại 0 sao. Vé combo 250k gồm hải cẩu, farm, trượt phao, king park. Nhưng chỉ xem được hải cẩu khoảng 30p. Sau đó lội bộ đi đoạn đường dài giữa trưa nắng để kiếm farm vì 11g30 nghỉ mà tìm mãi mới ra (đa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "TKV Silicone Pham Tham",
+    "rating": 5,
+    "review_text": "Vé vào cửa combo vé vui chơi ko giới hạn quá lời luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Frances Du",
+    "rating": 4,
+    "review_text": "Dịch vụ và chi phí ok, sẽ quay lại lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Bonsai Đô thị",
+    "rating": 2,
+    "review_text": "Quy trình soát vé k chuyên nghiệp, máy móc nên mất thời gian; biểu diễn cá heo hảo cẩu thì k đúng giờ là k chuyên nghiệp; cần nhắc nhở khách k xả rác túi thức ăn sau khi cho cá và động vật ăn... Nói chung cần chuyên nghiệp hơn để nâng tầm khu du lịch quốc tế!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Long Hoàng",
+    "rating": 5,
+    "review_text": "Đội ngũ hỗ trợ chuyên nghiệp , rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Nữ Việt",
+    "rating": 1,
+    "review_text": "Lúc mình đi xem cá heo và hải cẩu biểu diễn thì mình có đi mua kem cùng gđ mẹ mình thì gọi tầm hơn chục cây kem 20k thì cx cùng lúc đó mình đag lấy cây kem mà mình muốn mua mà hnhu cây kem đó có giá tiền mắc hơn nên có 1 chị nv gạt tat mình …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "My Nguyễn",
+    "rating": 1,
+    "review_text": "Giá vé 300k cho 1 trải nghiệm qá tệ. Mua vé vào nhưng toàn bộ các trò vui chơi đều đóng cửa. Ko đc chơi , chỉ có duy nhất trượt phao. Farm cũng nghỉ k hoạt động. Công viên thì đã qá tồi tàn !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Thùy Dương Nguyễn",
+    "rating": 1,
+    "review_text": "Trải nghiệm tệ ko xứng đáng với giá tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Thành 41. Nguyễn Đức",
+    "rating": 5,
+    "review_text": "Rất thú vị với màn biểu diễn của hải cẩu!❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Trung Tâm Dạy Bơi",
+    "rating": 4,
+    "review_text": "Địa điểm thích hợp cho trẻ em!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "hieu tran",
+    "rating": 5,
+    "review_text": "Công viện đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Hải Linh Nguyễn",
+    "rating": 4,
+    "review_text": "350k vé cho khu park, farm và vé xem thú. Hơi cũ rồi tuy nhiên nhà có trẻ em thì có thể dẫn con đi nhé mn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Bích Thủy Nguyễn",
+    "rating": 1,
+    "review_text": "Khu vực cửa soát vé vào Công viên đại dương cực kì cực kì lộn xộn, bất tiện vô cùng cho khách thăm quan. Các gia đình chủ yếu đưa con nhỏ đi xem, thời tiết thì nắng nóng nhưng cửa soát vé chỉ he hé 1 lối, và soát vé thủ công bằng nhân viên, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Nguyễn Trường Giang",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên rất không tốt. Nhân viên trực máy hotline thái độ không tốt với khách khi được gọi để hỏi thông tin\nKhu vui chơi trong nhà không hoạt động nhưng cũng ko có thông báo khi bán vé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Thu Huyen",
+    "rating": 5,
+    "review_text": "Trải nghiệm rất tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Tuấn Sơn Trần",
+    "rating": 5,
+    "review_text": "Show cá heo và Hải Cẩu hay nhưng giá vé hơi cao,còn lại cảnh quan xung quanh cũng không phải xuất sắc,ở mức cơ bản"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Tam Vo",
+    "rating": 5,
+    "review_text": "Có 3 khu vưc Park,nếu trải nghiêm hết thì rất tuyêt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "nhai nguyen",
+    "rating": 5,
+    "review_text": "Điểm chơi thú vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Thao Pham",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Trương Thanh Tùng",
+    "rating": 4,
+    "review_text": "Điểm nhấn là màn biểu diễn cá heo và hải cẩu. Phù hợp cho trẻ con xem"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "thuan nguyen",
+    "rating": 5,
+    "review_text": "Tuần Châu Park \"thiên đường giải trí\" đặc sắc hứa hẹn sẽ mang đến cho bạn một ngày vui chơi thỏa thích, đầy kỷ niệm. Hãy đến và tận hưởng những khoảnh khắc tuyệt vời tại đây nhé! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314a5ec4ed9758a9:0xd60bf8040be50a13",
+    "shop_name": "Tuần Châu Park",
+    "user_name": "Đức Cường Nguyễn",
+    "rating": 5,
+    "review_text": "Có cá heo hay"
+  }
+]

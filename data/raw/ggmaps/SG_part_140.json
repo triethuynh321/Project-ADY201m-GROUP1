@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "dinh nguyen",
+    "rating": 4,
+    "review_text": "Chỉ là khung cảnh bình dân, nhưng thức ăn tươi, ngon hơn những quán nhậu cùng con đường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Phê Sách",
+    "rating": 2,
+    "review_text": "Ốc OK nhưng giá cao lại phải trả tiền gửi xe trong khi các quán gần đó miễn phí."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Đạo Nguyễn",
+    "rating": 5,
+    "review_text": "Hải sản tươi, ngon, nhất là món càng cua, ghẹ size rất to, giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "dang ho van",
+    "rating": 4,
+    "review_text": "QUÁN RẤT ĐÔNG KHÁCH ,MÓN ĂN RẤT NHIỀU."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Thanh Nguyen",
+    "rating": 3,
+    "review_text": "Ốc tươi và giá cả chấp nhận được nhưng hương vị không còn ngon như trước do chế biến theo kiểu 'công nghiệp'"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "DuyKhoa Huỳnh",
+    "rating": 2,
+    "review_text": "Thức ăn ổn, quán dơ, phục vụ quá chậm, tất nhiên là đông khách, nhưng chậm đến mức không chấp nhận nổi!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Hiển Phạm",
+    "rating": 4,
+    "review_text": "Quán bán ngon, quá đông khách, giá hợp lý ăn gia đình hoặc nhậu bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Ý Yên Vũ Đình",
+    "rating": 2,
+    "review_text": "Giữ xe 7k/chiếc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Bình Nguyễn Thanh",
+    "rating": 5,
+    "review_text": "Ngon ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Trương Tấn Ngọc",
+    "rating": 1,
+    "review_text": "Mất dạy. Khách tới hỏi đỗ xe đâu thì thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Phung Hoang Phi",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, không khi tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Triều Nguyễn",
+    "rating": 3,
+    "review_text": "Quán ăn khá nổi tiếng. Tuy nhiên quán đông nhìn về sinh chỉ ở mức trung bình\nQuán rất đông khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Vo Hoang Hai",
+    "rating": 4,
+    "review_text": "Đồ ăn ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Chinh Do",
+    "rating": 2,
+    "review_text": "Phục vụ hơi bị dỡ. Gọi chén đũa mà sau khoảng 3 lần nhắc lại với 3 em phục vụ khác nhau mới có. Tương tự gọi đá cũng vậy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Angie Ng",
+    "rating": 2,
+    "review_text": "Đồ ăn lên nhanh, náu nướng được. Phục vụ chưa ổn vì đông nhưng rất khó gọi khi cần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Kien Duong",
+    "rating": 5,
+    "review_text": "Đồ ăn khá tươi, giá cũng cao hơn mức trung bình chút. Có 2 mặt bằng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Tuan Thanh Doan",
+    "rating": 4,
+    "review_text": "Ăn ngon, giá hợp lý, Chỗ ngồi và khu vệ sinh chưa được sach"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "khongtinhyeu2011",
+    "rating": 4,
+    "review_text": "Giá cả phải chăng.\nĐồ ăn chấp nhận được.\nNhân viên nhanh nhẹn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Kim Thống Nhất (Kim TN)",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, chỗ ngồi sạch sẽ. Phục vụ ổn. Có chỗ đậu xe hơi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Doãn Quốc Thiên Vương",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Hiếu Lê",
+    "rating": 3,
+    "review_text": "Thức ăn khá ổn. Nhưng đến đây 10 lần thì hết 9 lần k hài lòng với thái độ nhân viên cho lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Trải nghiệm và đánh giá!",
+    "rating": 4,
+    "review_text": "Đồ ăn ok, giá hợp lý. Rộng rãi, có thể đi đông người được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Nguyen Trong Huyen",
+    "rating": 5,
+    "review_text": "Ốc đa dạng, tươi ngon, phục vụ tốt, giá được, sẽ quay lại lần sau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Hieu Duong",
+    "rating": 4,
+    "review_text": "Đồ ăn đa dạng nướng xào chiên hấp, phục vụ nhanh chóng, nhiệt tình. Quán bán khuya"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Nguyễn Thị Hồng Nhung",
+    "rating": 3,
+    "review_text": "Ốc ngon nhưng chờ hơi lâu và chỗ để xe chật"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Bùi Hoàng Huy",
+    "rating": 5,
+    "review_text": "Ốc ngon và giá hợp lý, quán luôn đông khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Quang Duong",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Giang Hà Khương",
+    "rating": 4,
+    "review_text": "Thức ăn ngon và rẻ nhưng phục vụ chưa tốt, vẫn còn khá chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Van Quoc Nguyen",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, phục vụ hơi chậm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Thang Nguyen Le",
+    "rating": 4,
+    "review_text": "Các món ốc đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "JK",
+    "rating": 4,
+    "review_text": "Đồ ăn thì chất lượng. Chỉ là giá hơi cao hơn các chỗ khác!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Thanh Luan Nguyen",
+    "rating": 4,
+    "review_text": "Quán bán ngon, đông khách, điểm trừ là điểm giữ xe mất phí!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Phú Lê",
+    "rating": 4,
+    "review_text": "Quán phục vụ tốt, đồ ăn ngon, giá cả chấp nhận được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Ngoc Taylor",
+    "rating": 5,
+    "review_text": "Ngon, phục vụ nhanh, ốc tươi.\nGiá ok với chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Tan Minh Nguyen",
+    "rating": 4,
+    "review_text": "Ốc ngon, nhưng đợi lâu. Giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Đình Thi Võ",
+    "rating": 2,
+    "review_text": "Giá không rẻ, đồ ăn không ngon, giữ xe 6k. Không quay lại đâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Tài Nguyễn Đức",
+    "rating": 1,
+    "review_text": "Bảo vệ không ok\nNgười gặp phải đầu tiên kg ok thì ....\nHôm sau và về sau kh tới quán nữa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Pham Hoang Chung",
+    "rating": 3,
+    "review_text": "Món ăn xuống cấp quá, sò dương gì mà vừa cứng vừa dai mà nói hàng tươi sống"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Huy Hoang Tran Tu",
+    "rating": 5,
+    "review_text": "Ngồi ngoài bị mùi hôi của mấy thùng rác, ngoài ra ốc rất chất lượng, phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Lee Anh",
+    "rating": 4,
+    "review_text": "Nhiều món ốc đa dạng chế biến tốt bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "minhtrang phamhoang",
+    "rating": 1,
+    "review_text": "Tính bill sai.  Và đồ ăn ko ngon và mắc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "LE Thi Hong Diep",
+    "rating": 3,
+    "review_text": "Quán ăn ngon. Hơi đông. Chờ lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Loi Pham Tan",
+    "rating": 3,
+    "review_text": "Quán quá đông nên phục vụ hơi chậm. Món ăn : được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Phi Tran",
+    "rating": 1,
+    "review_text": "Đồ ăn càng ngày càng tệ. -1 quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Giao Huong",
+    "rating": 4,
+    "review_text": "Ốc tươi, giá rẻ, nấu ngon. Cần thêm nhiều loại ốc lạ khác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Thanh Thượng",
+    "rating": 1,
+    "review_text": "Quán bẩn. Nhân viên phục vụ chán. Ko có quản lý nên chất lượng không tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Nghĩa Bùi",
+    "rating": 5,
+    "review_text": "Ở đây đa dạng về món, có chỗ đỗ xe."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "quy tran",
+    "rating": 1,
+    "review_text": "Ngon lắm. Dịch vụ tốt . Đồ ăn rẻ. Không quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Tuấn Huỳnh",
+    "rating": 4,
+    "review_text": "Ốc sò tươi ngon. Đặc biệt hàu rất ngon. Giá trung bình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "hieu le trong",
+    "rating": 4,
+    "review_text": "Ốc ngon, càng ghẹ ngon,... Có điều đồ ăn làm hơi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Phuong Tran",
+    "rating": 4,
+    "review_text": "Các món ở đây nấu vừa miệng, giá cả okie"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Trang Hoang",
+    "rating": 5,
+    "review_text": "Hải sản ngon, giá phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Thanh Tung Nguyen",
+    "rating": 4,
+    "review_text": "Quán nhiều đồ hải sản ngon, giá bình dân."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Sáng Mai Văn",
+    "rating": 5,
+    "review_text": "Quán thân thuộc, giá cả hợp lý, đồ ăn khá ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Son Bui",
+    "rating": 5,
+    "review_text": "Ngon..giá cả hợp lý..sẽ ghé lần nữa..kkk"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "huu quang nguyen",
+    "rating": 4,
+    "review_text": "Ngon, rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Linh Nguyễn Duy",
+    "rating": 4,
+    "review_text": "Quán ngon và đa dạng ốc, giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Man Nguyen",
+    "rating": 4,
+    "review_text": "Quán sạch, mát, ăn ngon, nv nhiệt tình, nhiều bóng hồng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Official Brody Duy Nguyễn",
+    "rating": 4,
+    "review_text": "Món ăn đa dạng, hải sản tươi sống, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Trieu Vuong Quoc",
+    "rating": 5,
+    "review_text": "Quá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Trần Thành Đạt",
+    "rating": 5,
+    "review_text": "Ăn cũng Ok ốc to giá cao hơn chút so với mặt bằng chung nhưng đáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "chau Dat",
+    "rating": 4,
+    "review_text": "ốc ngon tươi , gửi xe máy 6k hơi bực"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Trinh Nguyen",
+    "rating": 5,
+    "review_text": "Hải sản rất tươi, giá cả lại rất hợp lí. Mọi người nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Cường NT",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Jun Jun",
+    "rating": 4,
+    "review_text": "đồ ăn ngon, hải sản tươi sống,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Nhà phân phối Sơn và chống thấm",
+    "rating": 5,
+    "review_text": "Ngon, bổ,  rẻ... mát mẻ.  Phục vụ  ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "hận nguyễn lê",
+    "rating": 4,
+    "review_text": "nhiều món về ốc tuy nhiên quán nóng và chật"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Hoa BT",
+    "rating": 4,
+    "review_text": "Đông vui, nhân viên nhiệt tình. Giá cả ổn áp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Nguyên Nguyễn Trung",
+    "rating": 5,
+    "review_text": "Thức ăn ở đây khá ngon :) Giá ok."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Binh Nguyen",
+    "rating": 5,
+    "review_text": "Ăn ngon, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Lộc Nguyễn",
+    "rating": 4,
+    "review_text": "Ăn ổn, giá tốt. Phục vụ hơi lơ là tí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Hiep Le",
+    "rating": 5,
+    "review_text": "có món tóm nướng mọi. Ngon nhất sài gòn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Thuat Vu",
+    "rating": 4,
+    "review_text": "Ngon, nhưng giá ngưỡng cao nhé các bạn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Nguyễn Minh Thiện (Chuột Chít)",
+    "rating": 5,
+    "review_text": "Ngon hết nước chấm nha ;)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Hữu Phước Nguyễn",
+    "rating": 3,
+    "review_text": "quán ăn cũng lớn mà ko có xuất hoá đơn VAT"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "xuan quang vo",
+    "rating": 4,
+    "review_text": "Bình dân tất cả về mặt bằng quán và giá."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Thành Hoàng",
+    "rating": 4,
+    "review_text": "Ngon, ốc to, rộng, giá trung bình 80-100k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Nguyen Dao",
+    "rating": 3,
+    "review_text": "Tiền gửi xe 6 ngàn không có nghĩa gì mà thấy nó sao sao đó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Phong Trần",
+    "rating": 5,
+    "review_text": "Bình dân, thức ăn ngon, nhiều loại ốc, hải sản."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Phạm Duy Tùng",
+    "rating": 1,
+    "review_text": "Bàn chờ lâu, thái độ phục vụ khó chịu, chậm chạp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Hòa Phát laser",
+    "rating": 1,
+    "review_text": "Phục vụ siêu chậm. Ko có món gì được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Sơn Lê",
+    "rating": 2,
+    "review_text": "Quán nhậu bình dân, rộng rãi, có thể ngồi ngoài trời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "HOÀNG XUÂN VŨ",
+    "rating": 5,
+    "review_text": "Hải sản tươi ngon, chất lượng tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Vick Hoàng",
+    "rating": 1,
+    "review_text": "thái độ nhân viên vô văn hoá, đổ xe tự canh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752931a34b7765:0x940585d74c9101e3",
+    "shop_name": "Ốc Châu",
+    "user_name": "Duy Luân",
+    "rating": 4,
+    "review_text": "Ngon. Chỗ ngồi sạch sẽ, phục vụ chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Han Nguyen",
+    "rating": 1,
+    "review_text": "tết ai cunngx mong được về quê ăn tết..nhưng nhà xe lại bỏ khách hàng..k gọi k nhắn,lại bảo là gọi khách k nghe máy…mình thấy làm ăn thiếu trách nhiệm,k tâm và cũng chẳng có tầm..hy vọng nhà xe giải tán và ngưng hoạt động"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "NỮ VƯƠNG TRẦN",
+    "rating": 5,
+    "review_text": "Đơn vị vận chuyến đáng tín cậy chở hàng cực nhanh giao đúng hẹn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "V XH",
+    "rating": 5,
+    "review_text": "Địa điểm gửi hàng đi các tỉnh miền Trung và phía bắc.\nKho hàng rộng lớn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Tran Jolie",
+    "rating": 1,
+    "review_text": "Nhân viên làm việc lắp lửng thiếu chuyên nghiệp rất mất thời gian. Trễ hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "B Ả Y",
+    "rating": 5,
+    "review_text": "Gửi bên này cả năm rồi, nhìn chung là ok, đặc biệt là khâu xử lý sự cố phát sinh, thêm cái là hàng đóng đi đều và nhanh nên chắc sẽ tiếp tục hợp tác, thanks Á Châu nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Phan Văn Thắng",
+    "rating": 5,
+    "review_text": "Nhanh, gọn, thân thiện giá phải chăng. Lốp toàn xài lốp xịn, nên xe chạy nhanh, an toàn. Ông chủ thân thiện. Nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "chau vo",
+    "rating": 5,
+    "review_text": "kho bãi rộng rãi, rất yên tâm khi gửi hàng, giao hàng đúng hẹn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Haitrieu Phan",
+    "rating": 5,
+    "review_text": "Đội ngủ nhân viên nhiệt tình,nhiều loại xe phù hợp với yêu cầu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Mạnh Hùng",
+    "rating": 5,
+    "review_text": "Hằng ngày đều có xe xuất kho nên giao hàng rất đúng hẹn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "nam batuoc",
+    "rating": 5,
+    "review_text": "Dịch vu ok, giá cả hợp lý, tôi sẽ tiếp tục sử dụng dịch vụ, cám ơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Bảo Trọng Dương",
+    "rating": 4,
+    "review_text": "Vận chuyển nhanh ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Công ty kệ siêu thị Mai Ngọc Anh",
+    "rating": 5,
+    "review_text": "Chuyên cung cấp và sản xuất các loại kệ siêu thị kệ kho kệ hàng nặng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Thang Le",
+    "rating": 5,
+    "review_text": "Vận chuyển cũng được chỉ có điều thi thoảng làm phát dật gân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Tran Manh Giao",
+    "rating": 2,
+    "review_text": "Xe tải vào giao hàng phải trả tiền bải."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "8882_ vũ tấn phát",
+    "rating": 5,
+    "review_text": "Dịch vụ rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Bảo Nguyễn Mậu",
+    "rating": 5,
+    "review_text": "Uy tín chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "truong le nhat thien",
+    "rating": 5,
+    "review_text": "Khổ nhập hàng nhân chống"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "WHYBUY HOUSE Chuyên gia Kdc An Sương",
+    "rating": 5,
+    "review_text": "🧡👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "沈华清",
+    "rating": 4,
+    "review_text": "Rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Trăn Thịt Thu Mua",
+    "rating": 5,
+    "review_text": "Còn hoat dong"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Paul Nguyen",
+    "rating": 5,
+    "review_text": "Dịch vụ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "HUÂN LÊ BÌNH",
+    "rating": 5,
+    "review_text": "Giá cước hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Trump And Trump",
+    "rating": 4,
+    "review_text": "Dịch vụ ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Vương Hậu (Gaming SanhNgô2)",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Thanh Hân Châu",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Dang Tran",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Duy Khánh Phan",
+    "rating": 5,
+    "review_text": "ĐẾN"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Nguyen Minh Anh “Thùy Dương”",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Dayst Le",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Thắng Lê",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "Màn Hình Quảng Cáo",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x317529de93107173:0x4b82f8369f8bc9a6",
+    "shop_name": "Vận Chuyển Á Châu — Kho TP. Hồ Chí Minh",
+    "user_name": "huy Lê quoc",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "IG: tienphat_n",
+    "rating": 3,
+    "review_text": "💥 Đánh Giá Thực Tế Tại Quán Nên Xem Qua💥\n\n- Quán nằm trên mặt tiền đuờng, bảng hiệu to và phần bếp nấu nằm ngoài đường nên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Ngọc Cát",
+    "rating": 5,
+    "review_text": "Quán khá đông khách, nhân viên phục vụ nhanh chóng và đúng yêu cầu. Đồ ăn bình dân, vừa miệng. Tạm ổn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Đức Anh Hồ",
+    "rating": 4,
+    "review_text": "Quán sạch sẽ, nhân viên có đồng phục chuyên nghiệp và phục vụ nhanh chóng.\nMón Mì xào dòn ăn vị cũng khá ngon, chất lượng ổn, nhưng một phần ăn hơi ít so với giá thành và nước sốt không được sệch lắm, cảm giác bị lỏng lỏng giống như nước lèo hơn là nước sốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Huệ Nguyễn",
+    "rating": 5,
+    "review_text": "Mình ăn hủ tiếu xào bò và cơm chiên cá mặn mỗi món 45k. Hủ tiếu sợi kiểu to to như pad Thái, sốt lạ miệng, đậm đà. Cơm chiên cá mặn ngon nhưng ăn ko thì hơi chán nên mình có order thêm gà xối mỡ 35k. Phải nói gà xối mỡ ở đây ngon lắm, biết vậy gọi cơm gà xối mỡ luôn cho rồi 😂. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Sang Dev (Sang Nè)",
+    "rating": 1,
+    "review_text": "Không có canh, không có nước lọc, không có khăn giấy gì hết mà tận 50k phần quá là mắc so với nhiều quán khác trên Phan Huy Ích, trên đây toàn nhân viên đánh giá ảo trên google map thôi, nên coi phần đánh giá 1* nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Tuấn Lee",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhưng mà giá tính sao mà ra nhiều tiền hơn trên menu nhưng mà thôi không để ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Phạm Nguyễn Ngọc Duyên",
+    "rating": 3,
+    "review_text": "có thể thay đổi hộp đựng hoặc đồ đng chiên nóng khoan đổ liền vô hộp mút trắng được không"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Jaibsh Kahjs",
+    "rating": 1,
+    "review_text": "Đồ ăn ở đây cảm giác ko hợp khẩu vị\nDĩa hủ tiếu xào có chút xíu\nCòn lại đều ok …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Đô Hà Đình",
+    "rating": 5,
+    "review_text": "Ăn khá ngon, hơi nhiều dầu mỡ 1 tí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Tran Duy Hoan",
+    "rating": 5,
+    "review_text": "Món ăn ok , phục vụ nhanh chóng, sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Như Ý Bùi",
+    "rating": 4,
+    "review_text": "Quán ăn bán các món chiên xào, món Hoa rất ngon. Đồ ăn hơi nhiều dầu mỡ nhưng nêm nếm rất vừa vị. Cơm xào nên thử món cơm xào Phúc Kiến rất ngon. Quán lớn nhưng do bếp ở mặt tiền nên dầu khói +nắng nóng xe cộ trên đường làm hơi ngộp. Phục vụ nhanh, nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hoan Kha",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, nhân viên phục vụ không mấy thiện cảm, không gian hơi ngộp do mùi xào nấu bay ngược vô bên trong chỗ ngồi. Giá cả hợp lý, nêm nếm ngon miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Ivar",
+    "rating": 4,
+    "review_text": "Quán ok, mở khuya, ấm áp tình người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "MR: HA DUY (DUY PetroVietNam)",
+    "rating": 5,
+    "review_text": "Món ngon đa dạng nhanh chóng nhiệt tình. Quán hơi nóng mặt tiền dễ thấy phần ăn ngon no lắm luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "ba phat tran",
+    "rating": 3,
+    "review_text": "Món ăn cũng ngon 1 phần trung bình khoảng 42k. đồ ăn thì nhiều 1 phần ăn đối với sức ăn bình thường ăn thì no, đối với những người ăn ít  hoặc vừa thì quá nhiều.người ăn ít nên gọi dĩa suất nhỏ thì dễ ăn hơn và ko quá ngán vì no. Chúc mọi người ngon miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Ngọc Minh",
+    "rating": 1,
+    "review_text": "Mua 10 lần như 1 lúc nào cũng khô khốc, nước sốt mắc lắm hả, bán kiểu vậy ai dám quay lại ăn hèn chi nhân viên toàn ngồi chơi bấm dt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "tien dung bui",
+    "rating": 4,
+    "review_text": "Khá ngon ,thức ăn nóng nảy ... nên chia tỏi chua và ớt chua riêng biệt ra ,vì có người ăn đc tỏi nhưng ớt cay sẽ ko ăn được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Diễm mi Trần",
+    "rating": 1,
+    "review_text": "Quảng cáo giao hàng miễu phí 2km mà 300m giao ko dc cùi bắp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Giang Thanh",
+    "rating": 4,
+    "review_text": "Quán ăn lâu đời, đồ ăn ngon\nPhục vụ tốt\nSạch sẽ an toàn\nAnh em có thể ghé ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Linh Phi",
+    "rating": 4,
+    "review_text": "Quán rộng rãi,món ăn chế biến nhanh,giá mềm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nam Trần",
+    "rating": 2,
+    "review_text": "Phục vụ kiểu người Hoa Chợ lớn, giá phải chăng, nhiều món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Sơn Tùng Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, nên gọi cơm vì cảm giác ăn được nhiều hơn mì. 😂😂😂\nNên mang theo khăn giấy để không bị tính tiền khăn. 😜 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hiển Huỳnh Hồng",
+    "rating": 5,
+    "review_text": "Đồ ăn đậm đà, phục vụ lên món nhanh và giá cả hợp lí."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Duy Khánh Phan",
+    "rating": 4,
+    "review_text": "Ăn ổn, chờ hơi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Khoa Nguyen",
+    "rating": 5,
+    "review_text": "Ngon đáng ăn, mọi ng nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Bang Nguyen",
+    "rating": 4,
+    "review_text": "Đồ ăn thì ngon, nhưng đứng chờ lâu, mất gần 30p mới có món!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Xuan Hong",
+    "rating": 5,
+    "review_text": "Dịch vụ chăm sóc khách hàng tận tình. Đồ ăn ngon, giá cả hợp lý. Một nơi rất đáng để trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Dat",
+    "rating": 4,
+    "review_text": "Quán cơm này thực sự rất ngon, cơm mềm và các món ăn kèm đều tươi ngon, đậm đà. Món ăn được chế biến cẩn thận, hương vị rất vừa miệng. Tuy nhiên, giá hơi cao so với các quán cơm khác, nhưng bù lại, chất lượng và khẩu phần ăn rất đầy đủ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Huynh Huy (Henry)",
+    "rating": 5,
+    "review_text": "Bún xào Singapore ngon nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "lanh lunglinhlonglanhlapleleloi",
+    "rating": 5,
+    "review_text": "Đã ăn ở quán 15 năm. Đồ ăn vừa miệng, giá cả hợp lí."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Quỳnh Bách Papa",
+    "rating": 3,
+    "review_text": "Món ăn giá ổn, 45k, nhiều nhưng chỉ gồm những thứ cơ bản, như hủ tiếu xào thì chỉ có gan,thịt heo,tôm không đầy đủ như của người Hoa bán, món hủ tiếu xào thiếu da heo phồng và cật là thấy mất đi 40% đặc sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Phan Võ Hoài Phương",
+    "rating": 1,
+    "review_text": "Nhạt, ít, giá tăng không như ngày trước."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "thao bui",
+    "rating": 2,
+    "review_text": "Kg biết quán có đổi chủ kg Trước đây ăn ngon nhưng bây giờ rất dở mình kêu cơm chiên hải sản mà thấy toàn là cơm hết 80% nêm nếm cũng kg ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "iem vlogs",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và rẻ phục vụ rất là nhanh tiệm sạch sẽ món ăn đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Chloe Pham",
+    "rating": 5,
+    "review_text": "Quán Ăn ngon, quán ruột mình hay luôn tới. Mình thường ăn cơm bò lúc lắc, dạo này đổi sang cơm phúc kiến ăn cũng hay hay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Anh Le",
+    "rating": 1,
+    "review_text": "Bước vào ăn cảm giác không được thoải mái, lỡ có khóa cổ xe mà người trông xe nhăn nhó trong khu ngta đã ra mở rồi, tất cả nhân viên không ai nói gì với nhau, bé phục vụ tuy trẻ nhưng không nhiệt tình kiểu làm cho có, bưng cơm ra vẻ rất khó …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Bui Dang Khoi",
+    "rating": 1,
+    "review_text": "Mùi vị và chất lượng món ăn không còn được như lúc mới mở quán. Bò lúc lắc còn sống, dai nhách, lạt phèo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Tấn Lộc Dương",
+    "rating": 3,
+    "review_text": "Quán ăn được món cơm gà chiên. 1 số món còn lại cá nhân tôi không thấy ngon. Giá tương đối thôi, không gọi là rẻ. Thức ăn hơi ít so với giá tiền bỏ ra."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Van",
+    "rating": 1,
+    "review_text": "Quán rất mất vệ sinh an toàn thực phẩm,khu chế biến ko vệ sinh. Ngay mặt tiền đường khói bụi xe qua lại,không có che chắn. Dầu mỡ bám mặt đường rát nhiều. Cơ quan quản lý vệ sinh an toàn thực phẩm cần vào cuộc xử lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Phúc Hòa Phan",
+    "rating": 4,
+    "review_text": "Thức ăn cũng ổn, pv nhanh nhẹn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Thanh Nhơn Phan",
+    "rating": 1,
+    "review_text": "Cơm bò lúc lắc vừa ghê vừa ít 5 miếng thịt còn bao nhiêu độn ớt với dưa leo không bao giờ quay lại 😠 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Dung Doan",
+    "rating": 4,
+    "review_text": "Vừa ý sở thích, tks.....!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Quân Nguyễn Hồng",
+    "rating": 3,
+    "review_text": "Đồ ăn tạm tạm, không ngon lắm. Bồn rửa tay để sát đồ ăn (mặc dù có bảng ko cho sử dụng khi có đồ ăn bên cạnh)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Thơ Nguyễn",
+    "rating": 4,
+    "review_text": "Dĩa to rộng, cơm đồ ăn trang trí lên nhìn đầy ắp, nấu ngon nhưng lần đầu ăn thấy ngợp nhiều cơm quá trời đất 1.5 người ăn mới hết, 1 người ăn ko hết để lại hơi phí cơm, nếu lần 2 tới mình sẽ dặn chủ quán cho ít cơm, tóm lại ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Chung Nguyên",
+    "rating": 3,
+    "review_text": "QUÁN CHỈ CÓ 1 MÓN LÀ NGON ( CƠM CHIÊN ĐÙI GÀ ) CÒN LẠI KO NGON NHÉ ! NHIỀU NG ĐI CHUNG ĐÃ THỬ QUA VÀ ĂN RẤT NHIỀU LẦN R ! DUY NHẤT MÓN CƠM CHIÊN DG NGON THÔI !! QUÁN NÓNG NỰC KO NÊN NGỒI BUỔI TRƯA ! KHÔNG CÓ GIẤY LAU MIỆNG VÀ CANH KHI MUA VỀ ! GIÁ CƠM HƠI CAO NHÉ MN !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "chi thanh bon",
+    "rating": 3,
+    "review_text": "Quán đồ ăn nấu  tại chỗ nên ăn cũng ngon!do nhìn thấy mấy anh đâu bếp múa chảo lửa nên ngon!đồ ăn mơi nấu nóng ăn ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nguyệt Bích",
+    "rating": 4,
+    "review_text": "Quán ăn khá ngon\nDịch vụ cũng rất tốt, giá cũng vừa chứ không rẻ nhé cả nhà :)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Võ Anh Kiệt",
+    "rating": 5,
+    "review_text": "Thỉnh thoảng ăn cơm gà ở đây, khá là ngon giá 45k/phần cơm gà. Không gian rộng, nhiều bàn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "HOÀNG TRÍ",
+    "rating": 5,
+    "review_text": "Gọi món cơm gà chiên. Phần cơm làm rời, thịt gà chiên gần cả góc tư. Giòn, dai."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Phạm Nguyễn Anh Thư",
+    "rating": 1,
+    "review_text": "Xin chào, Tôi đã ăn tại tiệm. Tôi dùng mì trứng xào hải sản, nếu thêm nước chấm thì rất mặn, khó ăn, tôm chưa chín kĩ. phần thêm người tính tiền la mắng nhân viên của mình bằng từ ngữ tục tĩu, khó nghe khi Tôi tự lại quầy tính tiền. Ra về tự phải dời xe quay đầu xe khi có nhân viên coi xe. Lâu lâu ghé quán nhưng ghé lại thì tệ quá!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Tấm Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, vệ sinh , giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hong Linh Tran",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon họp khẩu vị, nhưng hơi nhiều phần cơm Dương Châu 1 người khó mà ăn hết...hihi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Danh Vu",
+    "rating": 5,
+    "review_text": "Đồ ăn đa dạng và ngon, đồ nóng hổi nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Thang Le",
+    "rating": 1,
+    "review_text": "Cơm hải sản 45k toàn cơm 80% . Quá mắc, hương vị thì ổn nhưng không có toping"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Sang Nguyễn trường",
+    "rating": 5,
+    "review_text": "Thức ăn nóng, chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Bích Nguyễn Ngọc",
+    "rating": 4,
+    "review_text": "ăn ngon, nhân viên phục vụ cũng ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "THIÊN THANH (thiên thanh)",
+    "rating": 4,
+    "review_text": "quán ăn phục vụ nhanh và có đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Dương Chí Bảo",
+    "rating": 4,
+    "review_text": "Quán ăn ngon, cơm ăn tạm được. Mà phục vụ không tốt lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nguyễn Drake",
+    "rating": 5,
+    "review_text": "Quán nấu ngon lắm, giá hợp lý nữa mọi người ủng hộ nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Gia Hồ",
+    "rating": 1,
+    "review_text": "Mua hủ tiếu xào mà t tưởng mua canh bột năng, vừa phải thôi nấu cho chó ăn hay sao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Trang Le",
+    "rating": 3,
+    "review_text": "Khá là ngon.giá cả hợp lý.phục vụ nhiệt tình quoán  sạch xẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "DC Marvel",
+    "rating": 1,
+    "review_text": "Đồ ăn siêu tệ, bò dai như nhựa, phục vụ nhây nhớt, từ chủ quán đến phục vụ toàn trẻ trâu. Dẹp!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Tiến Đặng cao",
+    "rating": 4,
+    "review_text": "Tạm được. Lâu lâu thiếu đồ ăn ( vì mình thường ăn 1 món thường xuyên)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "XUKA",
+    "rating": 1,
+    "review_text": "Quán bán mắc. Phục vụ thì gọi ko thèm trả lời. Chất lượng món ăn dở tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Khang Bao",
+    "rating": 5,
+    "review_text": "Bếp chế biến ngon , rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Duong Long",
+    "rating": 5,
+    "review_text": "Nhanh ko phải chờ đợi đợi lâu. Ngon nhất là món mi xao giòn và cơm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Vâng Nguyễn",
+    "rating": 4,
+    "review_text": "Thức ăn ổn nha. Chủ yếu các món chiên, xào. Không gian rộng, thoáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Trần Bin",
+    "rating": 4,
+    "review_text": "Quán ăn ngon sạch sẽ tuy nhiên phải đợi món hơi lâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Quynh Thanh Lai",
+    "rating": 4,
+    "review_text": "Ăn được giá bình dân. Nên ghé ăn thử nếu chưa biết món ăn người Hoa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "利志偉",
+    "rating": 5,
+    "review_text": "Quánn nhiều món ăn ngon, sạch sẽ, giá cả hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "hanh le",
+    "rating": 4,
+    "review_text": "Mon an đa dang ,ngon gia cung tot phuc vu ok ,giao tan noi neu cần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Duc Ok",
+    "rating": 1,
+    "review_text": "Tới trước làm sau 👎 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Anh Ngoc Vu",
+    "rating": 5,
+    "review_text": "Cơm gà ok. Nhưng cần làm nước sốt ăn kèm. Ko có nước sốt ăn thấy nhạt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nguyên Nguyễn Minh",
+    "rating": 4,
+    "review_text": "Món ăn chưa ngon lắm, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "TwoThousand",
+    "rating": 2,
+    "review_text": "Kêu hủ tiếu mì xào giòn 40k . Cuối cùng đem ra 1 phần mì giòn 40k vs hủ tiếu 40k ????"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "phụ nữ Tôi yêu",
+    "rating": 5,
+    "review_text": "Khá ngon, cũng có hôm chưa dc ngon lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Lê Hửu Nghĩa",
+    "rating": 5,
+    "review_text": "Món ăn khá ngon, Phục vụ tốt 5 sao nhak."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Duyen Dang",
+    "rating": 5,
+    "review_text": "Món ngon 1 phần bán khá nhiều. Kiểu quán Gia đình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Alice Nguyen",
+    "rating": 2,
+    "review_text": "Nui xào bò 50k mà ít bò toàn hành tây. Quá nhiều dầu bị ngấy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "hoang lam nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhưng không gian nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Tùng Bách",
+    "rating": 4,
+    "review_text": "Quán bán ăn được nhưng đồ ăn có vẻ ít hơn lúc trước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nguyệt Cầm Đỗ Thị",
+    "rating": 3,
+    "review_text": "Đồ ăn nhiều dầu mỡ, thích hợp cho ai thích các món chiên xào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hau Tran",
+    "rating": 5,
+    "review_text": "Quán làm ăn vừa miệng ,nhanh sạch sẽ , giá hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nam Phung",
+    "rating": 3,
+    "review_text": "Quán rộng rãi, đồ ăn ngon, phục vụ nhanh nhẹn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "hung thanh",
+    "rating": 4,
+    "review_text": "1 suất ăn 45-55k nhưng ngon và căng bụng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hồng Ân Nguyễn",
+    "rating": 5,
+    "review_text": "Có món gà xối mỡ ok. Mấy món khác chưa thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Vo Thy",
+    "rating": 4,
+    "review_text": "Món mì xào hải sản ngon. Phục vụ nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hung tran phuoc",
+    "rating": 4,
+    "review_text": "Giá cả bình dân,tiện cho anh em lười nấu ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Tai Nguyen",
+    "rating": 4,
+    "review_text": "Quán bán đồ ăn vừa miệng. Phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Sáng tạo sóng nhạc 2",
+    "rating": 5,
+    "review_text": "Quan không gian rộng rãi thoải mái nhân viên nhiệt tình vui vẻ 🤣 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Quyết Nguyễn Duy",
+    "rating": 4,
+    "review_text": "nghỉ uống nước mía"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Huy Đỗ Bá Châu",
+    "rating": 4,
+    "review_text": "Đồ ăn phong phú đa dạng tuy nhiên nước sốt màu sắc không đậm đà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Huuhoang Nguyen",
+    "rating": 3,
+    "review_text": "Món ăn phong phú. Nhưng nhân viên ko được tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Văn Cường Phạm",
+    "rating": 4,
+    "review_text": "Thức ăn ngon giá cả hợp lý nhất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hoàng",
+    "rating": 2,
+    "review_text": "Đồ ăn ko đc nóng lắm....phải đợi khá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Samhong 71",
+    "rating": 5,
+    "review_text": "Thức ăn ngon\nĐứng chảo toàn hot boy  săm trổ😄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Ngọc Trang Lương",
+    "rating": 5,
+    "review_text": "Lâu lắm mới quay lại, vẫn ngon như ngày nào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "P.H.I PHONG",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon ,menu nhiều món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hoàng Anh Bolero",
+    "rating": 4,
+    "review_text": "Ngon mà giá đắt quá đê..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "trung cao nhat",
+    "rating": 4,
+    "review_text": "Quán bán làm hơi chậm, cơm ăn được, gà mềm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Tran Minh Tam",
+    "rating": 5,
+    "review_text": "Ngon, cơm từ 40 đến 65k 1 phần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Duy Phong",
+    "rating": 5,
+    "review_text": "Ngon và giá cả hợp lý!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Doll E-an",
+    "rating": 5,
+    "review_text": "Nấu ăn ngon, rộng rãi và nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nguyễn anh Tuấn",
+    "rating": 2,
+    "review_text": "Đồ ăn ok!  Làm đồ lâu quá!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Trung Nguyen",
+    "rating": 3,
+    "review_text": "Chuyên về các món gà, ăn tạm được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Ngoc Nga",
+    "rating": 5,
+    "review_text": "Cơm chiên ở quán này ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Phong LT",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, phục vụ kém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Huu Truong Trong",
+    "rating": 5,
+    "review_text": "Món ăn ngon hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Ngô Thuận",
+    "rating": 2,
+    "review_text": "Món ăn nhiều dầu mỡ , ăn không ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hieu Vu",
+    "rating": 3,
+    "review_text": "Giá được nhưng ăn không ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Dien Nguyen",
+    "rating": 5,
+    "review_text": "Khong gian thoải mái  thức ăn  ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Đàm Uyên",
+    "rating": 1,
+    "review_text": "Món ăn nhạt. Không đặc sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nguyen Huu Bao Thuan",
+    "rating": 3,
+    "review_text": "Rất ngon, giá không quá đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "tuan tam vo",
+    "rating": 1,
+    "review_text": "Mới ăn xong, gà chiên còn sống,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nguyễn Phú Quý",
+    "rating": 3,
+    "review_text": "Ăn cũng vừa miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "cong ty vannhatthanh",
+    "rating": 3,
+    "review_text": "Vừa ăn...giá cũng hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hùng nguyễn thanh",
+    "rating": 3,
+    "review_text": "Bình thường giá hơi cao do mặt bằng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Tứ Hoàng",
+    "rating": 1,
+    "review_text": "Gà chiên sống nhăn mua về phải chiên lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Phong Nguyễn",
+    "rating": 5,
+    "review_text": "Mấy ông nhân viên vui vẻ, sẻ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nhanh Vuong Van",
+    "rating": 4,
+    "review_text": "Mì xào bò anh cũng tạm được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Anh Huy",
+    "rating": 1,
+    "review_text": "Nấu ăn quá tệ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Thiện Minh Lê",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ chưa tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Thoại Anh Nguyễn",
+    "rating": 4,
+    "review_text": "Khá ngon, hợp khấu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nguyễn Duy Cung (Boduc)",
+    "rating": 1,
+    "review_text": "Món Mì xào dòn k ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Dung Nguyen thi Kim",
+    "rating": 3,
+    "review_text": "Ăn tạm ổn,nếu không quá khó tính."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Bích Ngọc",
+    "rating": 5,
+    "review_text": "Ngon phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Cao Phat",
+    "rating": 4,
+    "review_text": "Món da dạng phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Võ Tuấn Cường",
+    "rating": 4,
+    "review_text": "Không ngon = Tâm Ký"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hậu Nguyễn",
+    "rating": 1,
+    "review_text": "Không hợp khẩu vị của mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "trungthanh pham",
+    "rating": 5,
+    "review_text": "Vẫn hay ăn quán này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "GAME MOBIE",
+    "rating": 2,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Chau Minh",
+    "rating": 1,
+    "review_text": "Chờ lấy đồ ăn quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Trường Vlog",
+    "rating": 5,
+    "review_text": "Ok đấy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hung Phan",
+    "rating": 5,
+    "review_text": "Món ăn chuẩn người Hoa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "loc nguyen",
+    "rating": 1,
+    "review_text": "Rất tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "vỉnh Hòa lê",
+    "rating": 3,
+    "review_text": "Củng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Teresa Nguyệt",
+    "rating": 1,
+    "review_text": "Quan ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Ái Ngọc Huỳnh Nhược",
+    "rating": 5,
+    "review_text": "Nhanh và ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Mai Hoàng Chuyên Bán Và Cho Thuê Máy Photocopy",
+    "rating": 5,
+    "review_text": "Ăn ngon ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Min Min",
+    "rating": 5,
+    "review_text": "Ổn so với giá tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Ngô Quang Hùng",
+    "rating": 4,
+    "review_text": "Cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Toàn Đỗ",
+    "rating": 5,
+    "review_text": "Rất tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "nguyen nam",
+    "rating": 5,
+    "review_text": "Đồ ăn tại chỗ khá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "ANH DUY",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hien Nguyen",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Alex grandson",
+    "rating": 5,
+    "review_text": "Rẻ và ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "THỦ THUẬT MÁY TÍNH, MMO",
+    "rating": 4,
+    "review_text": "Bình thường, Giá cao!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Minh Quang",
+    "rating": 4,
+    "review_text": "Ngon, rẻ, nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nhơn Nguyễn",
+    "rating": 5,
+    "review_text": "ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Quỳnh heo Nguyễn ngọc",
+    "rating": 3,
+    "review_text": "Lâu lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Minh Nguyễn",
+    "rating": 3,
+    "review_text": "Ăn được thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nguyen Hai",
+    "rating": 3,
+    "review_text": "Ăn được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "võ quang minh thuỵ",
+    "rating": 3,
+    "review_text": "Ăn cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nguyen Thanh Phong",
+    "rating": 3,
+    "review_text": "Phục vụ chán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "tuấn vũ",
+    "rating": 4,
+    "review_text": "Món ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Carrot TV",
+    "rating": 5,
+    "review_text": "Ngon , sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Quang Ho Huu",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Dung Nguyen",
+    "rating": 1,
+    "review_text": "Làm quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nguyễn Quang Đô",
+    "rating": 3,
+    "review_text": "Ăn no bụng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Mạnh Đỗ",
+    "rating": 5,
+    "review_text": "Nfon, bổ, rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Chung Nguyen",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "kophainkatnem",
+    "rating": 3,
+    "review_text": "Mì xào hơi khô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nhat Le",
+    "rating": 4,
+    "review_text": "Nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "TRANG PHAM",
+    "rating": 5,
+    "review_text": "giòn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Duykhanh Nguyen",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "TÂN TĂNG VIỆT",
+    "rating": 4,
+    "review_text": "Được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "tuan phan",
+    "rating": 5,
+    "review_text": "1raats ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Sửa xe nâng Hoàng Gia",
+    "rating": 2,
+    "review_text": "Binhg thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Dang Do",
+    "rating": 4,
+    "review_text": "Tương đối."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Đánh giá Thực tế",
+    "rating": 5,
+    "review_text": "Sang trọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Phi Ngọc",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "tri tran",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Xuan Truong",
+    "rating": 5,
+    "review_text": "Quán cơm Nguyễn Ký 1 – Phan Huy Ích\n- Đồ ăn lên nhanh, không phải chờ lâu, phù hợp cho cả những lúc bận rộn.\n- Cơm nấu ngon, hạt tơi, món ăn được nêm vừa vị, dễ ăn và hợp khẩu vị nhiều …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Đăng Đệ Phạm",
+    "rating": 5,
+    "review_text": "Quán thức ăn ngon nhưng phục vụ hơi kém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Cuong Ly",
+    "rating": 5,
+    "review_text": "Quán có các đầu bếp thiện nghệ, nấu ăn rất hợp khẩu vị, thịt rau đều tươi ngon giúp thức ăn dậy hương thơm. Nhân viên phục vụ được huấn luyện tốt, không đổ lỗi cho KH, biết quan tâm đến cảm nhận của KH. Tôi hài lòng khi ăn ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Kim Vy Đặng",
+    "rating": 3,
+    "review_text": "Dặn k gan, note trên bill ko gan vậy mà vẫn bỏ vô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "• Basani",
+    "rating": 3,
+    "review_text": "Quán khá đông tối, món ăn tạm ổn, giá thành phù hợp với ng lao động tầm trung."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Skdhdbs Dgcfdgf",
+    "rating": 2,
+    "review_text": "Cơm bò lúc lắc mà có vài miếng bò còn lại ớt chuông với củ hành ko mà giá 60 ngàn bếp nấu món hoa mà ăn ko cảm nhận đc có lẻ trình độ chưa tới chưa nghe được mùi thơm của chảo đặc trưng của món hoa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Nè Phong",
+    "rating": 3,
+    "review_text": "MÌ XÀO GIÒN, sử dụng cọng mì mới giòn và to, nhưng ko thấm được nước sốt như hồi trước nay đặt về ăn thấy hơi thất vọng...😭😭😭 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "BÙI CHI",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, đồ ăn ngon, lên món nhanh, bán đến tận khuya luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Evil LEO Nguyen",
+    "rating": 5,
+    "review_text": "Mì xào giòn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Trần Duy (Trần Đức Duy)",
+    "rating": 5,
+    "review_text": "Ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Kiên Phạm",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Ngoc Ngon Nguyen Tran",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Hoàng Nam Ngô",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Thich Nguyen",
+    "rating": 3,
+    "review_text": "Nơi đây phục vụ cơm chiên, mì Ý và bún theo kiểu Quảng Đông. Đồ ăn ngon và giá cả phải chăng, đặc biệt thích hợp cho bữa trưa hoặc bữa tối nhanh gọn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Drachir Eremebi",
+    "rating": 2,
+    "review_text": "Nơi này chỉ phù hợp với người dân địa phương, đồ ăn nước ngoài không giống như trong ảnh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Bao Trung Pham",
+    "rating": 3,
+    "review_text": "Đồ ăn ngon nhưng phục vụ chậm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Linh Vo",
+    "rating": 5,
+    "review_text": "Khẩu phần ăn vừa đủ. Giá cả hợp lý. Thức ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "PRINCE ELDONADO",
+    "rating": 4,
+    "review_text": "Dịch vụ tạm ổn... hãy tiếp tục phát huy nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Viet Nguyen",
+    "rating": 5,
+    "review_text": "Chuột đến"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Thu Nguyen",
+    "rating": 5,
+    "review_text": "Thức ăn rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Mickey Michaels",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175297f29621a0d:0x66510bb91afa7c05",
+    "shop_name": "Quán Ăn Nguyễn Ký 1",
+    "user_name": "Co APeo",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Phúc Nguyễn",
+    "rating": 5,
+    "review_text": "Quán thoáng mát, không gian rộng rãi có lâu máy lạnh, gà giòn đậm vị, cơm dẻo nóng, canh rong biển đậm đà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "HUU QUOC NGUYEN",
+    "rating": 1,
+    "review_text": "65k phần cơm gà quá dở, 65k là giá đã quá cao so với mặt bằng chung cơm gà xối mỡ, nhưng ở đây còn làm dở.\nGà khô chiên kiểu khô hết cỡ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Phương Tuyền Lê",
+    "rating": 1,
+    "review_text": "Mình ăn lúc trưa thì quán còn khá nhiều gà và cơm , mình gọi phần cơm gà xối mỡ ức gà và 1 phần cánh . Khi mình ăn miếng cánh gà , trời ơi cái mùi hôi thum thủm nó sộc lên và mình đã rấ nghi ngờ cho nên không dám ăn thịt gà tiếp . Về phần …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "QUANG DUY NGUYEN",
+    "rating": 1,
+    "review_text": "Mua phần cơm đùi + cánh xin thêm dưa chua ăn thêm thì nói không lấy cơm không có mà phần cơm cũng không có! Chưa ăn mà cũng không muốn ăn! thái độ rất tệ với khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nhat Quang",
+    "rating": 2,
+    "review_text": "Cơm gà góc tư (đùi lớn) 65k, thịt gà rất khô, bạn có thể nhìn hình và cảm nhận. Nếu ai đã từng ăn cơm gà Thạch Lam (kênh Tân Hoá) thì chắc cũng sẽ có cùng cảm nhận là cơm gà ở đây không bằng 1 góc (dở hơn, đắt hơn)."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nguyệt Lê",
+    "rating": 1,
+    "review_text": "Ăn nhiều lần r, mấy lần trước thì không sao. Đợt này quay lại gà quá khô và cứng. Nhân viên thì lo bán người mang về, còn khách tới lâu p ngồi đợi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Lê Minh Quang",
+    "rating": 4,
+    "review_text": "Gà chiên giòn ngon, giá 33k cho đĩa cơm gà to cũng khá ổn. Nhưng cơm thì thấy k ngon bằng các chỗ khác. Quán đông khách. Khuyên bạn nên đi ăn vào những ngày vui vẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "mèo",
+    "rating": 1,
+    "review_text": "tiền ăn 0k thì tiền thay ruột 50tr nha, nhìn thời gian và địa điểm thì không chối được đâu, quán làm ăn không vệ sinh an toàn thực phẩm t tởn tới già luôn tại hồi trước giờ thích ăn ở đây lắm 🥲 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "quỳnh cula",
+    "rating": 1,
+    "review_text": "dịch vụ quá kém, mình kêu 1 tô canh rong biển thì nhân viên ok xong tới lúc mang ra lại là 2 chén thì mình hỏi nv kêu k có bán tô, nhưng hôm trước mình ăn ở đây kêu 1 tô thì vẫn có, lúc hỏi lại thì nhân viên thái độ k hiểu kiểu gì luôn ( cô lớn tuổi thái độ í )"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "DUC TRAN",
+    "rating": 4,
+    "review_text": "Ko biết bạn nv có quên gì ko. Có mỗi mình mua thôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "2596_ Nguyễn Lương Hoàng Quân",
+    "rating": 1,
+    "review_text": "Nhân viên phục vụ mặt như muốn đuổi khách, đồ ăn ra đã chậm r còn nguội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thông Văn",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ tận tình, quán cơm gà mình đã ăn trên 10 năm rồi, vị lạ hơn chỗ khác là chiên gà xong sẽ nhúng thấm ngập trong gia vị của quán (vị tương tự như gà chiên nước mắm vậy á) có rau cải chua và dưa leo ăn kèm, quán có phục vụ trà đá miễn phí nữa!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Bão Trân (INFPisces)",
+    "rating": 3,
+    "review_text": "Quán cơm gà gần trường đại học công thương, lúc nào đi ngang cũng thấy khá đông. Cơm chiên tơi, thịt gà bên ngoài giòn, trong hơi khô, còn cải chua được trộn thêm ớt ăn khá ngon, lên món khá nhanh. Quán khá đông nhân viên và nhiều chỗ ngồi. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Phương Tsan",
+    "rating": 4,
+    "review_text": "Cơm gà gần sơn kỳ  lê trọng tấn . Quán bán từ khá lâu rồi . Sinh viên hay ghé ăn . Có chỗ đậu xe rỗng . Giá cả ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Vinh Nguyen",
+    "rating": 5,
+    "review_text": "Chỗ này ngon, giá bình dân, ăn không mùi dầu mỡ hay mùi cháy như mấy chỗ khác. Giá mắc hơn mặt bằng chung tầm 10% (bt 25k, chỗ này 28k), chấp nhận được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Văn Thinh Trương",
+    "rating": 1,
+    "review_text": "Quán cơm dơ nhất từng ăn\nbưng ăn chén canh nhìn phát ớn\nngày 5/1/2023 11h25 nhân biên nam áo đen còn lấy chỗi quét dứoi nhà lên lâu bàn .\nNhìn phát ói."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Explore Vietnam",
+    "rating": 4,
+    "review_text": "Hạt cơm hơi lạt- nhạt, nếu cơm ngon hơn thì quá tuyệt!\n\nGà chiên giòn rụm, 33K cho cơm đùi gà. Nếu hạt gạo ngon hơn thì có thể lên 35K …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hòa Trịnh",
+    "rating": 1,
+    "review_text": "tôi ngồi đợi mua cơm mang về ( đợi 10p . đã oder rồi ) sau đó  nhân viên chỉa tay thẳng mặt tôi . mới tới đúng không . tôi ngơ ngác . dù người đến sau tôi mang 3 hộp cơm về trước . này không phải lần đầu . là lần thứ 3 rồi . sau này đất sài gòn này k còn tiệm cơm gà tôi cũng k bao giờ ghé lại nữa ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Trần Đức",
+    "rating": 3,
+    "review_text": "tốc độ ra món cực kỳ chậm, mặc dù quán lúc đó k đông khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nguyễn Trung Toàn (Tona.Tuna)",
+    "rating": 5,
+    "review_text": "Gà ngon và nước mắm xịn ( nước mắm xin riêng nhân viên quán nha)\nCơm khô tơi hạt phù hợp với các bạn có gu ăn cơm chiên ráo.\nPhần đùi lớn giá 61k ăn no tràn nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Tiến Nguyễn Minh",
+    "rating": 4,
+    "review_text": "Quán ăn cơm gà chiên ngon. Tương đối sạch sẽ. Nhân viên nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Trần Đắc Toàn",
+    "rating": 5,
+    "review_text": "Cơm gà ở đây ăn rất ngon. Ăn 1 lần là nghiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Karry Roy",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cả phù hợp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thạnh Huỳnh Hữu",
+    "rating": 5,
+    "review_text": "Cơm ngon, hợp khẩu vị, quán đông khách, nhân viên phục vụ vui vẻ, dễ thương, miễn phí trà đá."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Lê Thái Việt Tùng",
+    "rating": 5,
+    "review_text": "Đùi Gà siêu to siêu khổng lồ - thề luôn! Nhìn hình là hiểu rùi ha! Chỉ có 45k thôi. Ngắn gọn - súc tích. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Ngọc Khánh Đỗ Hồng",
+    "rating": 2,
+    "review_text": "Đã từng ăn nhiều lần r, nhưng lần này trải nghiệm cực tệ nhân viên làm việc chậm chạp, cứ loay hoay làm khách đứng đợi rất lâu, mua phần cơm gà 35k mà có cái cánh chút ét, nói chung là thất vọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Đức Phú Nguyễn Thanh",
+    "rating": 3,
+    "review_text": "Đồ ăn ok, buổi tối sẽ ngon hơn buổi trưa (Nước sốt đậm đà, gà ngon hơn), chắc có lẽ do buổi trưa đông khách\nTuy nhiên không hài lòng với nhân viên trong lúc bưng đồ ăn ra. Móng tay và tay chạm vào đồ ăn của khách hàng, có một nhân viên có móng tay đen thui chạm vào cơm và canh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Minh Ngọc Đoàn",
+    "rating": 1,
+    "review_text": "Quán cần phải có những nhắc nhở đến các bạn trẻ dẫn theo thu cưng. Chứ ko thể nào mà thú cưng của các bạn vào quán ngồi vào vị trí giành cho thực khách được. Các bạn yêu thú cưng ko có nghĩa mọi người cũng phải như thế. Ngoài ra có bạn nữ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nguyễn Kim Yến",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, có quạt và điều hoà đầy đủ có khoảng 4 nhân viên. Lúc mình đến thì mới bắt đầu làm gà đảo cơm nên cũng rất ok. Lên đồ nhanh, chỉ khoảng 10 phút. Có cơm và trà cùng đĩa cơm. Có thể chọn đùi hoặc ức. Với 35k thì ko chê gì luôn. Gà ko khô, cơm đảo săn ko bị nhiều dầu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Ni Yến",
+    "rating": 5,
+    "review_text": "View đẹp nha mọi người 😁😁\nQuán rộng rãi,thoáng mát,có chà đá free lun nè😄\nNhân viên khá là dễ thương,phục vụ nhiệt tình lun 🤩😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "33.Trương Phước Tài",
+    "rating": 5,
+    "review_text": "10đ cho cách ứng xử của a áo sọc vàng nha sẽ quay lại nhìu lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hùng Mai Lê",
+    "rating": 1,
+    "review_text": "Khách đến trước thì không làm, khách đến sau thì làm trước ??? Đợi quá lâu nên đi về vừa đói vừa bực mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nam Dinh",
+    "rating": 4,
+    "review_text": "Không gian nhỏ quán đông, phục vụ ko kịp (mình đi lúc 6h20 tối)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Quốc Thắng",
+    "rating": 5,
+    "review_text": "Cơm gà ngon, gà chiên xong nhúng vào nồi nước mắm bơ thơm phức, mình thường xin thêm chén nước mắm bơ để ăn với cơm gà chứ không thích ăn với nước tương hay các gia vị khác, có điều lâu lâu mấy lúc quán đông vào giờ cao điểm gà chiên hơi cháy hay chưa chiên tới ăn không đã lắm. Còn lại thì oke, ngon hơn nhiều quán cơm gà khác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Tú Anh Trần",
+    "rating": 1,
+    "review_text": "sao cơm gà lại có ốc trong này😅 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "an nguyen",
+    "rating": 5,
+    "review_text": "Quán bán rất ngon giá cả hợp lý 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "cuong nguyen",
+    "rating": 1,
+    "review_text": "Mua 1 lần về ăn ớn luôn đùi gà to 65 cành mua về đùi bên trong còn sống máu luôn mùi hôi rìn ớn tới già thịt gà hôi hôi gà đông lạnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Noo Phước Thịnh",
+    "rating": 5,
+    "review_text": "Gà chiên ngon thơm, cơm không bị khô, có nước miền phí, canh miễn phí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Chi Huy",
+    "rating": 1,
+    "review_text": "Phần cơm cánh siêu nhỏ , mình có hỏi bạn nhân viên thì bạn kêu 35 k , phần cơm đùi , vs ức to bao nhiêu cánh nhỏ bấy nhiêu . Nhân viên nhìn mình suốt cả buổi ăn . Mình có thấy mấy bàn kia bạn hỏi là dùng hai hay 1 cánh . Chắc tại do bàn mình nói cánh nhỏ bạn nghe hay sao . Nhưng mà bàn mình thì không hỏi ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "XUÂN KHỞI NGUYỄN",
+    "rating": 1,
+    "review_text": "Đùi gà chưa vệ sinh kỹ còn nguyên mấy cọng lông, giá cao hơn mặt bằng chung trong khu vực nhưng vệ sinh nguyên liệu thì siêu tệ. Cơm thì như cơm sống, rau ăn kèm không được tươi, chẳng hiểu vì sao quán lại đông khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Lộc Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ, với 25k cho 1 phần đùi gà xối mỡ là quá rẻ.\n\nChiên da giòn rụm, cơm cũng được chiên lại mỗi khi mang ra bàn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "TuHo Ngo",
+    "rating": 4,
+    "review_text": "Đồ ăn có kèm đồ chua ngon miệng, gà chiên xong tẩm vị tậm đà. Quán khá đông nên oder hơn là mua trực tiếp vì phải đợi khá lâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Đường Nguyễn",
+    "rating": 4,
+    "review_text": "Ngon, gà xối mỡ hơi ngọt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Van cuong Ho",
+    "rating": 5,
+    "review_text": "Ngon và rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hoa Nguyen",
+    "rating": 4,
+    "review_text": "Thịt gà ở đây khá tươi, không thấy xương chân gà màu đen như các loại thì gà đông lạnh nên ăn khá ổn. Cơm chiên thì không có gì đặc biệt. Giá cả hiện tại cũng đã tăng lên so với trước. Khẩu phần ăn cũng có vẻ ít đi một phần do tình hình …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Phi Cường Nguyễn",
+    "rating": 5,
+    "review_text": "Quán này rẻ mà ngon. Bữa mình vô kêu cái đùi lớn. Quán đem ra nguyên cái đùi mà mình nhìn tưởng đùi gà tây không, to phủ cả mặt dĩa cơm. Gà ướp rất ngon. Ngoài ra cơm và đồ chua cũng ngon không kém. Quán sẽ đãi bạn free 1 trà đá. Ngoài ra quán có gel rửa tay phòng dịch đầy đủ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Trịnh Trường Sơn (Cậu Bé Khờ)",
+    "rating": 1,
+    "review_text": "Không biết đồ ăn như thế nào nhưng cách phục vụ và thái độ phục vụ cực kì tệ. Mình có ghé quán tầm lúc 21h10 (quán vắng,có 3 khách) sau khi đi vô để xe mình có lại hẳn quầy bán để kêu 1 dĩa cơm đùi sau đó lại bàn ngồi,chờ 5p thì mới có 1 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Yến Nhi Lê",
+    "rating": 3,
+    "review_text": "mình mua 5 bữa thì hết 4 bữa không có canh 😊 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Khanh Đoàn",
+    "rating": 4,
+    "review_text": "Nhân viên phục vụ nhanh, nhiệt tình, ra món nhanh, thức ăn ngon, giá rẻ (tầm 25k/phần), không gian quán hơi nhỏ nhưng thoáng mát, buổi trưa thì quán có thêm món canh còn buổi chiều tối thì hổng có canh nên hơi buồn tí vì mình chỉ thường ăn vào buổi tối hà 😂😂😂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thanh Thanh",
+    "rating": 4,
+    "review_text": "Cũng tạm. Giá rẻ hơn đặt app, nên qua ăn thử. Nhưng cơm cảm giác thiu, nên k dám ăn nhiều. Gà cũng tạm ổn. Giá 33k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Trúc Chúc",
+    "rating": 1,
+    "review_text": "các bạn nv nam, có thái độ thiếu tôn trọng với khách hàng, bàn thiếu dụng cụ nhờ lấy hộ thì cọc ra mặt, kèm thái độ lòi lởm với khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "tuyet thien",
+    "rating": 4,
+    "review_text": "Ngon . 2 dĩa cơm cà ức 1 cơm thêm 54k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Trịnh Vũ Trọng Nghĩa",
+    "rating": 4,
+    "review_text": "Gà ở đây sau khi chiên xong sẽ dc nhúng qua một lớp nước mắm pha nên gà ăn sẽ khá ngon. Tuy nhiên đừng để ý là gà có nguồn gốc từ đâu hay chảo dầu có màu gì. Bạn sẽ k dám ăn đâu nếu bạn cảm thấy bạn rất quan tâm đến sức khỏe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Lan Lâm Ngọc",
+    "rating": 5,
+    "review_text": "Ngon, rẻ nhân viên nhiệt tình đáng trải nghiêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Vũ",
+    "rating": 5,
+    "review_text": "Quán làm cơm chiên rất ngon, gà chiên giòn, đậm đà rất hợp khẩu vị. Có thêm món phụ như cơm trứng chiên, xúc xích, lạp xuởng.... Giá cả hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Tung Nguyen",
+    "rating": 3,
+    "review_text": "Ăn cũng ok giá bình dân nhưng cảm thấy không được an toàn thực phẩm. Nhân viên cũng không nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Diep Hong",
+    "rating": 2,
+    "review_text": "Nhân viên thái độ gì vậy má"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Cao Văn Tuấn",
+    "rating": 4,
+    "review_text": "Mong quán thêm nhiều canh hơn nữa để những người mua buổi chiều và tối có 1 phần canh rong biển mang về"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thanh Thuận",
+    "rating": 4,
+    "review_text": "Giá cả bình dân, thức ăn ok nhưng quán hơi đông nên phục vụ hơi chậm vào giờ cơm (11h-13h và 6h-8h)."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Bích Lệ Thái",
+    "rating": 2,
+    "review_text": "Hôm nay đi mua cơm gà..kêu 1 phần ức với 1 phần đùi nhỏ đợi rất lâu ..người khác vô sau mà có trước.cuối cùng đem về là 1 phần ức với phần cánh...tương ớt thì chỉ có 1 bịch...😤 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nguyễn Phát",
+    "rating": 5,
+    "review_text": "Chưa bao giờ ăn cơm gà xối mỡ ngon đến như vậy ah. Có thể gọi thêm lạp xưởng và đồ chua. 😄😄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Du Mã Địa",
+    "rating": 2,
+    "review_text": "Gà không đảm bảo vệ sinh vì giá quá bình dân. Chế biến không đảm bảo vệ sinh. Phù hợp cho sinh viên người lao động thu nhập thấp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Công Thuần",
+    "rating": 1,
+    "review_text": "Cơm gà nhìn ngon thật nhưng dầu thì hôi chiên bên ngoài nhìn giòn ngon thật nhưng bên trong lại không chín nhìn rất ghê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Bảo Duy Nguyễn",
+    "rating": 2,
+    "review_text": "Ai ăn phần dắt hơn có trước. Gọi cơm đùi thường ngồi chờ cho mấy người vào sau ăn đắt hơn có trước,  gọi đĩa cơm thêm từ lúc mới vào ăn tới lúc ăn xong chưa thấy đĩa cơm thêm đâu ( quán ko đông), vào hỏi còn canh ko thì kêu hết,  ăn được nữa dĩa thì có vài người vào kêu đùi trứng thì bưng canh ra. Hảo quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Trần Nhật Duy",
+    "rating": 4,
+    "review_text": "Quán cơm gà này khá ngon, đông khách nên khách phải chờ hơi lâu tý vì quán ít nhân viên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hữu Phong Trần",
+    "rating": 4,
+    "review_text": "Cơm gà ngon ok, thịt chien giòn dai hấp dẫn. Nv phuc vụ còn chẬm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Vy Phung",
+    "rating": 5,
+    "review_text": "Cơm gà ngon,nhân viên quán dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "20142020 Vip",
+    "rating": 1,
+    "review_text": "Trước đã ăn khá nhiều lần nhưng hôm bữa đứng nhìn và mang về ăn thì tởm thực sự.Dầu đen thui khét tanh mùi gà để lâu,chiên giòn bên ngoài ko thấy gì nhưng ăn tới bên trong mới thấy đc,gà hôi tanh.Giờ mới hiểu sao gà ở đó chiên giòn để nguội khô như khúc gỗ...thấy đùi to ham hố nhưng thất vọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "huy nguyen thanh",
+    "rating": 4,
+    "review_text": "Gà ngon, cơm chiên giòn  sẽ làm tăng hương vị món ăn hơn nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Diep Nguyen",
+    "rating": 1,
+    "review_text": "Nhân viên rất khó chịu, gọi tính tiền là vừa dọn dĩa cơm khách đang ăn vừa tính tiền."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Tuấn Nguyễn Hoàng",
+    "rating": 4,
+    "review_text": "Gà chiên giòn, ít gắt dầu, cơm k bị khô, ngon và sạch sẽ tuy nhiên hay nhầm lẫn yêu cầu của khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Anh Dang",
+    "rating": 3,
+    "review_text": "xử lý đơn hàng chậm , không có chổ đậu xe khi mua về lúc đông đứng tràn ra đường rất nguy hiểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Bạch Lài Đặng",
+    "rating": 4,
+    "review_text": "Gà xối mỡ ngon, dưa chua làm theo phong cách kim chi ăn rất hợp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hồ Ngọc khánh",
+    "rating": 5,
+    "review_text": "Cơm gà rất ngon mặc dù quán chỉ là quán nhỏ vỉa hè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Minh Quân Đào",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , phục vụ nhanh , giá phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Tusbby Cẩm",
+    "rating": 5,
+    "review_text": "Cơm ngon, gà rất to, có canh và trà đá miễn phí nữa!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Henry Tran",
+    "rating": 3,
+    "review_text": "Cơm và canh ăn bình thường, gà ăn được với giá 25k/ phần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Lâm Phạm Ngọc",
+    "rating": 4,
+    "review_text": "Cơm ngon, giá được. Chỗ ngồi hơi đông, không thoải mái lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "THUY TRAM (TYTY)",
+    "rating": 5,
+    "review_text": "Cơm gà rất ngon, nhanh lẹ. Giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Vana",
+    "rating": 3,
+    "review_text": "Từng đi ăn rất nhiều lần cho tới khi thấy con 🪰 trong đĩa cơm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thành Vũ Trương",
+    "rating": 4,
+    "review_text": "Ngon và rẻ. Còn bổ không thì không biết được. Chờ đợi quá lâu. Tặng 4 *"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Minh Sang",
+    "rating": 1,
+    "review_text": "Đồ ăn tạm được. Mong chủ quán xem lại khâu vệ sinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thành",
+    "rating": 5,
+    "review_text": "Đồ ăn giá mềm :))) tuy nhiên ko gian ko đc vệ sinh lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hải Sản 365",
+    "rating": 4,
+    "review_text": "Không gian quán thì khá mát mẽ. Có chổ để xe riêng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "rabon - Liên Quân",
+    "rating": 5,
+    "review_text": "Rất ngon nha mn về tân phú nhớ ghé ăn nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Khoa TDB",
+    "rating": 5,
+    "review_text": "Gà ngon, ko khô, ăn từ 2018 vẫn ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Gofood Review",
+    "rating": 1,
+    "review_text": "Gà và cơm chiên dầu đen quá. Vô quán mùi hơi tanh khó chịu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Phuc Le Thanh",
+    "rating": 5,
+    "review_text": "Cơm gà ngon, nhân viên vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Manh Hoang",
+    "rating": 4,
+    "review_text": "khá ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hân Đỗ",
+    "rating": 5,
+    "review_text": "Thích hạt cơm ở đây, tơi nhưng không khô, sẽ ghé thêm nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "CÔNG NGHỆ KIẾM TIỀN THỜI",
+    "rating": 5,
+    "review_text": "Gà giòn ngọt không bị khô. Cơm chiên hấp dẫn. Phục vụ ân cần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Galaxy Watcher",
+    "rating": 5,
+    "review_text": "Cơm ngon, giá hợp lý, phục vụ món nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Myphung Vuong",
+    "rating": 5,
+    "review_text": "Cơm gà rất ngon ông bà chủ rất dể thương 👍👍👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Phương Trần",
+    "rating": 5,
+    "review_text": "Ngon, giá hợp lý, phù hợp cho tất cả mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thành Lê",
+    "rating": 5,
+    "review_text": "Ăn rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Phi Trần",
+    "rating": 4,
+    "review_text": "Cơm gà 1 hộp 25k. Gà ướp bao ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Phước Hong",
+    "rating": 5,
+    "review_text": "Cơm ngon rẻ , mấy bạn ở gần nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "hoang vu nguyen le",
+    "rating": 4,
+    "review_text": "Ngon,dễ ăn,hợp khẩu vị người Trung-Nam"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nhung Nguyen",
+    "rating": 4,
+    "review_text": "Món ăn ngon tuyệt nhưng chờ đợi đến hao mòn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "phuongmai VI",
+    "rating": 1,
+    "review_text": "Mua mấy lần gà chiên chưa kỹ lắm cái chị gì mới mới choeen"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Tuyết Huỳnh",
+    "rating": 4,
+    "review_text": "Cơm gà khá ngon, giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nhi Nguyễn mỹ tuyết",
+    "rating": 5,
+    "review_text": "cơm gà ngon rẻ.33k/1p đùi to🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "kỳ lê nhã",
+    "rating": 5,
+    "review_text": "Ăn là ghiền luôn đó!!mọi người nhớ qua quán này thử nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "long vlogs",
+    "rating": 5,
+    "review_text": "cơm ngon nói chung .giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Giang Nha",
+    "rating": 3,
+    "review_text": "Quán hơi nhỏ nhưng ăn dc . Bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thuong Dang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhiều món."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "CT LÊ",
+    "rating": 3,
+    "review_text": "Dầu chiên có mùi mỡ heo hôi ,gà để bừa bộn ko sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "phúc nguyễn kim",
+    "rating": 4,
+    "review_text": "Đồ ăn tạm ổn, không gian nóng không có máy lạnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "anh huy",
+    "rating": 1,
+    "review_text": "Txê tới trước đứng chờ ko bán.khách tới sau thì bán trước.buôn bán kiểu thiên vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thuỷ Huỳnh",
+    "rating": 4,
+    "review_text": "Ăn được , cơm chiên không có trứng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "truongthanh manh",
+    "rating": 5,
+    "review_text": "Cơm ngon miệng và giá vừa túi tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "dung mai",
+    "rating": 3,
+    "review_text": "Cơm ngon và đang dần tiến bộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Minh vũ Hoàng",
+    "rating": 4,
+    "review_text": "Miếng gà to. Cơm ok. Còn về vệ sinh k rõ..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Huy Nguyen Huu",
+    "rating": 4,
+    "review_text": "Tạm được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nguyễn Phúc",
+    "rating": 5,
+    "review_text": "Ngon phục vụ tốt giá phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thanh Hiếu TV",
+    "rating": 4,
+    "review_text": "Gà ngon. Cơm cần chiên giòn thêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "William Cao Vu",
+    "rating": 5,
+    "review_text": "Gà nhiều giá rất sinh viên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "phong nguyen",
+    "rating": 3,
+    "review_text": "thịt gà hôi lắm. nghi gà đông lạnh container"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Quang Huỳnh",
+    "rating": 5,
+    "review_text": "Rat dong Thuc khach, Toi doan chac gia ca khong cao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "hien vo vinh",
+    "rating": 5,
+    "review_text": "Cực ngon,hợp vệ sinh, sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Anh Tu",
+    "rating": 5,
+    "review_text": "Cơm ngon, gà ngon, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Lãm Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon rể đông người ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "dong vo",
+    "rating": 5,
+    "review_text": "Cơm và gà đều ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nguyen Quan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhưng mắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hữu Duy Trương",
+    "rating": 5,
+    "review_text": "Cơm ngon, giá phù hợp..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Vương Huỳnh hải",
+    "rating": 4,
+    "review_text": "Ăn ngon. Phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Đ ă n g",
+    "rating": 5,
+    "review_text": "Ngon lắm! 25k ăn no"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "VĂN DUY TRẦN",
+    "rating": 3,
+    "review_text": "Mua cơm chờ hơi lâu vì khách rất nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Lập Trình Vàng",
+    "rating": 4,
+    "review_text": "Ngon rẻ, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Ad.venture Music",
+    "rating": 5,
+    "review_text": "Ngon đó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Công Định",
+    "rating": 2,
+    "review_text": "Nhân viên thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Duy Võ",
+    "rating": 4,
+    "review_text": "Ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Sang leopard discus",
+    "rating": 4,
+    "review_text": "Giá rẻ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Sàn Nhựa Giả Gỗ",
+    "rating": 4,
+    "review_text": "Tạm ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thang Tran",
+    "rating": 3,
+    "review_text": "Bình dân, sạch sẽ, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thùy Diễm",
+    "rating": 4,
+    "review_text": "Ngon ít dầu mỡ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "tot tran van bao",
+    "rating": 4,
+    "review_text": "Ngon trong tầm giá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "minh hau nguyen",
+    "rating": 5,
+    "review_text": "Nói chung ăn thì ok đó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Bình Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon. Giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hieu Nguyen Trung",
+    "rating": 3,
+    "review_text": "Hạt cơm chiên không ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Lion Master",
+    "rating": 5,
+    "review_text": "Ngon bổ ngửa...!🤣🤣🤣 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Lê Hiệp",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Tâm Trần Minh",
+    "rating": 4,
+    "review_text": "Ngon, nhanh sạch, ok ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Phương Nguyễn",
+    "rating": 5,
+    "review_text": "Quán cơm ngon ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "nguyen van tinh",
+    "rating": 4,
+    "review_text": "Hơi ngấy do ngọt nhưng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Karik Phong",
+    "rating": 5,
+    "review_text": "NgOn, 27k đáng đồng tiền."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hoài Bão",
+    "rating": 4,
+    "review_text": "Nước chấm ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Anna Nguyễn",
+    "rating": 5,
+    "review_text": "Cơm ngon, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Long Đào Duy",
+    "rating": 5,
+    "review_text": "Ở đây bán ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "An Vo PN",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Duy Doan Duong",
+    "rating": 4,
+    "review_text": "Đồ ăn oke"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Khuyen Hoa",
+    "rating": 1,
+    "review_text": "Phục vụ chưa chu đao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Minh Nhật",
+    "rating": 5,
+    "review_text": "ngon giá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Viet Feelings",
+    "rating": 3,
+    "review_text": "Tối ko có canh, cơm khô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Lam Vũ",
+    "rating": 5,
+    "review_text": "Cơm khá ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Phong Thanh",
+    "rating": 5,
+    "review_text": "Gà Chiên Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hồ Văn Phán (hovanphancoder)",
+    "rating": 4,
+    "review_text": "Ngon lành cành đào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Tú Phạm",
+    "rating": 5,
+    "review_text": "Quá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Xuân Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "nghĩa nguyển",
+    "rating": 4,
+    "review_text": "Cơm cũng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "VO VAN HOANG (xxxhoangpro)",
+    "rating": 5,
+    "review_text": "Phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Tiger Master",
+    "rating": 5,
+    "review_text": "Ngon.chất.bao no..!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Bích Thủy Trương",
+    "rating": 3,
+    "review_text": "Cơm ăn khá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nam Tran Van",
+    "rating": 5,
+    "review_text": "Ăn cũng được :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Định Hồ",
+    "rating": 1,
+    "review_text": "Cơm sống"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "phong le",
+    "rating": 5,
+    "review_text": "Món khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Kien Tong",
+    "rating": 4,
+    "review_text": "Cơm ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Trần Hữu Đạt",
+    "rating": 5,
+    "review_text": "Ăn được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Vũ Phiêu Hùng",
+    "rating": 4,
+    "review_text": "Ngon lăm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Đức Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Chinh",
+    "rating": 4,
+    "review_text": "Bán cơm với 🐔🐔🐔 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "DungH2O Nguyen",
+    "rating": 3,
+    "review_text": "Tạm được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Love All Animals",
+    "rating": 2,
+    "review_text": "Cơm bth..gà khô..cơm khô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thi Nguyễn",
+    "rating": 3,
+    "review_text": "Giá tạm được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Bayamo Black Saga",
+    "rating": 5,
+    "review_text": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Vi Tính Lộc Phát",
+    "rating": 5,
+    "review_text": "Ngon !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thien Pham",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Muối Tiêu Chanh",
+    "rating": 5,
+    "review_text": "Siêu ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Hieu Nguyen",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Trung Hoàng",
+    "rating": 2,
+    "review_text": "Làm đồ quá chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Nam Nguyen",
+    "rating": 5,
+    "review_text": "Cho nay an cũng duoc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Khoa Tran",
+    "rating": 5,
+    "review_text": "Đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "tú nguyễn",
+    "rating": 1,
+    "review_text": "Bụi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Dai Van",
+    "rating": 5,
+    "review_text": "Alo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "vinh the",
+    "rating": 4,
+    "review_text": "Ga gion vua an"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Vũ Đào",
+    "rating": 5,
+    "review_text": "rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Thương HuỳnhHoài",
+    "rating": 3,
+    "review_text": "Bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Dương Hoàng Hiếu",
+    "rating": 5,
+    "review_text": "Bao ngonnnnnn ❤😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752be2b86bbb59:0x49c357e40257cd80",
+    "shop_name": "CƠM GÀ XỐI MỠ 678 - SƠN KỲ",
+    "user_name": "Cuong Nguyen",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  }
+]

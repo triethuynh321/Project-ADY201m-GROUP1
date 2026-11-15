@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Dinh Nu Quynh Anh",
+    "rating": 5,
+    "review_text": "ac chủ thân thiện cute lóm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Lê Ngọc",
+    "rating": 5,
+    "review_text": "siêu nhiệt tình 😉🤣 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Kỳ Nguyễn",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Quỳnh Nguyễn",
+    "rating": 5,
+    "review_text": "Rất vui"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "HẠ THỊ KIỀU CHINH",
+    "rating": 5,
+    "review_text": "Nhiệt tình có tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Chung Nguyễn",
+    "rating": 5,
+    "review_text": "Chủ quán nhiệt tình, đồ ăn tươi sống phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Lâm Vi hoàng",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt giá cả phải chăng\nLần sau sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Hiếu Minh",
+    "rating": 5,
+    "review_text": "10đ hạng mục trò chơi và dịch vụ ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Thang Luong the",
+    "rating": 1,
+    "review_text": "Phục vụ vớ vẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Chiến Bùi Official",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon view đẹp. Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Trinh Vũ",
+    "rating": 5,
+    "review_text": "Bãi biển đẹp. Phục vụ tốt. Nhiệt tình. 10 sao👍👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "thịnh tống",
+    "rating": 5,
+    "review_text": "Dịch vụ cực tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Lê Quỳnh",
+    "rating": 5,
+    "review_text": "Quá tuyệt vời chắc chắn sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "hiếu duy",
+    "rating": 5,
+    "review_text": "Phục vụ tốt nha các pro"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Trưởng Anh Thuyền",
+    "rating": 5,
+    "review_text": "Đồ tươi ngon - service chu đáo 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Chi Nguyễn",
+    "rating": 5,
+    "review_text": "ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "quyet pham",
+    "rating": 5,
+    "review_text": "Quá tuyệt vời , cảnh rất đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Phương Lý",
+    "rating": 5,
+    "review_text": "Đẹp. Thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Nam Phong Vũ",
+    "rating": 5,
+    "review_text": "Chất lượng cao luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Đức anh Nguyễn",
+    "rating": 5,
+    "review_text": "Thằng chụp bị tắc ngơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Giang Chau",
+    "rating": 5,
+    "review_text": "Địa chỉ tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "MSSV:05. Stt 5 Lương Phương Anh",
+    "rating": 5,
+    "review_text": "Quá tuyệt vời 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Hà VT",
+    "rating": 5,
+    "review_text": "Đồ ăn vừa miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Artorias the Abysswalker",
+    "rating": 5,
+    "review_text": "Đồ ăn quá ngon, quá nhiều cho 1 bữa tối 2 người. View biển cực đẹp, có thể tới chơi cả ngày cũng được. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Phương Nguyễn",
+    "rating": 5,
+    "review_text": "chủ nhiệt tình, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Tiến anh Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn siêu chất lượng, ngon miệng và đầy. Chủ quán siêu dễ thương hoà đồng thân thiện vô cùng ❤️ tôi sẽ tới cô tô lần nữa chỉ vì quán yêu này❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Anh Bố",
+    "rating": 5,
+    "review_text": "trải nghiệm dịch vụ ở đây rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Luyen Nguyen",
+    "rating": 5,
+    "review_text": "Trải nghiệm khá là tuyệt vời ,đồ ăn tươi ngon ông chủ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Khương Đăng",
+    "rating": 5,
+    "review_text": "Dịch vụ ok chủ nhà vui vẻ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Đinh Hà Vy",
+    "rating": 5,
+    "review_text": "Ăn ngon, combo đúng NGON-BỒ-RẺ, chủ quán nhiệt tình tặng thêm ghẹ 😁 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Streamer Thế giới",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi ngon, nêm vừa miệng, nướng thơm lừng. Không gian sạch sẽ, thoải mái, phục vụ nhanh và rất nhiệt tình. Chắc chắn sẽ quay lại!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Quang Nguyễn",
+    "rating": 5,
+    "review_text": "Một trải nghiệm rất đáng thử tại BBQ Hương Giang!\n\nĐồ ăn tươi ngon, được tẩm ướp vừa vị, nướng lên thơm lừng và rất hấp dẫn. Thực …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "ĐẠO MAI XUÂN",
+    "rating": 5,
+    "review_text": "rất tốt rất ngon rất đẹp\nsẽ quay lại nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Huyền Linh Phan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá rẻ, chị chủ siêu nhiệt tình 😍😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Tri Ngz",
+    "rating": 5,
+    "review_text": "chủ quán nhân viên vui vẻ thân thiện\nhải sản tươi ngon\ncó dịch vụ vui chơi chèo sup, motor nước, bay dù, flyboars … thuê đồ bơi tăm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Hoang Nguyen",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77c34d9b71e9:0x4b972f7f072882fc",
+    "shop_name": "BBQ HƯƠNG GIANG",
+    "user_name": "Việt Nguyễn Minh",
+    "rating": 5,
+    "review_text": "VR tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Mai Hạnh",
+    "rating": 4,
+    "review_text": "Nhà hàng ổn nha mọi người, canh ngao không có rau nhìn hơi thiếu thiếu, đồ ăn hơi lâu, lhujc vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "MASTER HN",
+    "rating": 4,
+    "review_text": "Đồ ăn tươi nhưng giá ko rẻ, được cái thoáng đãng, sát biển"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Tùng Nguyễn",
+    "rating": 3,
+    "review_text": "Được giới thiệu đến quán nhưng khẩu vị không hợp, đồ ăn nhạt nhẽo, nước chấm cũng nhạt nhẽo 🐧, nhân viên nhiệt tình dọn bàn, còn nv oder thì hỏi gì cũng không biết. Tóm lại là không hợp mồm, đặc biệt là nước chấm (linh hồn món ăn) làm hơi kém nên không đánh giá cao. À nhà mình đi 7 người lớn, 2 trẻ em, bill tổng 3tr2. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Do Viet Duy",
+    "rating": 4,
+    "review_text": "Vị trí nhà hàng ngay sát bờ biển Trà Cổ, view đẹp, có chỗ để xe rộng rãi, có dịch vụ thuê xe điện cho trẻ em chơi ở ngay phía trước nhà hàng.\nĐồ ăn tươi, ngon nhưng phục vụ hơi chậm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Linh Phương",
+    "rating": 1,
+    "review_text": "Đồ ăn ko ngon lắm, cx chả tươi đâu. Nêm nếm gia vị khá kì và đậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "My foodie journal",
+    "rating": 4,
+    "review_text": "Pvu chậm và hay quên. Nhưng cua rang me và miến xào giòn đỉnh luôn. Mỗi cái là ngoài này ngta k thích ăn bánh mì nướng giòn hay sao ý ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Trường Đỗ",
+    "rating": 1,
+    "review_text": "Phục vụ lâu . Nước lẩu hết không có"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Sinh Nguyen Van",
+    "rating": 3,
+    "review_text": "Phục vụ chậm, đồ ăn tươi nhưng kỹ thuật nấu ăn tạm được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Thành Tiến",
+    "rating": 4,
+    "review_text": "Đồ ăn tuyệt, không có gì để chê. Khu vực vệ sinh tương đối sạch sẽ đối với nam giới. Là địa điểm rất thích hợp để ăn uống"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Hưng Việt",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, phục vụ có phần hơi chậm vì đông khách, view biển đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Quang Thang Pham",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, hải sản rất tươi, không gian quán cũng rất sát biển trà cổ. Nhà hàng to đẹp dễ thấy, nhưng có lẽ do đông khách quá nên phục vụ và bếp hơi chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "ha nguyen",
+    "rating": 5,
+    "review_text": "Quán Đã thay đổi vị trí mới. Cách chỗ cũ 1-200m\nĐồ ăn ngon, Nv nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Độc Hành Nhân",
+    "rating": 4,
+    "review_text": "Nhà hàng có vị trí rất đẹp. Hình những cây nấm bên bờ biển. Địa điểm ăn uống, tổ chức sự kiện. Đúng trên nhà hàng có thể ngắm toàn bộ bãi biển Trà Cổ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Chen Feel Du",
+    "rating": 5,
+    "review_text": "Nhà hàng chế biến hải sản ngon và luôn tươi mới, ăn đã cái nư. Tuy nhiên hơi chậm tẹo vì ít người làm. Không gian rộng rãi thoáng mát, pvu nhiệt tình niềm nở. Giá hợp lí ko chặt chém. Mỗi lần tới Trà Cổ mình đều ghé đây ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Trung Hơn Hoàng",
+    "rating": 5,
+    "review_text": "Hải sản rất tươi, không gian rộng rãi, có view tầng 2 tách biệt vừa ăn vừa ngắm cảnh biển rất đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "David Tran",
+    "rating": 3,
+    "review_text": "Đồ ăn rất ngon. View sát bãi biển rất ổn.\nPhục vụ tươi cười niềm nở cho khách đỡ có cảm giác được ban phát thì tốt hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Dovan hanh",
+    "rating": 1,
+    "review_text": "Nhà mình gọi 3 bàn (1 bàn trẻ em), Mình gọi 1 đĩa mì xào cho bàn trẻ em, nhà hàng mang ra 3 đĩa bảo gọi ít quá và họ tự ý thêm (hoá đơn nhà mình 3tr9)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Phạm Kim Anh",
+    "rating": 4,
+    "review_text": "Đồ ăn tươi, món sá sùng chiên không ngon lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "My Hà",
+    "rating": 2,
+    "review_text": "Đồ ăn ngon,nv nhiệt tình, quán sạch sẽ tất cả đều rất tốt trừ tốc độ. Giá cả thì khá cao nhưng đi kèm chất lượng. Tuy nhiên thái độ của nhân viên lúc đông khách không tốt và tốc độ rất chậm. Quán cần điều chỉnh lại cách làm việc cho nhân viên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Quang Tiến",
+    "rating": 5,
+    "review_text": "Ngay bờ biển trung tâm bãi tắm. Sức phục vụ hiện tại chưa đáp ứng tốt vào ngày cao điểm như cuối tuần. Cần nâng cấp thêm để tránh quá tải bị mất điện. Không gian phục vụ tương đối đẹp so với hầu hết các nhà hàng ở cùng địa điểm. Nhà tắm tráng nước ngọt vẫn còn sơ sài nhưng vì đi vào ngày đông nên chấp nhận được 😅 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Minh Huong Nguyen",
+    "rating": 5,
+    "review_text": "Nhà hàng sạch sẽ, bãi biển đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Quan Tran",
+    "rating": 3,
+    "review_text": "Đồ ăn tạm ổn, không gian thoáng, gần biển nhưng chưa đẹp!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Nghia Pham",
+    "rating": 4,
+    "review_text": "Quán khá đẹp, ngay sát mặt biển Trà Cổ. Hải sản tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Son Truong Thanh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, vị trí ngắm biển đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Duc Nguyen",
+    "rating": 5,
+    "review_text": "Đang sửa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Thanh Tùng Hoàng",
+    "rating": 5,
+    "review_text": "Món sam ăn ngon , làm đc nhiều món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Trung Nguyễn Đức",
+    "rating": 1,
+    "review_text": "Đồ ăn không ngon, đắt, cân điêu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Dien Do Xuan",
+    "rating": 1,
+    "review_text": "Giá rất bịp, không nên vào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Thai Le Xuan (laptop911_vn)",
+    "rating": 5,
+    "review_text": "vị trí đẹp, đèn sáng nhất so với xung quanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Camellia Dang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "dung hoang",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Lợi Nguyễn",
+    "rating": 3,
+    "review_text": "Chuẩn . Tạm ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Meo Meow",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi- ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "hoàng tin1993",
+    "rating": 4,
+    "review_text": "Gân bái biển mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b575237493e4b:0xaf762306b983221b",
+    "shop_name": "Nhà hàng Phi Hòa",
+    "user_name": "Ng Mây",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá đồ biển thì chắc chắn ko rẻ rồi nhưng thấy hợp khẩu vị của mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Cường Đinh Vũ Quang",
+    "rating": 4,
+    "review_text": "Nhà hàng hương vị Trung Hoa, song cũng điều chỉnh hương vị để phục vụ du khách Việt Nam. Ngoài các món Trung ra, có cả hải sản bơi sống. Gần ngã 4, nên xe lớn (trên 16 chỗ) sẽ khó tìm chỗ đỗ. Phục vụ ổn, món gọi thêm sẽ ra hơi chậm 1 chút."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Phùng Đức (Đức Trọc)",
+    "rating": 4,
+    "review_text": "Quán ăn kiểu vừa trung quốc vừa Việt Nam, dễ ăn. Có món khâu nhục thì chưa được ngon cho lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Đoàn Nguyễn Viết",
+    "rating": 5,
+    "review_text": "Ăn ngon, giá cả hợp lý, đồ ăn lên nhanh, quán đông khách. Nói chung lên Móng Cái ăn ở đây là đỉnh nhất rồi, mình ăn ở đây 2 lần, 1 lần 2018 quán hơi hoang sơ và 1 lần 2026 thì quán có vẻ nâng cấp lên chút rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Thịnh Nguyễn",
+    "rating": 5,
+    "review_text": "Quán ăn vị nhiều Trung Quốc, khá ngon, giá hợp lý, nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Tran Dung",
+    "rating": 1,
+    "review_text": "Đồ rất lâu ra. Nhân viên ko nhiệt tình. Đồ ăn bình thường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Lê Hoàng",
+    "rating": 5,
+    "review_text": "Mình tìm theo googlemap. Thấy nhà hàng gần mình (Đang ở chợ bên kia cầu) lại được đánh giá cao nên đánh liều đi tới. Tới nơi thì thấy đang rất đông khách và nhộn nhịp. Nhân viên nhiệt tình, chỗ đậu xe thì rộng thoải mái và nhiều điểm đậu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "shino Hang",
+    "rating": 4,
+    "review_text": "Nhà hàng to rộng rãi, có sân ngoài trời rộng, đẹp sạch sẽ. Đồ ăn cũng ok, dimsum nhân ăn ngon nhưng trình bày không đẹp có lẽ do đông khách nên phục vụ không kịp. Món đậu tứ xuyên cay nhưng ngon, món phở xào là món best seller của quán tuy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Giang Nguyễn",
+    "rating": 4,
+    "review_text": "- Có chỗ đỗ xe dưới lòng đường ( cuối tuần hơi khó đỗ một chút)\n\n- không gian nhà hàng thoáng mát, vào vụ thì hôm nào cũng thấy đông khách. Các …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Thao Phuong",
+    "rating": 5,
+    "review_text": "Đồ xào nấu trung quốc ngon, ngay bên cạnh có đồ nướng. Là sự kết hợp hoàn hảo cho bữa ăn!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Oliver Trịnh",
+    "rating": 4,
+    "review_text": "Đồ ăn tạm được. Nấu vừa miệng nhưng ko ngon lắm\nPhục vụ chậm chạp. Rất chậm. Đói ko nên vào đây nhé. Mấy bàn vào sau bàn mình cáu quát nhặng lên vì lâu.\nNhà hàng rộng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Đào Đức Triệu",
+    "rating": 5,
+    "review_text": "Quán ăn Vịt 🦆 ngon chờ lâu tẹo. Món Tôm Hùm đất ko lên ăn. Thế thôi còn lại ok 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Chen Feel Du",
+    "rating": 5,
+    "review_text": "Nhà mình vào đây gọi 2 phở xào, 2 bát cháo thâp cẩm TQ và 2 xửng bánh bao kim sa\n- Bánh bao vỏ mềm, chưa đc rõ vị kim sa lắm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Mr BIG",
+    "rating": 4,
+    "review_text": "Quán mang đậm phong vị Trung Quốc. Từ món ăn đến đồ uống. Các món ăn chính phong phú, giá cao hơn mặt bằng một chút, nhưng khẩu phần thường khá lớn.\nQuán khá đông khách cả ngày từ sáng đến khuya, khách Việt, khách Trung, gia …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Dau Vu Chau",
+    "rating": 5,
+    "review_text": "Quán nấu món kiểu Trung Quốc, khá hợp khẩu vị, thực phẩm được tuyển chọn khá tốt. Giá cả hợp lý. Được dân trong thành phố đánh giá cao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "HIỆP NGUYỄN TRỌNG",
+    "rating": 4,
+    "review_text": "Quán sạch đẹp,vị trí đắc địa.đồ ăn ngon,bổ,ko biết rẻ hay ko vì chỉ được mời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Thanh Huyền Phạm",
+    "rating": 5,
+    "review_text": "Quán rộng rãi sạch sẽ\nĐồ ăn phong phú\nMón Khâu Nhục, sườn hấp xì dầu chưa được nhừ còn lại ăn ngon\nNên ăn thử đậu tứ xuyên và cà tím xào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Hanh Tran Vo",
+    "rating": 4,
+    "review_text": "Nhà hàng ngay mặt đường. Phục vụ nhanh. Đồ ăn mình thấy cũng tạm, có thể ko hợp với mình. Món tôm hấp tươi ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Vũ Quang Minh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá ok, chất lượng dịch vụ ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Hoang Minh Trang",
+    "rating": 5,
+    "review_text": "Đồ ăn khẩu phần lớn, giá hợp lý, quán rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Tân Duy",
+    "rating": 5,
+    "review_text": "Quán ăn ngon vị trung quốc hợp miệng, ph vự hơi chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Thành Trường",
+    "rating": 4,
+    "review_text": "Vịt quay ngon\nNhân viên nhanh nhẹn\nVị trí đỗ xe được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Thu Phong",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cả phải chăng, nhân viên nhiệt tình. Nên đến các bạn nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Nam Đào Minh",
+    "rating": 5,
+    "review_text": "Đồ ăn khá ngon, phục vụ tốt. Giá hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Hung Ha The",
+    "rating": 5,
+    "review_text": "Món cháo trung và trứng rán hà rất ngon do chủ trung"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Nguyễn Mai",
+    "rating": 1,
+    "review_text": "Tôi đã có trải nghiệm rất tệ ở nhà hàng vào tối 2/9. Đoàn tôi đã đặt trước đồ ăn cho 2 mâm trước khi đến, tuy nhiên nhân viên phục vụ rất chậm, thức ăn nấu bình thường, đặc biệt thái độ nhân viên rất kém. Tôi đã phải xuống gặp nhiều lần để …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Phạm Mai Trang",
+    "rating": 5,
+    "review_text": "Quán ngon, team m ăn hết các đồ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Tu Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn TQ ok. Phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "MASTER HN",
+    "rating": 4,
+    "review_text": "Đồ ăn rất ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "quyen quyen",
+    "rating": 3,
+    "review_text": "Món ăn tạm ổn, đồ lên chậm, tôm hùm đất hơi hôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Thu Huong",
+    "rating": 4,
+    "review_text": "Không gian thoáng, đồ ăn kiểu Trung hoa dễ ăn, thích nhất là món cháo. Giá phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Hải chiều Nguyễn",
+    "rating": 1,
+    "review_text": "Không gian nhà hàng ok, nhưng đồ ăn và thái độ nhân viên thì không ổn chút nào. Ncl không hài lòng và mất cả một ngày vui khi vào quán này ( cơm nhão, thịt hôi, đậu vừa nhạt vừa cay…) chán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Ha Le",
+    "rating": 4,
+    "review_text": "Đồ ăn khá ngon, tuy nhiên ko có món gì đặc biệt. Đồ ăn ra ko theo thứ tự, khá lộn xộn. Không gian ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Pham Tung",
+    "rating": 1,
+    "review_text": "Nhân viên phục vụ hơi ngáo ngơ. Nhiều món nhìn là biết đồ công nghiệp (vì ăn giống hệt đồ mua ngoài siêu thị). Xiao long bạo còn hấp chưa chín, sống nhăn.\nKhông recommend quán này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "NGUYEN HAC HAI",
+    "rating": 5,
+    "review_text": "Không gian đẹp, món ăn phong phú, ngon và rẻ - tuy hơi mặn, có lẽ là khẩu vị người Hoa. Rất hợp lý nếu bạn muốn tìm chỗ ăn ở Móng Cái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Vũ Hồng Đức",
+    "rating": 5,
+    "review_text": "Rất hài long phục vụ nhiệt tình giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Dung Triệu",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, rẻ, đĩa siêu to, nhân viên thân thiện, khuôn viên sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Dương Xuân Trường “.”",
+    "rating": 4,
+    "review_text": "Đồ ăn ổn phục vụ chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Son Nguyen Hong",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá hợp lý, trang trí đẹp và bắt mắt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Hương Khổng",
+    "rating": 4,
+    "review_text": "Đồ ăn hợp khẩu vị và rất ngon, giá cả hợp lý\nMón lẩu dê khô thêm nước dùng là bia Tàu lạ và vị khá đặc biệt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Nguyễn Thái Dũng",
+    "rating": 5,
+    "review_text": "Sang,  xịn,  mịn,  view đẹp ☝☝☝"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Quang Chiến",
+    "rating": 5,
+    "review_text": "Quán ăn ngon. Nên đi sớm vì khách rất đông."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Tra Dao",
+    "rating": 5,
+    "review_text": "Tôi đã thử lẩu dê. Tôm hùm đất. Đậu tứ xuyên. Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "KÊNH GIẢI TRÍ 24H",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình ,năng động,đồ ăn ngon,không gian sạch sẽ trang trọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Nong Minh Hoang",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, phục vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Thảo Thanh",
+    "rating": 1,
+    "review_text": "Phục vụ rất chậm. Nhân viên thái độ . K bao giờ ghé lại lần 2"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Giám sát viên",
+    "rating": 4,
+    "review_text": "Đồ ăn mang ra lâu lộn xộn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Thủy Gỗ",
+    "rating": 5,
+    "review_text": "Bạn m ở đây giới thiệu, ăn ngon bổ rẻ, đồ tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Nguyễn Thế Ngọc",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, vị trí đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Quỳnh Trần Thị",
+    "rating": 5,
+    "review_text": "giá cả phải chăng, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Dzung Vu",
+    "rating": 4,
+    "review_text": "Đồ nướng khá dễ ăn và hợp khẩu vị 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Huy Nguyen",
+    "rating": 3,
+    "review_text": "Món ăn trung quốc nhưng ko thực sự đa dạng và ko hợp khẩu vị mình lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Đinh Vân",
+    "rating": 5,
+    "review_text": "Đầu bếp nấu ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Hà An Dín",
+    "rating": 4,
+    "review_text": "Nơi tuyệt vời cho tiệc, cho ăn uống bạn bè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "cuong pham",
+    "rating": 4,
+    "review_text": "Lâu ko uống bia liquan, rất đậm đà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Lan Trắng Phong",
+    "rating": 5,
+    "review_text": "Ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Toan Duc",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Nguyen Oanh",
+    "rating": 4,
+    "review_text": "Đồ nướng Trung Quốc ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Tien Hoang Viet",
+    "rating": 5,
+    "review_text": "quá tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "HOANG THANH LUONG",
+    "rating": 5,
+    "review_text": "5🌟🌟🌟🌟🌟 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Marguerite Le",
+    "rating": 3,
+    "review_text": "Quán ăn hương vị Trung Quốc. Tạm ổn, ngon nhất là vịt quay, da giòn, thịt ngọt mềm. Giá cả không rẻ. Lên món hơi chậm. Nhà hàng nằm ngay ngã tư, dễ tìm, đỗ xe ở đường. Không gian mở nên khá nóng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "ĐTT Đặng",
+    "rating": 5,
+    "review_text": "Đồ ăn chuẩn phong vị Trung Hoa, giá cả rất hợp lý, phục vụ nhanh. Đây có thể là 1 trong những lựa chọn tốt cho món ăn Trung Hoa tại Móng Cái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Cường Nguyễn",
+    "rating": 1,
+    "review_text": "Đồ ăn ra lâu, thái độ nhân viên tệ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Liêm Nguyễn",
+    "rating": 1,
+    "review_text": "chờ đồ ăn gần 1 tiếng, mãi mới lên thì được có tí, quên nhiều món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Dương Nguyễn Hướng",
+    "rating": 4,
+    "review_text": "Món ăn phong phú. Chế biến Ngon. Mình gọi mâm 8 người."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Duc Viet Nguyen",
+    "rating": 4,
+    "review_text": "Nhà hành phục vụ mô hình gia đình, đồ ăn ngon, nhân viên nhiệt tình, mọi người lưu ý ở Móng Cái có rất nh xanh sm và taxi được thuê để pr, nếu tìm quán trên gg map thì cứ đi theo địa điểm đã tìm được, ko nên đi theo quán của các bác tài đã gợi ý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Trung Lam Quang",
+    "rating": 4,
+    "review_text": "Nhà mình 2 người lớn 1 em bé, gọi 4 món mà khẩu phần ăn hơi nhiều phải ăn cố cho hết, mọi người chú ý gọi vừa phải để khỏi lãng phí.\nPhục vụ nhanh, quán sạch sẽ. Đồ ăn cũng được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Laura Juan",
+    "rating": 5,
+    "review_text": "Hãy hỏi nhân viên khách sạn để được giới thiệu các nhà hàng hải sản. Tôi đi du lịch một mình và đã ăn rất ngon. Nhân viên cũng rất nhiệt tình hướng dẫn tôi cách bóc vỏ tôm tít! Bữa ăn này tốn khoảng 500 Đài tệ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Sun Flower",
+    "rating": 4,
+    "review_text": "Đồ ăn ở đây khá ổn. Tôi muốn thử vài loại bia Trung Quốc, nhưng chỉ có một loại duy nhất. Như vậy cũng không tệ nếu chỉ muốn uống bia và ăn nhẹ mà không kỳ vọng quá cao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b553d831a019b:0x7782d118d28e9e9a",
+    "shop_name": "Nhà hàng Hải Âu",
+    "user_name": "Trương Bách Tùng",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Ly Nga",
+    "rating": 5,
+    "review_text": "Ấn tượng với đồ ăn rẻ. Suất bánh cuốn có 50k, lon nước 15k bằng vs mình ăn ở HN luôn. Bánh cuốn chả mực thấy rất ngon, đầy đặn. Mọi lớp đánh đều có nhân mộc nhĩ chứ không như một số quán chỉ có tí tí mộc nhĩ lớp ngoài cùng. Đa dạng món, nhiều lựa chọn. Tuy nhiên lên đồ hơi lâu do quán đông."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Diệu Huyền",
+    "rating": 5,
+    "review_text": "Ăn thử lòng vòng mấy quán bún hải từ trong chợ ra ngoài phố thì thấy QN ngon nhứt, nước dùng cũng vừa vị với t hơn, rổ giá cũng xêm mấy quán kia rcm mng ăn bún hải sản ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Vũ Thị Hồng Ngát",
+    "rating": 5,
+    "review_text": "Quán đồ ăn ngon, đa dạng, giá cả hợp lý. Chủ quán siêu dễ thương và nhiệt tình. 3n2d ở cô tô thì đóng góp cho quán 2 ngày ở đây hêhheh\nRecommend mng ăn ở đây nhaaa iu iuuuuu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Ngọc Anh Hoàng",
+    "rating": 5,
+    "review_text": "Đồ ăn giá phải chăng, ngon, đầy đặn\nĂn 2 lần ở đây, lần 2 trc khi về quán còn tặng thêm nước\nNhân viên còn rất thân thiện, sau có cơ hội quay lại Cô Tô chắc chắn sẽ đến lại quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Diệu Hương Lê",
+    "rating": 5,
+    "review_text": "Quán Quân Nhài là một địa điểm ăn uống rất đáng ghé khi đến Đặc khu Cô Tô. Đồ ăn tươi ngon, chế biến vừa miệng, đặc biệt các món hải sản rất chất lượng. Quán có vị trí thuận tiện, không gian sạch sẽ và thoáng mát. Nhân viên phục vụ nhiệt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Lee Mai June (Mai mju mju)",
+    "rating": 5,
+    "review_text": "Đồ ăn trung bình, được cái tươi, bún hải sản với cá nhân mình hơi mặn 1 chút, bánh cuốn chả mực ngon. Quán dễ tìm, thực đơn phong phú. Thời gian mình đến đường đang làm khá ồn, bụi và lối vào khó đi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Phan Mai",
+    "rating": 1,
+    "review_text": "Feedback trên ggmap toàn seeding nha mọi người =))) Mình đi ăn thử theo tiktok nhưng về cả mình và ny đều đau bụng, đồ ăn thì nguội ngắt không ngon. Mình đi ăn bất kì quán nào trên đảo cũng thấy nước dùng rất thanh vì đều là hải sản tươi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "tuấn tiến",
+    "rating": 1,
+    "review_text": "Rất tệ. Gọi 5 suất bánh cuốn chả mực, chả đông lạnh ngắt, k rán lại, gọi 1 đĩa chả mực thêm 100k cũng đông lạnh, nghe theo mấy idol tiktok đi ăn mà thất vọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Tùng",
+    "rating": 2,
+    "review_text": "Được review trên tiktok nhiều, nay mình đi ăn thử, nhìn trông đầy đặt nhưng chất lượng rất chán, mực như kiểu để cả tháng, ăn siêu dai, bạn mình còn gọi 1 xuất cơm rang mực có thể nói là nhai nhựa, Quân Nhài = Nhai Quần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Trường Anh",
+    "rating": 2,
+    "review_text": "Quán nóng không đầu tư nổi cái điều hoà, đồ ăn ok ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nga Nguyễn",
+    "rating": 5,
+    "review_text": "đồ ăn của quán đa dạng có rất nhiều sự lựa chọn. cả nhà mình ai cũng ưng quán này nha ngày ăn 2 bữa luôn. mọi ng đến đây nên thử món cơm rang và đặc biệt là bánh cuốn chả mực nhé ạ ăn đúng cuốn luốn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Tram Anh",
+    "rating": 1,
+    "review_text": "Quán xem được 1 đống đánh giá về chất lượng dịch vụ quán thì lo mà đổi đi chứ còn cái kiểu đuổi khách như thế kêu người ta cút đi quán khác là như nào nữa? Đúng ý thức kém suy nghĩ kém. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thi Loan Nguyen",
+    "rating": 1,
+    "review_text": "Đoàn đi 6 người. 4 người ra đồ trước ăn xong hết rồi mới mang 2 bát còn lại ra. Nói chung tệ từ món ăn tới nhân viên.  Nhân viên hỏi lại 4 lần rồi mà vẫn kh mang đồ ra\nBánh cuốn dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "THIEN PHAM TRONG",
+    "rating": 5,
+    "review_text": "bánh cuốn ở đây được cái nóng bánh và mắm nên ăn thấy ngon hơn , đánh giá về bánh cuốn thì mình thấy cũng vậy vậy nhưng chắc ngoài đây hải sản nhiều nên thành ra bánh cuốn lại ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hạnh Hoàng Thị",
+    "rating": 5,
+    "review_text": "Lần đầu đánh giá một quán ăn, tuyệt từ đồ ăn đến thái độ phục vụ, anh chủ và nhân viên đều siêu nhiệt tình, đáng iu 100 điểm, giá cả phải chăng, đồ ăn đồ uống ngon xuất sắc, đi Cô Tô 3 ngày ăn ở Quân Nhài là ưng nhất"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thị Ngọc Nguyễn",
+    "rating": 5,
+    "review_text": "Cá nhân mình ăn khá nhiều lần ở đây mỗi khi ra Cô Tô chơi thì chưa lần nào khiến mk thât vọng cả, quán khá rộng nhưng do lượng khách đông cho nên những ngày lễ hay cuôai tuần mk đến ăn thì chờ đồ ra hơi lâu thui …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hải Yến Nguyễn",
+    "rating": 4,
+    "review_text": "đi theo rv của mng, cảm quan thì thấy đồ khá ok, bún hơi ít chứ cũng sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Khánh Linh Đỗ",
+    "rating": 4,
+    "review_text": "Quán khá nổi và được cả người dân địa phương và dân địa phương chọn làm nơi ăn sáng và ăn trưa. Lần đầu mình ăn là trưa muộn thì ăn bún Hải sản thấy vị nước dùng hơi tanh , ko ngon lắm dù bát bún siêu đây đặn. Lần 2 mình ăn là bữa sáng, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "TQT",
+    "rating": 5,
+    "review_text": "Ăn ổn nha\nHải sản hơi bé giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Anh Phương",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, dù đông khách nhưng khá nhanh, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Lan Anh Lê",
+    "rating": 5,
+    "review_text": "1 bún đặc biệt có đủ các thứ: 3 con bề bề 2 mực 1 bào ngư 2 bàn mai, 2 tôm, ngoài ra có chả tôm...\n1 cơm xá xíu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hoài Lam_2004",
+    "rating": 5,
+    "review_text": "Thật hiếm khi thưởng thức một tô bún thịt nướng khiến mình ấn tượng đến vậy. Thịt nướng thơm lừng, mềm mọng và đậm đà, kết hợp hoàn hảo với rau tươi, bún mềm và nước chấm pha rất tinh tế. Mọi thứ hòa quyện tạo nên hương vị hài hòa, vừa gần …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hà Nguyễn Nam Anh",
+    "rating": 4,
+    "review_text": "Quán có vị trí nằm ngay trong trung tâm thị trấn Cô Tô nên rất thuận tiện đối với du khách. Không gian bên ngoài quán tuy rộng rãi nhưng lại hơi nóng do bên ngoài có ít quạt. Không gian bên trong cũng k quá rộng rãi nhưng vẫn đủ sạch sẽ. Đồ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hiền Phạm",
+    "rating": 5,
+    "review_text": "Thấy tiktok người khen người chê cũng nhiều. Đồ ăn tuỳ khẩu vị nhưng với giá này ở một khu đảo du lịch thì quá là ngon rồi. Toping nhiều, tươi, menu đa dạng, nước dùng hôm mình ăn thì vừa vặn không có gì để chê. Sau đến vẫn tiếp tục ủng hộ quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Đào Đại Tài",
+    "rating": 5,
+    "review_text": "Mình đã trải nghiệm ăn sáng ở quán này. Cùng 2 gia đình nữa.\nĐồ ăn phải nói là tươi mọng, thơm phức.\nChị chủ nhiệt tình. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hoàng Thị Ngọc Nhi",
+    "rating": 1,
+    "review_text": "thái độ phục vụ tệ từ quán bên trái sang quán bên phải. Giữa trưa đi quán bên phải thì bảo hết đồ ăn nhân viên bảo đi sang quán bên trái. Sang bên trái thì bảo hết bàn, nhân viên lại bảo sang bên phải. Rồi muốn khách ngồi đâu??"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "pham ngoc anh",
+    "rating": 5,
+    "review_text": "Đồ ăn ổn, giá chung. Nvien thân thiện. Rcm mng nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nguyễn Hương Giang",
+    "rating": 5,
+    "review_text": "Mình đã quay lại đây hai lần trong hai ngày liên tục để ăn bún hải sản riêu cua vì nó ngon, nước dùng đậm đà (hơi mặn) có đầy đủ chả mực, chả cá, tôm, bề bề, mực câu, chả lá lốt và đậu. Nước dùng nhiều riêu, k bị ngọt kiểu mì chính tuy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Vân Anh Nguyễn Thị",
+    "rating": 5,
+    "review_text": "Tô bún siêu đầy đặn, nước dùng đậm đà chuẩn vị. Sợi bún mềm dai, thịt thà đầy ụ chấm cùng nước mắm đỉnh của chóp. Điểm 10 cho chất lượng 💯 💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Linh Nguyen",
+    "rating": 3,
+    "review_text": "Đồ ăn không quá ngon như review, không có gì đặc sắc. Món bánh cuốn chả mực tạm được, bún chả chan chán điên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thanh Hải Phan",
+    "rating": 3,
+    "review_text": "Quán rất đông, chắc là điểm ăn sáng nổi ở Cô Tô. Tầm 9h hơn bọn mình đến là hết bánh cuốn rồi. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Bảo Tâm Bùi",
+    "rating": 4,
+    "review_text": "240k 4 bát bún hs, Đồ ăn cũng trung bình ngang với những quán ăn ổn ở HN, ăn buổi trưa hơi oi nóng k có điều hòa chỉ có quạt cs lớn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Lương Lê",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, đồ ăn ngon, nước dùng đậm đà vừa miệng 🌟\nNhân viên nhiệt tình, phục vụ nhanh dù đông khách. Không gian thoáng và gọn gàng, giá cả hợp lý. Sẽ quay lại ủng hộ nhiều lần nữa. ⭐⭐⭐⭐⭐ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Vũ Thùy Linh",
+    "rating": 5,
+    "review_text": "Đồ ăn và trà sâm dứa siu ngon 😂 chủ quán nhiệt tình đáng iu 10 điểm k có nhưng, mai em lại quay lại ăn tiếp …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Ngoc Buithihong",
+    "rating": 5,
+    "review_text": "Đi ăn được mấy quán thì thấy quán này ngon nhất ạ. Vừa ngon vừa nhiều xứng đáng với giá."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nguyễn Tùng",
+    "rating": 5,
+    "review_text": "Ngon ổn, phù hợp tầm giá\nQuán có trà tắc ngon lắm nha mấy bác nên thử\nToping tạm ổn thôi nhưng so vs giá thì vậy là ngon rồi\nNơi nóng các bác nên mang quạt theo😂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Trang Luu",
+    "rating": 1,
+    "review_text": "TÔI ĐÃ SỐC KHI ĂN ĐỒ ĂN CÓ GIÒI\n\nNgày 28/4/2025, tôi và cùng chồng tôi ăn ở quán này. Ăn được 1/3 thì chồng tôi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thao Tran",
+    "rating": 4,
+    "review_text": "Ăn cũng tạm ổn, bát đầy đặn. Ra muộn thì sẽ hết bánh cuốn và chỉ còn bún. Đồ ăn sẽ loanh quanh 40-50k. Ở đây có bé con nhân viên đáng yêu xỉu. Mn hay rcm trà sâm dứa ở đây nhưng cá nhân mình không thích lắm. Trà sâm dứa là trà pha cùng siro hay cái gì đó, ncl không phải trà pha tự nhiên. Tuy nhiên về overview thì cũng ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Perio Nguyen",
+    "rating": 5,
+    "review_text": "Lúc mình đến tầm khoảng 12h thì hết nhiều món, ko có nhiều lựa chọn. Quán lên đồ nhanh và giá cả ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Huyen Tran",
+    "rating": 5,
+    "review_text": "Đồ ăn tạm ổn, ngồi trong nhà hơi bí. Quán siêu đông nhưg làm đồ siêu nhanh !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hao Nhien",
+    "rating": 5,
+    "review_text": "Quán ăn rất ngon  mấy em phục vụ dễ thương anh chủ nhiệt tình bún hải sản ăn nhiều ngon ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Ngọc bích Nguyễn",
+    "rating": 1,
+    "review_text": "Đoàn nhà mình ăn sáng ở đây trưa về 5 người bị đau bụng té re nôn mửa mà sáng ăn mỗi bánh cuốn chả mực ở đây xong k ăn gì nữa đi chơi về dính combo đau bụng té re nôn mửa luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Đức Thịnh",
+    "rating": 1,
+    "review_text": "Chất lượng đồ ăn cực kỳ tệ, chả mực như lốp xe nhai mỏi cả mồm, chắc là quán lười làm nóng lại cho khách mặc dù quán thời điểm đó không hề đông khách, mình đã mong chờ hơn rất nhiều ở một suất bún hải sản 120k ( với cái giá đấy làm được 2 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nguyễn Hà",
+    "rating": 5,
+    "review_text": "Ngày 15,16/6 hai vc mình có chuyến du lịch Cô Tô.\nNhà mình đi ăn cứ thấy quán đông thì vào thôi.\nMà phải nói quán siêu đông, bán đồ ăn sáng giá hợp lý ở khu du lịch, đồ ăn ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Kim Anh Nguyễn Thị",
+    "rating": 5,
+    "review_text": "Đỉnh của chóp mn ơi, chưa bao h đi du lịch mà ăn đc chỗ ngon bổ rẻ như này đặc biệt nên thử sâm dứa hạt chia nhé ngon lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thao Nguyen",
+    "rating": 3,
+    "review_text": "bỏ qua chất lượng dịch vụ, đồ ăn ở đây mình đánh giá là ăn được, nhưng ko đáng với mức giá 60k, nước dùng có nhiều vị nên khá nồng, toping ăn kèm bún thì ko được tươi mặc dù là ở đảo toàn hải sản, quán nên cải thiện về nước dùng cũng như toping ăn kèm bún"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Văn Bách Phạm",
+    "rating": 5,
+    "review_text": "1 bún cá ; 1 bún chấm thịt nướng ; 1 bánh cuốn chả mực , ngon vừa miệng , nhân viên nhanh nhẹn , quán phục vụ chuyên nghiệp, giá cả hợp lý , đầy đủ các món với từng bữa trong ngày mọi người có thể tham khảo thêm Menu của quán ,với vị trị thuận lợi trung tâm thị trấn cô tô 10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hunter City",
+    "rating": 1,
+    "review_text": "Cực kì tệ. Nhà mình thấy nhiều review nên ghé ăn sáng. Quán khá đông, nhà mình gọi bánh cuốn và bánh đa. Ngồi chờ 30p ko tới lượt, nhân viên phục đông, nhưng chỉ thấy bận cãi nhau xem khách nào trước khách nào sau. Quán nóng và bẩn. đồ bẩn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "My Nguyễn",
+    "rating": 4,
+    "review_text": "Đồ ăn đa dạng giá phải chăng ăn khá ok ☺️ buổi sáng khách rất đông sẽ phải chờ chút xíu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nguyen Bac Quyet",
+    "rating": 1,
+    "review_text": "Đoàn mình đi cô tô ghé quán ăn sáng cả đoàn hơn nửa đoàn ăn về bị đau bụng nôn mửa, mọi người sau ăn quán này cân nhắc không nên ăn, ngày 17/05/2026"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Chi Linh",
+    "rating": 5,
+    "review_text": "Đồ ăn mình thấy ngon nha, bún hải sản đầy đặn topping, nước dùng vừa miệng. Giá cả hợp lý (~50k), quán sạch sẽ nhưng mình đi hôm nóng quá nên ko thấy mát lắm. Must try bí đao hạt chia, sâm dứa hạt chia uống mát lịm cả người. Anh chủ ở đây …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Quynh Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhưng mà chờ hơi lâu dù quán k đông khách cho lắm, chắc nhân viên quên mang đồ ăn cho mình 😁 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Ánh Ngân",
+    "rating": 5,
+    "review_text": "Trà sâm dứa ngon đẳng cấp nma hơi ngọt\nBún hải sản đầy ú ụ, ngon, rẻ 50k thui,\nThơm ngon tới giọt cuối cùng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Lâm Anh Trần",
+    "rating": 1,
+    "review_text": "Tệ vãi. Vào gọi món xong chờ nửa tiếng đồng hồ không thấy đâu, bàn vào sau bàn mình lên đồ ê hề mà bàn mình vẫn k thấy món nào bưng ra. Hỏi nhân viên cả chủ thì mới ớ ra là quên order :) xong 10p sau nhân viên ra kêu nhà em hết bánh cuốn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "phuong vuong",
+    "rating": 4,
+    "review_text": "Nước sâm dứa cũng được thôi, nước dùng món bún thập cẩm hải sản không có gì đặc sắc, hơi nhạt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Giang Nguyễn Thu",
+    "rating": 5,
+    "review_text": "2 ngày ở cô tô mình đều ăn trưa ở đây. Đồ ăn hợp khẩu vị, đầy đặn. Giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thị Quỳnh Anh Lê",
+    "rating": 5,
+    "review_text": "10 điểm kh có nhưng🥰🥰 giá rất phải chăng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hoa Domai",
+    "rating": 5,
+    "review_text": "Tuyệt vời, đồ ăn ngon, lên nhanh. Nhân viên nhiệt tình, lịch sự. Nhân viên đẹp trai, trắng trẻo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Phạm Thị Hạ",
+    "rating": 5,
+    "review_text": "Nhà hàng ngon tuyệt, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Huế Nguyễn Thị Mai",
+    "rating": 5,
+    "review_text": "Bún ngon, nhân viên nhiệt tình , ở đây trà sâm dứa ngon tuyệt , giá cả cũng okela"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Bình An",
+    "rating": 1,
+    "review_text": "Ồn, đông, nóng\nNhân viên thì đơn nào đắt hơn nhiều hơn làm trước, mình đến trước order 2 bát bún mà người ta nhất quyết cho đoàn 50 người đến sau mình ăn xong mới đến lượt 🤣🤣 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Minh Phương",
+    "rating": 5,
+    "review_text": "Bún ăn ngon, đầy đặn, trà tắc 15k ngon nha 🙆🏻‍♀️\nPhục vụ nhiệt tình\nMng đến cô tô ghé đây ăn nhé …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nguyễn An",
+    "rating": 4,
+    "review_text": "Bát bún khá đầy đặn nhưng mình chưa ăn nên ko đánh giá. Bánh cuốn ăn được, cho khá nhiều nhưng chả mực hơi nguội và bở, nói chung ở đảo thì ok chứ hem so sánh với cây bàng ở hạ long đc. Đc cái đông mà vẫn ra nhanh. Hơi buồn là nv cất cốc đi ko thấy để uống nc lọc. Gọi bò húc thì mới đem cốc ra... 3.5 sao hehe."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "thảo nguyên",
+    "rating": 1,
+    "review_text": "Đợi 20p hết cơm xong ra quán khác mua cho khách thay vì báo khách gọi món khác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Rin Nguyen",
+    "rating": 4,
+    "review_text": "Bún với bánh cuốn ăn bình thường. Được nước sâm thì ngon nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thảo Ly Trần",
+    "rating": 5,
+    "review_text": "Chủ quán nhiệt tình, đồ ăn ngon, giá thành hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Huy Dương Phan",
+    "rating": 5,
+    "review_text": "Bún hải sản thập cẩm riêu cua biển. Đồ ăn nhiều, nước dùng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Phương Liên Nguyễn",
+    "rating": 5,
+    "review_text": "Quán siêu tâm lý ạ, mình gọi bún bề bề quên nhắc không riêu, nhưng mà quán vẫn đổi bát mới cho mình. Đồ ăn cũng vừa miệng, bề bề nhiều 🫶🏻🫶🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Uyen Dinh",
+    "rating": 4,
+    "review_text": "Đồ ăn tạm được, không gian quán oke thoáng.\nĂn sáng trưa oke\nKhông phải hương vị thần thánh, ít mực"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Chúc Vu",
+    "rating": 1,
+    "review_text": "Đến đứng đợi mãi k được ngồi vào bàn trong khi rất nắng, mà đội đến sau lại được ngồi vào bàn trước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Xinh Vũ",
+    "rating": 5,
+    "review_text": "Quán nhiệt tình, giá cả phải chăng nước uống kèm ngon, hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "TOÀN BÁ",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ như cái đặc cầu🥲\nĐồ ăn đông lạnh ăn không ra gì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Dương Thị Thanh Thảo",
+    "rating": 5,
+    "review_text": "ngon , giá phù hợp, đầy đủ topping, nhân viên đẹp trai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nam Thái",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, anh chủ thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Le Ngo",
+    "rating": 3,
+    "review_text": "So với mấy năm trước thì không còn chất lượng bằng, các review 5* cũ không còn tương xứng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "LILY",
+    "rating": 3,
+    "review_text": "Đồ ăn ko gì đặc sắc, nước sâm dứa ổn. Không gian đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thành Lê Xuân",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon tươi, chủ đẹp zai thân thiện 10₫"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Chung Ngọc",
+    "rating": 5,
+    "review_text": "Cơm ăn ngon phục vụ tốt mát mọi người ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Trang Van",
+    "rating": 5,
+    "review_text": "giá hợp lý so với măt bằng chung, đồ ăn sáng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "ndl",
+    "rating": 3,
+    "review_text": "um ko ngon, thề bát bún chả siêu ít=)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Mạnh Cường",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, đầy đặn, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Linh Phạm",
+    "rating": 1,
+    "review_text": "Nếu ai đang tìm một nơi để rèn luyện tính kiên nhẫn, kiểm soát cơn giận, hoặc đơn giản là muốn trải nghiệm cảm giác “bị lãng quên giữa thế giới”, thì đây chính là địa điểm lý tưởng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "tuan vu",
+    "rating": 5,
+    "review_text": "Chủ quán rất thân thiện, đz nhân viên dễ thương vui tính"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "lua tran",
+    "rating": 4,
+    "review_text": "Bánh cuốn chả mực ngon, lên đồ hơi lâu tí nhưng do quán đông nên có thể bỏ qua. Trong quán chỉ có 2 bàn bên trong cùng là có điều hòa, còn lại chỉ có quạt, rất là nóng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nghĩa Lê",
+    "rating": 5,
+    "review_text": "Mình vô cùng ấn tượng với không gian mát mẻ sạch sẽ của quán . Đồ ăn rất ngon hợp khẩu vị mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Linh Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , sạch sẽ 😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hang Khuong",
+    "rating": 5,
+    "review_text": "Trải nghiệm Quân Nhài tuyệt vời. Đồ ăn ngon,khẩu vị vừa miệng, phần ăn đầy đặn lắm nha mn. Trẻ nhà mh thích món cơm thố chiên giòn lắm. Về tàu vội k kịp mua mang theo nekiểu n chúng còn tiếc hụi. Địa điểm ăn sáng-trưa phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nhi Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon luôn. Tuy chờ hơi lâu xíu hơi nóng xíu. Nhưng đổi lại bánh cuốn rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nguyễn Hư Vô",
+    "rating": 1,
+    "review_text": "Trải nghiệm rất là tệ khi nhân viên gọi món đưa ra kêu gọi nhanh lên còn bao nhiêu là khách, đồ ăn thì gọi đến 40p mới có trong khi khách vào sau thì phục vụ trước. Nói tóm lại là siêu tệ sẽ không có lần thứ 2!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Anh lê",
+    "rating": 5,
+    "review_text": "ngon hợp khẩu vị minh. nv dễ tính thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Kim Ngân",
+    "rating": 5,
+    "review_text": "Bún ngon, trà ngon, quá tuyệt dời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "MinhTam Bui",
+    "rating": 5,
+    "review_text": "Bánh cuốn ngon, dẻo và nóng vì bà chủ tráng trực tiếp bằng tay, bún thì tạm ổn, đồ tôping đa dạng, mọi người nên thử nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "phuc do",
+    "rating": 4,
+    "review_text": "Quán ăn ngon, ưu tiên bánh cuốn chả mực và bún hải sản thập cẩm, đồng giá 50k/bát. Địa điểm ăn sáng khá ổn trên đảo Cô tô, tuy nhiên đôi khi phục vụ chưa kịp theo nhu cầu của khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Tuấn Bùi",
+    "rating": 5,
+    "review_text": "Ngon giá cả hợp lý. 3 ngày đều ăn ở đây. Mỗi tội chờ hơi lâu tí nhưng mà đáng nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "陈情萱",
+    "rating": 5,
+    "review_text": "Lúc nào cũnv đông. Có hôm ăn thử bún cá hơi ghê, hôm khác ăn bún hải sản lại siu ngon. Mọi người ăn né bún chả nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Diep Ngoc",
+    "rating": 1,
+    "review_text": "Cực tệ, quán này đông khách (đơn giản vì ko có nhiều sự lựa chọn quán ăn). Đc giới thiệu cho là ngon nhưng khẳng định KHÔNG NGON NHA.\nNhưng đồ ăn rất chán, chậm, dịch vụ chán luôn. Không từ gì diễn tả đc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Khanh Do",
+    "rating": 2,
+    "review_text": "Bàn đũa dầu mỡ nhớp nhớp, không vệ sinh, nhân viên phục vụ kém, quan đông nhân viên nhưng khách nhờ lấy đồ toàn quên, nhắc đi nhắc lại. Mình nghĩ cần cải thiện khâu vệ sinh và training nhân viên tốt hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Triệu Quang Minh",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ nhân viên quá tệ , chờ hơn 1h không có đồ người ta vào sau thì lại ra đồ luôn làm ăn thiếu chuyên nghiệp cực kì làm ảnh hưởng đến khách hàng . Hỏi thì lại cứ đùn đẩy trách nhiệm cho nhau không ai chịu nhận. Nói chung là cực kì tệ 🤬🤬🤬🤬🤬🤬🤬🤬🤬 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Ha Pham",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon vừa miện cơm thố tuyệt vời chủ quán nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hữu Điểm Nguyễn (Hữu Điểm Mobile)",
+    "rating": 5,
+    "review_text": "Ngon sạch sẽ. Giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nguyễn Mạnh Hà STS CN Hà Nội",
+    "rating": 1,
+    "review_text": "Hôm qua đoàn mình đi cô tô ghé quán ăn sáng cả đoàn hơn nửa đoàn ăn về bị đau bụng nôn mửa , mọi người sau ăn quán này cân nhắc , ngày 17-5-2026"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Jack Lượng",
+    "rating": 5,
+    "review_text": "đồ ăn hợp với mình chủ quán nhiệt tình chu đáo. mình ra cô tô 3 ngày thì ăn 3 bữa ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Đức Trung",
+    "rating": 5,
+    "review_text": "quán đông đồ ăn vừa miệng ngày lễ khách quá đông mà phục vụ rất tốt và nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Diệu Linh Nguyễn",
+    "rating": 4,
+    "review_text": "Mình là khách du lịch ăn quán này theo review nhưng thấy đồ ăn bình thường, không đặc sắc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Khánh KEPA",
+    "rating": 5,
+    "review_text": "Cơm ngon ko phải bàn ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Trang Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, nv nhiệt tình, định CT nhiều lần đều quay lại ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "TIEN NGUYEN BAC VIET",
+    "rating": 1,
+    "review_text": "Trải nghiệm muốn quên nhất khi đi Cô Tô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Châu Minh",
+    "rating": 1,
+    "review_text": "Đồ ấn thực sự rất nhạt nhẽo như kiểu nước phở gói. Phục vụ tệ thực sự luôn cái này là tệ nhất chờ mãi mới mang được ly trà tắc ra mà bàn thì phải tự lấy của mình để kê ra đấy đang ăn nhưng cứ ra thu tiền thực sự rất mất hứng, khó chịu vô cùng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hương Trang",
+    "rating": 1,
+    "review_text": "Ăn từ trưa đến chiều combo đi ngoài, nôn mửa, đau mấy tiếng đồng hồ chưa hết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nguyen Quang Anh (Wan Special)",
+    "rating": 5,
+    "review_text": "Ngon, nước mắm hơi nhạt 1 chút"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "is Anh",
+    "rating": 1,
+    "review_text": "Quán siêu nóng , k có điều hòa. Đồ ăn phục vụ chậm và không hợp khẩu vị của m"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hoàng Long Nguyễn",
+    "rating": 5,
+    "review_text": "Các món nước rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Vũ Hà Trang",
+    "rating": 5,
+    "review_text": "Quán rất đông và nhanh hết, vui lòng đi sớm để được ăn bánh cuốn chả mực\nEm Dũng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hoài Giang Vương",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, sạch, full topping...\nNói chung là rất ổn áp!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Lê Minh Thức",
+    "rating": 1,
+    "review_text": "Oder đồ gần 1 tiếng chưa có đồ\nNhân viên phục vụ chậm chạm,không có tầm nhìn khách quan\nNgười vào sau thì lại lên đồ trước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "An An",
+    "rating": 5,
+    "review_text": "đồ ăn ngon sạch,đồ ăn làm rất nhanh,quá khá đông ,nhân viên phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Đại Vũ Thế",
+    "rating": 5,
+    "review_text": "Quán đông khách quá phải tự vào bốc bún 😢,  bạn da trắng nhất quán đẹp zai mỗi tội mỏ hỗn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "thảo vũ",
+    "rating": 3,
+    "review_text": "Bún chả ko ngon,còn lại bình thường\nPhục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Linh pham",
+    "rating": 5,
+    "review_text": "Ăn ngon giá cả hợp lý, chủ quán vui tính nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "trung nguyen",
+    "rating": 3,
+    "review_text": "Đồ ăn ngon nhưng không thể nào hơn được . 2 người ăn mà đi ia cả 2 thế là không đi được đâu luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hà Trần Quang",
+    "rating": 1,
+    "review_text": "Ko bao giờ quay lại, order trước cả tiếng mà chỉ nhìn người khác ăn r về"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nguyễn Văn Khang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cả hợp lí khi bạn đặt chân tới Cô Tô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Đỗ Hải",
+    "rating": 5,
+    "review_text": "đồ ăn rất ngon ở 3 ngày ăn 6 bữa rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Chinh Hoang Minh",
+    "rating": 4,
+    "review_text": "Quan ăn vị trí rộng dãi dễ tim, đồ ăn topping nhiều, tạm ổn, anh chị phục nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Luyên Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ngon, sạch sẽ, chủ siêu đáng yêu nha mọi người.😍😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Quynh Pham",
+    "rating": 5,
+    "review_text": "Đông vui, đồ ăn ok, rcm cho mọi người nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Đạt Nghiêm",
+    "rating": 5,
+    "review_text": "đồ ăn ngon ,rẻ phục vụ rất tốt nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hồng Nguyen",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, nhân viên nhiệt tình\n10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Khánh Duy Homestay",
+    "rating": 5,
+    "review_text": "Đồ ngon. Chủ quán nhiệt tình 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thái Hương Vũ",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, đồ đầy đặn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Đồng_Hùng Vlogs",
+    "rating": 5,
+    "review_text": "Khẩu vị mình thì ngon hơn bánh cuốn hà nội luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Trang",
+    "rating": 1,
+    "review_text": "Bún rất mặn. ăn xong về tiêu chảy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Ô tô cũ giá rẻ Vũ Duy Auto",
+    "rating": 5,
+    "review_text": "Món ăn ngon topping nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Oanh Trần",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Trần Thị Mai Trang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ nhiệt tình, thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Kim Cúc Nguyễn Thị",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, nước sâm dứa ngon must try"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Tài Phạm",
+    "rating": 5,
+    "review_text": "Món ăn ngon phục vụ tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Giang Nguyễn",
+    "rating": 1,
+    "review_text": "Trải nghiệm tồi tệ. Không bao giờ quay lại lần thứ 2."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thanh Bình",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Tuan Anh Vu",
+    "rating": 3,
+    "review_text": "Bún hải sản ăn nhạt, không ngọt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Chi Khánh",
+    "rating": 5,
+    "review_text": "Mọi người nhiệt tình lắm ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thu Pham Hoai",
+    "rating": 4,
+    "review_text": "Quán ăn sáng khá ổn ở đảo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hien Dinh",
+    "rating": 1,
+    "review_text": "Phục vụ quá xao nhãng\nNg đến trc thành kẻ đến sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "ngoc anh",
+    "rating": 5,
+    "review_text": "Ăn sáng rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Điệp Hà",
+    "rating": 5,
+    "review_text": "đồ ăn ngon phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nguyễn Thị Tuyết Nhung",
+    "rating": 5,
+    "review_text": "Bún hải sản ngonn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hoàng Sơn",
+    "rating": 5,
+    "review_text": "Yêu bà con vất vả gìn giữ biển đảo cho tổ quốc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nguyễn Quang Huy",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, rất nhiệt tình ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Minh Lê Đức",
+    "rating": 5,
+    "review_text": "quá là a bờ nát lunnn nhó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Quân Nguyễn",
+    "rating": 5,
+    "review_text": "cơm thố rất ngon nha mng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "phùng văn Tuấn",
+    "rating": 5,
+    "review_text": "Phục vụ tốt đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nhung Kien",
+    "rating": 5,
+    "review_text": "Đến đây 4 ngày, ăn sáng 3 ngày luôn 😂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Sơn Lê Hoàng",
+    "rating": 3,
+    "review_text": "Đồ ăn chỉ để đầy bụng ko ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thuỷ Thanh",
+    "rating": 5,
+    "review_text": "Quán ngon, đồ đầy đặn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "LanAnh Phan",
+    "rating": 4,
+    "review_text": "Đồ ăn ổn , nhưng siêu đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Chulian KaJin",
+    "rating": 5,
+    "review_text": "Ngon 10 điểm không nhưng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Anh Pham",
+    "rating": 5,
+    "review_text": "Phục vụ Cảnh nhiệt tình ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hai Vu",
+    "rating": 1,
+    "review_text": "Tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Tân Vũ",
+    "rating": 5,
+    "review_text": "ăn bánh cuốn ở đây ngon lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Lan Anh",
+    "rating": 5,
+    "review_text": "Tuyệt vời quá Cành Dũng nhiệt tình lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Đặng Diệu Ly",
+    "rating": 5,
+    "review_text": "Quán nhà làm ngon tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Lê Lan",
+    "rating": 5,
+    "review_text": "ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Trâm (Sứa)",
+    "rating": 1,
+    "review_text": "chờ 45p mới đc ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thông",
+    "rating": 5,
+    "review_text": "Tuyệt vời ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Đức Khôi",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Tú Linh",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Xoài (Phuong Thao)",
+    "rating": 5,
+    "review_text": "Sâm dứa ngon quaaa ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hào Bùi",
+    "rating": 5,
+    "review_text": "sạch sẽ, ngon, nhiều đồ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Vinh Vũ",
+    "rating": 5,
+    "review_text": "Ngon lắm lên  thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Đạt Bầu Trời",
+    "rating": 5,
+    "review_text": "Phục vụ rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Mạnh Hoàng Đức",
+    "rating": 5,
+    "review_text": "Dũng cảnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "lùn thắng",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Dũng Dương",
+    "rating": 5,
+    "review_text": "Ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Trang Thuỳ",
+    "rating": 5,
+    "review_text": "🥇 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Connection Music",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Sấu Cá",
+    "rating": 4,
+    "review_text": "Bề bề ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Đức Đỗ",
+    "rating": 5,
+    "review_text": "Tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Phương Thảo Khuất",
+    "rating": 5,
+    "review_text": "Quá tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thi Quyen Pham",
+    "rating": 4,
+    "review_text": "Ok giúp tim kiếm tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "cánh cụt chim",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon giá cả oke\nNhân viên với chủ quán nhiệt tình và quan sát khách hàng tốt\nMỗi tội k có máy lạnh :(("
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Hanh Phạm",
+    "rating": 1,
+    "review_text": "Mình ăn bún hải sản hôm 24/7 vừa r, ở đảo nhưng đồ không tươi. Mực ăn như mực luộc sẵn rồi đóng tủ đá như trong BigC; tôm thì có màu hơi trong, không giống đồ tươi trong ngày. Mình đi 3 người nhưng chiều về ai cũng đau bụng, thật sự là tệ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "thuỳ linh nguyễn",
+    "rating": 5,
+    "review_text": "Quán ăn sáng ngon, hợp vị. Chả mực mềm và dẻo. Thơm vị mực. Sẽ quay lại ăn thử lần sau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "alba fue",
+    "rating": 5,
+    "review_text": "Mình đã ăn 2 lần ở đây với 2 món là bánh cuốn và bún cá dọc mùng. Cả 2 bát đều rất nhiều và ngon. Nhân viên rất dễ thương và nhiệt tình. Mình sẽ quay lại lần 3 nếu đi Cô Tô lần nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Thái Vũ",
+    "rating": 1,
+    "review_text": "không có số bàn, khách vào sau có đồ ăn trước khách vào trước. ra bàn hỏi lại 5 lần không ra đủ món. đồ ăn thì kh ngon. ncl kh rcm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Nhung Hồng",
+    "rating": 5,
+    "review_text": "Bún ngon vừa vặn dễ ăn chủ quán nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Viet Anh Pham",
+    "rating": 5,
+    "review_text": "10 điểm. Sau 2 bữa đầu tiên ăn vô cùng chán ở Cô Tô, mình gần như đã xác định mua mì tôm ăn cho lành nhưng bát cơm thố mực xào của tui và cơm thố thập cẩm của chồng tui ăn ở đây đã cứu vớt tâm hồn chúng tôi. Canh ăn cùng cũng ngon lắm, tui …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Long Lê",
+    "rating": 5,
+    "review_text": "rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Kiên Đỗ",
+    "rating": 1,
+    "review_text": "hình thức trông có vẻ cũng ok nhưng đồ ăn thì quá tệ bún hải sản mực và bề bề rất cũ ăn vị rất tệ tôm thì cũng chỉ có tôm khô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b77007e0a6395:0xe84fdc6cb6a8bac7",
+    "shop_name": "QUÂN NHÀI: BÁNH CUỐN - BÚN HẢI SẢN - BÚN CHẢ - CƠM THỐ🥢🥢",
+    "user_name": "Quynh Anh Le",
+    "rating": 4,
+    "review_text": "Chả giò rất tệ và mọi thứ đều khá dở, chỉ có bún thịt nướng là tạm được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Minh Đăng Nguyễn",
+    "rating": 1,
+    "review_text": "Đi theo Google Maps thì ra 1 bãi đất tang hoang, không có người ở, không có dịch vụ, không có bất cứ thứ gì cả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Bien NQ",
+    "rating": 5,
+    "review_text": "Bãi đá khá đẹp, tuy hơi nhỏ nhưng nhiều góc chụp.\n\nTrẻ con có thể lội nước, nhặt ngao, hà ở đây. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Huynh Nguyen Tu Nhi",
+    "rating": 4,
+    "review_text": "Nằm tại khu vực Mũi Ngọc, thành phố Móng Cái, thuộc tỉnh Quảng Ninh. Đây là một điểm đến còn hoang sơ nổi bật với những khối đá màu đen độc đáo trải dài ven biển. Bãi đá được tạo nên từ vô số tảng đá lớn nhỏ màu đen. Khi thủy triều lên, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Nguyễn Dũng",
+    "rating": 4,
+    "review_text": "Bãi vắng, nhiều rác. Được các ghềnh đá khá đưpj"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Vũ Kin",
+    "rating": 5,
+    "review_text": "Bãi tắm có cảnh đẹp thơ mộng, đường vào mất khoảng vài trăm mét đường đất xấu, có ổ trâu ổ gà, nhưng oto vào được, trời mưa thì sẽ khá lầy lội.\nCó 2 nhà hàng phục vụ ăn uống, giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Quang Ninh Lê",
+    "rating": 4,
+    "review_text": "BÃI ĐÁ ĐEN TRÀ CỔ – KHOẢNH KHẮC THIÊN NHIÊN HOANG SƠ ĐÁNG GIÁ\n\nMột điểm đến rất đặc biệt ở cuối bãi biển Trà Cổ – nơi những khối đá đen phủ đầy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Trung Anh Nguyen",
+    "rating": 2,
+    "review_text": "Bãi đá hoang sơ, nhưng nhiều rác thải, ko có đơn vị vận hành, khai thác, đường vào cũng khó,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Dat Nguyen (refrez)",
+    "rating": 4,
+    "review_text": "Bãi tắm còn hoang sơ, hầu như chỉ có người dân địa phương biết vào đây, tương đối sạch, hiện có 1 hàng tắm tráng, oto vào được phải đi chậm vì lối nhỏ đường cát như offroad, gửi xe 20k, tắm 20k, ko ăn nên ko rõ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Huyền Lê Thanh",
+    "rating": 3,
+    "review_text": "Một bão đá nhỏ, có thuyền neo đậu, cảnh sắc không đặc biệt lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Linh Lê",
+    "rating": 4,
+    "review_text": "Mình đến vào giữa tháng 6, sóng rất êm, bờ cát thoải, biển vắng đẹp duy có điều có quá nhiều con hà bị thuyền chài họ cạo từ vỏ thuyền xuống rồi bị sóng đáng dạt đầy mép nước nên rất dễ bị cứa đứt chân, đặc biệt lưu ý không cho trẻ con chạy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Tom And Jerry",
+    "rating": 4,
+    "review_text": "Nằm khép mình tại cực Đông Bắc của Việt Nam, bãi biển Đá Đen (TP.Móng Cái, Quảng Ninh) sở hữu vẻ đẹp thơ mộng, với khung cảnh hoang sơ đầy nắng gió. Không gian ở đây yên bình khiến thời gian như ngưng đọng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "FROM MOON",
+    "rating": 5,
+    "review_text": "Nước biển trong xanh, có chỗ phục vụ ăn uống, cho thuê chỗ, bếp nướng để tự mang đồ ăn tới tắm biển xong lên ăn uống, có thể cắm trại qua đêm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Long Vux",
+    "rating": 4,
+    "review_text": "Bãi Đá đen, Mũi Ngọc nó vắng và hoang sơ hơn không như bên bãi Trà Cổ. Đường tới cũng tương tự nhau, qua quãng đường hai rặng phi lao xanh ngát. Nhưng lưu ý là hay bị bắn tốc độ nhé. Vào chỗ này hơi hoang, đường vào lầy lội do mưa bão, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Bùi Duy Anh - DHLT D2020C GV",
+    "rating": 1,
+    "review_text": "Đây là nơi chưa phát triển nhiều về du lịch, việc khai thác còn mới tuy nhiên về ý thức của cá nhân trông giữ xe chưa minh bạch, về việc treo bảng biểu ghi 1 giá nhưng thực tế thu 10k/xe máy! Việc bà con phát triển du lịch là điều tốt nhưng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Hân Hân Ngọc",
+    "rating": 5,
+    "review_text": "Bãi đá đen.mũi ngọc thuộc Bình ngọc .móng cái . Quảng Ninh giáp danh với trung quốc .có tên gọi là bãi Đá đen vì nơi đây có rất nhiều những phiến đá đen thoải xếp vươn dài nhưng những ngón tay của núi ôm lấy bãi biển trong xanh .tại nên bức …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Huỳnh Tấn Phát",
+    "rating": 5,
+    "review_text": "Tuy số lượng đá đen ít nhưng recommend mọi người nên ghé qua. Hôm mình đến một buổi sớm tháng 9. Tầm 5h30 bình mình lên đẹp. Có gặp một số bà con đi đào con sá sùng dưới cát. Từ bãi đá đen này đi ra đường lớn đi thêm 3km về hướng mũi ngọc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Linda Helen",
+    "rating": 5,
+    "review_text": "Bãi Đá Đen ở Móng Cái, Quảng Ninh là một điểm đến còn khá hoang sơ nhưng cực kỳ ấn tượng, rất đáng để khám phá nếu bạn yêu thích thiên nhiên và tìm kiếm một nơi yên bình, không quá đông đúc. Nơi đây nổi bật với những mỏm đá màu đen trải dài …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Quyet Nguyen",
+    "rating": 4,
+    "review_text": "Đường khó vào, nhỏ hẹp, đi trời nắng thì được trời mưa dễ lầy lội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Hùng Cường Lã",
+    "rating": 5,
+    "review_text": "Bãi tắm tuyệt đẹp, hoang sơ có khai thác dịch vụ đơn giản có ăn uống tắm tráng. Nước ngọt tô tượng. Bãi tắm sạch nước trong , nhưng khá dốc và sâu với trẻ em"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Son Nguyen",
+    "rating": 5,
+    "review_text": "Bãi đá đen Mũi Ngọc là nơi núi đá gặp biển tạo nên bãi đá với các góc chụp ảnh đẹp. Cấu tạo địa chất của các tảng đá rất đặc biệt với màu tím, xếp lớp theo chiều dọc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "WINGS",
+    "rating": 4,
+    "review_text": "Một nơi tham quan check-in cũng khá đẹp, bãi cát trắng, nhưng không nên tắm biển vì nhiều đá ngầm nguy hiểm , từ đây nhìn ra thấy ngọn hải đăng rất gần. Tuy nhiên ở đây còn khá nhiều rác, hoang sơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Dương Hoàng",
+    "rating": 4,
+    "review_text": "Bãi biển cũng k có gì ấn tượng, chỉ có bãi đá khá nhiều vỏ ốc vỏ hà và vẹm xanh. Không được đầu tư nên khu vực trên khá bẩn. Gửi xe ô tô mất 20k. Rửa chân và đi vệ sinh 5k/ng. Đi cho biết chứ cũng không có gì."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Người Làm Du Lịch",
+    "rating": 5,
+    "review_text": "Bãi thoải đẹp\nĐường vào hơi hẹp\nXe 45 vào nửa đường tới ngã ba dừng lại\nĐi bộ 100m ra tới bãi đá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Ngô Linh - Chi",
+    "rating": 1,
+    "review_text": "Bãi đá hoang sơ, cần được đầu tư quản lý để trở thành bãi tắm du lịch. Chính quyền địa phương nên quản lý chặt chẽ không để du khách tự mang đồ ăn, đồ uống xuống bãi tắm và tự do nấu nướng, rồi xả rác ra bãi tắm gây ô nhiễm môi trường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Thanh Tú - ツ Nguyễn",
+    "rating": 5,
+    "review_text": "Đường tới khá xấu cho xe ô tô nhưng có thể đi được. Bãi biển tuyệt đẹp và hoang sơ, có nhiều bạn nữ trẻ chụp hình, kể cả hình bikini."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Thế Lợi Trần",
+    "rating": 5,
+    "review_text": "Bãi biển rộng, sóng to, mát mẻ, thưa người nên đến nghỉ ngơi ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Trai Vu",
+    "rating": 5,
+    "review_text": "Mê mẩn bãi biển Đá Đen thơ mộng ở cực Đông Bắc của Tổ quốc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Tri Ngz",
+    "rating": 5,
+    "review_text": "− Cát mịn, nước biển trong, thơ mộng\n− Những mỏm đá đen tạo background “chill” và chất cho ảnh check‑in.\n− Mình chỉ ghé qua thôi thấy mọi người: tắm biển, chơi cano, dù lượn… cực vui.\n− Khung cảnh hoang sơ, ít người, bình yên – tuyệt vời cho ai thích tránh xa nơi đông đúc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "MASTER HN",
+    "rating": 4,
+    "review_text": "Nơi vui chơi tạm ổn cho ngày nghỉ cuối tuần, mất khoảng 4h chạy xe từ HN"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Tran Nam Anh",
+    "rating": 5,
+    "review_text": "Bãi đá rất đẹp, vẫn còn rất hoang sơ. Hoàng hôn buổi chiều ở đây là đẹp nhất. Lối vào có hơi hoang vu nên có thể sẽ thấy sợ nhưng cứ đi tiếp thì sẽ đến 2 nhà hàng lớn và cũng là bãi đá đen."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Anh Tú",
+    "rating": 5,
+    "review_text": "Bãi đá tự nhiên có thể tắm biển hoặc vào cắm trại trên khu rừng phi lao quanh bãi, đường vào khá khó vì mình đi hôm trước có mưa, bạn nào muốn đến đây thì nên mang đồ ăn nhẹ hoặc đồ nướng bbq theo nếu muốn chơi lâu. Quanh đó ko có quán xá chỉ có 1 nhà hàng hải sản lụp xụp và giá khá cao so với bên Trà Cổ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Nguyễn Thị Kim Phụng",
+    "rating": 5,
+    "review_text": "Biển đẹp và quan cảnh hoang sơ rất thích hợp trải nghiệm khám phá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Dương Nga",
+    "rating": 3,
+    "review_text": "Chả có rì,nên k có ảnh là 1 bãi vắng, đi sâu vào 500m, đường nhiều cát , tự phát, đi vào lại đi ra, dân địa phương hay ra đó nhậu, dân du lịch đi theo review, yên tĩnh, hoang vắng.  Trên đường đi vào có hàng phi lao ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Hung Ha The",
+    "rating": 5,
+    "review_text": "Thiên nhiên hoang dã, bãi biển thoải, tắn an toàn, cát đen mịn đi đỡ đau chân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "uyen1991 dang",
+    "rating": 5,
+    "review_text": "Địa điểm khá đẹp, lý tưởng. Tuy nhiên đường đi đoạn rẽ cực kì khó đi, đường đất luôn á, ổ voi luôn, vũng nước sâu. Đoàn mình định bỏ cuộc may mà bác tài cố cho cả đoàn đc ngắm cảnh đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Hoàng Đỗ Minh",
+    "rating": 4,
+    "review_text": "Cũng đẹp, nhưng hơi nhiều rác, mong du khách giữ ý thức hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Minh Pham",
+    "rating": 4,
+    "review_text": "Bãi này đẹp và trong hơn trà cổ, đẹp và hoang sơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Thai Dao",
+    "rating": 4,
+    "review_text": "Bãi hoang sơ và rất đẹp. Đồ ăn các quán giá cũng hợp lý!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Hà Phạm",
+    "rating": 4,
+    "review_text": "địa điểm chụp ảnh đẹp, bãi vẫn còn khá hoang sơ nên k có nhiều dịch vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Bảo Hà",
+    "rating": 5,
+    "review_text": "Một nơi khá hoang sơ, nước cũng khá trong, không đông người thích hợp để tắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "DUC BUI DINH ANH",
+    "rating": 3,
+    "review_text": "Hôm mình đi thì không được vào nữa. Và cũng chẳng thấy ai để hỏi han cả 😪 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Mr. Nam Hai",
+    "rating": 2,
+    "review_text": "Không có gì đặc sắc. Đường vào xấu, lầy, gập ghềnh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Xuan Dinh Tran",
+    "rating": 4,
+    "review_text": "Khá nhiều rác của các bạn đi trước để lại. Khá phù hợp đi chơi nhóm, nước khá trong."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Quy Duong",
+    "rating": 4,
+    "review_text": "Bãi tư nhân, dân dã nói chung chỉ chụp ảnh, cho trẻ em đi nhặt vỏ ốc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Lê Công Ngân",
+    "rating": 3,
+    "review_text": "Bãi đá hoang sơ ko có gì đặc sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Tùng Vương",
+    "rating": 4,
+    "review_text": "Địa điểm chưa có dịch vụ, lợi thế phi lao mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Tùng Nguyễn",
+    "rating": 4,
+    "review_text": "Do các khác du lịch trước bỏ lại rác leên khá là bẩn. Và ôi nhiễm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Nguyễn Hoàng Cường",
+    "rating": 5,
+    "review_text": "Có dịch vụ cắm trại.\nNước biển trong và sạch hơn bãi ở Tràng Vĩ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Văn Thế Trần",
+    "rating": 4,
+    "review_text": "Đi buổi tối nên không thể tham quan được gì! Được ưu điểm đồ ăn trong các quán ăn đều tươi sống, chế biến đơn giản mà ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Hung Vumanh",
+    "rating": 3,
+    "review_text": "Hiện tại quãng đường khoảng 600m nối từ đường lớn vào bãi vân là đường đất ( ổ trâu , ổ voi có đủ )."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Đỗ Văn Thường",
+    "rating": 5,
+    "review_text": "Rất đẹp và tự nhiên, không mất vé, con người Trà Cổ rất thân thiện và thật thà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Quốc Huy Lê",
+    "rating": 5,
+    "review_text": "Bãi sạc đẹp, đường vào đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Sáu Bình",
+    "rating": 4,
+    "review_text": "đi lại nhanh, gần HN. trải nghiệm thú vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Đồng Phục Bốn Mùa",
+    "rating": 5,
+    "review_text": "Bãi biển còn rất hoang sơ, lối vào còn là đường đất, lầy lội khi trời mưa.\nCòn nhiều rác, nước trong hơn bãi trà cổ, dưới có nhiều vỏ ốc nên dễ đứt chân.\nCó chỗ camping, chỉ có 2 hàng, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Châu Phạm",
+    "rating": 4,
+    "review_text": "Bãi biển này vắng vẻ, cách hơi xa trung tâm nhưng đường dễ đi và đi rất nhanh. Bãi này vắng người nên ít rác hơn bãi biển chính Trà Cổ nhưng vẫn có rác. Bãi tắm cũng tạm ổn, hơi nhiều vỏ ốc nên nếu bạn xuống biển nên có giày lặn. Xung quanh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Lê Hoài Nam",
+    "rating": 4,
+    "review_text": "Bãi đá nhỏ, đến cho biết chứ cũng không có gì đặc biệt. Đi thẳng qua nhà hàng trên bãi biển với đội ngũ nhân viên cáu bẳn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Dương BÙI",
+    "rating": 5,
+    "review_text": "M đến hơi muộn thủy triều lên ngập 1 số bãi đá rồi nhưng vẫn thấy rất ưng ý\nKhông gian yên tĩnh, mang theo loa nghe nhạc nữa chill hết sức luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Cao Hieu",
+    "rating": 3,
+    "review_text": "Nếu bạn đã mất công tới Trà Cổ thì tiện đường qua thăm Bãi đá đen cho biết. Nhưng đến nơi bạn đừng thất vọng nhé, bởi nó rất bẩn, nhiều rác, và mùi hôi tanh của cá chết...."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Thanh Nguyen Truong",
+    "rating": 4,
+    "review_text": "View đẹp. Đường đất khó đi, bị lầy khi trời mưa. Ô tô phải đỗ ngoài đi bộ vào bãi do nhà hàng chặn cổng, ko cho đỗ trong sân."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Hung Manh Thuong",
+    "rating": 4,
+    "review_text": "Bãi này nước trong xanh đẹp, vắng khách du lịch vì xa trung tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Tran Huy Hung",
+    "rating": 3,
+    "review_text": "Bãi biển hoang sơ, đường vào được lát gạch, có quy hoạch chỗ để xe. Bãi đá không đẹp như kỳ vọng nhưng cũng được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Dung Nguyen",
+    "rating": 1,
+    "review_text": "Khu vực này chưa được phát triển hạ tầng tốt, đường đi vào bằng ô tô không thuận tiện. Rất hoang sơ, có nước bẩn của nhà hàng gần đó, khá nguy hiểm khi tắm vì chưa được quản lý bài bản. Bãi tắm xấu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Sơn tít",
+    "rating": 5,
+    "review_text": "Bãi đá hoang sơ cảnh đẹp có thể cắm trại , ko có dịch vụ gì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Chung Nguyen Huu",
+    "rating": 5,
+    "review_text": "Bãi biển hoang sơ bên rừng phi lao. Đẹp, nhưng hơi nhiều rác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Kim Chi Nguyễn",
+    "rating": 5,
+    "review_text": "Cảnh sắc tuyệt đẹp. Nếu may mắn bạn còn được đi biển vô cực nữa đấy. Quán ăn có những chòi ngay ven biển, bác chủ quán nấu rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Truong Dinh",
+    "rating": 5,
+    "review_text": "Cảnh đẹp, vẫn còn hoang sơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Minh Vũ",
+    "rating": 4,
+    "review_text": "Bãi hoang sơ, sâu không nên tắm. Phù hợp với cắm trại chơi bê. Bờ biển và chill.  Lối vào là đường đất hơi mấp mô khó đi. Đi sâu vào trong là có khu đỗ xe, lối vào công cộng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "nga dang thi",
+    "rating": 5,
+    "review_text": "Bãi biển hoàn sơ, đẹp chỗ check in lumys tưởng. Đường đi hơi khó vì là đường đất nhưng đáng để trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Vân Vân",
+    "rating": 5,
+    "review_text": "Bãi Đá Đen hải sản rất ngon , cảnh đẹp hoang sơ , hoàng hôn và bình minh đẹp nhất Móng Cái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Nhiem Phong",
+    "rating": 3,
+    "review_text": "đường vào rất xấu bãi đá không đẹp, bị ng du lịch vứt rác nhiêu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Ninh Trần Thành",
+    "rating": 5,
+    "review_text": "đồ ăn ngon ngồi đến sáng cũng được nhược điểm nvien hơi điếc và chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "LeVi Na",
+    "rating": 3,
+    "review_text": "Bãi biển hoang sơ, sóng to, hơi sâu, người lớn tắm thì chắc thích còn trẻ con thì k nên. Đường vào hơi xấu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "dung nguyen",
+    "rating": 3,
+    "review_text": "Mình đến đây buổi chiều khi thủy triều dâng cao nên bãi đá ngập nhiều hjhj khuyến cáo mọi người đến vào buổi sáng nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "bảo huy",
+    "rating": 5,
+    "review_text": "Bãi hoang sơ phù hợp những người thích trải nghiệm,đã có hàng quán.vì là cuối bãi. bờ cát dốc nên nguy hiểm hơn ở bãi trung tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "dinhvianh62",
+    "rating": 4,
+    "review_text": "Bãi tắm hoang sơ, sạch sẽ chỉ mỗi tội đường mòn đi vào hơi nhỏ ô tô to 35 chỗ ko vào được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Phuong Hoai Nguyen",
+    "rating": 2,
+    "review_text": "Không có gì đặc sắc! Mấy cục đá bình thường, bãi dơ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Thao Phuong",
+    "rating": 3,
+    "review_text": "Bãi biển đi sâu vào bên trong, mọi người ra bãi tắm thông thường đẹp hơn !!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Nguyen Manh Duc",
+    "rating": 5,
+    "review_text": "Bãi đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Quang TV68",
+    "rating": 4,
+    "review_text": "Bãi đẹp hoang sơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Cao Chep Chau",
+    "rating": 4,
+    "review_text": "Bãi rộng khá sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Hau Nguyen",
+    "rating": 5,
+    "review_text": "Ko gian sống ảo tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Nguyen Hoai Nhung",
+    "rating": 4,
+    "review_text": "Bãi đẹp nhất khu vực"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "langtuhanhkhat",
+    "rating": 2,
+    "review_text": "Sóng to nên nước đục. Bãi cát nhiều vỏ sò. Ghé qua cho biết thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "lotus nguyen",
+    "rating": 5,
+    "review_text": "Đẹp . Nhưng dường vào thì thật đáng sợ, nhất là khi có mưa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Trung Tran Dinh",
+    "rating": 3,
+    "review_text": "Đẹp nhưng chưa được đầu tư"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Thanh Chí",
+    "rating": 5,
+    "review_text": "Tổ chức Kỷ Lục Việt Nam checkin 🇻🇳🇻🇳 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Phạm Tú",
+    "rating": 5,
+    "review_text": "Chữa lành tâm hồn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Duong Pham Hoang",
+    "rating": 5,
+    "review_text": "Cũng tạm không có gì đặc biệt lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "canh hung nguyen",
+    "rating": 4,
+    "review_text": "Nơi đón hoàng hôn tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Tuyết Nhung Đỗ",
+    "rating": 5,
+    "review_text": "Rất đẹp, sạch nên đi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Bắc Kạn 24h/7 Bắc Kạn 24h/7",
+    "rating": 5,
+    "review_text": "Hoang sơ, đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "CTO Tuân Nguyễn",
+    "rating": 4,
+    "review_text": "Tạm dc, nhưng dv hơi nghèo làn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Hà Anh Lê",
+    "rating": 5,
+    "review_text": "đẹp tuyệt trầnnn ❤️❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Ngọc Hoàng Trịnh",
+    "rating": 5,
+    "review_text": "10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Nguyen Chelsea",
+    "rating": 3,
+    "review_text": "Ko có gì đặc sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Blackberry",
+    "rating": 5,
+    "review_text": "Thật tuyệt một đêm lửa trại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Tuấn Phạm",
+    "rating": 4,
+    "review_text": "hơi nhiều rác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Quốc Thể Phan",
+    "rating": 5,
+    "review_text": "Ra đây ăn nhậu hợp lý luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Chu Binh",
+    "rating": 5,
+    "review_text": "Đẹp xỉu anh em a"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Huy Kieu Viet",
+    "rating": 4,
+    "review_text": "Chụp ảnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Kien Vinh",
+    "rating": 4,
+    "review_text": "Rất ok nha mng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Tùng Nguyễn",
+    "rating": 5,
+    "review_text": "View đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Bùi Thị Thanh Thảo",
+    "rating": 5,
+    "review_text": "Đẹp đẹp đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Phong thủy Việt long",
+    "rating": 5,
+    "review_text": "Phong thuỷ việt long"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Dương Hoàng",
+    "rating": 5,
+    "review_text": "Vắng vẻ và hoang sơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Trung Tran",
+    "rating": 4,
+    "review_text": "không có gì đặc biệt lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Thang Tran Tat",
+    "rating": 5,
+    "review_text": "Đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Nguyen Vu Nguyet Minh",
+    "rating": 1,
+    "review_text": "Đường vào siêu xấu, không có gì đặc biệt ngoài sự hoang tàn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "MrCatVN",
+    "rating": 4,
+    "review_text": "Mình đến đúng giai đoạn mới bão xong, mọi thứ sập xệ đổ nát hoang tàn 🤪 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Tuấn Nguyễn Anh",
+    "rating": 1,
+    "review_text": "Sau bão tan hoang hết r"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Gia Lan",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "Hongduong Thinh",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b57b2e67f3981:0xf53ea4da5444676c",
+    "shop_name": "Bãi Đá Đen - Mũi Ngọc - Trà Cổ - Quảng Ninh",
+    "user_name": "TU NGUYEN THI CAM",
+    "rating": 5,
+    "review_text": "xinh đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Hải Yến Nguyễn Thị",
+    "rating": 5,
+    "review_text": "Gà ở đây thì không có gì để chê rồi, bao ngon luôn, chỉ là phải chờ đồ hơi lâu thôi. Nhưng k sao, ngon là điểm cộng lớn rồi nên mình vẫn để 5*, mong là Don sẽ nhanh hơn trong khâu lên đồ nha ^^"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "hoàng thắm",
+    "rating": 1,
+    "review_text": "Oder 1 tiếng vẫn không có đồ ăn trong khi các bàn oder sau đều đã có. Hỏi nhân viên báo  chờ 5 phút. 15 phút sau hỏi tiếp vẫn chị phải chờ 1 lúc nữa. Dù quán cũng không đông lắm. Nhân viên vòng vèo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Điệp Hoàng",
+    "rating": 1,
+    "review_text": "Quy trình phục vụ không chuyên nghiệp dẫn đến sự bất công cho khách, khách đến sau thì được phục vụ trước, khách đến trước còn chờ 1 tiếng chưa được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Vân Anh Nguyễn",
+    "rating": 1,
+    "review_text": "Hôm đó mình đặt bàn qua số và đã xác nhận lại mấy lần là 7h hơn mk qua r, mk hỏi bên bạn là mk có e bé nếu còn trống ghế thì để mk bên b bảo bên em k còn ghế và còn bàn sofa để em sắp xếp cho c cuối cuộc gọi đó mk xác nhận lại lần nữa là 7h hơn mk qua, nhưng lúc mk lên đó b bảo hiện tại hết tất cả các bàn rồi còn 1 bàn trong đó mk vẫn rất thông cảm nhưng k 1 ai ra chỉ cho mk bàn đó ở góc nào cả và khi hết bàn cx k ai gọi điện lại báo với mk 1 câu, mk rất khó chịu khi mk có con nhỏ và k ai hỗ trợ mk trong khi mk gọi điện đặt bàn từ rất sớm, k còn ghế em bé và bàn sofa mk vẫn rất thông cảm nhưng mình đặt 7h hơn lên b cứ bảo mk đặt 7h và trễ quá 20p là k đúng r, b bảo mk h còn 1 bàn thường k có sofa thôi 1 tay mk bế con xong mk cứ đứng hỏi b bàn còn lại ở đâu mà k ai chỉ cho mk ở góc nào cả mk cx sang góc đó tìm k còn bàn trống và b lại tiếp tục bảo hết bàn r mk mới đi về , mk cảm thấy rất k hài lòng về cách giải thích này! Và vc b bảo mk cứ muốn bàn sofa là k phải nhé mk vẫn đứng 1 lúc hỏi b là bàn còn trống ở đâu và mk còn đi vào góc 2 b nói với mk để tìm bàn và k còn b có thể check cam xem lại lúc mk vào tìm bàn rồi lại đi ra hỏi lại bạn là bàn còn trống đâu và b cứ bảo hết rồi mk mới đi nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Tran Quoc Quan",
+    "rating": 5,
+    "review_text": "Quán gà rán và cơm trộn rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Mai Huong",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên nhiệt tình, chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "C Architecture",
+    "rating": 1,
+    "review_text": "Phục vụ tệ , thời gian đồ lâu , ship hay sai món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Nguyễn Phương Thảo",
+    "rating": 5,
+    "review_text": "Vị phô mai ngon lém, sốt chấm cũng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Nghĩa Trần",
+    "rating": 1,
+    "review_text": "Làm 2 cái đùi với ít khoai chiên đợi 20phút trong khi quán không có khách. Đợi lâu mà lúc ăn thì bên trong cháy đắng nghét. Tốn tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Xuân Lâm",
+    "rating": 5,
+    "review_text": "không gian quán rộng rãi, đẹp, sạch sẽ, món gà nướng ở đây rất ngon, thường thì mình sẽ gọi đùi ăn kèm cùng các loại nước sốt thì rất là ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Hanh Nguyen",
+    "rating": 1,
+    "review_text": "Quá tệ, gọi đồ ăn gần 1 tiếng mới lên đồ mà quán cũng không quá đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Hà Anh Lê",
+    "rating": 2,
+    "review_text": "service kém, đồ ăn ra lâu, order phải chờ mãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "phi trang",
+    "rating": 1,
+    "review_text": "Ngồi 40 phút k lên nổi đồ. K nhận được 1 lời xin lỗi từ nv tới quản lý. Bó tay."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "huong hoang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nhân viên thân thiện, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Duyên Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon không gian mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Bình Nguyên",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Không gian đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Hà Vy Đỗ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Ha Pham My",
+    "rating": 5,
+    "review_text": "Hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Vu Linh",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Thành Đồng Văn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Hằng Nguyễn",
+    "rating": 5,
+    "review_text": "Chất lượng tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Phương Thảo Ngô",
+    "rating": 4,
+    "review_text": "Nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Lập Nguyễn Đức",
+    "rating": 4,
+    "review_text": "Vui"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Hoanganh Vi",
+    "rating": 3,
+    "review_text": "Đi đông ok mà  đặt hàng mà ko biết mình đặt chưa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Long Kim",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "박유현",
+    "rating": 4,
+    "review_text": "Gà rán sốt ngọt đặc biệt có vị giống hệt như gà rán ở Hàn Quốc. Lớp bột chiên cũng tương tự như ở Hàn Quốc. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Sung Jin Yong",
+    "rating": 1,
+    "review_text": "Đồ ăn Hàn Quốc chỉ là hàng nhái! Phục vụ tệ hại! Thậm chí còn có gián bò trên bàn, và tôi không dám tưởng tượng trong bếp có những gì!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Jesusgotu10",
+    "rating": 2,
+    "review_text": "Đồ ăn ở mức trung bình và không đáng để chờ đợi. 3 cô gái làm việc phía sau quầy thu ngân đều đang chơi game trên điện thoại. Cánh gà phải chờ đến 25 phút mới có."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "ant sangho",
+    "rating": 3,
+    "review_text": "Đây chỉ là một chuỗi nhà hàng Việt Nam thôi, chứ không phải Hàn Quốc, đúng không? …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Marie-France Guyomarch",
+    "rating": 3,
+    "review_text": "Nơi này không tạo cảm giác thân thiện lắm. Nhân viên có vẻ chán nản, không hay cười, chỉ lịch sự. Tuy nhiên, đồ ăn thì rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "thái hoàng",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55f8433e8145:0x9c324726cf0c9258",
+    "shop_name": "Don Chicken Vincom Móng Cái",
+    "user_name": "Hà Trịnh thu",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Phương Uyên",
+    "rating": 2,
+    "review_text": "Gọi món lâu, thái độ nhân viên không thân thiện. Xin thêm 1 cái đĩa để thức ăn, nhân viên cho hẳn cái đĩa mới rửa còn đẫm nước 🙂.\nOder gà rán không cay và gà rán cay, nhân viên đưa món không bảo đâu là miếng gà …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Nguyên Lưu",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ nhiệt tình, thân thiện và luôn sẵn sàng hỗ trợ khách hàng. Không gian cửa hàng sạch sẽ, gọn gàng, sản phẩm chất lượng và được sắp xếp khoa học. Thời gian phục vụ nhanh chóng, giá cả hợp lý\nTóm lại : Ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Trung đức Nguyễn",
+    "rating": 5,
+    "review_text": "đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Ly Hương Nguyễn Lan",
+    "rating": 3,
+    "review_text": "Trải nghiệm khá tệ tại đây!\n\n📍Đồ ăn: …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Bảo minh Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , nhân viên thân thiện, nhiệt tình  mọi thứ ở đây tốt 🥰🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Văn dũng Hà",
+    "rating": 1,
+    "review_text": "Nói thẳng thì tự ái\nNhân viên thái độ, không gian vệ sinh kém\nĐồ ăn chẳng ra gì. K xứng đáng với số tiền bỏ ra. Không bh quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Huy Đinh",
+    "rating": 5,
+    "review_text": "đồ ăn ngon ra nhanh không gian xạch sẽ nhân viên niềm nở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Hà Nguyễn Ngọc",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, nhân viên nhiệt tình thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Hồng Thắm Phạm",
+    "rating": 5,
+    "review_text": "Đồ ăn ra nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Huynh Đinh",
+    "rating": 5,
+    "review_text": "Đồ ăn ổn! Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Duy Trần Đức",
+    "rating": 5,
+    "review_text": "ngon gà tươi kh hề đông lạnh ăn chắc thịt ngọt xương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Viet Hung",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , nhân viên cute hột me"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Quỳnh Quách",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon đảm bảo vệ sinh oke la"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "sad cfas",
+    "rating": 1,
+    "review_text": "Đặt đồ siêu chậm, lúc gọi xong cho tổng đài đặt đồ thì phải 1 tiếng sau người t mới bắt đầu giao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Quảng Ninh Kim Khí",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ, lên đồ quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Nghiep Minh",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, 10 đỉm 😋😋😋😋😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Sơn Trần",
+    "rating": 1,
+    "review_text": "em đặt bữa trưa vui vẻ mà thành con mẹ hữa trưa buồn bã chưa nói đến đồ ăn thì mình đã không thích dịch vụ mang về một chút nào,đơn thì mất phí ship 15k,đợi rất lâu tận hơn tiếng dù bọn e gần lotte xong đồ ăn ship đến thì em nhận thấy cho đúng 2 miếng giấy không có dụng cụ ăn kèm và các loại tương và cho em miếng gà bé tẹo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Linhh Ngocc",
+    "rating": 1,
+    "review_text": "nhân viên thái độ tệ ,nói móc khách hàng,canh toàn vị hạt nêm,bảo tư vấn thì thái độ xong 1 ng trong nhóm t tính tiền riêng thì liếc xéo khách??, khách ăn xong nhưng chưa về thì ra cười mỉa xong nói xấu là sao nữa vậy má😀 chưa kể phục vụ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "hai pham",
+    "rating": 1,
+    "review_text": "Đèo mẹ đi mua về lâu vãi cả đái 30p chx có đồ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Trang Nguyễn",
+    "rating": 5,
+    "review_text": "thái độ nhân viên rất tốt, thân thiện , đồ ăn ngon , kh gian thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Hưng Trần",
+    "rating": 5,
+    "review_text": "Đi ăn đúng hôm cuối tuần, khách đông vãi trưởng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Tung Dang",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ thiếu sự nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Ban Nguyen",
+    "rating": 5,
+    "review_text": "Cũng như bao hãng đồ ăn nhanh khác, nói chung cũng ổn trong tầm giá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Quang NgVăn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon , giá cả hợp ní , nhân viên nhiệt tình\nOk ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b55e57b54442b:0x7ac7189c22872979",
+    "shop_name": "Lotteria Vincom Móng Cái 4F",
+    "user_name": "Anh Thư Nguyễn",
+    "rating": 3,
+    "review_text": "hôm qua mình order 1 suất cơm gà sốt,1 berger bò và 1 cốc pepssi tổng 98k nhưng bạn thu ngân nói chuyện khá thái độ , đến lúc nhận đồ thì lại kh đưa nước chỉ đưa mỗi đồ ăn lúc đó mình nhờ em mình ra lấy tại mình đi có việc lúc quay lại thì …"
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Mi Hồ Hà",
+    "rating": 5,
+    "review_text": "tốt , ngon =)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Vinh Quang",
+    "rating": 5,
+    "review_text": "đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Toàn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "thithanhmai Doan",
+    "rating": 5,
+    "review_text": "Món ăn ngon , rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Bảo Ngọc",
+    "rating": 5,
+    "review_text": "quán ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Dung Nguyen Quoc",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá bình dân rất đáng ghé nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Đoan Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, vệ sinh sạch sẽ, món lên liên tục, nhân viên nhiệt tình, lần sau sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Minh Châu Minh Châu",
+    "rating": 3,
+    "review_text": "Đồ ăn ở đây mình thấy ướp rất mặn, phải nói là mặn đắng luôn đấy! Đáng lẽ cho 2 sao thôi, nhưng bù lại không gian quán ổn, tráng miệng ok và các bạn nhân viên tốt nên cho 3 sao 🙃🙏 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Nguyễn Trinh",
+    "rating": 1,
+    "review_text": "Tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Lợi Nguyễn Hữu",
+    "rating": 1,
+    "review_text": "Tôi chỉ mong đồ ăn nhiều như nhân viên. 7h30 k còn gì để ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Anh Thư Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon nên thử . Không gian rộng rãi . Sẽ quay lại ủng hộ ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Bảo ngọc Huynh thị",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, hợp khẩu vị\nSẽ quay lại nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Đoàn Huân Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, lên món nhanh hợp khẩu vị 10đ\nKhông khí thoáng sẽ quay lại nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "doan huy",
+    "rating": 5,
+    "review_text": "quán không gian thoáng, nhân viên thân thiện, nhiệt tình, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Bui Thang",
+    "rating": 5,
+    "review_text": "quán rất ngon sẽ ghé lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Sung In Hong",
+    "rating": 5,
+    "review_text": "Tôi đã gọi suất buffet 199.000 VND. Bạn cũng có thể gọi món theo thực đơn. Kim chi cải thảo và kim chi dưa chuột khá ngon, ngay cả người Hàn Quốc cũng thích~~~ Bia Tiger 25.000 VND."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Chiang Mai Guy",
+    "rating": 5,
+    "review_text": "Buffet tuyệt vời và nhân viên cực kỳ thân thiện.\n\nĐây là quán ruột của tôi mỗi khi đến Tuy Hòa!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Nguyễn Thị Anh Thư",
+    "rating": 5,
+    "review_text": "Đội ngũ nhân viên phục vụ nhiệt tình và vui vẻ, đồ ăn ngon và đa dạng, chất lượng thịt được đảm bảo, tầm nhìn gần hồ nước tuyệt đẹp, không gian rộng rãi thoáng mát, bãi đậu xe miễn phí rộng rãi, quầy bar với nhiều món ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fede12fbf797d:0xafc7c372bc09f2e9",
+    "shop_name": "Kicochi House",
+    "user_name": "Nguyễn Đức Hiếu",
+    "rating": 5,
+    "review_text": "Tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Lan Anh",
+    "rating": 3,
+    "review_text": "Quay lại ăn từ sau 2025 ăn cùng 1 món thì thấy xôi không ngon bằng hồi trước, ăn toàn vị của ruốc đỏ là chính. Lúc trước nhớ đâu có cái này đâu mà là thịt gà, da gà. Có hôm mình ăn liên tục mấy ngày vì cái lạ lạ này. Còn giờ thì giống y chang hàng quán khác kh có gì đặc biệt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Anh Duy Nguyễn",
+    "rating": 5,
+    "review_text": "Đã ăn ở đây lần thứ N và thử các loại món thì món nào cũng gọi là best, siêu ngon, đậm vị, 1 tuần phải ghé ăn há cảo 2 lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "anh tú Nguyễn",
+    "rating": 1,
+    "review_text": "Hôm chiều 7/4 mình có mua hộp há cảo 40 ở đây khi mở hộp ra thì mình thấy cộng gì như lông gà ăn há cảo thì hôi hôi mình nhắn thì kêu do sơ chế rau nên dính lông gà xong kêu quay lại đổi phần mới mà mình đi làm quay lại đổi được thì nhắn làm gì mình nhắn kêu đang đi làm cái không rep nữa luôn mình phải nhịn đến khuya."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Hoa Nguyễn",
+    "rating": 5,
+    "review_text": "Mình thừa nhận mình khó tính. Nhưng mà mình đã bảo nhân viên mình dị ứng tép, nhưng khi ăn mình lại cảm thấy mắc ói, thế là mình tìm xem có tép không, và có :))).May là mình không dị ứng nặng lắm, chỉ là mắc ói thôi. Mong tiệm kỹ hơn về phần này nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "văn luyện lê",
+    "rating": 3,
+    "review_text": "Xôi ăn khô ,nhạt, đùi gà khô cứng không có vị,lạp xưởng nhạt , ruốc nhạt, da cá nhạt ko vị không giống video 3.5₫ . Há cảo ăn dc 5₫"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Pico Vuong",
+    "rating": 4,
+    "review_text": "Mình mua 1 hộp 30k và 1 hộp 40k. Xôi nấu mềm khá ok. Topping cho nhiều. Chà bông. Chả lụa. Lạp xưỡng. Gà xé. Gà quay. Da gà. Trứng cút. Ăn nữa hộp thì thấy ok nhưng về sau hơi ngán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Linh Huỳnh",
+    "rating": 5,
+    "review_text": "Bánh sinh nhật siu chất lượng cầm siu nặng tayyy luônnn xôi thì ăn ngon nhức cái náchhh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Trung Tien Nguyen",
+    "rating": 5,
+    "review_text": "Hộp Xôi Xoài nhìn rất bắt mắt và gọn gàng, màu xanh cốm đẹp, rắc mè thơm nhẹ. Xoài chín vàng, ngọt tự nhiên, ăn cùng xôi dẻo vừa phải, không bị cứng. Nước cốt dừa béo nhưng không ngấy. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Hậu Nguyễn",
+    "rating": 1,
+    "review_text": "Khoảng hơn 7h ngày 11-7 m mua mang về Đã dặn 2 hộp ko hành nha e, cũng dạ rồi đó về 2 hộp toàn hành hộp, mà đây là lần t2 dặn ko hành mà vẫn bỏ. M đứng đó nữa là còn 3 khách mà a khách kia vô mua 15k xôi vò cho bé kêu thêm chà bông nv nói …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Hoai Jolie",
+    "rating": 1,
+    "review_text": "Nước sốt kiểu nhớt nhớt kết hợp cùng sôi dính nhão ăn dở lắm. Da gà chiên thì cháy đắng, miếng nào dính vô nước sốt đó thì cảm giác như ăn đồ đã hỏng ấy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Quốc Nguyễn Ngọc Minh",
+    "rating": 5,
+    "review_text": "Quán khá dễ tìm nha mọi người, nằm ở trên vỉa hè ngay đèn xanh đèn đỏ ngã ba, bên cạnh quán xôi cũng có 1 quán trà sữa topping cũng xinh vl …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Tính Trần",
+    "rating": 4,
+    "review_text": "7.7/10 - cũng ok, nhiều loại topping, há cảo bình thường k đặc sắc lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Nguyễn Ngọc Bích (Delux)",
+    "rating": 1,
+    "review_text": "Bấm bụng ăn lần nữa để xem có thay đổi gì không! Nhưng...nghĩ nó chán vô cùng...\nNgày trước quầy làm xôi mở rồi đóng dần giờ kín mít chẳng còn thấy quá trình làm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Rosaries Hello",
+    "rating": 1,
+    "review_text": "nhìn đùi trên clip thì thấy ngon lắm mua về mở ra được cái đùi như này cảm thấy bị thất vọng ăn không ngon,cũng trả 30k cho hộp này nhìn không xứng đáng số tiền bỏ ra"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Thu Trang Đoàn",
+    "rating": 3,
+    "review_text": "Hộp xôi lớn 30k full topping như vầy thì giá cao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Sẵn Tìn",
+    "rating": 5,
+    "review_text": "Nay mình có đặt ship ăn xôi gà đặc biệt ở đây. Hai hộp đầy topping mà có 110k( đã áp mã), phần xôi như hình thì gồm 1 đùi gà to, da gà chiên giòn vị ngon (không bị khét hay cháy cạnh), ruốc, chả, trứng cút, lạp xưởng và có thêm đồ chua ăn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Matthew Nguyen",
+    "rating": 5,
+    "review_text": "Mình ăn xôi ở đây nhiều lần ngon khỏi bàn. Nhưng hôm nay muốn review cho mng biết há cảo của bạn cũng ngon không kém, sốt đậm vị nhưng không bị mặn, há cảo hấp chín vừa và viên khá to. Nói chung là chất lượng, must try nha mng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "TVT",
+    "rating": 5,
+    "review_text": "Ghé mua xôi ăn buổi sáng. Quán làm nhanh, gọi là có liền nên không phải chờ lâu. Phần xôi đầy, đồ ăn cho nhiều, ăn khá chắc bụng. Vị nêm vừa miệng, không bị ngán. Giá rẻ so với phần ăn. Mua về ăn thấy ổn, dễ ăn, lần sau có dịp vẫn ghé lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Đạt Trần",
+    "rating": 1,
+    "review_text": "Giờ đổi thành da cá\nDở tệ\nKhách muốn ăn da gà chứ không phải da cá nha quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Dũng Đoàn Huy",
+    "rating": 5,
+    "review_text": "Sôi ăn cũng được, có món há cảo hấp cũng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "JAME THOMAS",
+    "rating": 4,
+    "review_text": "Ko có mang về, xôi ngon, da cá ngon, khách đông nv hơi hướng nội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Duy Tran",
+    "rating": 2,
+    "review_text": "Nói là mùa hộp thập cẩm 40k mà lấy hộp xôi này, mua xong mở ra ăn hết hồn luôn, tiền thì vẫn lấy 40k mà làm hộp xôi như này..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Phương Nguyễn",
+    "rating": 1,
+    "review_text": "Vào ngày 23/1/2026 lúc 21:32 mình có ghé quán mua xôi trộn phần trộn thường lúc vô có chú lớn tuổi khá khó tính và hỏi là ăn gì thì mình cũng chỉ nghĩ là do chú lớn tuổi nên khó tính và mình cũng gọi là cho con phần xôi trộng thường và bỏ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Trúc Vũ",
+    "rating": 2,
+    "review_text": "Không biết buổi sáng với tối có khác gì không mà buổi sáng mua lại nhiều hơn buổi tối. Lúc trc mua 30k nhiều lắm full hộp luôn mà hôm nay mua lại có 9 cục thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Kiều Liên Thảo",
+    "rating": 5,
+    "review_text": "Trung thành mấy năm luôn rồi. Mập lên là nhờ xôi bé Mập đó kkk! Nhắc đến xôi là chỉ có bé Mập thuiiiiii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Phạm Bùi Phương Uyên",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, sạch sẽ, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Tuấn Quang",
+    "rating": 5,
+    "review_text": "Xôi ngon, độc lạ, hỗ trợ nhiệt tình. Sẽ luôn quay lại ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "LongNg channel",
+    "rating": 4,
+    "review_text": "Quán sạch sẽ , nhân viên hoà đồng , chu đáo, đồ ăn chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Nhung Lê",
+    "rating": 1,
+    "review_text": "Quán thì lớn mà không mua nổi cái máy để check đơn cho tài xế. Đơn thì ghép 2,3 chờ bên kia đã lâu qua quán này còn phải vô đọc từng món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Trọng Minh",
+    "rating": 5,
+    "review_text": "đã dùng thử rất ngonn nên ăn nha mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Trực Nguyễn",
+    "rating": 1,
+    "review_text": "Chủ quán phục vụ cực kì tệ, như kiểu không muốn bán, thái độ khó chịu, xôi lấy ra như ảnh, trông chẳng khác gì đống cháo heo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Thư Anh",
+    "rating": 5,
+    "review_text": "Xôi ngon, món ăn đa dạng nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "thanh tuấn nguyễn",
+    "rating": 1,
+    "review_text": "Xôi thì quá khô. Há cảo 1 hôp 50k, éo phảo 15-20k như trên bảng. Nhân viên xem thường khách đến mua hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Quỳnh Nguyễn",
+    "rating": 5,
+    "review_text": "Nên mua nha mn, giá hợp lí, nhà mình hay ăn ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Đinh Thị Thu Thủy",
+    "rating": 5,
+    "review_text": "shop có làm theo yêu cầu, chi tiết cẩn thận. Giao hàng nhanh chóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "TÀI NGUYỄN NGỌC",
+    "rating": 5,
+    "review_text": "Sạch sẽ và xôi ngon !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Thúy Vân Hồ",
+    "rating": 5,
+    "review_text": "Xôi và há cảo đều ngon nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "phuoc le",
+    "rating": 4,
+    "review_text": "Xôi dẻo ăn được nha các bác\n20k hoặc 30k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Jenny minh",
+    "rating": 4,
+    "review_text": "Vị trí dễ tìm nhưng ghé mua hơi khó nếu đi từ hướng cổng chào.\nXôi ăn cũng ngon, há cảo ăn ngon bột hơi dày nha. Nchung giá bth chứ ko gọi là rẻ. Mà bán xôi ko dc niềm nở vui vẻ lắm, mẹ của bạn bán xôi có vẻ mặt khó chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Chi Mai",
+    "rating": 5,
+    "review_text": "Xôi ngon làm siêu nhanh 🫶🏻🫶🏻🫶🏻🫶🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Phương Phương",
+    "rating": 5,
+    "review_text": "Xôi dẻo ngon, topping nhiều, từng loại topping được chuẩn bị công phu, chan sốt cẩn thận\nCô chủ dễ mến, tiếp khách vui vẻ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Dung Kim",
+    "rating": 5,
+    "review_text": "xôi ngon nha , nhiều nữa ,phục vụ dễ thương giá tiền đáng để ăn lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "nguyen le ha",
+    "rating": 1,
+    "review_text": "30k hộp há cảo mà ít xịt luôn trời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Quỳnh Lê",
+    "rating": 5,
+    "review_text": "Ui mê xôi bé mập lắm, phần ăn ngon, đều đặn, xôi dẻo, nv dễ thương nhiệt tình lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Em Phụng",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon nha , hợp vệ sinh , chị chủ dễ thương lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Văn Quang Mai",
+    "rating": 5,
+    "review_text": "Xôi ngon, gà chắc, vị đậm đà. Sẽ ghé quán lần sau 🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Minh Nhựt Võ",
+    "rating": 5,
+    "review_text": "Xôi ngon, no căng, tặng sn bạn cũng lạ lạ. Bữa thử xôi xoài cũng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "thong tran",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Kho Báu",
+    "rating": 1,
+    "review_text": "Vừa mắc vừa dở 🤮, đợi lâu lắm, nhân viên không được thân thiện cho lắm, kiểu như phân biệt đối xử người có tiền ít và người có tiền nhiều 🙏🙏🙏 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Ngọc Nhân",
+    "rating": 5,
+    "review_text": "Làm món nhanh quá ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Tùng Lê",
+    "rating": 3,
+    "review_text": "30k cho 10 viên há cảo. Ít nhân, có cục ăn vào mà ko cảm thấy có nhân luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Tuấn Nguyễn",
+    "rating": 5,
+    "review_text": "Mún ăn xôi ngon rẻ thì mua đây nhe mng . Chủ nhiệt tình lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Hiếu Nguyễn",
+    "rating": 5,
+    "review_text": "nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Brian Phung",
+    "rating": 5,
+    "review_text": "Xôi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "NGUYỄN OLO",
+    "rating": 5,
+    "review_text": "Ngon nha mn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Hoàng Hà Vũ",
+    "rating": 5,
+    "review_text": "Xôi ngon , chất lượng, nhân viên phục vụ nhiệt tình,10₫"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Duy Nguyễn Đức",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Dương Trần",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Thanh Tùng Nguyễn Hoàng",
+    "rating": 5,
+    "review_text": "dù là 2 tháng rồi mới rep nhưng mà vẫn vui"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Thắng Huỳnh Hữu",
+    "rating": 5,
+    "review_text": "Xôi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Hoàng Nguyễn Huy",
+    "rating": 1,
+    "review_text": "Ăn vào bị ngô độc thực phẩm hành nguyên 1 đêm ói mửa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "bảo bảo",
+    "rating": 5,
+    "review_text": "ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Xe Biên Hòa Đi Sân Bay Giá Rẻ",
+    "rating": 5,
+    "review_text": "Ngon , sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Xuân khang Nguyễn",
+    "rating": 1,
+    "review_text": "Xôi đùi gà,đùi gà toàn xương rất ít thịt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Phúc Nguyễn",
+    "rating": 5,
+    "review_text": "Đã trải nghiệm xôi bé mập!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Nguyễn ALET",
+    "rating": 5,
+    "review_text": "ngon ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Minh Dang",
+    "rating": 5,
+    "review_text": "Siêu ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Huyen Thu",
+    "rating": 5,
+    "review_text": "Xôi cô tôi bán rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Lee photography Dạo",
+    "rating": 5,
+    "review_text": "Xoi ngon bien hoa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "tringuyen minh",
+    "rating": 5,
+    "review_text": "ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Cao Hoàng",
+    "rating": 1,
+    "review_text": "Dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Nguyen Pham",
+    "rating": 1,
+    "review_text": "Khinh rẻ khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Bảo Huỳnh",
+    "rating": 1,
+    "review_text": "Trời thì mưa to, kêu oder thì mấy phút chả có ai ra nhận oder"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Thái Nam",
+    "rating": 3,
+    "review_text": "Quán làm nhanh ko phải đợi lâu, sau 1 năm quay lại ăn ko ngon bằng hồi trước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Harley P",
+    "rating": 5,
+    "review_text": "Xôi ngon, nếp mềm dẻo, toping chất lượng. Lợi thế quán nằm khu vực dễ tìm nhưng đi xe hơi sẽ hơi bất tiện, tấp vào sẽ bị các xe đằng xe bíp còi do ngã ba được rẽ liên tục. Còn lại quán oke ko có gì chê"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Ngan Pham",
+    "rating": 1,
+    "review_text": "Xôi ăn cũng được nhưng lúc mình trộn xôi làm ơn hỏi khách xem có ăn được ớt không rồi hẳn bỏ…đằng này k thèm hỏi khách mà tự động cho ớt vào..buổi sáng con bé đói rã họng..ăn để đi làm xúc 1 xúc căn ngay trái ớt xanh roi rói…bỏ nguyên hộp xôi luôn…trải nghiệm quá tuyệt vời..k có lần 2 luôn🙂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Nhi Xinh",
+    "rating": 2,
+    "review_text": "Càng ngày càng mắc, ăn k ngon như trước nữa, từ da gà g đổi thành da cá :))) ngon lành gì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Mo Mose",
+    "rating": 5,
+    "review_text": "Tôi muốn gửi lời cảm ơn đến Mai Yen Nhi (Be Bo) vì đã dành thời gian giúp tôi đặt hàng và giao hàng tận nơi. Mặc dù tôi ở cách xa hơn một tiếng đồng hồ, và đồ ăn thì tuyệt vời. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "Thành Lâm Nguyễn",
+    "rating": 5,
+    "review_text": "Tốt. Tôi thích nó."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174de89b5dc3295:0x51e92c9485c08efa",
+    "shop_name": "Xôi Bé Mập - Phạm Văn Thuận",
+    "user_name": "trí minh",
+    "rating": 5,
+    "review_text": "to lớn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Xa Trục Thảo",
+    "rating": 2,
+    "review_text": "Gấu lúc đầu xinh… giờ tặng con gấu nhìn sảng luôn. Thêm má nv như ai ăn hết của nhà nó vậy…mệt thì xin về ngủ liền dùm. 😒 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Chi Nguyễn",
+    "rating": 2,
+    "review_text": "gọi trà sữa Zen thêm trân châu tươi mà cho trân châu trắng 😔 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Trần Duy Nguyên",
+    "rating": 4,
+    "review_text": "Trà sữa ngon đậm vị trà, ai gu đậm trà có thể thử quán này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "31.Phạm Như Quỳnh",
+    "rating": 5,
+    "review_text": "Ở đây không chỉ nước ngon mà bánh nào ở đây cũg rất ngon mọi người ạ .Nước ở đây là khỏi bàn và có nhiều loại bánh cho khách chọn mọi người nên thử nhé .Chỗ ngồi rộng thoải mái nhân viên dễ thương hỗ trợ nhiệt tình . Moi người tới trải nghiệm thử nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Tea Mee",
+    "rating": 4,
+    "review_text": "Nước và bánh ngon như các chi nhánh khác, quán ở chi nhánh này rất nhiều bàn, các bàn xếp sát cạnh nhau, nên có đi vào ngày lễ theo mình nghĩ chắc cũng sẽ còn chỗ, nhưng cũng vì vậy mà nếu đông khách sẽ rất rất ồn, ồn hơn các chi nhánh khác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Phát Ngô Quang",
+    "rating": 5,
+    "review_text": "Nếu bạn đang tìm một chỗ “giải nhiệt” nhanh mà vẫn ngon – Zen Tea là lựa chọn khá ổn! ✅ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Hà Thị Yến Trâm",
+    "rating": 1,
+    "review_text": "Lâu lâu về lại BH, uống lại hương vị trà sữa quen thuộc mà giá hú hồn. 1 ly trà sữa ko topping size M giá 51K, chưa bàn đến chất lượng, chỉ so sánh thương hiệu với cái giá này khiến mình phải \"Wao\". Nhưng cái làm mình (1 người làm quản lý …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "quỳnh trâm dương",
+    "rating": 5,
+    "review_text": "Trà và các món có vị khá ấn tượng, khác biệt. Đề cử nên thử. Giá tương đối cao :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "han huynh",
+    "rating": 5,
+    "review_text": "Nước oki, không gian rộng, nhân viên nhiệt tình, dễ thưn (đặc biệt là bé thu ngân ❤️)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Mộc",
+    "rating": 4,
+    "review_text": "Giá cao, rộng  phù hợp cho tuổi teen. Ồn, không gian không thoáng kín, trần thấp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Trương Minh Ngọc",
+    "rating": 5,
+    "review_text": "Không gian quán thoải mái. Thoáng rộng. Mát mẻ.\nQuán mở cũng khá lâu rồi mà nay ngồi lại uống mọi thứ vẫn ok.\nCòn nói về nhân viên quán thì rất thân thiện phục vụ lịch sự chu đáo với khách. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Hoàn Vũ",
+    "rating": 4,
+    "review_text": "Được biết đến là tiệm trà nổi tiếng nhất Biên Hoà nên ghé thử\nVị thức uống khá ổn, giá thành hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Matthew Nguyen",
+    "rating": 5,
+    "review_text": "Chi nhánh Ngô Quyền làm nước ngon nhất trong các chi nhánh ở Biên Hòa :)))))) đông nhưng ra món nhanh và chất lượng không như phía Quảng Trường pha trà sữa không ngon và nhân viên không có sự tương tác nên đồ uống ra chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Nam Nguyễn Hoài",
+    "rating": 4,
+    "review_text": "Điểm cộng:\n+ Cảm nhận nước pha ngon hơn mấy chi nhánh khác\n+ Phía đối diện có bãi xe ô tô công cộng miễn phí …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Kỳ Thương",
+    "rating": 4,
+    "review_text": "Zen tea thì khỏi bàn rồi, nổi tiếng biên hòa\nNước siêu ngon, nhiều loại bánh phong phú ngon miệng\nNgon nhất là món trà sữa + chân trâu tươi tự nấu dai dai cực thích, tiếp tới là …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "duy anh Nguyễn",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình , đồ ăn thưcs uống ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "cường mai",
+    "rating": 5,
+    "review_text": "Trà sữa Zen thì không cần bàn cãi về chất lượng nữa rồi, quá tuyệt vời . Dạo gần đây còn có chương trình vòng quay may mắn khi order nước  nữa thì đỉnh cao luôn . Đây là chi nhánh bản thân mình thích nhất về nước uống, không gian, và cách …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Mê Xe Đẹp Channel",
+    "rating": 1,
+    "review_text": "Đặt nước 3 4 tiếng k giao lên tận quán mua thì bắt đợi cả tiếng không nói trước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Khánh Nguyen",
+    "rating": 5,
+    "review_text": "Trà sữa Zen khỏi chê, thích nhất chi nhánh Ngô Quyền, nhân viên cực lâu năm nên yên tâm về chất lượng thức uống, thích nhất anh mập mình uống từ khi còn ế tới giờ 1 vợ 2 con rồi vẫn làm. Thích cảm giác ấm cúng không gian ở đây, nước ở đây làm chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Sờ Nêu",
+    "rating": 5,
+    "review_text": "Nước ở đây làm ok nhất trong các chi nhánh, trà sữa pha đúng vị, nhân viên nhiệt tình bảo vệ dễ thương. Giá hợp lý, máy lạnh thổi vù vù thích hợp tụ tập or làm homework/chạy deadline ^^"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Như Quỳnh Mai Tống",
+    "rating": 1,
+    "review_text": "Nhân viên oder thái độ, khách đã báo không hạt sen mà vẫn để vào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Anh Hoa",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương, nước ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Phước Trịnh",
+    "rating": 5,
+    "review_text": "Quán làm nước nhanh . Nước uống ok anh quản lý hỗ trợ rất nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Đặng Thị Thanh Nhàn",
+    "rating": 5,
+    "review_text": "Bánh ngon, nvien nhiệt tình, siu rcm ạa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Phương Kiều",
+    "rating": 5,
+    "review_text": "Rau má ngon\nBánh nhiều sự lựa chọn\nMô hình tự phục vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Trúc Trần",
+    "rating": 3,
+    "review_text": "Mình là khách trung thành ở zen từ lúc học cấp 3 đến giờ đã ra trường đi làm, cũng đã đi qua hết các chi nhánh của zen, nhưng tối hôm nay mình ghé chi nhánh này mua giúp bạn mình, bạn mình nhờ mua size lớn nhưng mình nhớ nhầm và gọi size …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Ai Len",
+    "rating": 5,
+    "review_text": "Đồ uống ổn, lên món nhanh\nỔ điện thiết kế nghiêng nên mh k cắm sạc đc, nhân viên hỗ trợ sạc giúp ạ\nCó dịp sẽ ghé lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Linh Le Hoai",
+    "rating": 1,
+    "review_text": "Mọi người dho mình hỏi có được đem đồ ăn ngoài vào k ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "PL Lưu",
+    "rating": 4,
+    "review_text": "Nv thân thiện, trà sữa ngon nhưng đã đổi món bông kem, quán bán lại món bông kem ban đầu đi ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Cường tom",
+    "rating": 5,
+    "review_text": "Không gian ấm, các bạn nhân viên nhiệt tình, thức uống ngon.\nCác bạn nên thử rau má ở đây rất ngon đối với khẩu vị của mình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Trần Lê Uyên Thảo",
+    "rating": 1,
+    "review_text": "bạn thu ngân đeo kính thái độ cực tệ, mình order bình thường mà mặt bạn một đống như mình vô xin ăn vậy 😀 mình không biết máy scan của quán là máy tích điểm, cứ nghĩ là máy scan thanh toán thì mình scan thôi, khách ko biết thì bạn nhắc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "store Cutie",
+    "rating": 5,
+    "review_text": "Hiuhiu bình thường là em hay uống ở đây, em sẽ note là bỏ ly nhựa. Hôm nay em quên note mà Chị order cho e vẫn nhớ rùi note cho e 😭😭😭 Mí Anh Chị ở đây dễ thương lắm luôn. Rất là iu zen ngô quyền. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Phương Mai",
+    "rating": 4,
+    "review_text": "Trà sữa ngon, không gian rộng thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Vũ Trịnh",
+    "rating": 5,
+    "review_text": "Do bạn mình người dưới đây nên giới thiệu cho mình đi thử. Theo cá nhân thì vị trà khá là đậm và oke bông kem bên này làm vừa ko quá ngọt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Nguyễn Minh Khôi - Lior",
+    "rating": 5,
+    "review_text": "nước với bánh quá peak"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Xuân Mai",
+    "rating": 5,
+    "review_text": "Anh, Chị nhân viên ở đây siu dễ thưn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Nguyễn Thành Long",
+    "rating": 5,
+    "review_text": "nước ngon, nhân viên dễ thương, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Tiến Huỳnh Minh",
+    "rating": 5,
+    "review_text": "Trà sữa rất là ngon. Lần nào cũng phải làm 1 ly size L uống cho đã thèm, nhân viên cực thân thiện luôn giải đáp mọi thắc mắc cho khách hàng. Rất thích đi Zen ở Ngô Quyền và Quảng Trường. 100 điểm không có nhưng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "MinHee",
+    "rating": 5,
+    "review_text": "Tui bị ghiền Olong sữa của Zen. Đặc biệt thích chi nhánh bên đây nhất. Vừa làm nhanh mà nhân viên take care nhiệt tình nữa.\nĐể ý có mỗi chi nhánh này mới có nhân viên ord bên ngoài thui à.\nBữa nào có việc bận dừng xe bên ngoài là có bạn chạy ra ord giúp luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Vo Tuyen",
+    "rating": 5,
+    "review_text": "Quán không gian đẹp, rộng .Đồ uống ok."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "DN07 Lê Trường An",
+    "rating": 5,
+    "review_text": "Trà sữa đậm vị, rất hợp gu mình😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Anh Vũ Quỳnh",
+    "rating": 1,
+    "review_text": "Nhân viên đứng đông nói chuyện to ồn hơn cả khách. Luôn luôn đứng nhìn nếu khách ngồi hơi lâu( vì trời mưa ) cố tình dằn mặt khách không hỗ trợ thái độ quá tệ từ nhân viên nam tới nữ. Nghĩ gì mà khách ngồi còn nhân viên giỡn hớt cười ha hả to thế k biết thua. Mn qua võ thị 6 đi nhân viên đây tệ lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Thành Đỗ Hoàng",
+    "rating": 5,
+    "review_text": "Quán rộng rãi thoáng mát, nước ngon, nhân viên thân thiện 🤤 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Hoàng Vân Anh",
+    "rating": 5,
+    "review_text": "Trà sữa trân châu dẻo ngon, nhân viên và chú bảo vệ vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Drawing Hiệp",
+    "rating": 1,
+    "review_text": "Hôm nay thứ 3 (24/3) lại có người đem thức ăn bên ngoài vào quán, ngồi kế bên rất thúi mùi thức ăn.\nGhé quán 6 ngày đều thấy có người đem thức ăn vào. Tính ra ngày nào cũng có ^^"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Anh Thư",
+    "rating": 1,
+    "review_text": "11g đóng cửa 10g15 xếp hết bàn ghế ?? Đuối khách cỡ đó ???"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Thị Châm Đặng",
+    "rating": 5,
+    "review_text": "Nước ngon, nhân viên thân thiện, có nhiều ctr khuyến mãi 😘😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Khánh Trương",
+    "rating": 5,
+    "review_text": "Nước ngon, nhân viên nhiệt tình, không gian mát mẻ\n10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Nguyen Minh Khue",
+    "rating": 5,
+    "review_text": "bánh ngon vicieo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Phuong Cao",
+    "rating": 4,
+    "review_text": "Về Biên Hòa thì chỉ uống Zen Tea thôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Luận Phạm Thanh",
+    "rating": 2,
+    "review_text": "Quan nước như cc tối hôm mua 2 lý nước chờ hơn nữa tiếng đồng hồ, trong khi quan ko có khách, thương hiệu như cc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Trần Diệp Thiên Phúc",
+    "rating": 5,
+    "review_text": "Quán thoáng mát, làm nước nhanh. Nhân viên thân thiện với khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Phát Trương",
+    "rating": 5,
+    "review_text": "Bạn thu ngân ca sáng dễ thương 🫶🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Loan Hồng",
+    "rating": 5,
+    "review_text": "quán nhân viên thân thiện vch luonnnnnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Phòng Đoàn",
+    "rating": 5,
+    "review_text": "Rau má mãi đỉnh nha ZEN ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Nguyễn Hồ Diễm Chi",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, dễ thương, nhất là 2 bạn thu ngân ca sáng 😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Tiên Thuỷ",
+    "rating": 5,
+    "review_text": "rất tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Pony",
+    "rating": 5,
+    "review_text": "Không gian sạch sẽ thoáng mát\nPhục vụ ok.\nNơi ghé mỗi cuối tuần của mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Ánh Minh",
+    "rating": 4,
+    "review_text": "Trước đi có mấy bạn nhân viên dễ thương lắm, giờ thì k thấy đâu🥺 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Vanquy Nguyen",
+    "rating": 2,
+    "review_text": "Chờ quá lâu cho 1 ly rau má.\nKhông muốn ghé lần nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Uyen Nguyen",
+    "rating": 1,
+    "review_text": "Ồn ào tiếng trẻ con la hét chạy nhảy. Ai cần chỗ nói chuyện thì không nên đi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Đôn Đinh",
+    "rating": 5,
+    "review_text": "Tuyệt vời\nNhân viên ở đây rất dth đặc biet la cac chu bao ve"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Easy luv",
+    "rating": 1,
+    "review_text": "nhân viên thái độ nên coi lại cách ứng xử của nhân viên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Minh Nguyễn",
+    "rating": 5,
+    "review_text": "không gian quán rất đẹp<3333"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Kim Mai",
+    "rating": 5,
+    "review_text": "Ngon nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Hùng Lê",
+    "rating": 4,
+    "review_text": "Bạn mình rất thích zen"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Hiếu Phạm",
+    "rating": 5,
+    "review_text": "Quán okela"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Ngọc dung",
+    "rating": 1,
+    "review_text": "Dịch vụ quá tệ đứng 15 phút chưa được order. Chỉ có một người order mà đứng chọn món rồi chọn gấu quá lâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Noah Nguyen",
+    "rating": 3,
+    "review_text": "Quán đông và ít nhân viên nên vệ sinh chưa được sạch.\nChỉ có không gian bên dưới, khách đông.\nGiữ xe bên ngòi\nGiá từ 50k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Anh Phan",
+    "rating": 1,
+    "review_text": "20h ngày 01/09 gia đính chúng tôi đi 11ng. Không còn bàn dài nên chúng tôi phải tự ghé bàn đơn lại được khoảng 3 bàn nhưng khi ngồi vô thì cản thấy không đủ không gian nên chúng tôi cần thêm 1 bàn nữa thì nv “ nam đen mập “ đi dọn bàn đã …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Min Ngân Lee",
+    "rating": 5,
+    "review_text": "Tui người sài gòn xuống trải nghiệm trên cả tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Hoàng Khải Ngô",
+    "rating": 5,
+    "review_text": "Ngon quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Minh Khoi Nguyen",
+    "rating": 5,
+    "review_text": "Toii người Thanh Hoá, lần đầu vô Biên Hoà là tôi thử ngay Zentea. Quán peak"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Mon Heo",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương, nước và món quâ ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "26TO2 LTV",
+    "rating": 5,
+    "review_text": "nước, deco, nhân viên quâ peak"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "nhung nguyen",
+    "rating": 5,
+    "review_text": "Nc ngon,quà siêu cưng,nvpv làm kug nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Châu Ngọc",
+    "rating": 5,
+    "review_text": "ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Bảo Anh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon lắm tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Trang Đài Nguyễn",
+    "rating": 5,
+    "review_text": "Nước ngon bánh thơm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Khashn",
+    "rating": 5,
+    "review_text": "bánh ngon lắm tuyệt vời!!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Tân Lê",
+    "rating": 5,
+    "review_text": "10 ngày"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Tuấn Thành",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df265435c54f:0x5662992ec608e2b3",
+    "shop_name": "ZEN Tea",
+    "user_name": "Michael Bolame",
+    "rating": 4,
+    "review_text": "Quán cà phê này không tệ. Máy lạnh tốt, nhiều chỗ ngồi và bàn, nhạc không phải là lựa chọn tốt nhất để tạo không khí \"thiền\" cho quán cà phê và trà. Hơi ồn ào một chút. Tôi gọi một ly choco sua cỡ vừa giá 41k. Rất ngon. Quán cà phê trải dài …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Quốc Nguyễn Ngọc Minh",
+    "rating": 5,
+    "review_text": "Quán nhỏ, decor khá đơn giản mà đẹp, nước rẻ dao động từ 15k, topping từ 5k.\n\nPhù hợp đi chơi bời, bàn tròn nhỏ không phù hợp chạy deadline nhóm cho lắm nha. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "мιин тнảσ",
+    "rating": 5,
+    "review_text": "Quán chill,các bạn nhân viên nhiệt tình thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Lâm Trần Vũ Minh",
+    "rating": 5,
+    "review_text": "Không gian nhỏ nhưng chill, các bạn cực kỳ thân thiện luôn , đăc biệt nhạc cực chill nha, thêm một buổi chiều mưa nữa là hết bài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Ngọc Sơn Cao",
+    "rating": 5,
+    "review_text": "Nước ngon, không gian vừa đủ, có ổ cắm điện thả ga."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Diễm Ngọc",
+    "rating": 5,
+    "review_text": "Lần nào cũng mua nhma lần nào cũng ưng hết trơn, nước giá bình dân rẻ mà ngon nữa, 10 lần như 10 nhân viên rất dễ thương và nhẹ nhàng siu nhiệt tình lun, mình đi mua hay uống ở đâu nước ngon hay dở không quan trọng mà quan trọng thái độ nhân viên là mọi thứ 10 đỉm hết 😍. Uống rất lâu rùi mà lần nào cũng ưng hết chơn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Quốc Trần",
+    "rating": 5,
+    "review_text": "Nhân viên vui vẻ, đồ uống ngon rẻ và quán dễ huônggg"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Bình Thái",
+    "rating": 5,
+    "review_text": "Khá ấn tượng vì dù quán nhỏ nhưng mà lại rất chỉn chu, đặc biệt là ánh đèn thơ mộng vào buổi tối, nước uống thì cũng không khác mấy chỗ khác là bao nhưng trải nghiệm ở đây thì quá tuyệt vời rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Tân Nguyễn",
+    "rating": 5,
+    "review_text": "Nước ngon rẻ, không gian tốt, đây là menu cho ai cần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "quang phan",
+    "rating": 5,
+    "review_text": "Rẻ. Ngon. Không gian đẹp. 8/10."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Mai Huynh",
+    "rating": 5,
+    "review_text": "Nước rẻ nhân viên nhiệt tình quán mát wifi mạnh😙 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Nguyễn Mi mi",
+    "rating": 5,
+    "review_text": "Trà sữa với bạc xỉu ở đây ngon nha, ngày nào mình cũng ghé không ghé không chịu nổi, mọi người nên thử nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Minh Chiến (Tèo)",
+    "rating": 5,
+    "review_text": "mình quen cô chủ ở đây,cô ấy rất dễ thương cô phục vụ cũng tốt,những bạn nhân viên ở đây rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Tien Pham Minh",
+    "rating": 5,
+    "review_text": "good  ,uống rất ngon,giá thành rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Nhi Xuan",
+    "rating": 1,
+    "review_text": "Người đến trước không làm người đến sau lại làm xong trc k tộn trg khách quen ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Buck Grape",
+    "rating": 4,
+    "review_text": "Quán trong hẻm gần chợ khá đông đúc, không gian phía dưới trệt hơi nhỏ 1 chút, phù hợp cho nhóm bạn 3-6ng, nếu đông hơn thì nên lên lầu. Điểm cộng của quán là trên lầu không gian rất thoáng, trang trí vài chậu hồng cao(mình đoán là hồng cổ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Tiên Phạm Vũ Kiều",
+    "rating": 4,
+    "review_text": "Đồ uống ngon, goá cũng tầm trung, hs-sv. Có điều không gian nhỏ, nhanh hết chỗ. Tối thì hay có con nít chơi xung quanh nên rất ồn. Ko biết mn sao chứ, mình thì cảm giác trong phòng lúc nào cũng lạnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Ngan Phuong",
+    "rating": 4,
+    "review_text": "Tốt nhé. Đánh giá nước thì ok. Còn  đánh giá đồ ăn thì ở đây ko có bán, nên ko biết đánh giá như thế nào????"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Phát",
+    "rating": 5,
+    "review_text": "Chj chủ rất thân thiện🥰\nNước giá cả rất chi là học sinh luôn mọi người nên tới trải nghiệm nha …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Chí Công Diệp Tống",
+    "rating": 5,
+    "review_text": "Đồ ngon, thu hút các em học sinh, sinh viên, cấp 2, cấp 3, cấp1 cũng đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Lộc Đặng",
+    "rating": 1,
+    "review_text": "Hạn chế người, mà tao dặn chừa tao thêm 2 chỗ đợi bạn, ừa ừa đã rồi bạn tao tới ko cho vào. Full. Hừ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Dũng Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian thoải mái, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Baw Chelsea",
+    "rating": 4,
+    "review_text": "Nước uống có chất lượng , giá hợp lí."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Tiên Thuỷ",
+    "rating": 5,
+    "review_text": "Nước ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Nguyen Yen",
+    "rating": 5,
+    "review_text": "Quán ở đây chủ yếu là Trà Sữa Các loại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Hậu Thành",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Kiet Duong",
+    "rating": 5,
+    "review_text": "Nước ngon ổn giá hợp lí hssv nhưng em thích decor cũ hơn 😭😭 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174df2d3be20613:0x56007beb840c8617",
+    "shop_name": "Lụa Tea",
+    "user_name": "Hop Phan",
+    "rating": 4,
+    "review_text": "Dịch vụ tốt, nhân viên thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Lonely Mr",
+    "rating": 5,
+    "review_text": "⭐⭐⭐⭐⭐ Bánh Tráng Bé My — Ngon, đa dạng, phục vụ nhanh\n\nQuán bánh tráng khá ổn — menu đa dạng, gọi món lên nhanh, đồ ăn uống đều ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hằng Nguyễn",
+    "rating": 4,
+    "review_text": "Bánh tráng trộn bình thường.\nBánh tráng cuộn nhiều bò khô, làm kiểu size bé bé xinh xinh, không to như các hàng khác. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hà Phương Nguyễn",
+    "rating": 5,
+    "review_text": "Cứ phải gọi là ngon nhức cái néc nha. Bánh tráng ở đây siu ngon ạ. Rcm mn nếu ăn nướng thì gọi trứng lòng đào, trộn thì bò tại mình thấy bơ ăn nó ngấy lắm á, cuộn thì phải sốt me nha siêu cuốn ạ. Đi cafe hay đi chơi gần đó là cứ phải té vô ăn quà chiều ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Tram Vu",
+    "rating": 5,
+    "review_text": "Mình thích món bánh tráng cuốn ở đây, ngon nha.\nBánh tráng nướng ko hợp lắm, để nguội bánh bị dai.\nNem nướng, bánh mì mình mua bên cạnh tiệm bánh tráng cũng oke …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Lee Anh",
+    "rating": 5,
+    "review_text": "9 rưỡi sáng tới đã thấy làm đơn tấp nập r. Ngon, sạch sẽ, nhiều sốt, nhiều hành phi thơm. Mua mang về nên k để ý thái độ lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Trang Lê Thu",
+    "rating": 4,
+    "review_text": "Bánh tráng trộn bơ hơi nhiều sốt bơ nên ăn hơi ngấy. Bánh tráng cuộn sốt me ăn ổn áp hơn, vị mặn vừa phải. Mình đến tối muộn nên hết sốt bò.\nNhân viên ở đây làm đồ khá nhanh. Quán tối muộn vẫn rất đông khách. Khu vực ngồi lại có hơi hạn chế."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Tú Mai",
+    "rating": 5,
+    "review_text": "Mê nhất món bánh tráng nướng, quán dùng mấy cái mẹt đựng trông rất đẹp lại thân thiện môi trường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Quốc Hưng Phạm",
+    "rating": 4,
+    "review_text": "bánh tráng ở đây ăn ở mức ok , cái bánh tráng trộn sốt mayon cá nhân thấy k ngon , salad xoài thì mềm ăn k còn chút cứng nào của xoài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Ngân Võ Thị Thảo",
+    "rating": 4,
+    "review_text": "Đi 2 lần đồ ăn đều oke, nhưng đông quá nên phải giục để k bị quên đồ.\nNhân viên lần thứ 2 mình đi rất thái độ, không ưng lắm, còn lần đầu thì oke\nKhông gian ngồi vỉa hè, chill chill, đồ đựng bánh tráng trông cute xinh xinh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nghi Trần Quốc Đoan",
+    "rating": 2,
+    "review_text": "Lý do mình gửi bình luận này là vì mình thật sự thất vọng về cách các nhân viên làm việc . Mình nhà gần nên hay ăn nhưng đaay là làn đầu tiên  ăn phải 1 xuất bánh tráng trọn tệ đến thế này . Rau chưa rửa sạn từ bánh đến cả bò . Bánh khô ko có mai o ne . Mình ko ngờ là cách quán làm ăn lại cẩu thả như này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Huyền Anh Đỗ",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng ngon nhất lòng tôi ở Hà Nội. Đặc biệt là bánh có trứng cút lòng đào, hình như 40k/đĩa nhưng mà ngon lắm. 1 đĩa nên 2ng ăn để k ngấy. Còn lại có thể thử thêm các món khác. Mình có thử cuốn xốt me nhưng thấy chưa đủ wow với cá nhân mình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nhật Minh",
+    "rating": 5,
+    "review_text": "Quán đã ăn nhiều năm nhưng giờ không được ngồi vỉa hè như trước\nCác món ăn vặt đều rất ok\nQuán phong cách vỉa hè ăn vặt hà nội nên mọi người đừng yêu cầu cao về dịch vụ\nGiá cả phù hợp với chất lượng đồ ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hằng Nguyễn",
+    "rating": 3,
+    "review_text": "🪑: ít, đông khách nên r chật chội\nTrộn: cắt bản vuông to, có cả rơm rác lẫn trong rau\nNướng bt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "dừa nướng",
+    "rating": 4,
+    "review_text": "chỗ ngồi chật chội, take care hơi kém, bánh tráng nướng ngon, rất hay ăn ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Manh Linh Nguyen",
+    "rating": 5,
+    "review_text": "Bánh tráng ngon. Loại nướng thì giòn và thơm. Cuốn thì nhiều sốt ăn không bị ngấy. Chỗ ngồi hơi hạn chế"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Linh Phương",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng ở đây ăn khá ngon 🙌🏻 bánh tráng cuộn thì bthg thui ấy, sốt không đậm đà cho lắm. Điểm trừ là quán bé, ít chỗ ngồi. Giờ dẹp vỉa hè rùi nên ko còn được ngồi thoải mái nữa. Ai ăn bánh tráng ở đây có thể kết hợp cả quán chè khúc bạch bên cạnh thấy cũng nổi tiếng á …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "tuan nguyen427",
+    "rating": 3,
+    "review_text": "Về mặt bánh tráng thì quán làm tương đối ổn tuy hơi ngấy, tuy nhiên, bạn nhân viên nam đầu tròn tròn như quả trứng, lúc nào cũng đeo khẩu trang đen dù trời rất nóng, đi cái dáng rất tù mang đậm phong cách của anime có vẻ hơi lười làm vì lúc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "TUNG VIET",
+    "rating": 5,
+    "review_text": "Đồ ăn vừa miệng, Bánh tráng giòn, thơm. Phù hợp với tuổi trẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Adventure Thin",
+    "rating": 4,
+    "review_text": "Rate 8/10\n\nNice place for try Vietnamese streetfood, the taste good, somewhat clean, ok …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Tuấn Lê Anh",
+    "rating": 5,
+    "review_text": "Bánh tráng ở đây ăn được đó, bánh tráng nướng nóng giòn, ăn ngon. Quán có chỗ ngồi 2 bên đường Quang Trung, giờ cao điểm cũng nhanh hết chỗ, thực khách muốn ăn phải đợi xíu. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Merlin Pham",
+    "rating": 5,
+    "review_text": "Bánh tráng siêu ngon, có thêm phomai ăn dính cực. Trời mưa ăn nóng hổi mà béo bùi. Bọn m mua thêm thịt xiên hàng gần đó, ăn ngậy mềm ngọt thịt. Ở đây mình thích nhất là bánh tráng nướng rồi đến bánh tráng cuộn. Bánh tráng trộn ở đây dùng từ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "reviewerofhanoi",
+    "rating": 4,
+    "review_text": "Bánh tráng ở đây ăn ổn. Nhưng sốt bơ khá ngấy. Cá nhân mình thấy nướng bình thường còn trộn thì ngon. Mình thích ăn bánh tráng trộn ướt và mềm thì ở đây đúng ý mình luôn. Quán khá đông và đợt mình ghé là đang bị cấm ngồi vỉa hè nên chỗ ngồi không được thoải mái lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Trúc nam Mai",
+    "rating": 4,
+    "review_text": "Bánh tráng ở đây ở mức ok thui, sốt me ăn chua chua đc nhaa, còn sốt bơ ngậy thêm thì ngon, bánh trán trộn với nướng nhân lợn ổn hơn nhân bò, với bánh tráng cuộn hơi nhiều bò khô, bị át mất các vị khác, ai k thích bò khô thì có thể cân nhắc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Linh",
+    "rating": 3,
+    "review_text": "Ăn cũng bình thường không có gì đặc sắc lắm, sốt bơ ko ngậy béo nên ko thích lắm, bánh tráng nướng bò thì thì chả thấy giống ảnh minh hoạ lắm, ăn cx ko thấy vị bò khô nhiều. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Phan Linh (Rei Phan)",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng ở đây ngon lắm,vị vừa vặn, ăn rất cuốn, đi buổi tối có vẻ mát mẻ hơn, hy vọng có dịp ra lại HN để ghé lại quán!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Bơ",
+    "rating": 5,
+    "review_text": "1. Không gian\n\nQuán khá nhỏ nhưng có lợi thế mặt tiền rộng, chỗ ngồi thoải mái, thoáng mát. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "huyentrang tran",
+    "rating": 5,
+    "review_text": "Bánh tráng ngon dã man, vị vừa vặn giòn tan\nQuán ngồi ở cả vỉa hè nên không gian thoáng\nXung quanh có nhiều hàng khác nên đồ ăn đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "huyen nguyen",
+    "rating": 4,
+    "review_text": "Quán tuy nhỏ nhưng mặt tiền ngồi rộng thoải mái. Lần nào đi ăn cũng đông. Mình thích ăn bánh tráng nướng ở đây nhất nhưng lại chỉ bán vào buổi tối. Giờ quán có thêm chỗ ngồi ở đối diện bên kia người cho khách và cũng thêm nhiều món hơn cho …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Anne Nguyen",
+    "rating": 4,
+    "review_text": "bánh tráng nướng với cuộn ngon, nhưng lên đồ hơi lâu =))) định ăn tiếp nhưng cũng k muốn gọi vì đợi quá lâu, quán rất đông, may nay mát trời, chứ nóng với oi thì chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Duong Nguyen",
+    "rating": 1,
+    "review_text": "Ôii mình và bạn ăn xong về ngộ độc thực phẩm 2 hôm (((((: sợ thực sự. Đợt ốm nhớ đời luôn kbh quay trở lại huhu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Ngọc Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng lòng đảo đỉnh của chóp. Trộn bơ hơi ngấy thích trộn bò hơn mà hôm đó hết. Mình thích cách quán dùng lá chuối để lót."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Le Hải Tùng (Davidlee229)",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Phù hợp với các bạn trẻ, bạn nhỏ. Giá cả phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nắng Phùng",
+    "rating": 4,
+    "review_text": "Bánh tráng ổn, bánh tráng cuốn thường được cuốn sẵn, bánh tráng nướng khi được gọi. Quán đông, buổi tối ăn vặt chill chill"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Huyen Nguyen Minh",
+    "rating": 4,
+    "review_text": "Đi ngang qua Quang Trung thấy quán Bánh Tráng Bé My khá đông nên mình tạt vào thử. Quán nhỏ thôi, kiểu vỉa hè, bàn ghế nhựa san sát, ngồi ăn có không khí xì xụp đúng chất đồ ăn vặt. Hơi bất tiện chút là quán sát đường nên khói bụi và ồn, ai …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Ngoc Ha Pham",
+    "rating": 4,
+    "review_text": "Quán này lúc nào cũng thấy đông, sẽ phải chờ nướng bánh, nhưng cũng không phải quá lâu....\nĐông thế, nên mình thấy là phục vụ khá nhanh. Trong lúc chờ bánh nướng, sang bên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hà Nguyễn",
+    "rating": 5,
+    "review_text": "Quán ruột từ năm ngoái nay quay lại vị vẫn ngon như thế. Nằm trên phố tuy nhiên giá cả rất phải chăng, bánh tráng trộn thấm vị, trộn đều tay. Bánh tráng nướng thơm giòn béo ngậy phô mai. Trứng cút lộn thì chưa quá xuất sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Mihu going places",
+    "rating": 5,
+    "review_text": "Hàng bánh tráng ruột trên phố Quang Trung, hôm nào đến cũng đông và phải chờ tầm 10-15 phút mới có bánh tráng, nhưng đồ ngon và chất lượng ổn định, đã ăn nhiều lần ở quán và sẽ còn quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thanh Tùng Phạm",
+    "rating": 5,
+    "review_text": "Ngon các má ơi, bánh tráng nướng ăn giòn, gia giảm hương vị vừa phải đỉnh 🙌. T thích món này hơn bánh tráng cuộc nha …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Chi Phạm",
+    "rating": 4,
+    "review_text": "Recommend mọi người ăn bánh tráng nướng nha, giống pizza rất ngon. Còn cuộn thì nên ăn cuộn bơ (hơi ít sốt nhưng ăn cũng ổn). Bánh tráng trộn mình thấy mng review k ngon nên k ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Mai Huỳnh",
+    "rating": 5,
+    "review_text": "Ơ bánh tráng ngon mà. Rẻ nữa. Hai người đi ăn hết 150k thuii nhé. Mà ròn tan tan. Mỗi tôii hay không có gỏi xoài. Ăn mấy cái cuốn cũng không ngon như ăn bánh tráng đâu ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "eternal wind",
+    "rating": 2,
+    "review_text": "Đi nhóm đông hơn 3 người thì không nên đến nhé, quán không muốn tiếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thuy Le",
+    "rating": 4,
+    "review_text": "Quán ăn vỉa hè nên không khí tạm ổn, m đi hôm trời mát nên tạm chấp nhận được. Ba mẹ con m chỉ thích bánh tráng nướng, còn các món khác không hợp lắm. Nhắc nhở không mang chè vào quán, quán chè nhắc ko mang bánh tráng, quán ốc quế pizza nhắc ko mang bánh tráng. Kaka không biết các quán đã gặp phải điều gì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "THUY BUI THI THU",
+    "rating": 5,
+    "review_text": "Bánh ngon nhưng nếu đi vào giờ cao điểm thì chờ hơn 30p chưa tới lượt mua và có bánh để ăn ạ\nMình hay sang quán chè bên cạnh, trong lúc đợi chè thì chờ bánh luôn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hoàng Đặng",
+    "rating": 4,
+    "review_text": "đồ ăn đậm chất vỉa hè, mọi người thi thoảng lướt qua mua 1 bịch bánh xong lại đi về\năn nhanh gọn lẹ, làm nhanh, thu tiền nhanh gọn lẹ,\nđồ ăn ngon:)) với 1 ng không thích ăn vặt như mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thảo Phan",
+    "rating": 5,
+    "review_text": "Thích bánh tráng nướng heo của sốp nhất lun íiii 😍 đến ăn chè là phải mua bánh tráng =)))) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Quanh Ki",
+    "rating": 4,
+    "review_text": "quán rất đông, gọi đồ khá lâu, bánh tráng trộn bò và bánh tráng cuốn bơ cứ bị dính vào nhau mà cái que để xiên quá mảnh gắp mà chỉ sợ gãy, gỏi xoài ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "hai tung le",
+    "rating": 5,
+    "review_text": "Bánh tráng giòn, thơm topping. Phù hợp các bạn trẻ thích trải nghiệm. Giá hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Phạm Ánh (tomanh)",
+    "rating": 4,
+    "review_text": "Bánh tráng ăn ngon, nhiều sốt, bánh không bị dính vào nhau. Đợi đồ khá lâu và chỗ ngồi chật."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Sun",
+    "rating": 4,
+    "review_text": "Bánh tráng ăn oke, cuộn ít hành nhiều xoài đúng ý mình, nướng thì ko hợp gu lắm nhưng ăn cũng ổn.\nAnh chị làm luôn tay, đồ lên cũng nhanh.\nMình ngồi bên ngõ okela, đúng chất ăn vặt bữa xế"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thanh Nguyễn Quang",
+    "rating": 5,
+    "review_text": "2 quán hàng xóm mà 99% người ở Hà Nội đã ăn rồi, nên không nói gì nhiều làm gì nữaaa. Chỉ là nó hợp mood hôm nay của mình thôii. Bình thường khó chệu vô cùng những chiếc ảnh kiểu chụp như này, chụp đã bị cắt đồ ăn xong thừa ra đúng khoảng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Danh Nguyễn",
+    "rating": 4,
+    "review_text": "Thật sự quán đồ không tệ, nhưng thời gian chờ rất lâu, ngồi bên số 20 những phần khác ra nhanh trừ bánh nướng ( nhân viên có nhắc bánh sẽ lâu). Nhưng mục đích đến quán này vì bánh nướng nên không thể không gọi. Chờ phải cũng hơn 30p cho 2 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thao Hoang Phuong",
+    "rating": 5,
+    "review_text": "Trừ không gian ngồi vỉa hè nên hơi nóng ra, thì đồ ăn chế biến ngon, sáng tạo, vừa miệng hợp với cả trẻ con và người lớn. Con mình rất thích.\nCó nhiều cơ sở, nhưng mình thích ở Quang Trung nhất …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Wind Ketchum",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng vẫn ngon nhất trong những chỗ từng ăn.\nKhông gian vỉa hè thoáng, nhưng đường cống gần đó hơi bẩn nên thi thoảng có mùi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Chanh",
+    "rating": 5,
+    "review_text": "Hè ngồi hơi nóng, nma đồ ăn siêu ngon, nướng bò vs cuộn bơ cuốn đét. Mặt bằng 2 quán đối diện nhau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Cherry Yummy",
+    "rating": 5,
+    "review_text": "Đã ăn rất nhiều nhưng hôm nay mới đăng bài nhận xét, mình thích bánh tráng nướng nhất. Bánh tráng cuốn thì same same bánh tráng trộn, nên gọi một trong hai loaj thôi. Bánh tráng nướng gọi sẽ lâu hơn một chút. Ngoài ra có thể gọi chè bên suvi sang hoặc ăn thịt xiên hàng bên cạnh trong lúc chờ đợi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "TUNG LE",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Giá cả hợp lý. Không cần chờ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Marie",
+    "rating": 5,
+    "review_text": "Bánh tráng cuốn sốt bơ và nướng phomai trứng lòng đào đều ngon, giá rẻ, đồ ra nhanh. Nhược điểm là chỗ ngồi bên đường quán trông ko được vệ sinh cho lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Toàn Đỗ",
+    "rating": 1,
+    "review_text": "Bánh tráng mua về ăn còn có cả miếng xương gà ???"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Jane Zhang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, lên món cũng nhanh. Giá niêm yết rõ ràng. Mọi người nên thử bánh tráng nướng trứng lòng đào. Điểm trừ là không gian vỉa hè hơi chật và nóng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nam Henry Nguyen",
+    "rating": 5,
+    "review_text": "Một lựa chọn phù hợp để tụ tập bạn bè, gia đình ăn vặt giờ xế chiều. Quán lúc nào cũng đông, chật kín chỗ nhưng ra đồ lại rất nhanh. Rất recommend thử bánh tráng nướng và bánh tráng cuộn bơ. Đây là 2 món mình thường xuyên gọi khi tới đây. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Cao Quốc Tuấn",
+    "rating": 5,
+    "review_text": "Quán khá nổi tiếng trong giới ân vặt HN và đặc biệt là các bạn tuổi teen. Trên con phố Quang Trung này có lẽ khu này là sầm uốt và đa dạng đồ ăn và uống. Giờ cao điểm chắc phải chờ 5 đến 10p. Các món bánh tráng chộn, cuốn khá ngon đặc biệt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hà Linh",
+    "rating": 5,
+    "review_text": "Vietnamese piazza 🤪🤪 Best banh trang tron in town with great location, near Ho Guom\n🌱 Bánh tráng nướng giòn tan, vị vừa vặn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Lenny Nguyen",
+    "rating": 4,
+    "review_text": "Hôm trước mình có đi ăn với bạn ở đây. chỗ này luôn luôn đông, nhất là vào những dịp cuối tuần, may sao mình vẫn có chỗ ngồi và chỗ để xe mà không phải đợi quá lâu. Bánh tráng ở đây khá tươi, nhiều gia vị. sốt mayo bùi, tương ớt ngọt nhẹ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "LEE TYPHU",
+    "rating": 5,
+    "review_text": "Đồ ăn sạch sẽ, hợp khảu vị."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "David Ball",
+    "rating": 5,
+    "review_text": "Ngon nha, ăn vỏ bánh giòn , nhân đẫm phomai. Chủ và nhân viên thân thiện, lên món không bị chờ lâu. Sẽ quay lại 👌🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Trang Trần thị huyền",
+    "rating": 1,
+    "review_text": "Bth mình hay ăn bánh tráng ở đây. Nhưng 11 rưỡi trưa nay mình mua bạn nhân viên nữ áo đen thái độ rất tệ. Nghe sai đơn của khách ko 1 lời xin lỗi còn nói í như khách order thiếu. Mặt thì sưng lên từ đầu đến cuối. Làm sai đơn xong ko xin lỗi còn bảo chờ làm cho ship trong khi KH đang vội. Bạn nữ đấy làm dịch vụ mà hơn cả mẹ Khách hàng 😡 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Minh Thư Nguyễn",
+    "rating": 4,
+    "review_text": "quán khá đông, ít chỗ ngồi, có thể đứng chờ khá lâu mới có bàn, đồ ăn ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hiếu Quyên Hoàng",
+    "rating": 2,
+    "review_text": "Gọi cuốn bơ lại mang cuốn mayo.\nBánh tráng trứng lòng đào nướng chưa giòn, bị cắt vào đúng phần lòng đào.\nHành phi ở hai món đều ko giòn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "5.1 16.32",
+    "rating": 5,
+    "review_text": "Quán đông khách   Chỗ ngồi thoải mái ,chỗ để xe rộng , nhân viên phục vụ nhiệt tình ,món ra nhanh\nMón ăn vặt ngon , giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hiền Vương",
+    "rating": 5,
+    "review_text": "Quán bánh tráng xem theo review tiktok nổi khu phố Quang Trung nên đi nha mn. Decor mẹt khá xinh, đồ ăn hợp khẩu vị và giá tiền. Ngồi vỉa hè khá chill."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Peo Riv",
+    "rating": 4,
+    "review_text": "_Quán chia làm 2, ở 2 bên đường đối diện nhau. Mặt phố dễ tìm. Có chỗ để xe máy.\n_ Đa dạng loại bánh tráng. Giá cả mềm, hợp lí. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Bùi Đình Thanh (Lewis)",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng rất đặc sắc khi để lên mẹt như pizza, nhất định phải thử.\nBánh tránh cuộn cũng ngon còn bánh trạng trộn của mình để hơi lâu nên bị dính hết vào nhau, dai nên không thấy ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Jennie Do",
+    "rating": 4,
+    "review_text": "Bánh tráng nướng phô mai ngon, có 2 vị bò và lợn nhưng cá nhân mình thấy không khác nhau nhiều.\nBánh tráng cuộn hơi nhiều sốt, nếu đi đông người gọi chia nhau ăn thì được chứ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Dương Phùng",
+    "rating": 5,
+    "review_text": "Bánh tráng ngon, hương vị vừa miệng với mình. Ấn tượng nhất chắc là bánh tráng nướng. Bánh tráng nướng vỏ mỏng giòn kèm theo topping bên trên siêu cuốn. Bánh tráng cuộn ú ụ topping cùng sốt bơ béo ngậy. Ra đồ nhanh. Không gian khá thoáng nhưng hầu như lúc nào cũng siêu đông. Sẽ quay lại khi có dịp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thành Trung Nguyễn",
+    "rating": 2,
+    "review_text": "- bánh tráng khá ngon, ko tới mức xuất sắc, không gian mặt tiền rộng rãi.\n- nhược điểm lớn nhất là quán đông mà ít người làm. Mình đợi 15 phút ra được 1 bánh mà phải hơn 30 phút mới ra được cái thứ 2. Mà mình đi vào thứ 3 chứ ko phải …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Giang Thu",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng ngon,số 1 trong lòng tui!Quán tủ và là một trong những quán mình sẽ giới thiệu bạn bè tới khi đến Hà Nội."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Đinh Quang Đạt",
+    "rating": 5,
+    "review_text": "Chờ lâu, ăn ngon, hơi đông khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nguyễn Thanh Thảo",
+    "rating": 5,
+    "review_text": "Mình thấy bánh tráng nướng và cuốn bơ siêu ngon. Bánh tráng trộn thì hơi chán. Quán có 2 chỗ ngồi rộng rãi, phục vụ nhanh. Nma cốc trà chanh của quán hơi bé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Quỳnh Mai Trần",
+    "rating": 4,
+    "review_text": "Bánh tráng Bé My có lẽ là địa chỉ không còn xa lạ với nhiều người. Các món từ bánh tráng trộn, cuốn hay nướng thì mình đều ưng\nCác món có sốt đều đẫm sốt (có sốt me, mayonaise và sốt bơ) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "popuri",
+    "rating": 5,
+    "review_text": "top 1 quán bánh tráng của lòng tui. bánh tráng trộn bơ và bánh tráng nướng super ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Minh An Nguyễn",
+    "rating": 5,
+    "review_text": "Hehe ngon nha\nOrder tí là có bánh măm rồi\nBánh giòn, cuốn cũnng ngol"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nguyễn Long (Long La Cà)",
+    "rating": 5,
+    "review_text": "Đông người ăn, đa số là các bạn trẻ. Ăn khá lạ miệng, có lẽ phù hợp với tín đồ bánh tráng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Lan Anh Lê",
+    "rating": 5,
+    "review_text": "Chỗ ngồi vỉa hè. Các món như menu, ăn oke nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Ngoc Nguyen",
+    "rating": 5,
+    "review_text": "gọi cả nướng/cuộn/trộn mà trộm vía c nào cũng ngon, trộn bơ dùng bánh tráng tôm nên ăn lạ mà ngon nha, giá cũng ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "nhật minh",
+    "rating": 5,
+    "review_text": "ăn ngon, hơi ít quạt nên hôm qua ăn buổi chiều hơi nóng. phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hồng Anh",
+    "rating": 5,
+    "review_text": "Cửa hàng nhỏ xinh rất đông khách\nBánh tráng cuộn ngon, bánh tráng nướng đợi quá lâu nên k thử được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hien Doan",
+    "rating": 4,
+    "review_text": "Lần đầu ăn: Bánh tráng cuốn sốt me ngon. Bánh tráng trộn vị bò bình thường. Mình chưa thử bánh tráng nướng😋\nNhưng lần t2 quay lại: bánh tráng nướng phô mai vị bò ăn tạm được. Trong bánh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "bang do",
+    "rating": 5,
+    "review_text": "Ngonn nhoa, 2 ng hết có 96k, thêm chè nhà suy 70k nữa mà no quá trời🥲🥲 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Huu Duc Pham",
+    "rating": 5,
+    "review_text": "Một quán ăn vặt xuất sắc mà bất kỳ ai đến Hà Nội nên thử. Giá sinh viên và chất lượng kèm dịch vụ đậm chất phố cổ nhưng vẫn phù hợp với quốc tế!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Mai Chi Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn vặt ở đây nói chung ngon, dễ ăn. Mình thích nhất bánh tráng nướng, trứng vịt lộn muối ớt nên recommend các bạn 2 món này. Gọi là trứng muối ớt nhưng ăn lại có vị chua của sốt me, 15k/ quả ăn no bụng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "An Nguyễn",
+    "rating": 4,
+    "review_text": "Bánh tráng nướng ngon nhất. Các món còn lại bình thường.\nĐông nhưng lên đồ nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "HUONGMIT",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng + Bánh tráng cuộn nhiều thịt bò, nói chung là đều ngon. Quán cuối tuần rất đông khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hà Ngân Lưu",
+    "rating": 5,
+    "review_text": "Ngonnnnn. Ăn vặt vỉa hè kbiet đii đâu thì nên ghé quán này. Must try"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Linh Linh",
+    "rating": 5,
+    "review_text": "Bánh tráng cuốn bơ siêu ngon. Chưa thấy quán nào soán ngôi em ý trong lòng mình. Nhân rất đầy đặn. Ăn cùng với chè khúc bạch nhà Suvy bên cạnh là trọn combo tuyệt cú mèo luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Ly Ly Nguyễn Hải",
+    "rating": 5,
+    "review_text": "Ăng bthgg hoi các mom ạ, quán nhỏ. Ăn cũng như bao hàng khác nên là ví dụ tiện thì ghé qua ăn cũng được =))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Anh Nguyen",
+    "rating": 5,
+    "review_text": "Bánh tráng trộn và cuốn siêu ngon. Có thể order thịt xiên và chè khúc bạch ở hàng bên cạnh luôn ăn cùng. Cảm giác cứ như ở Đà Lạt 🤪 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Lee Edna",
+    "rating": 5,
+    "review_text": "Lần trước có qua quán ăn thấy khá oke, nhân đầy đặn, vị khá là vừa miệng. Nhưng hình như mới nổi trên tik tok nên là đông vãiii. Xếp hàng 15p để mua nha quý zị. Quán có chỗ ngồi trong nhà kiều quán cafe nhưng có làm cái như ảnh chắc để mang …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Shu Hyn",
+    "rating": 5,
+    "review_text": "Nhận ra mình đóng họ ở đây khá nhiều =))) Có nướng và cuốn là ok còn trộn ko đặc sắc lắm… mới có thêm món vịt lộn nướng có sốt ăn khá lạ miệng… có hôm ăn tại quán có hôm ngồi hàng trà chanh đối diện xong gọi sang… đông nhưng nv care khách cũng khá chuẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Phương Anh Nguyễn",
+    "rating": 4,
+    "review_text": "Nơi ăn vặt của các bạn trẻ,với mình thì quá mặn luôn😭.buổi tối tuy đông nhưng phục vụ nhanh,giá cả rẻ.có chỗ để xe thuận tiện. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Rosie Tran",
+    "rating": 4,
+    "review_text": "Menu hơi đơn giản , mình thích bánh tráng nướng ở đây , bánh tráng trộn và cuốn bơ thì ăn cũng bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Van Anh",
+    "rating": 5,
+    "review_text": "Vô tình thấy đông nên ghé ăn, ui ngonnnn 😂 chời ơi 40k/ cái ăn đã …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Minh Phương",
+    "rating": 5,
+    "review_text": "Bánh tráng trộn, nướng, cuộn đều ngonn,  pvu nhanh gọn lẹ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Phuong Anh Nguyen",
+    "rating": 4,
+    "review_text": "Bánh tráng cuốn ăn ngon nhưng vì cuốn sẵn và cắt sẵn để vào hộp nên nó dính chặt vào nhau, ko thể lấy đc 1 cái nào nguyên vẹn, nát bét. Shop nên cuốn để ở ngoài, ai ăn hãy xếp vào hộp để chất lượng tốt hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hoàng Yến",
+    "rating": 5,
+    "review_text": "Bánh tráng chuẩn vị sài gòn, ra hà nội chơi may sao tìm dc quán này hợp vị. Ngonnnn 👍🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Vũ Phương",
+    "rating": 3,
+    "review_text": "Chỗ quán ruột nma lần này thực sự rất thất vọng về service🥲 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Bảo Anh Nguyễn",
+    "rating": 4,
+    "review_text": "Đã ăn vài lần ( chưa tới 10 lần nên kh dám nói là nhiều ) nhưng nvien ở đây kiểu kh thoải mái và nhiệt tình với khách lắm bất kể hôm quán đông hay vắng. Bánh tráng mỏng giòn, hương vị ổn 👍🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Tran Thuy Linh",
+    "rating": 5,
+    "review_text": "mjfnhd di tối muộn mà cũng hơi đông khách đó mng, đủ hiểu độ ngon nnao lun ạ, bánh tráng cuộn bơ siêu đỉnh í, tuy hơi đông mà các cô các bác nvien làm nhanh lắm í ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Vũ Thu Ngọc",
+    "rating": 5,
+    "review_text": "nướng, cuộn, trộn, gỏi đều ngon\nmình ăn full menu rui và pick là nướng đào, cuộn mayo, gỏi xoài siu mê lun chua ngọt đủ vị ăn giải ngấy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thu Trang Tạ",
+    "rating": 4,
+    "review_text": "Bữa ăn chiều vui vẻ có hơn 100k 😝 cá nhân thấy cô hằng khâm thiên ngon hơn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hoa Biện",
+    "rating": 3,
+    "review_text": "Mình ngồi chỗ làm bánh tráng nướng , gọi bánh tráng trộn bơ mà bơ mặn vãi, cực mặn luôn ấy ,cuộn bơ thì cũng oke, hình thức bày cũng xinh nhưng bơ mặn làm bánh tráng ko ngon nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Quynh Phan",
+    "rating": 5,
+    "review_text": "Bánh tráng ngon, giá lại hssv\nMỗi tội quán hot quá chờ đồ lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thủy Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon, phục vụ nhanh, giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Ngan Hoang Bao",
+    "rating": 4,
+    "review_text": "Rec món bánh tráng nướng phô mai thịt heo và trứng vịt lộn. Hai món này ăn rất ổn, vừa miệng. Nhưng quán ngoài trời nên khá nóng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Như Quỳnh",
+    "rating": 5,
+    "review_text": "Nước sốt trộn mì đặc biệt, vị vừa ăn, không quá mặn và hơi cay cay rất kích thích."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Quynh Tran",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ quá tệ. Mới đến mà mình đã phải quay ngoắt về và để cái cái fb này. Đồ ăn có ngon nhưng thái độ với khách hàng như khách hàng đi xin ăn 🙂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Linh Dao",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng ngoongggggg\nChuẩn pizza Việt Nam"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Annie",
+    "rating": 5,
+    "review_text": "Ngon đỉnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thanh Truc Nguyen",
+    "rating": 5,
+    "review_text": "Lần thứ 2 mình qua đây và được tặng 1 ly nước, đồ ăn ngon và nước ngon ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "thu giang",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng ngon,số 1 trong lòng tui!Quán tủ và là một trong những quán mình sẽ giới thiệu bạn bè tới khi đến Hà Nội."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "qi qi",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng và cuốn ngon đỉnh 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nguyễn Ngọc Như Linh",
+    "rating": 2,
+    "review_text": "đã ăn rất nhiều lần đều ổn nhưng 2 lần gần nhất mua mang về thì lại bị ngộ độc, mong bên mình xem xét lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Bích Ngọc",
+    "rating": 4,
+    "review_text": "Đồ ăn ổn, quán hơi bé mng nên mua mang zề"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Kim Oanh",
+    "rating": 5,
+    "review_text": "Bánh trang ngon, dẻo ăn rất vừa miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Lập",
+    "rating": 4,
+    "review_text": "Cũng được , khá đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Winny Đặng",
+    "rating": 5,
+    "review_text": "Không hợp với khẩu vị của mình lắm, nhưng khá sạch sẽ, phục vụ cũng nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "yen nth",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nga Phương",
+    "rating": 1,
+    "review_text": "Nhân viên phục vụ thái độ cực kì hãm, khách hàng nói chuyện, bảo thanh toán nhưng không trả lời mà lờ đi luôn, nói chuyện khó nghe, k hiểu, khách đưa tiền quay lưng ra chỗ khác. Đồ ăn bình thương nhưng thái độ nhân viên tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Linhh Phươnggg",
+    "rating": 4,
+    "review_text": "ngon, rất ngon nhưng nv hơi thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Quỳnh Hương Nguyễn",
+    "rating": 4,
+    "review_text": "Bánh tráng nướng ăn tạm được nhưng  bánh tráng cuộn sốt me thì sốt me nó bị chua quá( hoặc mình ăn không quen) . Nhân viện thân thiện và dễ mến nha . Mình không đánh giá cao chỗ ngồi (1 chiếc ngõ nhỏ) , người dân thì không đi qua nhiều nhưng cảm giác nguy hiểm với đỗ xe cũng hơi sợ ....Anh chủ cũng khá nhiệt tình có giúp khách đỗ xe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "quynh cao",
+    "rating": 5,
+    "review_text": "đĩa bánh tráng đầy, nhiều nhân, ăn mấy món, mấy đĩa cũm thấy chưa đã, sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Như Ý Nguyễn Thị",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon .view xinh thơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Dai Do",
+    "rating": 4,
+    "review_text": "Ok. Bánh tráng cuộn sốt me hơi chua. Sốt bơ thì dc 2/3 thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Liên Vi",
+    "rating": 5,
+    "review_text": "Đồ ăn khá ngon, sạch sẽ, chờ hơi lâu vì đông khách, không gian hẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nguyen Quang Long",
+    "rating": 5,
+    "review_text": "Rất ngon và giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thanh Nam",
+    "rating": 5,
+    "review_text": "Phục vụ nhanh món ăn ngon miệng. Có thể gọi thêm thịt xiên hàng bên cạnh. Vỉa hè mát mẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nguyễn Hà My",
+    "rating": 3,
+    "review_text": "Bánh tráng nướng ở đây siêu ngon, giá cả cũng hợp lí\nBánh tráng cuộn ăn ổn, không quá xuất sắc\nNhưng bánh tráng trộn lại không hợp khẩu vị mình cho lắm\nVì quán đông nên chờ hơi lâu😢 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Anh Q",
+    "rating": 1,
+    "review_text": "Hợp miệng mình lắm tuy nhiên mua mang về lần nào cũng không cho que để ăn, mua 2 hộp thì cho 2 que người ăn người ngồi nhìn, mua 1 hộp là khỏi. Lần nào mua xong cũng lại phải đợi mang về nhà lấy đũa ăn ^^"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Bim Tùng (Tùng Bjm)",
+    "rating": 5,
+    "review_text": "Quán hơi đông nên thỉnh thoảng đến rất khó tìm chỗ ngồi nhưng đồ ăn ngon nhaaaaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thư Mai Lê Anh",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ phát khiếp🙏🏻🙏🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Ly BuGi",
+    "rating": 4,
+    "review_text": "Bánh tráng nướng và bánh tráng cuốn ngon tuyệt đỉnh nhaaa\nXoài xanh chua ngọt ăn rất vui mồm\nQuán ngồi vỉa hè hơi chật chội và ít chỗ, đông khách nhiều lúc phải đợi, mùa hè thì nóng còn mùa đông thì rất chill chill. Ưng cái bụng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Quynh Nguyen",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý, thời gian ra đồ nhanh, bánh tráng ngon ( mình cảm thấy ngon nhất là bánh tráng nướng bò, bánh tráng cuộn mayo và bánh tráng trộn ), bạn có thể ăn tại chỗ hoặc mang đi, bên cạnh quán banh tráng còn có quán thịt nướng ăn cũng ngon và bên đối diện có quán tào phớ cũng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "khanh hoang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá cả hợp lý. Một phần bánh tráng rất đầy đặn, hương vị vừa miệng. Chỗ ngồi vỉa hè nên hơi hạn chế, không nên ngồi ở góc đường chỗ cửa xếp nhé, rất tối và muỗi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "như ý nguyễn",
+    "rating": 1,
+    "review_text": "Đã trải nghiệm ăn ở quán và đặt giao tận nơi, đợi siêu lâu, shop không xác nhận đơn hàng, ăn ở quán cũng đợi lâu, khách đến sau nhưng được lấy đồ trước."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Lan Phương",
+    "rating": 5,
+    "review_text": "Bánh tráng ngon, không gian xinh xắn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hằng Đỗ",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, bánh tráng nướng phô mai ngon lắm, bánh tráng cuộn bơ thì xoài mình ăn mấy lần thấy hơi chua quá nên k thích lắm, có thể nhờ mang sang hàng chè bên cạnh ngồi nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hai Yen Nguyen",
+    "rating": 5,
+    "review_text": "Đã ăn thử bánh tráng cuộn sốt me và sốt bơ tại đây. Cá nhân mình thấy sốt me ngon hơn, hợp khẩu vị của mình hơn. Vị chua nhẹ của sốt me rất kích thích vị giác. Sốt bơ ăn ngậy hơn một chút. Sẽ quay lại quán ủng hộ tiếp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "T'challa Udaku",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng pho mai oke nha\nCác loại còn lại khá bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "lê na võ",
+    "rating": 4,
+    "review_text": "bánh cuốn sẵn nên ăn lớp vỏ bị mềm qáaa mình thích ăn dai dai hơn. Còn nướng vẫn đỉnh nhất. Giá hợp lýy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Chi Chi",
+    "rating": 5,
+    "review_text": "Mình đi ăn với bạn, mỗi người chia ra 27k thui mà ăn no lắm. Bánh tráng ngon, dai, không bị ỉu, gia vị trộn đều tay, nhiều topping. Chỗ ngồi ngoài đường rộng rãi tuy nhiên lúc nào cũng kín."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "wombat ăn hàng",
+    "rating": 4,
+    "review_text": "ăn được, k quá xuất sắc, quán đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Tùng Lâm Ngô",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, chị chủ và các bạn nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "TBD Mai Anh",
+    "rating": 5,
+    "review_text": "Mình ăn cơ sở Phạm Ngọc Thạch nhưng map lại chưa check in đc địa điểm đó nên đành check in địa chỉ Quang Trung.\nĐiểm trừ duy nhất là nước quất không ngon. Còn lại thơm ngon tới từng hạt lạc nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "van anh",
+    "rating": 5,
+    "review_text": "siêu ngon nhé đặc biệt là bánh tráng nướng đẫm nhân lun,giá nhỉnh hơn những chỗ khác vì ở mặt đường gần trung tâm nma đáng để thử nhaaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Diệu Hương",
+    "rating": 5,
+    "review_text": "Đã ăn một số lần ở quán này và cảm thấy mọi mặt đều ở mức ổn, không quá xuất sắc nhiều, cuốn và nướng ngon hơn trộn, mọi người nên thử hết các món trên menu\nNước uống bình thường …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "DuLiSun Thuy Linh",
+    "rating": 5,
+    "review_text": "Bánh Tráng siêu ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "DLA",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng và bánh tráng cuốn sốt me rất ngon, giá cả ok, ăn nhiều lần nhưng chưa thất vọng lần nào^^"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Tra My Pham",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng phomai bò rất ngon, giòn tan và thơm. Giá cả rẻ và chỗ ngồi thoáng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Diem Thu Pham Vu",
+    "rating": 4,
+    "review_text": "Chỉ với 30K bánh tráng trộn phomai ngon đỉnh luôn. Tuy trời nóng nhưng ngồi ăn rất mát."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "TUNG NGUYEN",
+    "rating": 4,
+    "review_text": "Đồ ăn cũng ngon nhưng giá hơi cao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "tu anh nguyen",
+    "rating": 5,
+    "review_text": "Ê nó ngon nha, đi cùng bạn bè ngồi chill chill"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nguyen Huy Khoi Nguyen",
+    "rating": 5,
+    "review_text": "Món ăn trình bày đẹp, lượng nhiều. Hương vị ổn áp. Dịch vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Tán Tiêu",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ 🤬🤬🤬\nNgười ăn tại chỗ có đồ còn người mang đi phải chờ lâu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Đan Lường Khánh",
+    "rating": 5,
+    "review_text": "Đồ ăn ở đây ngon, lượng khá là nhiều giá cả hợp lí. Ít chỗ ngồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Bui Phuong Anh",
+    "rating": 4,
+    "review_text": "Thích bánh tráng nướng nhấttt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "thị quyên Bùi",
+    "rating": 5,
+    "review_text": "bánh tráng ngon lắm nha sạch sẽ nhanh dù quán rất đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hướng ngoại Hay ngại",
+    "rating": 5,
+    "review_text": "Bánh tráng ngonnn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Ngoc Minh Le",
+    "rating": 2,
+    "review_text": "nhân viên ưu tiền phụ nữ hơn đàn ông ????"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hiền Đinh",
+    "rating": 3,
+    "review_text": "Thấy quán đông nhưng ăn ko hợp miệng lắm\nNên suy nghĩ trước khi ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hoang Le",
+    "rating": 1,
+    "review_text": "Làm món quá lâu thái độ với khách hàng quá tệ !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Ngân Đỗ",
+    "rating": 5,
+    "review_text": "Ngonnn đáng thử nhaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Lâm Khang",
+    "rating": 5,
+    "review_text": "Cách nhân viên trò chuyện rất dễ chịu và lịch thiệp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thuy Lee",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng siêu ngon!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Yến Tiểu",
+    "rating": 5,
+    "review_text": "Lần nào ghé quán cũm đông, nghiện bánh tráng nướng kkk"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Ommi Home",
+    "rating": 1,
+    "review_text": "Muốn ăn trộn bơ mà bị dí cho trộn gì mà dính hết lại với nhau. Trước khi làm không check lại làm loại nào."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "huy hoang nguyen",
+    "rating": 5,
+    "review_text": "Ngon ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Đức Đói",
+    "rating": 5,
+    "review_text": "Ngon sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Diệu Anh Triệu",
+    "rating": 1,
+    "review_text": "Khách chưa ăn xong đã đuổi khách. Uống nước thử trước khi mang ra cho khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Giang Thu",
+    "rating": 5,
+    "review_text": "Nên thử nha mng. Rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Kang KC",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng nóng giòn , bánh tráng cuộn sốt bơ ngon :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Tùng Mạnh",
+    "rating": 4,
+    "review_text": "Món nào cũng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Phương Dung Thái",
+    "rating": 5,
+    "review_text": "Ngon vãiiii ý 😭😭 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Trần Ngọc (Richard Tran)",
+    "rating": 4,
+    "review_text": "Vị ngon lạ, địa điểm dành cho giới trẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Thân Vĩnh Phước",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng ngon, làm nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "nghia1 nguyen",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ với khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Lê Trung",
+    "rating": 1,
+    "review_text": "nhân viên cực kì thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nguyễn Tấn Anh",
+    "rating": 1,
+    "review_text": "Làm lâu nhue rùa bò"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Quỳnh Phạm",
+    "rating": 5,
+    "review_text": "Bánh tráng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Hoang Minh-P",
+    "rating": 5,
+    "review_text": "Do an day dan, ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Nguyen",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Bảo Châu",
+    "rating": 5,
+    "review_text": "ngon nhắm must try"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Anh Phuong",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Anh Hoang Quoc",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Xuân Hiếu Lê",
+    "rating": 5,
+    "review_text": "Ngonnn lắmmmm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Dung Vũ Thuỳ",
+    "rating": 1,
+    "review_text": "Gia đình đi từ xa đến ăn và đã ăn rất nhiều lần tại quan, đưa hai bé một bé có 5 tháng một bé 2 tuổi đến đã gọi nhiều đồ, bé nhỏ có gọi cốc sữa chua từ bên hàng suzy do không ăn được bánh tráng nhưng cửa hàng nhất quyết ko cho bé ăn và bảo …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Han Sul",
+    "rating": 3,
+    "review_text": "Ăn bị đau bụng\nLần trước ăn thì k sao nhưng mà nay bị đau bụng 😭 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Steve",
+    "rating": 5,
+    "review_text": "Bánh tráng nướng ăn ngon, bánh tráng trộn lạ miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Lê Phạm Thu Quỳnh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá có tăng nhiều nhg chất lg vẫn giữ. Chỗ ngỗi hoie chật và nvien khá vô duyên nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "nguyen tri",
+    "rating": 1,
+    "review_text": "Chờ lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "Tamy",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon mỗi tội không gian hơi chật, nhưng là mặt phố nên không tránh khỏi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abfe82b0600b:0xf0061e4a0b8d94a6",
+    "shop_name": "Bánh Tráng Bé My",
+    "user_name": "pham phuc",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Kim Thiên",
+    "rating": 5,
+    "review_text": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️ Yến Bánh Ướt Lòng Heo: Hương vị Phú Yên \"thật\" không thể chối từ!🍽️ Tóm tắt và Quyết định Quay lạiKhông phải ngẫu nhiên mà tôi quyết định quay lại Quán Yến bánh ướt - bánh hỏi - cháo lòng heo. Nơi đây thực sự đã chinh phục …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Phạm Hiếu",
+    "rating": 5,
+    "review_text": "Quán ngon. Giá rẻ\nLần nào ghé Tuy Hoà cũng đến ăn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Minh Thư",
+    "rating": 4,
+    "review_text": "- Ưu điểm: Thức ăn ngon, giá cả hợp lý, bán cả ngày.\n- Nhượt điểm: Quán hơi nhiều chuyện. Không phù hợp với người hướng nội như mình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Lê Thu Trang",
+    "rating": 5,
+    "review_text": "Bánh hỏi lòng heo ngon, thịt quay giòn và nóng hổi. Tuy nhiên phục vụ hơi chậm do quán đông khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Lý Phối Nghi",
+    "rating": 5,
+    "review_text": "trong hình là phần bánh hỏi lòng heo 30k ít bánh, mình thấy vậy là vừa, lòng nhiều và ngon, không bị mùi hay tanh gì."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Le Hong Hai",
+    "rating": 5,
+    "review_text": "Quán ngon & sạch sẽ, vui vẻ. Quan trọng là bán xuyên trưa 2:00 chiều vẫn bán …\nPY quán sáng 10:00-11:00 là đóng cửa hết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Toàn Lê Huy",
+    "rating": 3,
+    "review_text": "Bánh hỏi lòng heo ngon vừa, chưa bằng Quy Nhơn. Đĩa lòng heo gồm có chả, giò, thịt lợn quay, lòng, lưỡi lợn. Gia đình tôi không thích giò, chả vì ngọt và không hợp ăn với bánh hỏi. Đĩa bánh hỏi thì lẫn bánh hỏi và bánh mướt, nếu muốn chỉ bánh hỏi thì phải order ngay từ đầu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Kenghiencafe",
+    "rating": 5,
+    "review_text": "- Bánh hỏi rất ngon, giá cũng vừa với giá (9/10)\n- Phục vụ không quá chậm như mọi người nói, cô chủ niềm nở (8/10)\n- Quán sạch sẽ và có quạt mát\n- Chỗ để xe rộng rãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Nghia Tran",
+    "rating": 5,
+    "review_text": "Quán ngon. Mắm pha vừa phải. Cái quan trọng quyết định bánh hỏi ngon hay dở nằm ở nước mắm của từng quán chứ bánh thì không có gì để nói. Lần sau sẽ ghé lại để ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Danh Mập",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon. Lòng heo mới, heo quay giòn ! Nước chấm vừa miệng. Nói chung với bản thân mình là ngon !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Phạm Thuý Nga",
+    "rating": 5,
+    "review_text": "Quán rất ổn nha. Lúc đầu vào cũng không kì vọng gì nhiều đâu mà ăn vừa miệng, giá cả hợp lí. 2 suất mình gọi trong ảnh là lòng heo và heo quay đều 30k. Lòng heo đầy đặn hơn heo quay. Heo quay hơi khô 1 chút nhưng vẫn ngon. Lòng heo thì tươi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Hà Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhưng heo quay nhanh hết lắm, quán mở đến trưa chiều nhưng heo quay đến trễ là hết rồi. Buổi Sáng quán siêu đông luôn. Đồ ăn ngon, chất lượng, rất nên ghé thì đến Phú Yên luôn nè. Ngoài bánh hỏi heo quay thì bún bò nướng cũng ngon lắm nha. rất nên thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Giang Nguyen Hoang",
+    "rating": 4,
+    "review_text": "Quán rộng rãi.\nVị trí dưới chân cầu nên tìm cẩn thận chút.\nBánh hỏi và lòng ăn được. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Bang Bui",
+    "rating": 5,
+    "review_text": "Quán bánh hỏi lòng heo rất ngon ngay trung tâm Tuy Hòa.\nGiá cả rất phải chăng, rất đông nên dịch vụ thì phục vụ chậm.\nBtw, highly recommended"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Lam Pham",
+    "rating": 4,
+    "review_text": "Quán khá nổi tiếng tại Phú Yên, được chế biến theo gu cháo lòng bánh hỏi Hoà Đa ở QL1\nMón ăn đưa ra rất nhiều lòng & khá ngon! Giá cả bình dân! Đậu xe trước quán được nhưng khá ít chỗ nếu đi ngày có khách đông!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Võ Ngọc Hoà",
+    "rating": 4,
+    "review_text": "Quán nắm trên mặt tiền đường Hùng Vương, khá rộng rãi và nhiều bàn\nMình gọi suất 2 người giá 60k không có heo quay, suất 70k và 80k thì sẽ có heo quay. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Hai Dang Entertainment Automation",
+    "rating": 3,
+    "review_text": "Lòng bán cho mình toàn đồ cũ hay sao ấy: mềm bở. Cháo không ngon, nguội ngắt. Bảng giá thấp nhưng cứ tư vấn dùng combo. Có mỗi bánh hỏi là ok. So với các quán cháo lòng bánh hỏi mình từng ăn thì ăn quán này khá tệ. Đáng lẽ cho 2 sao nhưng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Huy Tạ Quang",
+    "rating": 3,
+    "review_text": "Đồ ăn của quán khá ngon, lòng không bị tanh hay hôi. Bánh hỏi sợi mềm mịn ăn rất thích. Nước mắm cũng pha chế rất ngon. Rau ăn kèm sạch sẽ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Tran Van Anh",
+    "rating": 5,
+    "review_text": "Bánh hỏi và cháo lòng rất ngon, lòng mềm ko bị dai, giá cả hợp lý, chủ quán vui vẻ, thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Lê Anh",
+    "rating": 4,
+    "review_text": "Mình gọi 2 phần 70k/phần đủ cho 3 người ăn. Lòng sạch và tươi, heo quay siêu giòn, đem ra thơm phức. Giá không phải bình dân nhưng bánh hỏi và lòng đều ngon 😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Khương Đặng",
+    "rating": 5,
+    "review_text": "Bánh hỏi ngon, nhiều topping.\nTrong hình là 4 combo 80k (6 người ăn) và sữa đậu nành.\nĐiểm trừ: trước khi gọi món, shop tính tiền hơi sai xíu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Đạt Phạm",
+    "rating": 5,
+    "review_text": "Mình gọi bánh hỏi nem chả với bánh hỏi lòng heo, hai món này phải nói là cực kỳ ngon, bánh hỏi tan trong miệng, nước chấm thì mặn mặn ngọt ngọt khá ngon, giá lại rẻ. Bạn có thể kêu thêm trà tắc để uống kèm cũng rất ok. Ngày mình đi rất tiếc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Amy Le",
+    "rating": 5,
+    "review_text": "Trải nghiệm của mình là bánh hỏi lòng heo của quán rất ngon và nhiều nữa, mình ăn 1 phần no oạch. Quán rất đông nha, mình đến phải đợi 1 lúc mới có bàn và món lên cũng lâu. Nhưng thức ăn ngon là được. Nên thử nếu đến du lịchPhú Yên ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Dang Khoa",
+    "rating": 5,
+    "review_text": "Quán bánh hỏi lâu đời ở thành phố Tuy Hoà, Phú Yên. Chị chủ quán vô cùng vui vẻ và thân thiện, bánh hỏi rất ngon, lòng heo sơ chế sạch sẽ không bị có mùi như 1 số quán lân cận khác, phần đặc biệt nhất chỉ 80k, ngoài ra còn có trà tắc uống giải khát rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Trangnie",
+    "rating": 5,
+    "review_text": "Ngon, trưa muộn tình cờ đi ngang thấy ghé vào ăn, bánh hỏi lòng heo, bún bò nướng, bánh hỏi heo quay đều ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Dương Lê",
+    "rating": 1,
+    "review_text": "Không ngon cũng không dở, quán phục vụ quá tệ, ngồi đợi 60p chưa có món, trong khi món ăn đơn giản, khách cũng không quá đông. Treo menu trà tắc 10k, tính tiền 15k, chửi nhân viên trước mặt khách, làm tưởng chửi khách luôn. nói chung tệ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Quang Thong Nguyen",
+    "rating": 5,
+    "review_text": "Bánh hỏi ngon, mềm, heo quay giòn ngon. Cháo lòng cg ngon. Trước quán được đậu xe ô tô."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Dd Wonderland",
+    "rating": 5,
+    "review_text": "Quán rất dễ thương.mặc dù team mình ko dặn nhưng có nhiều trẻ em, quán tự làm 1 tô cháo ko tiêu. Nv giới thiệu món rất nhiệt tình và đặc biệt hiểu ý nhóm khách chủ động báo giá rõ ràng. Đồ ăn rất nhiều và ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Phan Đức (Duck Fan)",
+    "rating": 4,
+    "review_text": "Quán cũng không quá đông, mà nếu muốn ăn nhiều lòng thì phải báo lúc kêu món, còn không thì nhiều heo quay và heo luộc hơn. So với ở bánh hỏi lòng heo ở Hòa Đa thì không bằng. Giá dao động từ 30 đến 70k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Anh Nguyen",
+    "rating": 3,
+    "review_text": "Quán đông khách du lịch nên chờ lên món rất lâu. Sữa đậu nhà tự xay ăn hết mới mang ra. Nhân viên mặc định khách ăn suất lớn. Bánh hỏi heo quay khá bột cả bánh lẫn thịt. Ăn cho biết chứ không quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Le Tu Thanh",
+    "rating": 5,
+    "review_text": "Quán không lớn nhưng đồ ăn bày khá hấp dẫn, sạch và ngon. Có trà đá miễn phí. Chủ quán vui vẻ nhưng tư vấn đồ ăn chưa thật chuẩn. Gọi đồ đặc biệt thì hơi nhiều. Chừng 30k là vừa. Đi đông người gọi thêm lòng hay thịt quay sẽ hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Sơn Ngọc",
+    "rating": 5,
+    "review_text": "Quán rất ngon. Bà chủ dễ mến"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Nhân Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon hợp khẩu vị\nMình ăn 2 phần tổng là 70k nên thấy giá rẻ ăn sáng thấy cũng no\nĐậu được xe trước cửa, mình đi ngày lễ nên mấy nhà xung quanh đóng cửa nên đậu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Nguyen thị Bích Thuỷ",
+    "rating": 5,
+    "review_text": "Cháo lòng bánh hỏi rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Thanh Loan Doan",
+    "rating": 5,
+    "review_text": "mình đến buổi sáng cũng hơi muộn thì quán đã vơi khách, các cô phục vụ rất niềm nở nhiệt tình giới thiệu tư vấn món ăn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Dương Nguyễn Ngọc Thuỳ",
+    "rating": 5,
+    "review_text": "Bánh hỏi heo quay siêu ngon , quán sạch , bàn ăn láng bóng, thoáng mát, nếu có dịp đến Tuy Hoà siêu siêu nên thử ❤️❤️❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Linh Vuong",
+    "rating": 5,
+    "review_text": "bánh hỏi và cháo rất ngon, các cô các chị trong quán vô cùng nhiệt tình. Phần ăn chỉ dao động từ 25-30k thoi, rất đáng để ghé ăn thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "D T",
+    "rating": 5,
+    "review_text": "Bánh hỏi ngon, nước chấm ngon, không khí dễ chịu. Mình gọi phần bánh hỏi lòng heo lớn, bánh hỏi heo quay và cháo lòng. Điểm trừ là lòng heo thập cẩm cho toàn thịt lưỡi và vai nên m ăn ko hết nổi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Vuong Hoa",
+    "rating": 5,
+    "review_text": "Quán đặc sản Phú Yên\nNgon   Rẻ phù hợp mọi người\nChủ thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Oanh Nguyễn",
+    "rating": 4,
+    "review_text": "Món ăn thì ngon mà sao chị bé áo chống nắng màu hồng phục vụ khó chịu vậy ạ? Em đi xin của chị hay sao ạ? 😭 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Nguyen Dat",
+    "rating": 5,
+    "review_text": "Bánh hỏi ngon, lòng heo cũng khá ổn. Quán nằm ngay mặt đường, khá thoáng và sạch sẽ. Nên trải nghiệm!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Đạt Nguyễn Tiến",
+    "rating": 4,
+    "review_text": "Tiệm này có chỗ ngồi đàng hoàng hơn, có mái che nên đỡ mưa nắng.\n1 combo gồm dĩa bánh hỏi lòng đặc biệt có chén cháo 40k."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Poine Nguyen",
+    "rating": 5,
+    "review_text": "Ăn rất ngon. Giá hợp lý và rõ ràng. Người bán hàng rất dễ chịu. Một quán ăn xứng đáng để khách du lịch ghé ăn khi đến với tp Tuy Hòa. Có rất nhiều phần ăn để lựa chọn, tôi chọn ăn bánh hỏi thịt heo không thui nên mọi người muốn ăn đa dạng hơn hay gọi những phần thập cẩm hay bánh hỏi lòng heo với cháo lòng ăn cho đã nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "phu Thien",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon\nPhục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Binh Nguyen",
+    "rating": 4,
+    "review_text": "Nước mắm đậm vị, cháo ngon kết hợp vs lòng nóng không có gì để chê. Giá cả phải phải chăng 2 vợ chồng mình ăn combo 80k cả bánh hỏi, cháo…"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Hien Phan",
+    "rating": 1,
+    "review_text": "Với 1 người ăn bánh hỏi nhiều nơi như mình thì quán này là cực kỳ dở nha. Hôm mình tới tầm 10g sáng mà bánh ăn đã bị chua, mình gọi bánh hỏi mà cho lẫn cả bánh ướt. Gọi ra ăn không nổi nên chỉ ráng ăn topping, bạn mình cực kỳ dễ ăn mà cũng chê và ăn không nổi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Ngựa Hoang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, sạch sẽ.\nChủ quá và nhân viên thân thiện.\nKhông gian quán sạch, thoáng, bàn ngồi thoải mái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Mai Ninh",
+    "rating": 4,
+    "review_text": "Nhiệt tình thân thiện, giá hợp lý, vừa ăn và có rất nhiều món để lựa chọn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Torris Nguyen",
+    "rating": 5,
+    "review_text": "Ngon mà đi ngày lễ đông quá, chờ món hơi lâu. Bánh hỏi lòng heo 35k, heo quay cũng vậy. Nước sữa đậu xanh nguyên chất 10k/ly ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Nguyễn Cẩm",
+    "rating": 5,
+    "review_text": "Dân miền tây ra miền trung ăn thấy ngon quá xá từ đồ ăn cho tới nước uống. Ăn chưa kịp chụp lại tấm hình luôn ak chèn. Ko gian rộng nhưng hơi tối. Phải sáng thì chắc ok hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Linh Bui",
+    "rating": 3,
+    "review_text": "Ngồi đợi 45p không có được 1 tô cháo, sắp xếp phục vụ kém, vào sau ăn trước. Sẽ không quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Van Tran",
+    "rating": 1,
+    "review_text": "Đồ ăn bình thường, quán làm chậm nên đợi rất lâu. Tính tiền sai cho khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Hiếu Ngô",
+    "rating": 5,
+    "review_text": "Thức ăn tuy hông phải là xuất sắc nhưng ăn ngon, vừa vặn, sạch sẽ. Cô chủ quán cũng nhiệt tình lắm á"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "PEACE VN",
+    "rating": 4,
+    "review_text": "Phần ăn ok nhưng nước mắm pha quá ngọt, nhiều rau, tươi ngon. Kêu phần đặc biệt 2 ngừoi ăn kèm tô cháo nữa là vừa đủ cho bữa sáng.\nNằm trên đại lộ Hùng Vương nên rất dễ tìm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Alex Dương",
+    "rating": 5,
+    "review_text": "Món ăn ngon ! Giá cả bình dân ! Cô chủ thân thiện !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Hiếu Everest",
+    "rating": 4,
+    "review_text": "Các bạn 2 người nên gọi 1 phần 60k (1 đĩa lòng khá to, 1 tô cháo, 1 đĩa bánh hỏi, 1 phần rau), như mình gọi thêm 1 dĩa bánh hỏi, tổng 70k no ứ ự.\nLòng heo và heo quay ngon, nước mắm và mắm nêm đều ngon, vị miền Nam nên hơi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Tran Tran",
+    "rating": 1,
+    "review_text": "- Đồ ăn ít so với giá và mặt bằng chung Tuy hòa. Phục vụ tư vấn không kỹ.\n- Trong hình là 2 phần - 60k/ phần. Tổng là 125k(5k bánh tráng).\nKhông quay lại vì trải nghiệm tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Truong Hoang Thanh",
+    "rating": 5,
+    "review_text": "Bánh hỏi, lòng heo ngon, ăn đậm đà. Nhưng vẫn thích nước chấm mắm mặn với ớt xanh để chấm với lòng sẽ ngon hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Nguyen Phuc",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, ko cần ăn mấy quán review chi cho mắc, với 30k được phần như này, ăn no nê luôn. Xứng đáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Nguyễn Khánh Duy",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, sạch sẻ quán cũng mát và thoải mái nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Văn Huấn",
+    "rating": 4,
+    "review_text": "Mình đi vài dịp lễ 30/4/2020. Trong mùa dịch nên vắng teo, rất may là quán có bán buổi trưa cíu đói mình và bạn. Combo cháo + bánh hỏi + lòng heo. Ngon vừa miệng vì đói quá rồi :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Minhloc Tran",
+    "rating": 5,
+    "review_text": "Quán rất ngon\nSạch sẽ vệ sinh\nDân địa phương ăn rất đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Kim Bình Lth",
+    "rating": 4,
+    "review_text": "Bánh hỏi ok, phụ vụ cũng ok nói chung để ăn sáng cũng ok đó mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "ĐÀN ÔNG VIỆT",
+    "rating": 3,
+    "review_text": "Mắm và cháo ít ngọt hơn 1 tí thì tốt quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Phương Pom",
+    "rating": 5,
+    "review_text": "Phục vụ hướng dẫn nhiệt tình, do mình chưa ăn bao giờ nên ko biết gọi sao 😅. Bánh hỏi lòng heo ngon, giá ok …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Nguyen Viet Hung",
+    "rating": 4,
+    "review_text": "Các món ăn không quá đặc sắc, nói chung là ăn vừa miệng, đánh giá ở mức khá ngon, chấm 8/10 điểm. Cháo hơi ngọt với người Bắc. Sẽ quay lại quán nếu quay lại đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Nhâm Nguyễn",
+    "rating": 4,
+    "review_text": "đồ ăn ổn, nước chấm ngọt so với khẩu vị của mình,  trà tắc ko có vị tắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "My Lê",
+    "rating": 5,
+    "review_text": "Mình là người Phú Yên chính gốc ăn bao nhiêu năm rồi vẫn ngon như ngày đâu, highly recommend mn nha nhma dạo này nổi nên giá tăng hay sao í ><"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Wang Wang",
+    "rating": 5,
+    "review_text": "Kêu to 20k thoi đã nó ứ hự\nCháo siu ngon\nBánh hỏi cũng ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Tấn Dũng Huỳnh",
+    "rating": 5,
+    "review_text": "Tìm đến Quán Yến không phải là một lựa chọn, mà là một ngã rẽ triết học về ẩm thực. Nơi đây tồn tại hai bản thể đối lập của sự no đủ, hai cách để tâm hồn được vỗ về. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Như Liêu",
+    "rating": 5,
+    "review_text": "Rất ngon, nên thử lắm nhe, bánh tráng ở đây ăn cũng ngon lắm. Giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Ha Huynh",
+    "rating": 5,
+    "review_text": "80k 2 ng ăn no ê hề, ngon á bei 🫨 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Phượt Bụi",
+    "rating": 4,
+    "review_text": "Về giá khá bình dân,\nHeo quay giòn nhưng mắm chấm pha hơi ngọt\nCháo hơi mặn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Thanh Bui",
+    "rating": 5,
+    "review_text": "Vô tình đi qua thấy đông mà ok quá nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Banana",
+    "rating": 5,
+    "review_text": "Ngon & rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Thuận Đức",
+    "rating": 5,
+    "review_text": "Bánh Hỏi cháo lòng ngon. Khách hơi đông mọi người chịu khó đợi xíu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Trương Thục Hiền",
+    "rating": 5,
+    "review_text": "Quán đồ ăn rẻ, ngon, nc ngon, tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Minh Trí",
+    "rating": 4,
+    "review_text": "Quán mở cả ngày, cháo bán theo phần, mỗi phần gồm 1 chén cháo + bánh hỏi lòng, có nhiều mức giá mình ăn phần 30 mà no cành hông rồi or gọi lòng riêng.\nCháo ngon, nên ghé ăn thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Thúy Nga",
+    "rating": 1,
+    "review_text": "Bánh hỏi khô, ... đồ ăn ko đc ngon. Thất vọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Minh diện Trương",
+    "rating": 2,
+    "review_text": "Quán ăn ngon nhưng tính tiền tào lao. Hôm mình ăn có 2 Vk ck kia ăn tính tiền 220k họ yêu cầu tính lại thì lại 160k . Tới bàn mình 4 người lớn 4trẻ em tính 1 phần cháo lòng 60k bánh hỏi 30k một dĩa . Tô bún trẻ em 40k . Ra tính tiền kêu hết 820k  bảo có lộn ko , thì tính lại trả lại 40k . Một trải nghiệm ko vui"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Như Quỳnh",
+    "rating": 5,
+    "review_text": "Quá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Trần Tiến",
+    "rating": 5,
+    "review_text": "Ngon lắm mình quay lại ăn 2 lần luôn. Lần thứ hai quay lại có 1 chị vẫn nhớ tụi mình hỏi em ăn y cũ hả dễ thương quá ❤️ Mình ăn bánh hỏi thịt nướng ngon nhưng phải nói món cháo lòng bánh hỏi quá đỉnh đi về SG nhớ mãi thèm lắm luôn ấy. Sữa đậu nành, đậu xanh cũng ngon luôn quá ưng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Thanh Phat Dao",
+    "rating": 5,
+    "review_text": "Lòng tươi, ngon, nóng hổi, bánh ướt, bánh cuốn dai ngon, nước mắm vừa vị. Giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Xuân Điệp Bùi",
+    "rating": 1,
+    "review_text": "Bánh hỏi lòng heo, mà không có lòng, chỉ toàn là cuống họng. Giá tiền ghi trên bảng giá là 20k, nhưng bắt người ta ăn theo combo heo quay, lòng heo với giá 70k. Quá đắt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Duong Hong Phuc Duong",
+    "rating": 4,
+    "review_text": "Quán có bán cháo , phở , bánh hỏi heo quay với lòng heo giá bình dân mình ăn 1 tô cháo không 1 bánh hỏi heo quay lòng heo giá chỉ 35k . Đồ ăn khá ngon làm sạch sẽ nước chấm vừa phải ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Trịnh Văn Thiện",
+    "rating": 4,
+    "review_text": "Quán ăn địa phương. Mình ăn ngày thường và thấy rất nhiều xe hơi đi làm ghé ăn. Tuy nhiên mình đánh giá lòng heo chưa phải là ngon. Có lẽ do khẩu vị cá nhân."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Như Võ",
+    "rating": 5,
+    "review_text": "Món ăn ngon, các chị phục vụ vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Thuy Nguyen",
+    "rating": 1,
+    "review_text": "Quán bán giá quá mắc:160 ngàn cho 2 ng ăn:một dĩa lòng,1 tô cháo ko,1 dĩa bánh hỏi,1 ly đậu xanh,sẽ k bjo quay lại quán lần nào nữa,kêu gọi bà con bạn bè né quán này ra"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "tui HUYNH",
+    "rating": 5,
+    "review_text": "Hơi mắc có điều cháo lòng ngon. Bún thịt nướng mà thấy giống thịt ram hơn, hơi măn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Thị Cúc Võ",
+    "rating": 5,
+    "review_text": "Đồ ăn ở đây rất ngon đã ghé 2 lần, nếu đi 2 người gọi 1 phần đặc biệt là ăn đủ no bao gồm có bánh hỏi ,cháo lòng và một dĩa lòng đầy nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x316fec39653352ad:0x2b3ec7a0fb53fb9d",
+    "shop_name": "Quán Yến, Cháo Lòng- Bánh Hỏi-Bánh Ướt-Bánh Tráng Thịt Luộc",
+    "user_name": "Nhi Minh",
+    "rating": 1,
+    "review_text": "Mua 4 phần, 3 phần heo quay 1 phần lòng, đem ra toàn lòng.\nĐồ ăn thì 1 dĩa lòng vài miếng, thịt mỡ k. 1 dĩa bánh hỏi, tô cháo với rổ rau siêu nhỏ. Tính 285k. Hỏi sao k có heo quay thì kêu hết nên k có giảm cho 40k. Nói tóm lại là quá mắc. Sẽ k quay lại"
+  }
+]

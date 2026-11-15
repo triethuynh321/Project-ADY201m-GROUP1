@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Quang Tri Ho Huynh",
+    "rating": 4,
+    "review_text": "Hủ tíu cật ngon, lạ miệng. Đông khách nhưng phục vụ nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Hui-Fang Wu",
+    "rating": 4,
+    "review_text": "Quán có sợi hủ tíu dai rất lạ và ngon, đặc sản ở đây là hủ tíu mì cật"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Chí Cường Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon không đổi từ xưa đền giờ. Giá theo mặt bằng Q.1"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Tùng Phan",
+    "rating": 5,
+    "review_text": "Ngon nha. Nên thử. Nổi tiếng xưa giờ rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Thủy Hồ",
+    "rating": 3,
+    "review_text": "Ăn nhưng giá hơi chát.. 70k/Tô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Bùi Tân",
+    "rating": 5,
+    "review_text": "K có gì để chê ngoại trừ giữ xe 5k thôi 😅 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Vy Đặng",
+    "rating": 5,
+    "review_text": "lần đầu thử mì cật"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Lâm Quang Trí (AYCLQT)",
+    "rating": 4,
+    "review_text": "Ăn lần đầu thì không có gì, nhưng khi về nhà lại thèm và các lần sau ăn mới thấy ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Thanh NGUYEN",
+    "rating": 4,
+    "review_text": "Phục vụ vui vẻ, niềm nở. Giá cả rẻ so với Quận 1, Sài Gòn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Long Nguyễn Thành",
+    "rating": 3,
+    "review_text": "Cảm nhận sáng nay Cật không đc tươi. Mì vẫn ngon và giữ hương vị riêng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Duyen Nguyen",
+    "rating": 3,
+    "review_text": "Mà ngon, cật ngon, vệ sinh kém với quán hơi ồn, giá cao nhoa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Cường Nguyễn",
+    "rating": 5,
+    "review_text": "Ngồi đây khá thông thoáng và vừa ăn vừa ngắm cảnh phố"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Hiếu Tạ Hữu",
+    "rating": 4,
+    "review_text": "Ngồi bàn thấp ăn không thoải mái, nên đổi bàn cao để ngồi ăn được thoải mái hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Quan Le",
+    "rating": 5,
+    "review_text": "Tuy rằng ồn chật nóng, nhưng mì cật ở đây ngon must try👌 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Tuan Vu Tran Nguyen",
+    "rating": 5,
+    "review_text": "Rất ngon, bị ghiền chủ nhật nào cũng phải ghé ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f3ec98485a7:0x3e02d1b3cf02e877",
+    "shop_name": "Hủ Tiếu Mì Cật",
+    "user_name": "Mei Cao",
+    "rating": 5,
+    "review_text": "Quán ngon lâu năm, hương vị truyền thống 💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Minh Bao",
+    "rating": 5,
+    "review_text": "Shop hỗ trợ rất nhiệt tình, qua vệ sinh máy ảnh lấy liền, nhân viên lịch sự và hỗ trợ rất tận tâm. Mình sẽ quay lại nếu có cơ hội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "huy nguyễn",
+    "rating": 1,
+    "review_text": "Mua combo máy sony zve10 với lens kit 2 ở đây, vì là đầu tin tưởng mua máy mới 100% về tập chơi, sau mới biết shop nó tráo cái cap lô . Không đáng bao nhiêu mà nhân viên mất dạy, lom com thì xứng đáng dẹp tiệm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nhị Tuyền Ngô V.",
+    "rating": 5,
+    "review_text": "Mình ghé vệ sinh máy ảnh.\n2 bạn nhân viên nhiệt tính hỗ trợ, vì máy bụi bẩn ko bị mốc nên đc vệ sinh miễn phí.\nDịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nguyễn Thị Kim Ánh",
+    "rating": 1,
+    "review_text": "Vào khoảng 19 giờ ngày 25/06, mình có đến cửa hàng để mua máy ảnh. Khi vừa vào cửa hàng, mình không thấy nhân viên nào tiếp đón, đến khi có một bạn nhắc là có khách thì mới có một bạn nam đứng dậy hỗ trợ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "TIẾN MINH ĐỖ",
+    "rating": 1,
+    "review_text": "Khi bán thì nhiệt tình bảo sau này anh đổi thu sẽ có giá tốt ưu đãi. Mua con lens 13 củ mới hơn tháng vào thu lên đời ép giá thu 7 củ. Trong khi lens ko trầy xước cấn lỗi, ko rễ tre, ko xước kính …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Như Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên quá nhiệt tình luôn và đẹp trai luôn ấy. Được vệ sinh máy ảnh miễn phí. Xứng đáng 5 sao ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Đại Mộc Thiên (PMT)",
+    "rating": 5,
+    "review_text": "Shop rất nhiệt tình và sp rất chất lượng. Anh tên Khôi dth với siu nhiệt tình, mn tới mua máy tìm a Khôi nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Bao Tran Quoc",
+    "rating": 1,
+    "review_text": "Một lần không có chữ Tín - thì vạn lần làm gì cũng chẳng ai Tin\n\nSản phẩm mình đặt và giữ slot qua tin nhắn ( tất cả đều có minh chứng ) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Duy Hoàng",
+    "rating": 5,
+    "review_text": "Trải nghiệm mua sắm tại ZShop rất tốt. Nhân viên tư vấn kỹ, hỗ trợ chọn sản phẩm phù hợp với nhu cầu. Hàng đúng mô tả, đóng gói cẩn thận, chế độ bảo hành rõ ràng. Rất yên tâm khi mua sắm tại đây và sẽ giới thiệu cho bạn bè."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Đức Anh Trần",
+    "rating": 5,
+    "review_text": "Các bạn nhân viên tư vấn nhiệt tình dễ thương. Mình đến vệ sinh cảm biến không mất phí luôn. Sẽ còn ủng hộ shop trong thời gian sắp tới."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Yen Nga",
+    "rating": 1,
+    "review_text": "Ai là người mới chơi máy ảnh đừng qua đây nhé , vừa bước vào khong được chào đón hỏi thăm , tư vấn chăm sóc khách hàng thì hời hợt dường như khong đặt vào mắt luôn cứ ngồi bấm máy tính chả tư vấn gì , mặt thì căng khó chịu hỏi thì trả lời …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hoang Yen Pham",
+    "rating": 5,
+    "review_text": "Mấy anh nhân viên rất xịn, chu đáo tận tình giới thiệu, hướng dẫn sử dụng và hỗ trợ tới nóc. Nói chung là siêu ưng ý luôn😚😚😚 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hữu Tài Nguyễn Hà",
+    "rating": 5,
+    "review_text": "Bụi sensor được vệ sinh free nha mng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Tran Phu An",
+    "rating": 5,
+    "review_text": "nhân viên tư vấn chu đáo, vui vẻ , ưng ý , sẽ quay lại mua thêm ,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Long Quang",
+    "rating": 5,
+    "review_text": "Shop nhiệt tình hỗ trợ lắm ạ. Mình đem máy qua sửa được hỗ trợ rất nhiệt tình và chu đáo nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Gu gồ nè",
+    "rating": 1,
+    "review_text": "Nhân viên bán hàng hời hợt, bảo sợ khách ko có tiền mua. Nhân viên thu ngân mặt nhăn nhó khó chịu khi thanh toán cho khách, nói chuyện cộc lốc trống không. Còn ko định cho khách cái túi mang về, hỏi tới mới quăng ra. Bạn nào newbie muốn mua …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Từ Lai",
+    "rating": 5,
+    "review_text": "Đi rất nhiều Shop để tìm máy Nikon pro cho một người bạn Ấn độ chuyên về chụp ảnh cưới. May mắn sao đến Shop này và gặp được 1 bạn trẻ 25t tên Quang Minh biết sử dụng tiếng Anh lưu loát, hơn hết là tư vấn rất vui vẻ, nhiệt tình chu đáo, cho …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Duy Hoàng",
+    "rating": 5,
+    "review_text": "Mua hàng tại zShop rất hài lòng. Nhân viên tư vấn nhiệt tình, sản phẩm chính hãng, giá hợp lý và giao hàng nhanh. Sẽ tiếp tục ủng hộ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Tran Tnhu",
+    "rating": 1,
+    "review_text": "Mình thấy sốp nên phân loại máy nào bán là bán, máy nào cho thuê là cho thuê, chứ dịch vụ là thuê nhưng tới thì bảo nào ko có ai mua mới cho thuê, khách cũng ko biết như thế nào lần. Nhân viên trực online tư vấn 1 đằng, nhân viên tiệm tư vấn 1 nẻo. trải nghiệm ko tốt, sẽ ko quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Toda D.",
+    "rating": 5,
+    "review_text": "Nhân viên quá nhiệt tình và dễ thương luôn á trời, shop xịn 5 sao, mình sẽ ủng hộ dịch vụ thêm khi có cơ hội."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Po",
+    "rating": 5,
+    "review_text": "Zshop Quận 1 là cửa hàng rộng rãi, thoải mái, chuyên cung cấp và trao đổi máy ảnh, laptop, MacBook, cùng với các phụ kiện nhiếp ảnh. Không gian thoáng đãng giúp khách hàng dễ dàng tham quan và lựa chọn sản phẩm. Đội ngũ nhân viên ở đây rất …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Trịnh Minh Thiện",
+    "rating": 5,
+    "review_text": "Các bạn nhân viên thân thiện. Lens mình cần vệ sinh nhưng bị nhẹ, các bạn hỗ trợ mà còn không lấy tiền. Sẽ tiếp tục ủng hộ khi có dịp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Quang Huy Nguyễn Huỳnh",
+    "rating": 1,
+    "review_text": "Ai chưa biết gì về máy ảnh mình khuyên đừng vào đây. Nhân viên chán đời, hỏi tới đâu nói tới đó, ko thèm chủ động tư vấn khách. Thu ngân cũng y chang, bán hàng ko tươi cười nổi. Nói chung kỹ năng chăm sóc khách hàng quá yếu kém. Một đi không trở lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Minh An Bùi",
+    "rating": 5,
+    "review_text": "Mình muốn mua máy ảnh nhưng máy ảnh cũng là một thứ khá mắc tiền nên muốn trải nghiệm trực tiếp, mình đã được anh Tuấn take care rất nhiệt tình và cảm thấy thoải mái với cương vị là khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thoại Phạm",
+    "rating": 5,
+    "review_text": "các a nv quá nhiệt tình, hỗ trợ lắm luôn, thật sự là quá tốt mình sửa và cài đặt một số phần mềm trên máy tính, a nv hỗ trợ kh lấy tiền mình luôn. Nói chung là 10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Huỳnh Thị Bảo Châu",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ quá kém. Nhân viên thiếu chủ động, không nhiệt tình, không tạo cảm giác được tôn trọng dù mình là khách mua hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Tu Huynh",
+    "rating": 5,
+    "review_text": "Mình đến vệ sinh máy mà kiểm tra không có vấn đề nhiều nên shop miễn phí, nhân viên a Lợi rất nhiệt tình hướng dẫn mình sử dụng máy. Nếu có nhu cầu chắc chắn mình sẽ quay lại đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nhu Phan",
+    "rating": 1,
+    "review_text": "trải nghiệm tệ quá, vô mua con máy chụp hình cano cũng hơn 20 củ mà không có cảm giác được chăm sóc, tư vấn vui vẻ nhiệt tình gì hết, cảm giác như bị bơ ấy. Mình là tay ngang không rành máy ảnh, nếu tìm hiểu kĩ hơn đã không chọn mua ở đây …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Duong Henry",
+    "rating": 1,
+    "review_text": "Vô hỏi tư vấn 2 dòng gopro 13 và dji action 5 pro mà đem ra cũng lộn mẫu mã, tư vấn không chuyên nghiệp mình hỏi thì mới trả lời( trả lời cho có vs khách). Mình đến vào buổi tối 20:35 quản lí cần đào tạo lại cách cskh nhé,Quá kém !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Châu Phan",
+    "rating": 5,
+    "review_text": "Mua máy được tư vấn quá nhiệt tình, xong được tặng lớp học nhiếp ảnh cơ bản. Quá là okila luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Minh Nhat Nguyen",
+    "rating": 5,
+    "review_text": "Mình lần đầu mua máy ảnh, mình đến shop hỏi về chiếc máy ảnh mà mình đang xem thì các anh chị nhân viên hỗ trợ và tư vấn rất nhiều, rất nhiệt tình. Thế là mình mua luôn. 10/10"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "vananh h",
+    "rating": 5,
+    "review_text": "Dịch vụ của Zshop rất tốt. Mình mang máy đến để kiểm tra và vệ sinh. Máy cũ nên có vết mờ trên gương bên trong. Zshop đã vệ sinh và báo là không vệ sinh được vết mờ trên gương. Do phần việc vệ sinh không nhiều nên Zshop đã không thu phí. Cảm ơn Zshop đã nhiệt tình hỗ trợ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ngân Nguyễn",
+    "rating": 5,
+    "review_text": "Nay ra zshop vệ sinh máy, được bạn nv hỗ trợ nhiệt tình, tư vấn chu đáo, vệ sinh sạch sẽ mà đặc biệt hoàn toàn miễn phí. cảm ơn Zshop rất nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Luân Phan",
+    "rating": 5,
+    "review_text": "Nhân viên hỗ trợ nhiệt tình, vui vẻ, đề nghị zShop tăng lương cho các bạn.🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Duy Minh Bùi",
+    "rating": 2,
+    "review_text": "Bạn nhân viên tư vấn thì nhiệt tình nhưng bạn thu ngân thì cọc cằn có thái độ, lời lẽ hơi khinh người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thư Trần Minh",
+    "rating": 5,
+    "review_text": "Shop dễ thương, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nhi Nguyễn",
+    "rating": 5,
+    "review_text": "Mấy anh nhân viên rất chu đáo tận tình giới thiệu  và hướng dẫn sử dụng máy. Nói chung là siêu ưng ý luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ngoc Hoang",
+    "rating": 5,
+    "review_text": "Nhân viên siêu nhiệt tình lun ớ, rất cảm ơn anh Quân vì đã nhiệt tình tư vấn cho e ạ!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Tuấn Kiệt Trương Quang",
+    "rating": 5,
+    "review_text": "Shop bán sản phẩm chất lượng tốt và bảo hành sửa chữa tiện lợi, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "quỳnh phan",
+    "rating": 5,
+    "review_text": "Dịch vụ rất tốt, bạn nhân viên hỗ trợ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "James Smith",
+    "rating": 1,
+    "review_text": "Buôn bán kiểu gì gọi điện thì không nghe máy nhắn tin thì seen không trả lời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hung Le",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, thân thiện, giúp đỡ khách. Mặc dù trước mình mua chỗ khác qua đây nhờ vệ sinh lỗi nhẹ các bạn hỗ trợ miễn phí, sẽ ủng hộ lâu dài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Dương Đại",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương tư vấn nhiệt tình lắm , quá ưng nè , thanks zshop"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "huytd zshop",
+    "rating": 5,
+    "review_text": "Mình là khách hàng tên Huy đã mua hàng và trải nghiệm zShop HCM rất hài lòng nhé !!!c <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Phương",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương , nhiệt tình chị mua máy được hai bạn hỗ trợ luôn rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Trí Kiệt Ngô",
+    "rating": 5,
+    "review_text": "Nhân viên tên Việt nhiệt tình, vui vẻ. Đề nghị zShop tăng lương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Phương Lưu",
+    "rating": 1,
+    "review_text": "Cái làm mình bất ngờ là cách nhân viên sale KHÔNG có một nụ cười ,KHÔNG một lời cảm ơn , nước thì đợi hỏi mới lấy . Một cái máy mua cũng mấy chục triệu đối với shop có thể là không bao nhiêu , nhưng đây là do bản thân mình tin tưởng shop uy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ank Hoàng",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ thì thôi nhé luôn, có hai anh tư vấn thì được 1 anh dễ thương còn cha nội còn lại thì đuổi khéo khách về, thái độ thượng đẳng. Máy likenew j mà trầy hết trơn lớp sơn mà để giá như máy new, ko bao giờ quay lại nhé. Train lại nhân viên đi ko thì dẹp tiệm sớm dùm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nhựt Lâm",
+    "rating": 5,
+    "review_text": "Shop dễ tìm, nhân viên dễ thương, hàng hóa chính hãng. Mình rất tin tưởng, yêu thích shop"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "nguyen le",
+    "rating": 5,
+    "review_text": "Shop hỗ trợ nhiệt tình lắm ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hà Kiều Anh",
+    "rating": 1,
+    "review_text": "Hỏi rõ ràng, nói còn máy xong lại đến nơi chạy cả tiếng đồng hồ shop báo hết hàng chả hiểu làm ăn kiểu gì, nhân viên đúng kiểu k cần khách hời hợt kinh khủng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Van Tran",
+    "rating": 5,
+    "review_text": "nhân viên hỗ trợ nhiệt tình và nhanh chóng, mình ở xa mấy bạn vẫn cố gắn ship đúng khung giờ mình cần mà hướng dẫn sử dụng máy rất tận tình  . 💯 cho shop nhen …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Phuc Nguyen Hong",
+    "rating": 5,
+    "review_text": "Dạ shop nhiệt tình và tư vấn kĩ. Mấy anh rất thân thiện ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Premium YoutuBE",
+    "rating": 5,
+    "review_text": "Trải nghiệm mua hàng đẳng cấp, nhân viên nhiệt tình <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Paul Duong",
+    "rating": 5,
+    "review_text": "Được hỗ trợ vệ sinh miễn phí dù máy k phải mua ở đây, shop 10đ!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Quang Thiện Trần",
+    "rating": 1,
+    "review_text": "Shop làm việc như con nít, vô trách nhiệm.\n.\nĐã gọi điện thoại trước xác nhận có hàng sẵn không để chạy qua vì nhà khá xa, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hanh Tran",
+    "rating": 5,
+    "review_text": "Tuyệt vời , chưa bao giờ mua ở đâu mà đỉnh như ở đây đó h mới thấy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ngọc Duy Huỳnh",
+    "rating": 5,
+    "review_text": "nhân viên tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Doan An",
+    "rating": 5,
+    "review_text": "Trãi nghiệm ok nhân viên nhiệt tình. Không gian thoải mái đẹp. Mà giá cũng chát xíu nhưng chấp nhận mức dv này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ngọc Trương",
+    "rating": 5,
+    "review_text": "Hỗ trợ hướng dẫn rất tận tình nhiệt tình và chu đáo 👍👍👍\nLần sau mình sẽ quay lại ủng hộ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Vỹ Thuỵ",
+    "rating": 1,
+    "review_text": "Nhân viên tư vấn quá tệ !! Đối tiếp khách hàng thua cả người bán hàng rong. Dịch vụ khách hàng từ tư vấn đến thu ngân tệ đến nỗi kh có từ nào để tả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Uyên Phạm",
+    "rating": 5,
+    "review_text": "nhân viên hỗ trợ quá nhiệt tình luôn ạ, cám ơn 2 bạn đã giúp mình fix lỗi của máy nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Vinh Phuc Trinh",
+    "rating": 5,
+    "review_text": "Các anh thân thiện, vui vẻ và tư vấn có tâm lắm!✨"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "huy hai Nguyen",
+    "rating": 1,
+    "review_text": "Shop làm ăn rất rất chán đời\nTrước khi qua gọi hỏi báo còn hàng, khi qua tới nơi hỏi nv mấy lần kêu đợi chút e chuyển kho xong ngồi 15p lại báo kho đóng cửa nghỉ. Không biết là shop có hàng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "minh khang nguyễn",
+    "rating": 1,
+    "review_text": "nhận máy báo giá và sửa rất lâu, nhân viên thái độ, khách chưa nói xong nhân viên đã tắt máy ngang."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Vy Vy",
+    "rating": 5,
+    "review_text": "Ghé 1 hôm để tư vấn và test máy , hôm sau lại ghé để hỏi cách dùng , nhân viên rất kiên nhẫn nhiệt tình . shop hỗ trợ rất nhiều , dán free màn hình còn free vệ sinh trong tg bảo hành .  mình xin thêm túi tote đựng và charm shop cũng OK lun …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ngọc Phan",
+    "rating": 5,
+    "review_text": "Đóng gói kỹ càng, giao hàng hoả tốc nhanh, đầy đủ phụ kiện, tư vấn hỗ trợ nhiệt tình 🔥10₫ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "ducduy Phamho",
+    "rating": 5,
+    "review_text": "Nghỉ tết nhưng mình cần hỗ trợ nhắn shop vẫn thấy trả lời trên zalo , quá ok lun"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nguyễn Văn Khiêm",
+    "rating": 2,
+    "review_text": "Mua máy Sony để trên web là tặng thẻ Sony nhưng lại đưa thẻ Sandisk"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thảo Nguyễn",
+    "rating": 1,
+    "review_text": "Trải nghiệm cực kỳ tệ tại đây luôn, nhắn tin hỏi shop có hàng không đều có hết, qua thì lý do hết hàng 1 lần hẹn mình ngày khác và liên hệ cũng không thấy, lần 2 qua cũng nhắn hỏi trước shop bảo có qua thì kêu đợi gửi từ kho 20p đợi xong ra …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nguyễn Dũng Mạnh “Kuuhaku”",
+    "rating": 5,
+    "review_text": "Các bạn nhân viên siêu dễ thương và nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "bông Hằng",
+    "rating": 5,
+    "review_text": "Lợi bích boi bạn ý giới thiệu sản thẩm cho mình rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Đạt Lê",
+    "rating": 1,
+    "review_text": "Gọi điẹn, nt zalo, nt fb đều không được, để 9h đóng cửa hàng đến nơi 8h15 đã đóng. Mất thời gian vô cùng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Vương Thiên",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Anh Kiet NGUYEN",
+    "rating": 5,
+    "review_text": "Nhanh chóng, nhiệt tình, hiệu quả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Trang Mai",
+    "rating": 1,
+    "review_text": "Từ thái độ đến nhân viên bị phản ánh, bóc phốt quá trời mà công ty cứ để yên vậy hả. Bộ nhân viên đi làm mướn không công nên được cái quyền ta đây, thiếu chuyên nghiệp và “chỉ cần lấy được tiền” từ khách là xong hả. Vậy tương lai cái công …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ngọc Bích",
+    "rating": 2,
+    "review_text": "Vào đổi con R50 + pocket bù dô mua con R50V, nhân viên bảo còn 1 con cuối cùng v mà lúc khui ra màn hình lật lên, pin bỏ sẵn dô máy, cài đặt sẵn tiếng việt, may mà mình chơi con máy thứ 3 nên là mình phát hiện ra. Nếu lở các bạn lần đầu mua …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thiên Nguyễn",
+    "rating": 1,
+    "review_text": "Up web giá 1 đằng khi tới tiệm báo giá 1 nẻo, khách tới tư vấn cũng ko nhiệt tình, khách cũ nên quay lại nhưng lần này quá thất vọng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Bảo Thi",
+    "rating": 1,
+    "review_text": "1 trải nghiệm vô cùng tệ ở shop này, dịch vụ kém thì thôi nhé. Trước khi qua shop thì mình đã nt trên page cho chắc chắn là máy ảnh đó có hàng test không thì shop bảo có. Thế là mình qua xem máy thì nhân viên bảo không có.... 😀 mình hỏi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Huu Tung Le",
+    "rating": 5,
+    "review_text": "Mình có máy ảnh cũ của bạn cầm ra shop để làm dịch vụ vệ sinh, lúc thanh toán thì nhân viên bảo free làm mình khá bất ngờ vì không phải mua máy ở shop, dịch vụ quá tốt luôn 🫶 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thư Hoàng",
+    "rating": 1,
+    "review_text": "Mua hàng thanh toán hết mới nhận máy, đến lúc k sử dụng nữa đem ra bán lại cho tiệm thì đòi làm hợp đồng mua bán các kiểu rồi trả tiền sau. Bán máy lừa đảo à"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "10.10.66",
+    "rating": 1,
+    "review_text": "thái độ nhân viên tư vấn quá tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Quỳnh Như nguyễn",
+    "rating": 5,
+    "review_text": "Mình đi mua thẻ nhớ, anh Tuấn support rất okie."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Khoa Tuấn",
+    "rating": 1,
+    "review_text": "Mình có một trải nghiệm cực kỳ tệ tại chi nhánh Quận 1. Mình thanh toán online nhưng các bạn nhân viên không kiểm tra kỹ thông tin của khách, thái độ không tôn trọng khách hàng khi nói chuyện kiểu như khách không có đủ tài chính để mua sản …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "KhacTam Do",
+    "rating": 5,
+    "review_text": "Nhiệt tình, trẻ trung, vui vẻ. Will return. Giảm giá nha shoppppp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Huy Nguyễn Thảo",
+    "rating": 5,
+    "review_text": "Mua được con máy đáng đồng tiền bát gạp thật sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hiếu",
+    "rating": 1,
+    "review_text": "24/06/2025 - 9h40\nNhân viên báo là không cần mang bill vẫn có thể lấy lens hoặc xác minh cách khác …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thỏ Trắng",
+    "rating": 2,
+    "review_text": "Tối ca ngày 6/3 lúc 9h tối. Mình thấy anh nhân viên có hơi hời hợt. Kiểu hỏi gì nói đó. khi mình chốt mua mình hỏi có thẻ nhớ ko thì mới trả lời có. Xog mình hỏi có dây đeo ko thì kêu có kèm bên trog. Kiểu ko hề cug cấp thôg tin trước tư …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "tiena",
+    "rating": 5,
+    "review_text": "Nhiệt tình, có mắc hơn chỗ khác xíu nhưng tư vấn và cách làm việc khá chuyên nghiệp. Mua fuji xong còn có thêm workshop học miễn phí về máy ảnh mỗi tháng nữa. Store sáng sủa và mọi người cũng dễ thương. Mong giữ vẫn phong độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Trương Đông (DingDong)",
+    "rating": 1,
+    "review_text": "Nhân viên nói chuyện không có thật để áp giá máy khách, trong khi trên web để giá sony a7iii là 33 triệu mà nói với khách shop đang bán 27 triệu để ép giá máy của khách. Đúng là thế hệ cợt nhả đi làm thì chẵn ra làm sao, hồi đó Zshop nhân viên có tâm lắm bây giờ chỉ đáng 1 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Phương Phạm Thị Thu",
+    "rating": 1,
+    "review_text": "Nhân viên thì đông khách đến không ra mở cửa cho khách, không tư vấn cho khách. đứng coi một hồi mới ra hỏi thăm khách mua gì. Tư vấn xong chờ một hồi nửa tiếng đồng hồ cũng không thấy nhân viên đâu. Xứng đáng âm vô cực sao chứ không nổi một sao đâu, làm dịch vụ kiểu này thì dẹp tiệm sớm!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thắng Nguyên",
+    "rating": 3,
+    "review_text": "Chuẩn bị qua bên này vệ sinh máy và lens, sao thấy đánh giá dịch vụ ít sao quá, mọi người cho ý kiến  với"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nhi Le",
+    "rating": 5,
+    "review_text": "Nhân viên shop nhiệt tình, vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nhac Viet",
+    "rating": 5,
+    "review_text": "Chất lượng và dịch vụ rất tốt\nEm trai Bùi Việt rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Đặng Gia khiêm",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình hỗ trợ tận tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Alex Dương",
+    "rating": 5,
+    "review_text": "Mới lần đầu làm quen máy ảnh , 2 em trai tư vấn nhiệt tình . Sẽ ủng hộ tiếp nếu có nhu cầu ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Chau Nguyen",
+    "rating": 5,
+    "review_text": "Các bạn nhân viên rất nhiệt tình, vui vẻ, tư vấn tận tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Chung Tân ,Nhé !!!",
+    "rating": 5,
+    "review_text": "Nhân viên chu đáo nhiệt tình\nKhuyến mãi nhiều quá nên vui đánh giá cho 5 sao luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Đào Thông Thị",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn vui vẻ, nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Bui Chung",
+    "rating": 1,
+    "review_text": "Hôm 8/7 mình có vào mua con canon r50v New 100% ,đến khi thanh toán xong thì mình mở hộp kiểm tra máy , máy mới mà màn hình lật sẵn ,trong máy có sẵn viên pin, cài sẵn tiếng việt , bù trừ phơi sáng +1, máy mới mà kỳ vậy :((, nhân viên shop …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "HUYÊN SING HÀN",
+    "rating": 5,
+    "review_text": "Shop tư vấn nhiệt tình, nhân viên thân thiện ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "이보영",
+    "rating": 5,
+    "review_text": "Đọc review thấy các bạn trải nghiệm tệ nhưng mình ra thì thấy rất chu đáo\nMình có gọi điện trước để hỏi mua máy còn ko để chạy ra\nRa tới thì thấy shop giữ riêng máy đó cho mình rồi\nNv chu đáo, tư vấn tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Luân Trần Hửu",
+    "rating": 1,
+    "review_text": "Đọc review tiktok tính ra mua mà đọc đánh giá xấu nhiều quá nên thôi vậy, lựa shop khác làm ăn uy tín trách nhiệm hơn. Đặc biệt là không lừa dối khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Darkclypso (Bé Bin)",
+    "rating": 5,
+    "review_text": "Nhân viên rất nhiệt tình và dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Tr Hoang Tien",
+    "rating": 5,
+    "review_text": "Nhân viên vui tính nhiệt tình , mua máy xài quay lại vệ sinh các bạn làm free , bạn Tấn hỗ trợ rất ok 👌 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hoàng Ngân",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt tại cửa hàng Quận 1. Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thanh Vinh",
+    "rating": 5,
+    "review_text": "Shop mình nhiệt tình hỗ trợ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Haha Hihi",
+    "rating": 1,
+    "review_text": "Nhân viên thì dễ thương. Nhưng quản lý thì chảnh. Đi làm thuê mà tư duy như chủ. Khách mua hàng 20 triệu mà tư vấn tí đẩy qua nhân viên dưới quyền, không chào khi khách vào và ra. Làm công mà tư duy này mãi là người đi làm công."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Vy Hoang",
+    "rating": 1,
+    "review_text": "Nhân viên tư vấn không nhiệt tình nói chuyện cộc lốc với khách ,,, rất tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hoàng Duy Nguyễn",
+    "rating": 5,
+    "review_text": "Dịch vụ rất nhanh gọn, nhân viên thân thiện, tư vấn kĩ càng cũng như tạo cảm giác thoải mái. Sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Dung Thùy",
+    "rating": 1,
+    "review_text": "Cửa hàng này làm ăn tào lao và thiếu trách nhiệm, nhà tôi khá xa, chạy lên cửa hàng gần 2 tiếng đồng hồ, chưa kể kẹt xe, biết nhà xa nên trước khi đi đã gọi hotline cừa hàng hỏi xem có hàng và đúng màu mình cần kg và cũng nói nhà mình khá …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Bùi Phạm Duy Tuấn",
+    "rating": 5,
+    "review_text": "tư vấn kĩ , nhiệt tình , quá ok !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Buingoc Thang",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn vui vẻ , sản phẩm chính hãng với nhiều chương trình khuyến mãi giá tốt ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ryu",
+    "rating": 1,
+    "review_text": "Tôi mua máy sony cũ, nhờ nv kiểm tra lại tình trạng máy, tôi tin tưởng nv sẽ kiểm tra thật kỹ, nào ngờ khi về nhà mới phát hiện sensor bị chết rất nhiều điểm. Cửa hàng nên xem xét lại trình độ của nhân viên bán hàng nhé. Vừa yếu kém về chuyên môn lại còn thái độ ko thành thật."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Joey Thao",
+    "rating": 1,
+    "review_text": "1 lần mua và 1 lần tư vấn nhân viên đều rất nhiệt tình. Sau đó muốn quay lại ủng hộ, đến định lấy máy, cuối giờ chắc nhân viên nôn về, gặp một bạn khác thái độ nhân viên tư vấn chán òm luôn, kiểu như bất cần, hỏi đến đâu trả lời đến đó, còn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thành Nguyễn",
+    "rating": 1,
+    "review_text": "Mình thuê máy ảnh nhưng thái độ nhân viên không tốt, trả lời ngang ngược với khách hàng. Shop nên xem lại cách phục vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nguyễn Ái Nhi",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, dễ thương ,mua máy ảnh ở đây oke lắm lun."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Benutzernummer 5",
+    "rating": 1,
+    "review_text": "hỏi thông tin sản phẩm để đặt mua mà 3 tiếng đồng hồ trong giờ làm việc vẫn không hồi âm dù đã xem tin nhắn. có vẻ không cần khách nên thôi mình cạch luôn; sẽ có review ngắn về customer support của shop để bạn bè người thân biết mà né. :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hoàng Minh Hảo",
+    "rating": 5,
+    "review_text": "nhân viên thân thiện, dịch vụ nhanh chóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hieu Nguyen",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình chu đáo, mình còn được dán màn hình free"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Bảo Minh Nguyễn Đồng",
+    "rating": 5,
+    "review_text": "Em cảm ơn chị Quỳnh Như, anh Huỳnh Đức, anh Lợi với anh Tuấn đã hỗ trợ em tới 11h tối 🥰🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ryan Yuuki",
+    "rating": 5,
+    "review_text": "Mấy a giai cực dễ thương, dịch vụ tốt, cực kì giới thiệu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Bảo Long Phạm",
+    "rating": 5,
+    "review_text": "nhân viên tư vấn hỗ trợ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Tuấn Tuấn",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình, có tâm, có một số máy để test trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nhật Nguyễn",
+    "rating": 3,
+    "review_text": "Nhân viên nhiệt tình.  Mua con len mới, hàng kèm theo quà thì quà không thấy.kêu 1 tuần ship , giờ hơn 10 ngày rồi chưa thấy quà kèm theo đâu. Chưa thấy phản hồi.  Tính mua con len thứ 2 , thôi đổi mua cửa hàng khác.  Trãi nghiệm vậy đủ rồi. .."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Duc Nguyen",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình, thân thiệt shop rất chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "NHÍ MÈO CHANEL",
+    "rating": 5,
+    "review_text": "Nơi đây có mua và bán máy ảnh\nnhân viên thân thiện dễ thương\nLưu ý khi đi cần chuẩn bị căn cước hay hình ảnh\nShop chu đáo lắm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "toi nguyen",
+    "rating": 5,
+    "review_text": "THẲNG TÍNH & KHÔNG VẼ BỆNH.\nMình dùng sony a6400. Qua vệ sinh máy thì được tư vấn kỹ, test xong máy oke không vấn đề thì ko chèo kéo mà nói thẳng là máy oke và không mất phí dịch vụ gì."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Dr. Khang H TRAN",
+    "rating": 5,
+    "review_text": "Trải nghiệm mua hành tốt và không gian chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "duy nguyen",
+    "rating": 5,
+    "review_text": "Chất lượng phục vụ tốt. Đúng hàng chính hãng. Nhân viên nhiệt tình tư vấn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Huy Đinh",
+    "rating": 1,
+    "review_text": "Hẹn đến thuê lens, nhân viên bảo oke. Không nói rõ thủ tục, trên web cũng không ghi. Tới nơi không thuê được phát đi về"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thùy Dung Nguyễn",
+    "rating": 1,
+    "review_text": "NHÂN VIÊN BỊ VÔ HỌC!\nMình với bạn mình vừa ghé chi nhánh zshop THD để hỏi về máy ảnh Fuji film và đặt cọc. Do có hỏi sơ thông tin máy qua fanpage trước nên tính ghé để hỏi lại thời …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "phu quan",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "LOng",
+    "rating": 5,
+    "review_text": "Mình đã mua 2 chiếc máy ảnh ở đây vào 2 đợt khác nhau và rất hài lòng với dịch vụ và chất lượng máy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Khánh Hòa",
+    "rating": 5,
+    "review_text": "nhân viên hỗ trợ nhiệt tình luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Vân Nguyễn Thị Thanh",
+    "rating": 1,
+    "review_text": "TỆ. MUA MÁY HƠN 20TR MÀ CÒN HƠN ĂN XIN NỮA MẤY MÁ. NHÂN VIÊN BÁN CHO KH XONG LÀ XONG THÔI ĐÓ, CÒN HẬU SAU MUA BỊ SAO THÌ KHÁCH HÀNG TỰ XỬ ĐI MÁ :))) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "thiên minh",
+    "rating": 1,
+    "review_text": "Làm ăn hời hợt, hẹn mình vài ngày nhưng không điện thì không ai báo. Còn điện rồi thì lại để em coi như kiểu khi nào khách kêu mới làm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Erich Huynh",
+    "rating": 5,
+    "review_text": "Giá tuyệt vời, đập hộp em surface pro 7 plus về làm việc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "le han",
+    "rating": 1,
+    "review_text": "Nhân viên tvan ok, nhưng nhân viên ngồi máy vi tính chỗ phía canon( cao ốm , mắt trợn trợn ) khách hỏi thì cười khảy , nói chuyên khó nghe , như kiểu khi dễ ko biết xài mà mua máy cho mắc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ngọc Yến",
+    "rating": 1,
+    "review_text": "Tiệm lớn mà làm việc thấy chán, đã gọi điện hỏi mẫu đó có hàng không thì bảo có sẵn xong qua đến tiệm tư vấn xong bảo hết hàng rồi tư vấn cái đắt hơn. Dắt mũi quá à."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Đan Pha",
+    "rating": 1,
+    "review_text": "Làm ăn không uy tín\nGửi sửa máy bái tầm 2-3 ngày sẽ có nhân viên kỹ thuật tư vấn, báo giá\nNay 10 ngày không thấy đâu, gọi hotline không nghe máy, nhắn tin zalo không trả lời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Tuấnn BpD",
+    "rating": 5,
+    "review_text": "đặt hàng máy ảnh và bàn giao đúng hẹn !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Huyền Ngọc",
+    "rating": 1,
+    "review_text": "BAD SERVICE EVER\nNhân viên quá tư vấn quá tệ, lịch sự cơ bản nhất cũng ko có k hiểu sao vẫn cho tư vấn khách như v, đi mua máy ảnh tưởng đi xin ko á, hên là ko mua qua shop khác …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ka Duyyy",
+    "rating": 1,
+    "review_text": "Ghé vô hỏi mua máy ảnh mà gặp anh nhân viên tư vấn tào lao. Gặp khách hàng mà không nói được một câu chào hỏi hay xưng hô cho tử tế toàn ăn nói cộc lốc như kiểu tui tới đây cầu xin để được mua máy á. Tới tính đặt cọc mua máy xong nói chuyện …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thiện Nhân Lê Võ",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình , dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nickolaz Deakin",
+    "rating": 1,
+    "review_text": "có mua máy ricoh gr3 ở đây, mình thanh toán đầy đủ và nợ mình cục pin. hẹn gần 2 tháng mới có lúc kêu ship cho mình thì ship nhầm chổ, rồi tới lúc ship cho mình thì mình vẫn phải trả phí ship"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Đình Đình",
+    "rating": 5,
+    "review_text": "Mình cảm thấy CSKH ở đây rất tốt, vì sản phẩm mình đã mua 7-8 năm, khi cần shop vẫn hỗ trợ tối đa hết mức có thể. Đánh giá cao điều này!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "PTH Ryco",
+    "rating": 5,
+    "review_text": "ZShop là một địa chỉ uy tín cho các sản phẩm công nghệ, đặc biệt là máy ảnh và thiết bị quay phim. Trải nghiệm mua sắm tại đây để lại ấn tượng tốt nhờ dịch vụ khách hàng chu đáo và chuyên nghiệp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Kiều Trinh Dương",
+    "rating": 1,
+    "review_text": "ai đang có ý định gửi máy đến đây sửa thì thôi tìm tiệm khác cho đỡ phiền ạ . mình lỗi lens máy digital gửi đến đây bảo ngày hôm sau báo giá, đến 3 ngày sau vẫn không thấy ai gọi hay nhắn bảo gì, làm ăn thiếu chuyên nghiệp đến khi mình lên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thảo Trần",
+    "rating": 5,
+    "review_text": "Shop tận tình ạ, hỗ trợ vệ sinh máy miễn phí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Phát Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, xử lý khiếu nại rất tốt và nhanh.\nDù mình đang vô cùng bực mình với cách xử lý và phản hồi của hãng nhưng nhân viên tại cửa tiệm đã có hướng xử lý tốt hơn rất nhiều."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hải Lân Vũ",
+    "rating": 5,
+    "review_text": "Anh Việt Bùi vệ sinh rất chuẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Huy Doan",
+    "rating": 5,
+    "review_text": "Shop xịn ! Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Huỳnh Đức",
+    "rating": 5,
+    "review_text": "shop tư vấn hỗ trợ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Caramel Studio",
+    "rating": 1,
+    "review_text": "KHÔNG NÊN MUA\nMn đừng ủng hộ những doanh nghiệp không có sự tôn trọng và lịch sự với khách hàng như thế này nha, nhân viên chỉ chằm chằm \"mua tầm giá bnhieu tiền ( hỏi đi hỏi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "H",
+    "rating": 1,
+    "review_text": "Chấm 1 sao nha. Hỏi có hàng không, xác nhận là có sẵn hàng ạ. Chạy tới cửa hàng thì báo không có hàng? Chưa kể nhân viên khách vào hỏi mua gì, xong rồi đi lấy hàng bỏ mặc ở đó xong bỏ đi chổ khác, làm dịch vụ gì mà lần đầu tiên thấy luôn á. Chán thật sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Xuân Hạnh Huỳnh Lê",
+    "rating": 1,
+    "review_text": "NHÂN VIÊN COI THƯỜNG KHÁCH HÀNG. NÓI CHUYỆN BẤT LỊCH SỰ. ĐI MUA MÀ TƯỞNG ĐI XIN. CÓ ƯNG Ý MÁY THÌ CŨNG KHÔNG MUA Ở ĐÂY!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Lê Giunn",
+    "rating": 1,
+    "review_text": "phải nói là đừng mua hay sửa máy tính ở đây nha. Quá tệ phải đánh giá 3 lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "qui don qui",
+    "rating": 5,
+    "review_text": "Đã mua 7M4 kèm lens 2470GM II ở đây, nhân viên nhiệt tình, dễ thương, anh áo đen sony dễ thưn ạ ^^"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Diễm Nguyễn",
+    "rating": 5,
+    "review_text": "Shop uy tín nhân viên nhiệt tình dễ thương 👍👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Quang Nguyễn",
+    "rating": 1,
+    "review_text": "gọi hỏi có sản phẩm ko, thì ko thấy gọi lại, phải đợi lên tới nơi mới báo hết hàng, lần thứ 2 gặp vấn đề này, tuyệt vời quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Kieu Dung Lê",
+    "rating": 1,
+    "review_text": "gửi máy bảo hành. Còn hay ko cũng ko báo. Để máy cả tuần hỏi nhân viên gì cũng k biết??"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "An Binh",
+    "rating": 1,
+    "review_text": "Anh em sửa máy ảnh nên cân nhắc:\n\nNhận con máy ảnh xong im lặng, không báo ngày sửa xong phải đợi khách hỏi mới …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Kông Nguyễn",
+    "rating": 2,
+    "review_text": "Dịch vụ có vẻ không ổn lắm. Mình đợi khá lâu và nhắn tin shop cũng phản hồi chậm. Chắc nhìn mình hơi phèn nên shop ko thích phụ vụ. Nhân viên ko thân thiện, kiểu hơi kiêu căn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thanh Chân",
+    "rating": 1,
+    "review_text": "Ko biết có coi thường người Việt ko nữa, chứ bọn tây vô thì tư vấn vui lắm, xong họ đi. Trong khi đó khách người Việt đứng mua lại ko quan tâm lắm. Thái độ nhân viên hiện giờ và 6 năm trước lúc mình mua hệt nhau."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Bi Bui",
+    "rating": 1,
+    "review_text": "Nhân viên tư vấn rất khinh thường khách hàng. Không bao giờ trở lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "than chau duong tri",
+    "rating": 5,
+    "review_text": "Hôm nay mình đi vệ sinh sensor cho máy được anh nhân viên hỗ trợ nhanh và tốt lắm luôn, nói chung là mình ghé mua và sử dụng dịch vụ ở Zshop cũng 5 6 lần gì đó rồi cả ở chi nhánh Cần Thơ nữa, toàn gặp nv có tâm thôi, nếu có điều kiện sẽ quay lại ủng hộ cho shop con lens hihi 😙 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Minh Trần",
+    "rating": 5,
+    "review_text": "Rất ok luôn nha, mình làm vệ sinh máy hông tính phí lun nè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nguyen Quoc San",
+    "rating": 3,
+    "review_text": "kỷ thuật tay nghề yếu! không đủ trình, nhận máy và trả máy không đúng. ( trả máy lại thiếu pin). thái độ phục vụ tốt. Nhưng khả năng đôi khi không làm được. Hơi thất vọng. p"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Nghĩa Nguyễn",
+    "rating": 5,
+    "review_text": "Thân thiện, nhiệt tình. Ko mua máy nhưng shop vẫn hỗ trợ lau cảm biến miễn phí."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thịnh Nguyễn",
+    "rating": 1,
+    "review_text": "Tôi gọi điện thoại trước để hỏi có sửa màn hình máy fuji X-A10 hay không? thì bạn tổng đài kêu là mang máy lên tiệm kiểm tra, báo giá sau. Tôi chạy từ Thủ Đức lên Quận 1 đưa máy thì bạn tại cửa hàng lại kêu là bên em ko có linh kiện anh mang ra hãng giúp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Thanh Uyen",
+    "rating": 5,
+    "review_text": "Các anh nhân viên rất dễ thương, vui tính và hỗ trợ cực kỳ nhiệt tình ạa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Huyền NTT",
+    "rating": 1,
+    "review_text": "Dịch vụ CSKH quá tệ, hứa hẹn nhưng mất tích, khách phải chủ động liên hệ nhiều lần do không được chăm sóc. Khách hàng đã đánh giá tệ về dịch vụ rất nhiều nhưng ng lãnh đạo không khắc phục. Thật tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Quang Minh Võ",
+    "rating": 1,
+    "review_text": "Chỉ có việc là sửa cái lens cũng không rõ ràng, hẹn lên hẹn xuống. Nhân viên chăm sóc khách hàng ko khác gì ngoài chợ. Kém không có lần 2 để quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Hoàng Hải Nguyễn",
+    "rating": 5,
+    "review_text": "Clean máy sạch sẽ, oke"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Lộc Võ",
+    "rating": 1,
+    "review_text": "Dịch vụ sửa chữa quá tệ. Nhận máy sửa thì hẹn 1-2 ngày báo lỗi báo giá nhưng đến hẹn không thấy gọi thông báo khách hàng. Thậm chí mình đã đợi thêm 2 ngày nữa nhưng vẫn ko thấy báo gì. Lúc gọi lên thì lấy lý do mất thời gian kiểm tra, lại …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Minh Quang Đỗ",
+    "rating": 1,
+    "review_text": "Đi vệ sinh Canon G12 bị liệt 1 nút chỉ cần vệ sinh là được, 4 ngày sau báo giá 700k cao quá mình không làm. Lấy về máy liệt gần hết các nút, núm xoay lắp lại không đúng chế độ chụp. Chán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Bảo Uy Phạm",
+    "rating": 1,
+    "review_text": "Đặt đơn hơn 1 tuần mà vẫn chưa được vận chuyển, hỏi thì trả lời ậm ừ rất chán thái độ làm việc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Loan Tô Thanh",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ kém! Lúc hỏi mua thì còn nhiệt tình, sau khi thanh toán xong thì thái độ thay đổi ngay lập tức, nhắn tin không trả lời phải tự gọi lại. Không hiểu kiểu gì! Không bao giờ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Will Nguyễn",
+    "rating": 1,
+    "review_text": "Giá vệ sinh máy thì quá cao, thái độ đến chán, không chào hỏi, nói trống không, không xuất hóa đơn cho khách, nhân viên còn ngồi xem phim và làm việc riêng lúc tiếp khách. Thề không quay lại lần 2"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Tân Trần",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Lài Huỳnh",
+    "rating": 2,
+    "review_text": "Sửa máy ảnh thì ổn nhưng phong cách phục vụ k ổn. Gửi máy thì nv bảo 2 ngày báo giá mà k thấy đâu. Mình phải gọi hỏi giá sửa đến 2 lần mới nhận được giá. Tới lúc hẹn 3 ngày sau xong máy thì gọi mà cũng k gọi báo. Mình phải gọi hỏi. Gọi lần …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "An Nguyễn Minh",
+    "rating": 1,
+    "review_text": "Hôm đấy tôi dự định mua bộ body là Lens tầm 70tr tại Zshop trần hưng đạo, nhưng nhân viên không nhiệt tình tư vấn, thái độ kiểu không cần khách, chính vì thái độ đó mà tôi đã từ chối xem tiếp sản phẩm. Zshop, cái tên mà tôi sẽ không bao giờ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Đặng Đức Vinh",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Arun-V Nguyen",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên bán hàng bỡn cợt, không chuyên nghiệp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Kỳ Hà",
+    "rating": 1,
+    "review_text": "Làm việc chậm, không gọi báo giá cho khách qua zalo hay qua gọi để khách toàn gọi hỏi 1 tuần vẫn chưa thấy báo giá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "BMT",
+    "rating": 5,
+    "review_text": "Nhân viên hỗ trợ, dịch vụ tốt, máy về sớm hơn dự kiến. Ưng ý 100 điểm 💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "S Trường",
+    "rating": 5,
+    "review_text": "Mình mua hàng ở Zshop quận 1 cảm thấy rất hài lòng. Nhân viên tư vấn rất nhiệt tình để offer đúng theo nhu cầu sử dụng của mình mà lại có chế độ bảo hành tốt nữa. Anw, cám ơn bạn Huỳnh Như rất nhiều đã tư vấn và chọn giúp mình một con Mac rất ok!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Dau Vu Chau",
+    "rating": 4,
+    "review_text": "Vị trí trung tâm.  Nhân viên nhiệt tình,  chu đáo.  Tuy nhiên điểm trừ là 1 số hàng ko có sẵn, phải đợi mang từ kho sang khá mất thời gian."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ngọc Trâm",
+    "rating": 5,
+    "review_text": "Nhân viên để thương , tận tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Đỗ Hoàng Thuỵ Nhi",
+    "rating": 5,
+    "review_text": "nhiệt tình , hỗ trợ khách hàng cực đỉnh , nên ghé nha mng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Trung Ngo",
+    "rating": 1,
+    "review_text": "Né bọn này ra, lúc mua thì nhiệt tình lắm, nt fb trả lời các kiểu, sau khi mua về nt fb ko thèm trả lời, gọi ĐT thì kiếm cớ từ chối ko tiếp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "nhóck kun",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện, hỗ trợ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ngô Xuan Bien",
+    "rating": 5,
+    "review_text": "Nếu bạn là tín đồ của nghệ thuật nhiếp ảnh thì không thể bỏ qua các cửa hàng của Zshop. Nơi đây có đầy đủ đồ chơi cho bạn trải nghiệm, lại được tư vấn nhiệt tình của các chuyên gia nhiếp ảnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Ha Do",
+    "rating": 5,
+    "review_text": "Đa dạng sản phẩm. Nhân viên (anh Hải) tư vấn nhiệt tình, cung cấp đủ các thông tin cần thiết cho khách. Có dịp sẽ tiếp tục ủng hộ cửa hàng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Papaya Ketoan",
+    "rating": 1,
+    "review_text": "nhân viên ngáo ngơ từ bán hàng đến kế toán."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Tfarm",
+    "rating": 5,
+    "review_text": "Nhân viên bán hàng dễ thương lắm. Máy móc có gặp sự cố gì là đổi ngay máy mới. Khuyên đến đây nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Kiep Nguyen",
+    "rating": 5,
+    "review_text": "Bão dưỡng rất oke nhân viên nhiệt tình . ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Info - Tin Thanh Dat JSC",
+    "rating": 1,
+    "review_text": "Nhân viên ko thân thiện lắm. Gọi đt và nhắn zalo để hỏi sản phẩm nhưng ko trả lời tin nhắn zalo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752fccb3c7bd37:0xab194d94ce6491b",
+    "shop_name": "zShop Quận 1",
+    "user_name": "Quỳnh Lê",
+    "rating": 5,
+    "review_text": "Dịch vụ rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Trân Châu (珍珠)",
+    "rating": 5,
+    "review_text": "Hủ tiếu chay Cây Đề – quán ruột cho ai mê chay bình dân 🍜\nQuán hủ tiếu chay Cây Đề nằm trên đường Lê Văn Sỹ, mở bán từ năm 1992 đến nay vẫn rất đông khách. Giá rẻ, khẩu phần đầy đặn, tô hủ tiếu cho nhiều topping chay …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Lưu Quang Minh",
+    "rating": 5,
+    "review_text": "Nếu ai hỏi mình quán chay nào ở Tân Bình ăn hoài không chán thì chắc chắn mình sẽ nhắc tới Hủ tiếu chay Cây Đề – 351A Lê Văn Sỹ. Giữa một “rừng” quán ăn thay đổi liên tục theo thời gian, Cây Đề vẫn giữ được phong độ ổn định suốt bao nhiêu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Cuong Cao",
+    "rating": 5,
+    "review_text": "Tui chấm quán này rùi nhe mấy bà. Quán tọa lạc tại đường Lê Văn Sỹ quận Tân Bình. Menu của quán rất đa dạng về món ăn chay từ món nước đến món khô. Mình gọi hủ tiếu nước thì phải nói 1 tô ăn ê hề luôn. Nước lèo vị ăn cũng vừa dùng lắm nè. Sữa đậu nành lá dứa uống siêu ngon siêu cuốn luôn á. Nói chung mình sẽ ủng hộ quán lâu dài nhé ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Rosa Rosa",
+    "rating": 4,
+    "review_text": "Canh chua nêm chưa được đậm đà lắm. Các món còn lại thì ngon, phần tàu hũ mềm mát ngọt nhẹ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thanh Duy",
+    "rating": 5,
+    "review_text": "Mình là tín đồ hủ tiếu ở quán này nghen, nhất là món hủ tiếu khô đó, có khi thì ghé ăn có khi đặt app grab giao hàng. Ngon, chuẩn vị, nêm nếm đậm đà, quán mặt tiền đường có chú bảo vệ giữ xe luôn, các bạn nhân viên thì hiền, dễ thương, quán sạch sẽ👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Vũ Khoa",
+    "rating": 4,
+    "review_text": "Được người quen giới thiệu nên mình đi trải nghiệm thử. Hôm mình đi là buổi trưa và ngày thường nên cũng không đông đúc lắm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "ny jen",
+    "rating": 1,
+    "review_text": "Quán không có chỗ đậu xe ôtô thì đừng nhận khách, nhận xong chỉ qua bên đường vô giống cây trồng đậu xong thu 100k, bảo vệ khách tới thì cứ ngồi nghe đt không hướng dẫn khách đợi hỏi mới trả lời.  Thời gian tối 01/08/2026"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Tâm Nguyễn",
+    "rating": 2,
+    "review_text": "Mình đi ăn lúc 6 giờ, mình gọi bún riêu và bánh canh.\n\nNước lèo nguội lắm và tô bánh canh dường như topping đã hết vài loại so với buổi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Hoàng Duy Nguyễn",
+    "rating": 4,
+    "review_text": "Quán nằm ngay trên đường Lê Văn Sỹ\nKhông gian khá nhỏ, chỗ để xe cũng khá hạn chế …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Duy Lê",
+    "rating": 4,
+    "review_text": "Giá phải chăng, đồ ăn hợp khẩu vị, có dịch vụ party & tiệc nhóm. Phù hợp cho gia đình nhóm đông người\nMenu cũng đa dạng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Dung Thùy",
+    "rating": 5,
+    "review_text": "Quán ruột, nào thèm đồ chay là phi tới đây ngay\nHighly recommend mọi người hủ tiếu Nam vang khô, bún mắm và pad thái sau khi ti đã thử gần hết cái menu nha. Mấy món đó ngon lắm luôn, mà tô to nữa, ăn no căng bụng. Bánh khọt giòn mà ko bị mỡ, nhưng hết bán r. Mấy món còn lại ăn bình thường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "mỹ linh dương",
+    "rating": 4,
+    "review_text": "Overall: quán okie á\n\n1. Menu: đa dạng nhiều lựa chọn & giá cả cũng hợp lý lắm. Các món thấy hợp vị …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Duy Huynh",
+    "rating": 4,
+    "review_text": "Món chay ngon, giá phải chăng nhưng không gian quán phản phất mùi ẩm mốc, mong quán để ý cải thiện, có nhiều góc nhìn cũ kĩ, ko sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "HẰNG NGUYỄN",
+    "rating": 4,
+    "review_text": "Nhà hàng chay trên đường Lê Văn Sỹ, gần với ngã tư Phạm Văn Hai.\nNhà hàng nhiều món chay, chế biến đang dạng, ngon, hợp khẩu vị.\nNhà mình hay ăn ở đây, hôm nay nhà mình 4 người,  gọi gỏi, thịt xiên, cuốn bía, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyen Pinky",
+    "rating": 4,
+    "review_text": "Các món ăn tương đối ngon vì mình dễ ăn. Khẩu phần nhiều, nước mắm ăn bún hơi mặn dù mình chan ít. Hôm nào mệt người ghé ăn súp mình thấy dễ ăn và nhiều loại rau củ. Món lên nhanh, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Khánh Tâm",
+    "rating": 5,
+    "review_text": "Quán chay hiếm hoi, sau bao nhiêu năm vẫn giữ vững phong độ !\n\nMình ăn chay ở Cây Đề nhiều năm rồi, và ở chi nhánh LVS hay các chi nhánh khác …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Xuân Kim",
+    "rating": 5,
+    "review_text": "Cơm chay ngon, không gian rộng rãi, phục vụ chỉn chu, quán hơi nhiều muỗi. Cơm chay hạt sen 79k, mì xài giòn cũng 79k, trà đá 4k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Lài Phạm",
+    "rating": 5,
+    "review_text": "Trải nghiệm không gian quán thoải mái, món ăn lên nhanh vừa miệng, nhân viên nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thao Thu",
+    "rating": 5,
+    "review_text": "Không gian quán nhỏ\nMón ăn nóng vừa vị rau củ quả tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "yen do",
+    "rating": 3,
+    "review_text": "Đồ ăn mắc .tuần trước mới đặt 2 phần cơm chiên nấm tầm 190 mấy mà phần đồ ăn có vài cọng cà rốt , hành tây nhìn thảm luôn .2 phần đồ ăn gộp lại bằng 1 phần lúc trước mình ăn .quán làm ăn thấy chán thiệt ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Kim Huong",
+    "rating": 4,
+    "review_text": "Quán trưa khá đông khách. Đồ ăn recoment là bánh khọt và bánh xèo - giòn. Giá hợp lý. Mình gọi  1 bún riêu, 1 chả giò hải sản, 1 chả giò trái cây, 1 xèo, 1 khót, 1 hủ tiếu nam vang, 1 món NC mà ko nhớ tên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "thuy hothi",
+    "rating": 5,
+    "review_text": "Quán đông nhưng nhân viên nhanh nhẹn, đồ ăn ngon, kết nhất là nước mắm ở đây. Ăn ná thở. Giá cả phải chăng. Recommend quán chay này nhé mọi người."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "K-Huê Đinh",
+    "rating": 4,
+    "review_text": "Ăn chay không biết ăn gì mình hay ghé qua đây. Ăn dưới trệt thì ok hơn chứ trên lầu hơi bí. Mình thích nấm bào ngư chiên và lẩu nấm. Các món nước, cơm thì bình thường, giá sẽ nhỉnh hơn các quán bình dân nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Midori Luu",
+    "rating": 4,
+    "review_text": "Món Pad Thái ăn bình thường thôi nhưng món cơm chiên cá mặn ngon lắm, nên gọi.\nQuán rất đông khách vào ngày mùng 1, rằm và tháng ăn chay, nên đặt trước cho chắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Kim Hen Ngo",
+    "rating": 5,
+    "review_text": "Nhà hàng chuyên phục vụ các món chay với menu rất là đa dạng các món. Chất lượng các món ăn khá là hợp khẩu vị của mình. Giá cả cũng khá hợp lý. Không gian ngồi ăn có máy lạnh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Pham Thi Tuoi",
+    "rating": 5,
+    "review_text": "Thỉnh thoảng để đổi cho bữa ăn thêm phong phú thì mn có thể đến Quán chay Cây Đề là 1 lựa chọn phù hợp (lưu ý là mn nên đi vào ngày bình thường nhé để có thể enjoy cả không khí lẫn chất lượng món ăn, vì vào các ngày cao điểm là đầu tháng or …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Trang nguyễn",
+    "rating": 5,
+    "review_text": "Thời tiết mùa hè nóng quá, nhóm mình tìm quán đồ chay có máy lạnh.\nQuán giá vừa phải tầm 60k/tô món nước\nSẽ quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nga Huynh",
+    "rating": 5,
+    "review_text": "Không chỉ bán hủ tiếu chay, chay Cây Đề bán rất nhiều món chay ngon, nhiều và vị ngọt từ rau củ nên ăn thanh đạm, ngon miệng lắm nha. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Lee ja Fujng",
+    "rating": 5,
+    "review_text": "Đây là tất cả những món mình từng thử ở quán\n- hamburger ( rất dở ) 2/10 -> KHÔNG NÊN ĂN\n- bún cà ri 6/10 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Huy Minh",
+    "rating": 5,
+    "review_text": "Quán ăn rất ngon, giá cả phù hợp với giá trị mà sản phẩm mang lại cho khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Tân Nguyễn Lê Nhật",
+    "rating": 5,
+    "review_text": "Món chay rất ngon, thường ăn món hủ tiếu Mỹ Tho và rau luộc kho quẹt.\n1 tháng đều đặn ghé đây 2 - 3 lần.\nPhục vụ tốt, nhiệt tình.\nPhòng máy lạnh rất mát."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nam Vi",
+    "rating": 4,
+    "review_text": "Được chị bạn giới thiệu cho quán này, vào foody tìm hiểu thì thấy nhiều bạn complain quá nên cũng khá là hoang mang nhưng cuối cùng mình vẫn quyết định đến thử xem sao. Tới nơi thì quán hơi nhỏ, không gian ấm cúng và trang trí tạm ổn, có …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thư Trương",
+    "rating": 5,
+    "review_text": "Hủ tiếu ngon nhe, nhân viên siêu dễ thương và nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Linh Pham",
+    "rating": 4,
+    "review_text": "Nhà hàng chay kiểu nhà phố, trang trí nhẹ nhàng, nằm ngay mặt tiền Lê Văn Sỹ khá thuận tiện cho bạn di chuyển. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Huy Nguyễn",
+    "rating": 5,
+    "review_text": "Một địa điểm có nhiều món chay đa dạng và cảm giác ấm cúng.\nCác món nước có vị ngọt thanh cảm nhận được các gia vị trong nước dùng.\nTrang trí các món ăn thật bắt mắt với nhiều màu sắc đến từ các rau củ. Tuy nhiên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thanh Đoàn",
+    "rating": 5,
+    "review_text": "Menu món ăn phong phú, nhân viên nhanh nhẹn và lịch sự. Quán khá đông nhưng sắp xếp bàn và lên món nhanh chóng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Trọng Nhân Lê",
+    "rating": 5,
+    "review_text": "Ngon, lạ, độc đáo.\nGiá cả hợp lí.\nQuán này tiếp khách, hoặc ăn gia đình đều được. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyen Tu “Tutu”",
+    "rating": 3,
+    "review_text": "Vào quán tầm 8g45, đang ăn nv lại dọn mấy chai tương bảo kết ca, lúc tính tiền tầm 9 rưỡi hơn thì thấy mang ra lại ???\nGiá thành khá mắc so với mặt bằng chung( phục vụ, nhân viên, chất lượng). …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thùy Nguyễn",
+    "rating": 4,
+    "review_text": "Gỏi cuốn và pudding tàu hủ rất ngon. Sữa đậu nành cũng ngon. Giá vừa phải. Không gian hơi nhỏ, phục vụ nhanh.\nGỏi thập cẩm và hủ tiếu xào bình thường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Vu Tran",
+    "rating": 5,
+    "review_text": "cho nhà hàng 5* vì món ăn rất ngon , nêm nếm vừa phải , phù hợp cho mọi vùng miền , khách đông mà đi ngày chay nên có thể phục vụ chưa tốt lắm nhưng ở mức ổn , quán khá nhỏ mà trang trí nhìn khá kiểu cổ cổ nên cũng lạ mắt , các bàn sát nhau quá nên hơi chật mỗi khi kéo ghế đi ra đi dô , vì món ngon nên mọi thứ ok hết !!! tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "SÁNG NGUYỄN LÊ",
+    "rating": 4,
+    "review_text": "Không gian ấm cúng, thức ăn hợp khẩu vị.\nCùng ăn chay để cải thiện sức khỏe."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Ngoc Maggie",
+    "rating": 4,
+    "review_text": "Hủ tiếu khô (chay) ngon xỉu nhưng lượng hủ tiếu có vẻ hơi ít.\nGiá cả khoảng 40-60k/1 món\n2 hủ tiếu khô và 2 trà kombucha. Tổng bill là gần 200k …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Phuong Nguyen",
+    "rating": 5,
+    "review_text": "Không gian quán hơi nhỏ nên sắp xếp chỗ ngồi chật và hơi vướng\nĐồ ăn nêm nếm rất ngon\nMón nên thử hủ tiếu chay, cơm chiên, gỏi bắp chuối …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Mi Mi",
+    "rating": 2,
+    "review_text": "Mình đi công tác ngày nào cũng ăn ở đây vì đặt ks gần để đi bộ tới ăn .\nMình ăn cũng nhiều năm và quan sát\nXin góp ý kiến với quản lý và chủ sở hữu nhà hàng CÂY ĐỀ là chanh khi nào khách …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thao Le",
+    "rating": 3,
+    "review_text": "Mình là khách quen của quán, nhưng dạo gần đây chất lượng phục vụ của quán có vẻ không tốt. Khi order món ăn nhân viên đã noted rất kỹ, nhưng bếp có vẻ lơ là,  không chú ý menu được  order, nên khi ra món không như những gì khách đã order."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "cao nguyễn thanh",
+    "rating": 4,
+    "review_text": "Đây là quán đồ chay nhé.\nTên là hủ tiếu chay nhưng có rất nhiều món\nĐồ ăn: Đồ chay ở đây nhiều loại lắm nhé. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thái Trịnh",
+    "rating": 4,
+    "review_text": "Hương vị món ăn ổn, hợp khẩu vị số đông.\nTrình bày món bình thường.\nKhông gian ấm cúng hiện đại, vị trí trung tâm dễ tìm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "kim ngân",
+    "rating": 1,
+    "review_text": "Nhân viên siêu đông mà so vs mức giá thì phục vụ thất vọng thật sự\nĐồ ăn bình thường, không ngon không dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thanh Vân Trần",
+    "rating": 5,
+    "review_text": "Không gian quán đẹp. Mình có order Cơm chiên thập cẩm như trong hình. Cơm rất ngon, khẩu vị phù hợp với những người chưa quen ăn chay. Sẽ ủng hộ tiếp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thái Ngọc Diễm Thuý",
+    "rating": 5,
+    "review_text": "Quán nhỏ nhỏ xinh xinh, có một trệt và một lửng, mình đi ngày thường mà vẫn đông khách. Menu chay rất đa dạng, mình đã ăn ở chi nhánh Diệp Minh Châu rồi, bên này chất lượng cũng ngon y chang ạ, mình và bạn mình thử hủ tiếu nước Mỹ Tho và hủ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Quỳnh Nguyễn",
+    "rating": 5,
+    "review_text": "Quán đa dạng món chay từ khai vị đến món chính. Tốc độ lên món ăn đã được cải thiện hơn rất nhiều. Không gian và chỗ ngồi thoáng hơn trước."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Ni Nguyễn",
+    "rating": 5,
+    "review_text": "Hủ tiếu chay Cây Đề là một trong những quán chay yêu thích của mình. Thực đơn đa dạng, chất lượng tốt, phục vụ dễ thương, giá cả hợp lý, không gian ấm cúng, nhẹ nhàng. Món mình cảm thấy quán làm ngon nhất là hủ tiếu Mỹ Tho khô, bạn nên thử nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Linlin",
+    "rating": 5,
+    "review_text": "Mình đi ăn ở quán cũng nhiều lần rồi. Phải nói là đi lần nào khách cũng đông quá chời đông. Nhưng mà không gian không làm mình khó thở xíu nào, ngược lại rất chill, tiếng người này người kia đụng đũa rồi nói chuyện với nhau nghe rất rõ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "THẾ LONG",
+    "rating": 5,
+    "review_text": "Quán chay sạch sẽ,mát mẻ,yên tỉnh, hủ tiếu ngon.Thực đơn phong phú,không gian rộng rải,yên tỉnh phù hợp với mọi người."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Sin Nguyen",
+    "rating": 5,
+    "review_text": "Ngon và giá cả phải chăng, món ăn rất nhiều lựa chọn. 2 ae đi ăn 256k và cả bàn đồ ăn rất xứng đáng tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Non Nora",
+    "rating": 5,
+    "review_text": "10 điểm cho món ăn, vừa ngon vừa no, giá cả lại hợp lý.\nthời gian chờ món tương đối không quá lâu\nnhân viên vui vẻ, lịch sự.\nsẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "thanh hung",
+    "rating": 5,
+    "review_text": "Món ăn ngon, đa dạng. Nên thử món bánh xèo rất ngon. Nhân viên lịch sự. Giá cả ổn. Quán có máy lạnh, không gian nhỏ nên khi khách đông thì hơi ồn 1 chút. Trang trí khá đẹp mắt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "quynh nhu Doan",
+    "rating": 2,
+    "review_text": "Mình đi ăn vào ngày 30 nên quán khá đông. Các bàn kê sát nhau nên việc di chuyển vào ghế bên trong rất bất tiện, gây khó chịu cho khách ở bàn bên làm mình rất ngại. Đồ ăn ổn, trong tầm giá. Tuy nhiên quán phục vụ món miến trong thố tay cầm đã bị gỉ bên trong là không đảm bảo an toàn vệ sinh thực phẩm, một điểm trừ cực lớn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Ngọc Vinh Lê",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, ra món nhanh, dịch vụ ok. Tầng trệt ngay cửa hơi ám mùi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Phạm Hoàng Nguyên",
+    "rating": 5,
+    "review_text": "Quán chay ấm cúng nhưng vẫn đủ tiện nghi, thoải mái. Mức giá vừa phải cho mấy món ăn ngon. Thường khá đông vào các ngày rằm, lễ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Quynh Huong V",
+    "rating": 5,
+    "review_text": "Quán đông nhưng xếp chỗ nhanh, thấy nỗ lực phục vụ tốt của quán.\nMón ăn chay mặt bằng chung ngon, trang trí bắt mắt, không khí ấm cúng. Mình ăn quán này đã ba lần r nhưng lần nào cũng hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyễn Bảo Châu Thanh",
+    "rating": 5,
+    "review_text": "Quán ăn chay nhiều chi nhánh, mình ăn chay nhưng thiết kế món trang trí đẹp. Bắt mắt cực kì.\nKhông gian có mùi xông và nhạc nhẹ vừa đủ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Rin Nguyễn",
+    "rating": 5,
+    "review_text": "Quán chuyên phục vụ đồ chay, không gian sạch sẽ, có máy lạnh nên khá mát mẻ và dễ chịu, nhất là vào buổi trưa. Mình ghé ăn vào giờ cao điểm nhưng phục vụ vẫn nhanh, lên món không phải đợi lâu. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Trí Nguyễn Minh",
+    "rating": 4,
+    "review_text": "Quán ngon, nhiều món, phục vụ ok, có điều hơi mắc. Bạn vừa ăn vừa đc tận hưởng những giai điệu mang chất thiền định giúp tâm hồn thư thái bình yên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Phúc Võ",
+    "rating": 5,
+    "review_text": "Món ăn ngon, phục vụ nhanh chóng. Trình bày đẹp. Là một địa điểm hợp lý cho người ăn chay"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Tuyết Ánh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nv phục vụ tận tình, quán quá vuýp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Đinh Vân Trang",
+    "rating": 5,
+    "review_text": "Hủ tiếu khô ngon. Nếu đi vào ngày chay phải đi sớm mới có chỗ. Quán rất đông."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Vy Phạm Khánh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhức mũiii luôn á 👌👌👌 tụi mình đi 5 người order ăn chung no nê luôn 😗😗😗 Món nào cũng ngon nên mình recommended mấy bạn thấy nào bắt mắt là ăn thôi 🔥🔥🔥 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Kha Huỳnh",
+    "rating": 5,
+    "review_text": "ngon đã ghé rất nhiều lần hehe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "MrBinhlau",
+    "rating": 3,
+    "review_text": "Mới chỉ thử vài món, cảm thấy thức ăn bình thường. Giá cả khá đắt so với phần ăn. Ví dụ: hai cuốn chay 70K. hay 80K 4 miếng chả ram rất bé. Đi 5 người buộc phải order hai phần, chỉ liếm qua miệng là hết 160K. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Quang Hưng Nguyễn",
+    "rating": 5,
+    "review_text": "Mình ghé ăn hủ tíu chay.\nVề không gian thì quán rộng, thoải mái.\nMón mình gọi là hủ tíu thì được nêm nếm rất đậm đà, ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Rachelle Tr.",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, giá phù hợp, hơi đông nên chắc muốn ăn đi ngày thường, ngày rằm mất công đợi bàn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyen Dung",
+    "rating": 2,
+    "review_text": "Cửa hàng nên xem xét lại việc thu phí hộp mang về. Bỏ vào bịch cũng đc mà. Ko quá mất cần thiết, dù sao về cũng phải hâm lại và ko ăn trong hộp giấy đó nữa.\nGì cũng tính quá tiên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Van Tran",
+    "rating": 1,
+    "review_text": "Mùng 1 tết vào quán ăn 2 gỏi cuốn, 2 sữa đậu nành, 1 lẩu thái chua cay, mình đi 2 vợ chồng vào ngồi chờ cả 30 phút đem ra được 2 gỏi cuốn và 2 ly đậu nành, bàn kế bên đi 8 người đồ ăn chiên xào này nọ cơm chiên làm rất lâu mà đem ra trước …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Hoàng Thị Thúy Tuyên (翠宣)",
+    "rating": 5,
+    "review_text": "Mình được chị Ngọc đưa đến quán ăn này. Quán khá đông đúc 2 tầng, món ăn ngon, đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Huong Nguyen",
+    "rating": 5,
+    "review_text": "Quán không rộng lắm, có máy lạnh mát mẻ ánh sáng tốt, ấm cúng và khá đông khách. Mình ghé quán vào giờ ăn chiều thứ tư ngày thường (không phải ngày chay) mà vẫn không còn bàn trống. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Tuân Kỳ Nguyễn",
+    "rating": 5,
+    "review_text": "Mỗi năm về quê đều ghé quán này ăn, đồ ăn ngon, sạch và mang ra nhanh, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "HỒNG ANH VŨ",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, thoáng đãng, bài trí đơn giản, vừa phải. Đồ ăn ngon, giá trung bình khá, sạch sẽ. Thích món hủ tiếu chay của quán."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Trịnh Phương Sơn",
+    "rating": 4,
+    "review_text": "Quán này có lâu rồi. Ăn chay ổn. Nhiều món. Nên nhiều khách.\nAi ăn chay thì nên thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Mai Anh",
+    "rating": 4,
+    "review_text": "Thiết kế quán sang trọng, ấm cúng , đồ ăn bình thường, giá tương đối cao ( các món ăn với cơm , mình chưa ăn hủ tiếu ở đây , đi 2 người hết minimum 200k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thanh Xuân Châu",
+    "rating": 5,
+    "review_text": "Hãy đến ăn để ủng hộ doanh nghiệp bán thực phảm chay nhé moi người\nThức ăn ngon, quán sạch sẽ\nMình rất đồng cảm và thương những doanh nghiệp kinh doanh đặc biệt là ngành ăn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Beth Le",
+    "rating": 5,
+    "review_text": "Nhiều món ngon, phải thử hủ tiếu mỹ tho nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Rainie Green",
+    "rating": 4,
+    "review_text": "Đồ ăn cũng ok, ngồi trên lầu rộng rãi hơn những cầu thang lên hơi hẹp, cũng hơi sợ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Mon Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn chay ngon, không gian ngồi khá chật do bàn san sát nhau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thúy Huỳnh Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon trong tầm giá, 10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Phát Nguyễn",
+    "rating": 5,
+    "review_text": "Quán bố trí đẹp, nhân viên nhiệt tình .... Ngày rằm đi ăn nên quán hơi đông , món lên chậm ... Ngoài ra tất cả đều tốt, lần sau ghé lại mong món sẽ lên nhanh hơn ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Tờ Âm",
+    "rating": 5,
+    "review_text": "Quán chay rộng rãi thoáng mát, có máy lạnh. Giữ xe miễn phí ngay trước quán ( có bảo vệ).\nĐồ ăn: khẩu phần của 1 phần đều khá lớn, menu đa dạng rất nhiều món. Đồ ăn lên …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Anh Kiệt Lê",
+    "rating": 1,
+    "review_text": "Đi ăn 2 người gọi 4 món kèm 2 ly trà đá. Ăn hết vẫn không đem ra. Có nhắc 1 bạn nv nữ thì nghe bản ấy nói với 1 nv khác là 2 ly trà đá kìa 2 lần. Xong cũng không thấy. Nv thì tụm lại nc đùa giỡn bấm đt ngay quầy lễ tân (lúc đó khoảng 14h15 ngày 28/9) cần thì check cam lại. Quá tệ!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thùy Trang",
+    "rating": 3,
+    "review_text": "Mình kêu 1 phần hủ tiếu Mĩ Tho, ăn tạm được nhưng giá hơi đắt, k biết có phải tính mặt bằng r phục vụ gì k, tô to như hình nhưng ít bún, bún thì dính chặt với nhau …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Van Thu Nguyen Do",
+    "rating": 5,
+    "review_text": "Mình đi tối gần 9 rưỡi mà vẫn đông do là ngày 14 âm, nhân viên vẫn rất nhiệt tình và phục vụ đồ ăn nhanh lắm. Gần giờ đóng cửa thì không có quá nhiều món nhưng cũng đủ để lựa thoải mái. Phần ăn nóng và bự chà bá ăn xong ná thở luôn, xứng đáng với giá tiền nheee"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Lam Vinh Duc",
+    "rating": 5,
+    "review_text": "Quán phục vụ nhanh, nhiều món chay giá hợp lý và ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Dung Trần",
+    "rating": 5,
+    "review_text": "Mn nên ăn hủ tíu khô nha. Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "ngoc y le ha",
+    "rating": 4,
+    "review_text": "Đồ ăn giá cả hợp lý, sữa đậu nành ngon.\nCó thu phí đỗ xe ô tô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Quân Bùi",
+    "rating": 5,
+    "review_text": "Quán dễ tìm, có chỗ đậu xe. Nhân viên ok.\nĐồ xào hơi nhiều dầu.\nCác món nước ok. Vừa miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Hai Phan",
+    "rating": 5,
+    "review_text": "Quán làm đồ ăn ngon, sạch sẽ, nhân viên dễ thương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Jun Dang",
+    "rating": 1,
+    "review_text": "Quán gì mà bán mang về mỗi phần tính thêm 3k tiền hộp. Gói bịch phở thì bịch nylon, hộp thì đựng nước nhỏ xíu đổ tè le. Về cũng phải đổ ra tô rồi vứt cái hộp. Tốn 3k vớ vẩn. Làm màu làm mè bất hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Sky Blue",
+    "rating": 5,
+    "review_text": "Quán ruột của mình mỗi khi muốn ăn chay. Đồ ăn ngon, cung cách phục vụ chu đáo. Chưa bao giờ làm mình thất vọng. 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Hà Ngọc",
+    "rating": 3,
+    "review_text": "Giá cả ở đây so với mặt bằng chung là mắc hơn.  Không gian máy lạnh cũng khá ổn. Mấy bạn chỉ nên tới ăn chứ k nên mang về vì sẽ tốn thêm 2k hộp nữa nha.  Nên ăn mấy món nước nhất là hủ tiếu Mỹ Tho,  giá 35k thì phải là ngon,  miếng hoành …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Trọng Dương",
+    "rating": 5,
+    "review_text": "Ồ, mình đi chơi với người yêu được người yêu đề xuất đi ăn chay đi. Thế là mình lên Google Maps search quán chay để tìm thử xem có quán nào gần không. Thế là mình chọn đại quán Chay Cây Đề trên Maps, tới nơi thì không gian rất ấm cúng và …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Phú Quý Phạm",
+    "rating": 5,
+    "review_text": "Bạn mình giới thiệu qua quán, bánh xèo giòn nhiều rau lắm, không gian ấm cúng. Phục vụ chu đáo, khi mình vô là đã đợi mở cửa mình rồi. Mọi người đến thử và trải nghiệm nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thanh Phạm",
+    "rating": 5,
+    "review_text": "Quán không gian yên tĩnh, sạch sẽ, đồ ăn ngon, hợp khẩu vị ☺️☺️☺️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thiên",
+    "rating": 5,
+    "review_text": "Cơm chiên tay cầm vs gỏi nấm chua cay khá ngon . Must try 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Anh Thoa Trịnh",
+    "rating": 5,
+    "review_text": "Hủ tiếu mỹ tho và hủ tiếu sa tế ngonnn\nNhững món khác cũng ngonnn luôngg 😍\nMuỗng đũa sạch sẽ, ưng cái bụngggg …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "truong trang",
+    "rating": 1,
+    "review_text": "Quán mất vệ sinh, giá mắc mình gọi hoành thánh 37k mang ra 4 cục chút xíu nhưng chưa dừng lại ở đó hoành thánh vừa cứng vừa dai và rất nguội dù mình đợi khá lâu nha. Mình hơi khó chịu!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Văn Tú Võ",
+    "rating": 5,
+    "review_text": "Thức ăn ngon, trình bày đẹp mắt...giá cả hợp lí."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Trương Thảo Ly",
+    "rating": 4,
+    "review_text": "Mình rất thích món hủ tiếu khô Mỹ Tho ở quán. Mỗi lần ghé đều ăn món này, lần này thì thử món xá xíu khô Hồng Kông thì cũng tạm được. Nhưng vẫn thích món hủ tiếu khô Mỹ Tho hơn. Giá cả cho 1 phần ăn sáng tầm 40k - 50k. Tính ra cũng tạm ổn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thành Nam Vũ",
+    "rating": 5,
+    "review_text": "Nhà hàng đã dời qua địa chỉ mới 351A Lê Văn Sĩ: ở đây rộng rãi hơn, đẹp hơn, dịch vụ tốt, nhân viên ân cần, chu đáo. 👍👍👍👍👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Elara Pham",
+    "rating": 2,
+    "review_text": "Mình đến đây 2 lần, hủ tiếu thì cũng ổn giá hợp lý còn món lẩu thái thì theo mình giá mắc mà lẩu cũng không ngon. Nhân viên phục vụ OK"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Tai Nguyen",
+    "rating": 1,
+    "review_text": "Omg, mua mang về, nhân viên đuổi ra ngoài đợi, muốn đánh giá 0* mà ko đc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Cư Tê Rabbit",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình chu đáo , món ra nhanh , không gian thoáng mát sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Anh Thu DT",
+    "rating": 5,
+    "review_text": "Món ăn nóng hấp dẫn, nêm nếm vừa miệng!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Cò Miền Núi",
+    "rating": 5,
+    "review_text": "Quán chay yêu thích của mình, giá cả hợp lí đồ chay ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Minh Traan",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ nhanh, nhân viên nhiệt tình, không gian thoáng mát thích hợp với bữa ăn cùng gia đình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Man Nguyen (nguyenman0101)",
+    "rating": 3,
+    "review_text": "Quán ăn cũng được, nhân viên phục vụ chán, bảo vệ khó ưa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thùy Trang Nguyễn Thị",
+    "rating": 1,
+    "review_text": "Làm món thì lâu mua mang về mà đợi lâu như gì :))), hỏi tới nhân viên thì nhăn thái độ. Mua 2 lần đều như vậy🙃 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nam Phạm Trần",
+    "rating": 5,
+    "review_text": "Món ăn chay ngon, chế biến cẩn thận, không gian đẹp và ấm cúng. Có chỗ để xe máy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Phú food vlog - Ẩm thực Việt",
+    "rating": 5,
+    "review_text": "Lần đầu dùng tại đây , cảm thấy rất tuyệt ... nhạc thiền rất êm tai kết hợp với không gian tuy nhỉ nhưng ấm cúng .\nMón ăn trang trí đẹp vừa miệng, nhân viên cởi mở .... riêng phần đặt món xuống có chúc mình dùng ngon miệng rất chu đáo.... sẽ quay lại ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Tuan Nguyen",
+    "rating": 5,
+    "review_text": "Quán chay này có giá hơi cao hơn 1 tý so với nhiều quán khác nhưng là rất đâng đồng tiền. Đồ ăn ngon, vị trí thuận tiện và nhân viên phục vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Tún (I Muzic)",
+    "rating": 5,
+    "review_text": "các nhân mình rất thich ăn món chay. quán này rất rất nhiều món chay. các bạn có thể ghé ăn thử, chú ý nên tránh các ngày chay cao điểm vì quán rất rất đông khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Franken Ha",
+    "rating": 5,
+    "review_text": "Ngon, giá nhà hàng. Ngày rằm, mùng một khá đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "xuan hieu nguyen",
+    "rating": 2,
+    "review_text": "Ship cho người ta mà hủ tiếu trụng còn cứng ngắt, vón 1 nùi. Để riêng, nước thì nguội. Ít nhất phải trụng mềm cho người ta chứ. Làm ăn hời hợt chán thiệt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nghia Nguyen",
+    "rating": 4,
+    "review_text": "Không gian nhỏ. Ngồi gần cầu thang chỗ nhân viên đi qua lại khá nhiều nên không được thoải mái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Phúc Thịnh Nguyễn",
+    "rating": 5,
+    "review_text": "Một nơi ăn ngon dành cho ai muốn tìm một quán chay chất lượng ở Sài Gòn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Trinh Nguyen",
+    "rating": 3,
+    "review_text": "Quán đẹp nhưng các món ăn chưa thực sự ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Kim Tuyến",
+    "rating": 5,
+    "review_text": "Khẩu vị ở đây khá ngọt kiểu miền tây, giá hợp lí mình đi 2 người gọi 2 mặn 1 canh 1 cơm ăn rất rất no"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Kim Thành Lê",
+    "rating": 5,
+    "review_text": "Không gian ấm cúng, nhân viên thân thiện, dễ thương, món ăn ngon, đa dạng , giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Cô Bé Búnk Boàk",
+    "rating": 5,
+    "review_text": "•\tNhân viên: Thân thiện, lịch sự, phục vụ nhanh và chu đáo.\n•\tMón ăn: Ngon, thanh nhưng đậm đà; hủ tiếu nước và hủ tiếu khô đều chất lượng; topping chay tự làm sạch và ngon. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Gửi Bảng Hiệu Đi Nước Ngoài",
+    "rating": 4,
+    "review_text": "Đồ chay ngon , nhưng sẽ đợi khá lâu vào những dịp rằm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thanh Thanh",
+    "rating": 5,
+    "review_text": "Mình mua goject mang về, chất lượng ổn, ngon và sạch sẽ nha mọi người. Bún thái dễ ăn nhất."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyen Huong Giang",
+    "rating": 4,
+    "review_text": "Thức ăn ngon miệng, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Harley Pham",
+    "rating": 4,
+    "review_text": "Hủ tiếu chay 45k/tô cũng được chỉ có điều bạn phục vụ bị gì đó, thấy ống đũa muỗng mà không lấy đưa khách để khách tự đi lấy 🥲 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "K Long",
+    "rating": 5,
+    "review_text": "Món ngon ( nay có thêm món bánh mới cực ngon )- quán nhỏ ấm cúng.... lên món ngày thường nhanh, riêng các ngày rằm thì đông quá tải nên phải ngồi chờ tầm 5p có chỗ ngồi.... Nhân viên phục các ngày rằm thấy cũng làm việc hết công suất nên có thể thông cảm.... sẽ ghé lại,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Phuong Trinh Le Tran",
+    "rating": 5,
+    "review_text": "Đồ ăn của quán ngon, không gian đẹp, có bán đồ chay siêu ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Andy Vũ",
+    "rating": 1,
+    "review_text": "Ngày chay nên đợi lâu, nhưng vào bàn 20p mới ra món, ăn hết món phụ mà vẫn phải đợi thêm 15p nữa mới ra Lẩu nấm ngọt, đi 2 người mà cho có chén nước chấm, không gian chật chội hơi xíu là đụng dô ng này người kia. Nhưng Đồ ăn thấy ăn cũng ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Khang Hao",
+    "rating": 1,
+    "review_text": "Nhân viên 1 sao. Lơ ngơ lơ ngơ, ko quan tâm khách. Tám chuyện không.\nĐồ ăn thì lúc này lúc kia.\nLên món thì lâu. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Quân Trịnh Quốc",
+    "rating": 5,
+    "review_text": "Món ăn ngon no căng bụng, không gian ấm cúng nhẹ nhàng, thích hợp cho gia đình dùng món. Nhân viên thân thiện, nhiệt tình. 9/10"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Uynn Ng",
+    "rating": 5,
+    "review_text": "Ngon cả nhà ơi. Nhân viên tư vấn tận tình, chuyên nghiệp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyễn Jamie",
+    "rating": 4,
+    "review_text": "Quán ăn ngon phục vụ tốt nhưng giá hơi chát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Lưu Minh",
+    "rating": 5,
+    "review_text": "Món chay ngon, ko gian sang trọng, ấm cúng menu phong phú. 5 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thiên Ý Nguyễn Đăng",
+    "rating": 5,
+    "review_text": "Bước vào quán khi khách còn chưa đông, yên tĩnh, nhẹ nhàng, thức ăn luôn ngon như lần đầu thưởng thức, thêm 1 vắt chanh, buổi sáng an yên chậm rãi nếm từng gắp hủ tiếu, muỗng nước dùng, cảm nhận hương vị lan tỏa trong khoang miệng, tai lắng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thai Nguyen",
+    "rating": 5,
+    "review_text": "Ăn hủ tiếu sa tế ở đây là ngon nhất, nên thử nhé bạn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Quốc Cường",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon. Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Vo Y",
+    "rating": 1,
+    "review_text": "Mình order đồ ăn ở đây ngày 08.08 , đặt tà hủ kho 75k canh hẹ 40k phần cơm thêm 20k - cơm vốn cục màu cơm đục như cơm nguội mấy ngày ! Thật sự không hiểu phần cơm 20k là mình order chứ không ăn xin mà đành lòng giao khách như vậy ! Trước đó …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thiện Hồ Bảo",
+    "rating": 5,
+    "review_text": "Quán phục vụ rất tốt, gọi đặt trước khi đến tất cả đã đâu vào đấy … sẽ quay lại vào  dịp tân niên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Tâm Replay",
+    "rating": 1,
+    "review_text": "Quán này em thiết nghĩ ngày chay nên tắt hết áp đặt đồ cái đó cũng là tích phước.  Chứ đơn hàng đợi 40p 1 tiếng rồi sao giao . Khách ăn cũng sót cả ruột"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Chi Nguyễn Huỳnh Lan",
+    "rating": 5,
+    "review_text": "Hủ tiếu chay rất ngon, nêm nếm vừa miệng. Nước nấu rau củ nhiều nên ngọt chất. Tô to, đồ ăn cũng nhiều nữa. Hoành thánh chiên giòn ngon xuất sắc, vỏ bọc dày giòn rụm chứ không phải vỏ mỏng như những nơi khác. Nhà mình xa chứ nếu gần thì chắc hàng tháng mình sẽ ghé đều đặn 2 lần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Kim Sang Lê Thị",
+    "rating": 1,
+    "review_text": "Bún bò chay có 2 miếng cà rốt, 1 miếng củ cải trắng, 5 miếng nhỏ nấm đông cô. Khách gọi bún bò sợi nhỏ, bếp làm sợi lớn, quản lý đổi lại bếp nó làm 1/2 phần. Nói chung bếp Lê văn sỹ quá ẩu. Là khách hàng thường xuyên gần nhà mà làm ăn kỳ quá. 😡😡😡 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Quang Sang Vũ",
+    "rating": 5,
+    "review_text": "Một trong những tô hủ tiếu chay ngon nhất mình từng thử. Nước lèo ngọt từ rau củ, topping đa dạng, giá cả lại hợp lý.Điểm cộng lớn là nước dùng thanh, không bị ngấy, rất hợp cho những ai thích ăn chay nhưng vẫn muốn hương vị đậm đà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thái Sơn Trần",
+    "rating": 5,
+    "review_text": "Món chay đa dạng phong phú. Tuy nhiên vị hơi nhạt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Trần Văn Hoà",
+    "rating": 1,
+    "review_text": "Quán thì Không gian ok, Nhưng gọi món lâu, mì quảng thật sự không ngon, 1 tô 54k, mắc nhưng phục vụ lâu quá, nên đổi cách phục vụ quán, Giá cả mắc phải đi đôi với chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyễn Thuỳ",
+    "rating": 1,
+    "review_text": "Quá tệ từ món ăn đến nhân viên, sẽ không bao giờ quay lại. Mình ăn lúc 21 giờ với gia đình, Hủ tiếu thì nước ấm không nóng, rau củ trong hủ tiếu thì còn cứng ngắt và không tươi. Quan trọng là tối về và qua sáng hôm sau cả gia đình tôi điều bị đau cổ họng. Quá thất vọng. Bảo vệ thì khách vào không nhìn lấy 1 cái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Tho Con",
+    "rating": 5,
+    "review_text": "Không gian yên bình, đồ ăn ngon, sạch, nguyên liệu tươi.\nMình thấy ở đây đi ăn lẻ hay đi nhóm đều ok. Nếu đi nhóm vài người gọi món thả ga giá rất mềm. Mọi thứ set up chỉnh chu, nơi đáng để lui tới :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Lien Pham",
+    "rating": 4,
+    "review_text": "Quán chuyên phục vụ các món chay. Khách mua về nhiều hơn là ăn tại quán."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyễn Thị Huỳnh Nghi",
+    "rating": 5,
+    "review_text": "Đã đến đây ăn nhiều lần, nhân viên nhớ luôn thông tin món ăn, quá là dễ thương. Chất luợng món ăn khỏi phải bàn, một phần no căng luôn, ai ăn chay thuờng xuyên nên ghé thử siêu đa dạng. Nay đi mưa mà còn đeo kín đuợc các bạn chủ động lấy khăn khô cho, đồ ăn nóng hỏi, combo ấm cúng dã mannnn!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Hà Thu",
+    "rating": 4,
+    "review_text": "Quán chuyên hủ tiếu nên có vẻ những món khác vị chưa thật sự ấn tượng.\nVề hình thức món ăn nào cũng được bày trên 1 cái dĩa rất to, trong khi phần ăn thì nhỏ. Vậy nên chiếm khá nhiều diện tích trên bàn ăn . …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Phúc Khanh Nguyễn",
+    "rating": 5,
+    "review_text": "Quán có bảo vệ, chỗ để xe rộng rãi. Không gian quán hạn chế, nhân viên nhiệt tình và vui vẻ, thức ăn ngon vừa miệng, thực đơn đa dạng.\nRất hài lòng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Le Phuong",
+    "rating": 5,
+    "review_text": "Mình hay ăn sáng ở đây, nước lèo thanh, trong. Mình ăn ko bị say bột ngọt. Món bún thái rất ngon. 1 lựa chọn ko tệ cho những người có thói quen ăn chay, detox."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Dyad Jay",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon , phục vụ chu đáo …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyễn Thái Phúc Minh",
+    "rating": 4,
+    "review_text": "Thức ăn ngon phục vụ chưa ổn lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thứ Trương Đình",
+    "rating": 4,
+    "review_text": "Phần ăn 44k hủ tiếu, 3k tiền hộp. 1 phần 47k như hình liệu có phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Lê Nguyễn",
+    "rating": 5,
+    "review_text": "Không gian đẹp. Mà ngày chay đông quá chừng. Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Triet Vo",
+    "rating": 1,
+    "review_text": "TỆ. TỆ và TỆ. Quan trọng nói 3 lần.\n\nĐi 2 người tối ngày 06/05/2025. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "oanh le",
+    "rating": 1,
+    "review_text": "25/6/2026 Nv nữ pvu ko niềm nở, giao tiếp ngang"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Phúc Khang 6/4",
+    "rating": 1,
+    "review_text": "Vào ăn mà khách ồn như cái chợ, nhân viên ko đến nhắc nhẹ , nhưng đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Anh Phạm",
+    "rating": 4,
+    "review_text": "Giá bình dân, hợp lý, phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyễn Thị Vân Thảo (Tara Nguyen)",
+    "rating": 5,
+    "review_text": "Vegetarian\nĂn chay cả tháng cũng ko hết món nhé các bạn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "John Nguyen",
+    "rating": 5,
+    "review_text": "Hủ tiếu chay ngon rẻ. Không gian nhỏ phuc vụ nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "22631563 Vo Thi Thanh Duyen",
+    "rating": 5,
+    "review_text": "Nay nhóm tụi tui đi 6 người trong CLB,mọi người trong đoàn muốn thử đi ăn chay để lành mạnh,cũng như bổ sung xíu vitamin rau trong cơ thể.Ý là vô tình thấy rất nhiều khách rcm thử Cây Đề,đặc biệt là chi nhánh LVS này,nên đi thử.Bị wow ấy mn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Hồ Nguyễn Uyển Nhi",
+    "rating": 5,
+    "review_text": "Tô gì mà to ứ ự\nVị ổn áp, không gian riêng tư khá phù hợp tiếp khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "TRUNG TÂM EDUGO",
+    "rating": 1,
+    "review_text": "Đậu xe ô tô khu vực xa ở quán vào ăn mà bảo vệ của quán thu  20.000 giữ xe. Không hiểu đường nhà nước đậu mà thu tiền xe như vậy có đúng hay không ??? Thật sự mất hứng thú khi đến quán này ???"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thúy Phạm",
+    "rating": 5,
+    "review_text": "đồ ăn ngon, hợp khẩu vị, nhiều món đa dạng, không khí ấm cúng, nên ghé dùng thử nhá mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Hòa Hiệp Phạm",
+    "rating": 3,
+    "review_text": "Hủ tiếu chay ngon, sạch sẽ và giá cả phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Canh Huynh",
+    "rating": 4,
+    "review_text": "Món ngon, vừa ăn, giá khá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Việt Hương Nguyễn",
+    "rating": 5,
+    "review_text": "Hủ tiếu chay & gỏi đều ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Anh Nguyen Hoang",
+    "rating": 4,
+    "review_text": "Đồ ăn ở đây đa dạng nhưng giá hơi cao và không gian nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Thu Le",
+    "rating": 5,
+    "review_text": "Mình đến quán tầm 12h cùng đồng nghiệp theo lời giới thiệu từ bạn , quán rất đông thức ăn có lên lâu nhưng nhân viên nhiệt tình chăm sóc và mang món , kèm theo thức ăn rất ngon , không gian rộng rãi rất xứng đáng giá tiền và trải nghiệm . Sẽ đưa vào danh sách quán yêu thích và quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Khánh Phạm Tây Ninh",
+    "rating": 4,
+    "review_text": "Cũng ngon , nhưng ko còn giống cảm giác lần đầu dc ăn nữa rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "son nguyen",
+    "rating": 5,
+    "review_text": "Địa điểm chay nổi tiếng sài gòn , mình được giới thiệu nơi này và rất đáng để thưởng thức . Mình đi 3 người vào tối , giá cả hợp lý , ko gian rộng rãi thoáng mát có máy lạnh , đồ ăn rất phong phú , phần ăn nhiều , nêm vừa vị lại rất đẹp mắt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "ViremY",
+    "rating": 5,
+    "review_text": "Mình mê các món cuốn và pad thái của quán. Nhân viên cũng dễ thương. Tuy nhiên bạn bè mình đánh giá là chỉ nên ăn ở đây vào ngày thường, vì vào ngày chay đông quán hay có vấn đề với đơn hàng của khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nana TN",
+    "rating": 2,
+    "review_text": "Mình thấy ko ngon.\n\n- hoành thánh chiên: giòn, nhân đậu xanh, món ổn nhất. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Trần Tấn Nhơn",
+    "rating": 1,
+    "review_text": "MẮC! RẤT LÀ MẮC\nNồi lẩu 330k được 1 dĩa topping 5 cục chả chay đông lạnh, nữa cây nấm kim châm và vài lát nấm khác,.. nói chung rất ít, topping không đa dạng, không có topping …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Mr TÈO",
+    "rating": 5,
+    "review_text": "Không gian hơi chật, có máy lạnh nên ko sợ ngày nóng. Hủ tiếu ngon, phục vụ ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Bich Nguyen",
+    "rating": 4,
+    "review_text": "Mình là khách quen hay ghé quán nhưng lần này mình hơi thất vọng. Mình gọi 1 phần gỏi miến thái mà nó chua dã man. Ăn miếng đầu mình đã thấy chua, nhưng vẫn cố ăn thêm thử xem sao. Kết quả là chua quá, mình ăn không được luôn. Mình nhờ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Loan Tran",
+    "rating": 5,
+    "review_text": "Thật diệu kỳ khi bé con nhà mình yêu thích món chay bởi vì quá ngon.\nCảm ơn anh chị đầu bếp đã làm món chay thanh lành ngon tuyệt 😋 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Triều Quốc",
+    "rating": 5,
+    "review_text": "Địa điểm lý tưởng cho gia đình mình trong thời gian tới . Không gian thoáng mát ấm cúng , thức ăn ngon , phục vụ rất dễ thương . Điểm cộng là các bạn tư vấn rất nhiệt tình . Nhà mình ăn chay thường xuyên nên chắc chắn sẽ ghé lại . Cảm ơn nhà hàng Cây Đề"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "CÁCH THANH",
+    "rating": 5,
+    "review_text": "Không gian quán ấm cúng, thoải mái, tạo cảm giác dễ chịu. Món ăn vừa miệng tuy nhiên chưa đa dạng lắm và bếp làm hơi lâu. Nhân viên phục vụ dễ thương, hiếu khách. Nên thử!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Kim Huỳnh Anh",
+    "rating": 5,
+    "review_text": "Ngon lắm. Món nào cũng ngon. Phục vụ chu đáo, nhiệt tình. Hài lòng nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Trần Tiến",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, không quá xuất sắc nhưng phù hợp với không gian máy lạnh mát mẻ và giá tiền hợp lí. Hủ tiếu tầm 50K hay sao ấy. Mấy món ăn cơm cũng ok, menu đa dạng lắm. Quán có hai ba chi nhánh gì ấy đi cái nào thấy cũng ok. Mà quán mới đổi menu hay sao ấy mình thích menu cũ hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyen Hoang Cam Thi",
+    "rating": 5,
+    "review_text": "Đồ chay ở đây rất đa dạng, vị món ăn khá ok, hợp khẩu vị, ngon miệng. Giá cả hợp lý.\nKhông gian quán có mở nhạc thiền nhẹ nhàng, thoáng. Thích hợp cho bữa ăn gia …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Lan Pham Thuy",
+    "rating": 3,
+    "review_text": "Ăn được, tùy khẩu vị, giá khá cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "khien je",
+    "rating": 5,
+    "review_text": "Không gian rộng rãi , bảo vệ nhiệt tình nhân viên vui vẻ chu đáo , mình dùng buổi tối quán khá đông nhưng phục vụ nhanh thức ăn ngon ko phải đợi lâu . 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Khanh Nguyễn Phi",
+    "rating": 4,
+    "review_text": "Quán decor đẹp mắt, món ăn rất là ngon, giá cả sẽ cao. Quán không gian hơi nhỏ và đông nên rất đông đúc lúc trưa mình ghé. Có thanh toán thẻ và chuyển khoảng và có cả trên shopeefood"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Chinh Kiều",
+    "rating": 1,
+    "review_text": "Nhân viên cứ lóng ngóng, vào trước 2 bàn, đi 1 mình 1 món mà ăn sau người ta, không hỏi lại là bỏ mình ngồi đó tới chiều lun quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Mia Thu Huong",
+    "rating": 5,
+    "review_text": "Quán giá cả hợp lý, lên món khá nhanh mặc dù ngày chay."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Hạ Trần",
+    "rating": 4,
+    "review_text": "Giá cả vừa phải không quá cao, hương vị vừa miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Nguyen Huy (HuynguyenSoftDEV)",
+    "rating": 4,
+    "review_text": "Nhìn cũng hấp dẫn, giá cũng tầm trung."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Minh Thư Lê Hoàng",
+    "rating": 5,
+    "review_text": "Mình khá hài lòng với không gian của quán, nhân viên nhiệt tình, món ăn cũng ngon, trang trí đẹp mắt. Mọi người nên ghé thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Khánh Minh Nguyễn",
+    "rating": 1,
+    "review_text": "Nhắm quán đông quá không phục vụ kịp thì ngưng nhận khách đi, làm món lâu quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Ngọc Huỳnh Lê",
+    "rating": 5,
+    "review_text": "Mình rất thích đồ chay ở đây. Phục vụ nhanh, đồ ăn ngon, nhân viên thân thiện. Có điểu vô đây wifi ko xài đc hay sao ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3175292dc8019545:0xe8c4f2a7b80a18ed",
+    "shop_name": "Hủ tiếu chay Cây Đề",
+    "user_name": "Hạnh Ng.",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, hợp khẩu vị\nDịch vụ tốt\nKhông gian nhà hàng hơi nhỏ, bàn ghế ngồi đặt khá sát nhau nên lúc đông di chuyển hơi chật..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Huệ Chân",
+    "rating": 5,
+    "review_text": "Hẻm 76 Hai Bà Trưng là điểm đến không thể bỏ qua với những ai mê ăn vặt. Nằm ngay trung tâm quận 1, con hẻm này có vô số món ngon giá bình dân, phù hợp với học sinh, sinh viên và dân văn phòng. Một số món nổi bật như bún thái, súp cua, bánh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Caroline Le Diary",
+    "rating": 4,
+    "review_text": "Gửi xe bên trong hẻm 10k, nếu ăn bên trong phải gọi thêm nc để uống vì không có chỗ ngồi. Chị bán phá lấu dễ thương, phá lấu ngon, đậm vị. Quán cơm chiên ở trước cổng cũng khá ngon, nước uống mình gọi trà tắc nhưng hơi chua. Không gian bãi giữ xe khá cũ, và hồi niệm mình thích nó, không khí mát mẻ, nhưng hơi có mùi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Lyn Vu",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon giá hợp lý trong bối cảnh, quận 1, cô chú phục vụ niềm nở dễ thương, trời buổi trưa hơi nóng, bà chị mình ngoài Bắc vào mê cái bánh canh cua oh lá la luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Demi's therapy Since 2008",
+    "rating": 3,
+    "review_text": "Hẻm hơi kiểu cổ, bán nhiều món bún bò, bún hải sản, bò kho, bánh canh cua...\n\nNhư kiểu chợ tập trung món ăn vậy, đa dạng nhiều lựa chọn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Chuyên gia nhà tắm Nguyễn Hữu Minh",
+    "rating": 3,
+    "review_text": "Hẻm Hai Bà Trưng thì rất quen thuộc với mình vì trước mình học ở gần đây nên chiều nào cũng ghé qua ăn trước khi đi học thêm️️️ Cái đáng chú ý nhất khi ăn ở đây là nhìn vào đã thấy không hợp vệ sinh rồi, nhất là những ngày mưa trong hẻm ẩm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Thao Nguyen",
+    "rating": 4,
+    "review_text": "Con hẻm nhỏ nhỏ mà quá chừng đồ ăn vặt luôn: bún bò, bún riêu, bún mích, bún Thái, bún thịt nướng, cơm chiên, bột chiên, mì xào, bánh bèo, bánh canh, ốc.... nhiều quá không biết chọn gì để ăn luôn vì cái gì cũng muốn ăn. So với trung tâm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Bien Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ở đây rất ngon nhưng chỉ bán từ 2h30 -3h đến khoảng 6 7h là hết à. Giá ổn, dao động từ 20 ~ 30k/phần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "THÀNH Tổ Ấm",
+    "rating": 3,
+    "review_text": "Đến hẻm lúc hơn 18h00 (vì đói quá chứ mình ko đánh giá cao đồ ăn vặt ở mấy Quận trung tâm lắm). Giờ này cũng ko còn nhiều gian hàng bán (~3-4 gian à). Nó là 1 con hẻm khá ẩm thẩm, nhiều vật dụng lụp xụp, tạo cảm giác không vệ sinh lắm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Quỳnh Thư",
+    "rating": 2,
+    "review_text": "Hẻm khá là nhỏ, đi vào giờ đông là vào được cũng khó.\nĐồ ăn đa dạng, nhưng quận 1 mà, giá cũng không rẻ, vị cũng bình thường, ăn được, không đậm đà. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Quyên Jasmine",
+    "rating": 3,
+    "review_text": "Trong hẻm nên giá rẻ hơn bên ngoài chút. Trong này bán nhiều món, tranh thủ đi từ chiều không sẽ hết sớm. Mua đồ ăn ra kêu nước để có bàn ngồi nha. Mới đầu vô nhìn hơi ghê, nên mặc giản dị khi đến thôi nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Viet Huong Nguyen",
+    "rating": 3,
+    "review_text": "Đồ ăn không ngon lắm nhưng được cái đầy đặn. Giá ổn chứ không rẻ. Có chỗ ngồi chung nhưng phải mua nước mới được ngồi. Ở khu này thì không trông chờ gì nhiều vào thái độ phục vụ và an toàn thực phẩm rồi. Nói chung đi trải nghiệm ngó nghiêng hàng quán cho vui thôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Hai Nguyen Hong",
+    "rating": 4,
+    "review_text": "Giá ổn. Ăn được.\nBắp xào trứng: 15k/hộp\nBún thịt nướng: 20k/hộp …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Kimphung Nguyen",
+    "rating": 4,
+    "review_text": "Hẻm có khá nhiều món, không gian ngoài trời nên sẽ nóng nếu đi vào buổi trưa. Gửi xe máy mất phí 10k. Thích hợp đi nhóm bạn nhỏ và không quá yêu cầu về hương vị thức ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "ping vonglai",
+    "rating": 4,
+    "review_text": "Giá đã lên cao nhiều so với trước đây, chất lượng món ăn cũng tạm ổn.\nCác món từ 25-30k, rẻ nhất là súp cua 15k. Gọi nước ở quán ốc để được sắp xếp chỗ ngồi. Ốc đồng giá 30k khá tươi và chế biến tại chỗ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Nguyen Huu Anh Vu",
+    "rating": 2,
+    "review_text": "Phần bột chiên 30k\nMuốn chỉ ngồi ăn nhưng ép kêu thêm nước chanh muối 15k\nKhông gian bụi bụi, có mùi hôi, style ngồi ăn vặt lẹ rồi đi, không thích hợp …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "nguyễn phú",
+    "rating": 3,
+    "review_text": "Nghe nói nhiều, vào ăn thử. Thức ăn cũng có thể gọi là rẻ, người bán cũng lịch sự. Ngon thì chắc cũng không ngon hơn những nơi khác. Đúng là có mùi hôi, gửi xe tốn 10k, muốn ngồi phải mua nước. Bản thân không ham quay lại lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Tuấn Duy",
+    "rating": 4,
+    "review_text": "Hẻm ăn vặt nổi tiếng nhất nhì sài gòn,lúc nào cũng đông đúc, thấy có món súp cua là nổi tiếng đặc trưng nhất, ngon mà rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Minh Anh Nguyen",
+    "rating": 5,
+    "review_text": "Hẻm này thì quá quen với học sinh gần đó rồi, mình ăn suốt ba năm thì ưng nhất là bún thái, cơm thái, canh bún với bún thịt nướng ở đó. Phần bún thịt nướng có 30k mà đồ ăn đầy ú ụ ăn hoài không hết, hơi dầu… nhưng mà ăn đã với giá tiền. Cơm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "minh phuong pham",
+    "rating": 4,
+    "review_text": "Một địa điểm ăn vặt khá hay, nhiều món để lựa chọn, giá cả bình dân, đồ ăn ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Duyen Tran",
+    "rating": 1,
+    "review_text": "TRẢI NGHIỆM TỆ TẠI HẺM 76 HAI BÀ TRƯNG, QUẬN 1 NGÀY ĐẦU NĂM 2023.\nTối 1/1/2023,mình cùng chồng ghé đến địa chỉ hẻm 76 Hai Bà Trưng để lót bụng. Theo review trên youtube, mình thấy hẻm này có nhiều quán ăn vặt và được nhiều bạn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Bình Nguyễn Thanh",
+    "rating": 1,
+    "review_text": "Mình đi với trẻ nhỏ, vào kêu món. Gọi món xong, ngồi vào bàn thì 1 bà đến hỏi uống nước gì nhưng nhà mình k uống (vì viêm họng và có đem nước suối), thì bà ấy nói: ngồi đây phải kêu nước uống! Với thái độ vùng vằng, khó chịu. Mình gọi 1 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Yunkirito Chan",
+    "rating": 4,
+    "review_text": "Đồ ăn cũng khá ổn\nMình gọi bún thái ⭕\nBạn mình gọi cơm chiên thì thấy được hơn mình⭕ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Phuc Tran",
+    "rating": 3,
+    "review_text": "Nằm trên đường Hai Bà Trưng quận, vào con hẻm nhỏ 76, sẽ có rất nhiều món ăn vặt nổi tiếng của Việt Nam, tôi thấy ở đây đủ các loại món ăn ngon và hấp dẫn, gồm gỏi bò, gỏi cuốn tôm thịt, bánh bọt lọc huế, cơm chiên trân châu, bún thái, bún …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "anh vuong",
+    "rating": 5,
+    "review_text": "Cũng khá nhiều món ăn, rẻ mà chất lượng, rất đông các bạn trẻ. Ăn hết phân nửa r mới chụp chứ ko phải có nhiêu đây thôi nha.\nChủ yếu là ăn trưa rồi mới lại nên hết bụng ăn mấy món khác. Tiếc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "ngọc yến lê thị",
+    "rating": 3,
+    "review_text": "Tôi tình cờ đi trên đường Hai Bà Trưng bắt gặp một con hẻm 76 rất đông các bạn trẻ ăn uống và check in. Tôi ghé vào hẻm 76 và dùng thử các món ăn vật ở đây, tôi phát hiện ra rằng các món ăn ở đây rất đậm bản sắc món ăn Việt Nam rất gần gũi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Huong nguyen",
+    "rating": 3,
+    "review_text": "đông đúc, vui vẻ, hiểm hóc, cũng là nét trong hành trình du lịch, thưởng thức văn hóa ẩm thực saigon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Trúc Nguyễn",
+    "rating": 4,
+    "review_text": "Nhiều món ăn vặt\nThích nhất là món súp trứng bắc thảo, ngon, giá hợp lý\nTốn phí gửi xe..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "trang nguyễn",
+    "rating": 4,
+    "review_text": "Hẻm này cũng được phí giữ xe 5k, nước bình thường trà tắc 15k; bún thái thì 35k, bánh khọt không biết tại ngày đó dở hay không nữa mà nếu mua nên nói cô đó chiên nóng lại vì cô làm sẵn lâu rồi nên ăn rất dở nha; nóng hơn thì chắc ăn đỡ hơn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Nga Lê Hiền",
+    "rating": 3,
+    "review_text": "Chỗ gửi xe chậc, ra vào khó. Trong hẻm bán nhiều đồ ăn nhưng ko ngon lém. Chấp nhận được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Annie Cyy",
+    "rating": 5,
+    "review_text": "Khu này kế văn phòng quận 1 giá cả phải chăng. Món bánh canh qua siêu ngon siêu rẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Đặng Chí Công",
+    "rating": 5,
+    "review_text": "bún 20k bao rẻ khu vực đất Q1, để có bàn ngồi thì dùng thêm nước chỉ 10k, mình thì ngồi ghé tạm thôi😁 giá các loại ở đây bình dân lắm🤗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Giang Nguyen Truong",
+    "rating": 5,
+    "review_text": "Phở Bò Viên, Bún Riêu, Cơm Tấm, cơm gà, Ốc đều ngon, hợp túi tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Thảo Ngân",
+    "rating": 4,
+    "review_text": "Đồ ăn vặt ở đây bình thường thôi. Giá ổn từ 10-35k. Trước cổng là cô bán chè các loại khúc bạch, trái cây, sương sáo. Vô trong là phá lấu, bánh khọt, há cáo, bánh tráng nướng (chị bán hàng dễ thương), đồ chiên,... Điểm trừ là mình gọi chè …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Trương Ngọc Nam",
+    "rating": 4,
+    "review_text": "Sài Gòn không quá khó khăn để tìm cho mình những con phố ăn uống, quan trọng chỉ là bạn đang thèm ăn gì mà thôi. Nếu còn đang không biết ăn gì ở quận 1 Hồ Chí Minh thì hãy ghé tới con hẻm 76 Hai Bà Trưng cực kì nổi tiếng – nơi được xem là …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "HẰNG N",
+    "rating": 3,
+    "review_text": "Tuy khu có nhiều món ăn vặt, nhưng m nghĩ khi đến nên hỏi giá trước và lựa chọn món trước khi đến. Trong khu có quầy, thấy cô chủ của quầy bán ốc hơi khó chịu, đến thì chú ý ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Thu Giang Ngo",
+    "rating": 4,
+    "review_text": "Nhiều món, rẻ, tầm 20k/phần, khá ngon nhưng quá ngọt với dân Bắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Hoàng Phạm",
+    "rating": 2,
+    "review_text": "Đồ ăn bình thường ó, chỗ ăn hơi bẩn và mùi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "S-BT Promotion",
+    "rating": 5,
+    "review_text": "* Hẻm Ăn Vặt 76\n* Đường Hai Bà Trưng, Q1\n* Đa dạng món ăn, đặc sản các vùng miền ( các bạn nên thử ăn món thịt nướng kim …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Kỹ Thuật Số VN",
+    "rating": 3,
+    "review_text": "Tạm ổn, đồ ăn được, ko gian chật chội, giữ xe quá mắc xe máy 10k :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Hung Nguyen",
+    "rating": 1,
+    "review_text": "Từ giữ xe tới ng bán hành động và nói chuyện thiếu ý thức\nKo dành cho những cặp cầm 100 trở xuống đi chơi\nKhông gian hẹp …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Rin Gamechannel",
+    "rating": 5,
+    "review_text": "Ở đây nhiều món giá lại phải chăng ngon lắm 🤩🤩🤩 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "gmail dangtoan0411",
+    "rating": 4,
+    "review_text": "Hẻm ăn vặt. Đó ăn ngon, không khí náo nhiệt. Có điều không biết chất lượng và vệ sinh an toàn thực phẩm ra sao thôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Nguyễn Thế Anh",
+    "rating": 5,
+    "review_text": "- Quán ăn sạch sẽ\n- chủ quán thân thiện, nhiệt tình, phục vụ rất nhanh\n- Giá cả phù hợp với chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Lam Lam",
+    "rating": 2,
+    "review_text": "Xe gỏi cuốn trước hẻm ăn rất dở nha mn ơi, nước chấm pha rất kỳ luôn á 🥹🥹🥹 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Minh Quy Ho",
+    "rating": 4,
+    "review_text": "Nên trải nghiệm, đồ ăn bình thường, vị trí dễ tìm nhưng hơi đông đúc lúc giờ cao điểm ( streetfood heaven, recommended to try )"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Tiến Trần Văn",
+    "rating": 1,
+    "review_text": "Bán hàng thái độ, Đồ ăn không ngon, Mất vệ sinh do đồ rác nhiều :(("
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Nhân Hồ Trung",
+    "rating": 4,
+    "review_text": "Món ngon, giá hợp lý, các cô chủ dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "HUỲNH TRI TÚC",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ : Gỏi cuốn, bò pía, bún mắm, bún riêu, bún măng vịt, ốc, ngêu, bánh bèo, chè, bánh lăn... Ẹc ẹc quá chời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Nhân Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon nhưng cũng khá đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Thư Phạm",
+    "rating": 1,
+    "review_text": "Đồ ăn thì dở, đắt. Hẻm thì hôi hám, dơ, bắt kêu nước mới cho ghế ngồi ăn, còn phải giữ xe mất 10k...Bà cô được gọi là chủ thái độ với khách tây lẫn ta."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Minh Nghiem Nguyễn",
+    "rating": 1,
+    "review_text": "Nhìn chung hẽm có vài sạp hàng bán gỏi cuốn, bún mắm, bún thịt nướng …. nhưng đồ ăn làm dơ, gỏi cuốn bị củ qua ngày, rau thúi bên trong ăn rất k tốt cho sức khoẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Mạnh Đức Nguyễn",
+    "rating": 4,
+    "review_text": "Mình có ăn bún hải sản đầu ngõ với món sủi cảo chiên trứng của ông chú ngồi bên trái.\nCả 2 món đều ok. Giá bình dân, vị nêm nếm vừa phải, dễ ăn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Long Pham",
+    "rating": 3,
+    "review_text": "Phá lấu đã nghỉ. Cơm đầu hẻm ăn ok. Dĩa như hình 35k, nếu ăn sườn thì miếng rất to, có cơm trắng và cơm chiên. Lưu ý quán chỉ có 1 bàn để ngồi. Trong hẻm thì bán nhiều món, nhưng kiểu hơi tối và ẩm thấp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "GiGi Wong",
+    "rating": 1,
+    "review_text": "Ko nên ăn đồ hẻm này nha, mất vs và mấy ng bán cũng rất khó chịu và hung dữ. Nhất là 3 ng bán: canh bún và hủ tiếu/bún măng ngay đầu hẻm nha. Bán cho mình tô múc sẳn từ đời nào, mình kêu cảm phiền đổi tô khác cho nóng thì dạy đời mình 1 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Cactus AZN",
+    "rating": 1,
+    "review_text": "English below.\nThức ăn hơi dơ, giá cả so với quận 1 thì cũng rẻ, vị tạm chấp nhận được. Đáng lẽ cho 4* nhưng thái độ của hàng bán nước làm mình cho 1*, liên tục đòi mình mua …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Vietnam AllXOne (IT X SERVICES)",
+    "rating": 1,
+    "review_text": "Đồ ăn cũng bình thường thôi. Nhưng để xe trong đó ngồi ăn mất 10k tiền vé xe và phải gọi thêm đồ uống nếu muốn ngồi trong đó ăn. Không gọi chắc ăn mấy viên mắt ᗫ.ạ.n của chủ quán nước. Sau nên ăn chỗ khác. Để xe thỏa mái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Trịnh Quang Sinh (Kim Sinh Tỷ Phú)",
+    "rating": 5,
+    "review_text": "hẻm nhỏ nhưng có nhiều đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Mee Mee",
+    "rating": 5,
+    "review_text": "Nhiều hàng, nhiều lựa chọn.\nTừ món nước cho đến món khô\nTừ món ăn no cho đến món ăn vặt. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "martin nguyen",
+    "rating": 4,
+    "review_text": "Rẻ, nhiều đồ ăn, gửi xe pải vô trong"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "NGUYEN TAN TRONG",
+    "rating": 5,
+    "review_text": "Bên trong một hẻm nhỏ nhìu người tập trung bán có ghế ngồi đông vào giờ trưa và chìu. Có gửi xe bên trong hẻm.mình và vtl hay chạy vào hẻm gửi xe mua đồ ăn xong hai đứa đem qua khuôn viên của wincom center có ghế đá mát mẻ ngồi ăn rất thoải …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "A Ng",
+    "rating": 1,
+    "review_text": "Hẻm hôi thối, mình vừa bước vào đầu hẻm thì đã nghe mùi hôi luôn, đi một vòng thì mình mua thử một phần mì phá lấu 35k, xong cô phá lấu cứ bảo mình là vào trong đi con rồi cô bê vào, phá lấu vừa bưng ra thì có một bé đến hỏi mình uống nước …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Nguyen OANH",
+    "rating": 3,
+    "review_text": "Món ăn rất đa dạng, giá mềm nhưng không đảm bảo vệ sinh an toàn thực phẩm. Ngoài quầy chè ngay trước cửa là sạch sẽ, các hàng quán khác tái sử dụng ly và ống hút súc rửa không vệ sinh!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Trí Nguyễn Minh",
+    "rating": 4,
+    "review_text": "Hẻm rất nhỏ nhưng đông đảo các món ăn đường phố được tụ họp ngay tại đây trung tâm quận 1 Sài Gòn, Không thể nào bỏ qua được một nơi nhiều đồ ăn thú vị như hẻm 76 hai bà trưng. Hẻm có chỗ ngồi và gửi xe bên trong có tính phí. Các món ăn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Thanh Mai Hà",
+    "rating": 5,
+    "review_text": "Trừ việc chỗ ngồi ăn ở cuối hẻm phảu mua 1 đồ uống hay gỏi khô bò rất dở thì đồ ăn trong hẻm rất ngon và hợp khẩu vị. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Liêm Bùi",
+    "rating": 5,
+    "review_text": "Đồ ăn khá ok . giá tạm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Ái Linh Lê",
+    "rating": 3,
+    "review_text": "Khu vực ẩm thực bình dân. Hầu hết đồ ăn hợp khẩu vị. Phía trong có quán nước, nếu mua nước có thể ngồi ăn luôn nhưng không phải mua gì cũng ngồi quán nước được. Khu vực chỗ ngồi quán nước khá cũ. Mua ở quầy nào thì nên hỏi rõ là có được ngồi ở quán nước không."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Ngọc Thư Huỳnh",
+    "rating": 3,
+    "review_text": "Có bánh canh cua, bún riêu, bánh khọt, thịt bằm nướng, bún thịt nướng, bánh tránh nướng, ... Có chổ để xe máy ở bên trong... Thức ăn ngon nhưng ít, giá trung bình... Chổ ngồi có mồi hôi vì thùng rác để ở kế bên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Kid_DG",
+    "rating": 1,
+    "review_text": "1 - Lần đầu cũng là cuối - không hợp vệ sinh - đồ ăn bình thường như xe đẩy dạo -  giữ xe 10k ( trong khi đó lại ăn bên lề) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Hai Son Phuong",
+    "rating": 3,
+    "review_text": "Giữa trung tâm đông đúc sang trọng q1 lại có xóm nhỏ ăn vặt giá bình dân như vùng ven. Khá lý thú. Các món ăn và tiện nghi chỉ phù hợp với sinh viên, hay người lao động thu nhập thấp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Lan Vy Đinh",
+    "rating": 4,
+    "review_text": "Món cũng nhiều nhưng chắc do mặt bằng q1 nên đồ ăn ít lắm 🤣🤣 ăn hết mấy trăm mà chả no gì. Có mỗi cái thịt lá lốt ăn với bún thì thấy ngon lại giá hợp lý. Có phí gửi xe nhé. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "lan hoang",
+    "rating": 4,
+    "review_text": "Đồ ăn cũng tạm dc. Phục vụ gắt như mắm tôm,  người ta gọi món thêm mà pv nói lần sau gọi thì gọi 1 lần, ủa gì vậy?.đâu phải quán đông là muốn nói sao thì nói, dạng ko cần khách?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Đức Nguyễn",
+    "rating": 5,
+    "review_text": "Nhiều món ăn giá trung bình 20k/món, nước uống khá đắt nhưng phải uống mới có bàn để ngồi ăn, giữ xe 5k/lượt. Nói chung đồ ăn rẻ ở khu vực quận 1."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Khiêm Huỳnh",
+    "rating": 5,
+    "review_text": "Hẻm rất là đông đông kinh khủng bán đồ thì rất là nhiều nhiều kinh khủng nhưng dơ thì dơ cũng rất kinh khủng vì đi trời mưa nên đường ướt nhẹp và hàng chục người dẩm lên rồi dích nước lên người nhau. Kiểu hợp tác kinh doanh như thế này thì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Tram Hoang",
+    "rating": 4,
+    "review_text": "Mình hem có chụp hình, chỉ nói với ai mún vô đây thì có chỗ gửi xe: mình đi lên đường sách gửi xe (10k/xe)  ,xuống đây ăn rồi lên đường sách chơi lun.\n2. Vô thẳng trog hẻm gửi 5k/xe …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "ALittle Quinn",
+    "rating": 3,
+    "review_text": "Nhiều món đa dạng, giá cũng tạm chấp nhận được ở Quận 1. Có chỗ ngồi nhưng nếu đi bao nhiêu người phải bắt buộc gọi bao nhiêu ly nước (đi 5 người gọi 4 ly là bị chửi, mặc dù nước bán có thể nói là dỡ) có mua nhiều đồ ăn thì vẫn bị bắt mua nước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Nga Tran",
+    "rating": 1,
+    "review_text": "Mình đến hẻm ăn vặt này vào tầm buổi chiều đông ơi là đông lun. Có nhiều người bán chung, mỗi người 1 món cũng đa dạng. Chọn tới chọn lui thôi mình chọn súp cua của cái chị ở gần lối ra vào. Còn bạn mình thì ăn phá lấu. Hoá ra muốn ngồi lại …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "HA THANH",
+    "rating": 3,
+    "review_text": "Thức ăn tương đối ngon, tuy nhiên điểm trừ là khi ngồi vào bàn phải kêu nước uống, 4 người thì 4 phần nước. Điểm trừ thứ hai là phải trả phí gửi xe 10k /xe."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Khải Trần",
+    "rating": 5,
+    "review_text": "Nhiều món ăn giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Tuấn Quang Dương",
+    "rating": 1,
+    "review_text": "Đồ ăn bth k quá ngon mà giá cao.\nGửi xe trong hẻm để ăn giá 10k như cắt cổ.\nGhé thử 1 lần và never ghé lần nửa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Thành Nguyễn Minh",
+    "rating": 3,
+    "review_text": "Quán cơ nhiều hàng quán đa dạng,  đồ ăn ngon giá cũng tương đồng nhau, nhưng có 1 số chỗ hơi mập mờ,  mua nên hỏi giá trước. Chỗ ngồi mưa không tới đầu, nước ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Thảo Thảo",
+    "rating": 4,
+    "review_text": "Nhiều đồ ăn. Bún thái, canh bún ngon. Hẻm hơn nhỏ và ẩm ướt, gửi xe bên trong hoặc đầu hẻm\nMua đồ ăn lại bạn ngồi phải kiu nước 😐 rất đông đúc. Mở cửa khoảng 3-4h. 7h nghỉ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Elegant Team",
+    "rating": 5,
+    "review_text": "Lạc vô đây rồi là đảm bảo không muốn về :))\nĐồ ăn phải nói là nhiều, đủ món ăn mặn đến món ăn ngọt.\nMấy cô bán hàng rất dễ thương, nhiệt tình. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Nhu Tuyet",
+    "rating": 5,
+    "review_text": "Mấy cô bán hàng rất dễ thương, nhiệt tình.\nMỗi món tầm 20k, ăn rất vừa miệng, không quá ngon.\nChạy xe vào trong hẻm giữ, có chỗ ngồi lại rất tiện lợi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f4889e28027:0xe26f3ab80d0b0d9f",
+    "shop_name": "Hẻm Ăn Vặt 76",
+    "user_name": "Lâm Phát Huỳnh",
+    "rating": 2,
+    "review_text": "Đồ ăn được chứ không ngon giá cả rẻ, nhưng hơi chật chội"
+  }
+]

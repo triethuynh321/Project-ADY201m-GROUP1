@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Trung Đức",
+    "rating": 5,
+    "review_text": "Quán ăn đẹp nhân viên rất nhiệt tình thiếu tấm hình của quán đăng tạm sr nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Tri Túc Nguyễn",
+    "rating": 3,
+    "review_text": "Quán lớn mặt tiền, đồ ăn bình thường nhưng giá khá cao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Quốc Tuấn Bùi",
+    "rating": 3,
+    "review_text": "Địa điểm đông đúc, ngay ngã 4 Amata, bệnh viện Đồng Nai. Quán lớn, mặt bằng rộng rãi..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Trong Nguyen",
+    "rating": 5,
+    "review_text": "Hải sản tươi sống. Luôn đông khách. Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "CUACONG SATCNC",
+    "rating": 5,
+    "review_text": "Nói chung quán này ăn được,  phục vụ chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Thiện Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ tận tình, món ăn ngon, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Hảo Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon, phục vụ đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nguyen Binh An",
+    "rating": 4,
+    "review_text": "Tất cả tuyệt vời trừ phục vụ khá hời hợt với khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "NGỌC KHANG PHÚ",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ tốt, đồ ăn tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Vu Vuong Quoc Bao",
+    "rating": 5,
+    "review_text": "Các món awn tương đối ngon, giá tương xứng với chật lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Việt Nguyễn Thế",
+    "rating": 3,
+    "review_text": "Ăn được, giá cả tương đối hợp lý, phục vụ tạm nhiệt tình. 6/10."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Thanh Bình Trần",
+    "rating": 4,
+    "review_text": "Đồ ăn tươi ngon, xe đậu dưới lòng đường hơi nguy hiểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "phuong le",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon. Giá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Linh ĐN",
+    "rating": 5,
+    "review_text": "Quán thoáng mát. Đồ ăn ngon. Hải sản khá chất lượng. Phục vụ okei <3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Hieu Truong Van",
+    "rating": 5,
+    "review_text": "Các món ăn ngon,,, hợp khẩu vị.. Sẽ tiếp tục ủng hộ quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Tiến Lên",
+    "rating": 1,
+    "review_text": "Hách dịch. Đi lấy tờ hóa đơn mà như đi ăn xin. Quá kém. Nếu không còn chỗ nào để ăn nữa thì nên đến đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Phùng Quốc Cường",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, thoáng mát, nhân viên nhiệt tình, ăn mặc good. hihi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Vi Sơn",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ.. Cơm ngon phục vụ tận tình lắm nha mn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "ngocdinh Tran",
+    "rating": 4,
+    "review_text": "Vị trí đẹp, đồ ăn ngon, nhân viên nhiệt tình.. Ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Truong An Nhien",
+    "rating": 3,
+    "review_text": "Quán rộng nhưng chỗ ngồi hơi chật. Hải sản ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "QUỐC HUY WINDOWS",
+    "rating": 4,
+    "review_text": "Thoáng mát  , đồ ăn chưa xuất sắc cần cải thiện hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nguyễn Vũ",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "tan tan khoa",
+    "rating": 4,
+    "review_text": "Ăn ngon phục vụ tốt rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Hùng Nguyễn Trọng",
+    "rating": 2,
+    "review_text": "giá thì đắt, phục vụ thì chậm. chán, hôm sau sẽ không ghé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Xuân Diệp Nguyễn",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon nhưng phục vụ còn chậm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "HUY TRAN",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, quán rộng rãi thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Trang Tran",
+    "rating": 3,
+    "review_text": "Đồ ăn bình thường mà 1 đủ loại nước chấm xếp đầy bàn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nguyên",
+    "rating": 4,
+    "review_text": "đồ ăn ngon, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "hoang anh nguyen",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon, đa dạng, rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Lập Phạm Đình",
+    "rating": 5,
+    "review_text": "Hải sản tươi sống, giá cả hợp lý, buổi tối ngồi mát mẻ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Thanh Le",
+    "rating": 5,
+    "review_text": "Phục vụ rất khuya đồ ăn ok nhất là cháo bồ câu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Long Nguyen",
+    "rating": 5,
+    "review_text": "Nơi thưởng thức những món ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Thành Lộ Lê",
+    "rating": 2,
+    "review_text": "Ngon những món ăn vừa miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Tuan Pham",
+    "rating": 1,
+    "review_text": "Quán phục vụ nhanh nhẹ.quan chưa được sạch sẽ lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Mr. Khây",
+    "rating": 1,
+    "review_text": "Mua 4 con tôm 300k, bắt cho 1 con tôm chết, chán quán quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Mập Hán",
+    "rating": 4,
+    "review_text": "Nhân viên niềm nở nhưng cần cải thiện hơn về phong cách phục vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nguyễn Hoàng Quốc Vương",
+    "rating": 5,
+    "review_text": "Có bạn tên uyên phục vụ hỗ trợ khách rất nhiệt tình chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Tăng Quốc Cường",
+    "rating": 4,
+    "review_text": "Quán bán đông khách, có phòng máy lạnh, giá cả phù hợp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nguyễn Đình Hưng",
+    "rating": 5,
+    "review_text": "Hơi ồn vì đông còn lại mọi thứ đều rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Thắng Đỗ Mạnh",
+    "rating": 5,
+    "review_text": "tai dây phųc vų các món ăn ngon hai san tuoi song"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Đức Thành Nguyễn",
+    "rating": 3,
+    "review_text": "Quán ăn quán nhậu bình dân. Nằm trên đường Đồng Khởi biên hòa đồng nai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Family Callan",
+    "rating": 4,
+    "review_text": "Quán ăn bình dân, đông nên phục vụ hơi lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "TRAN KHOA",
+    "rating": 4,
+    "review_text": "Ngon, rẻ phù hợp công nhân viên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nam Nguyen",
+    "rating": 4,
+    "review_text": "Ăn rồi . Khá là ngon nha mọi người"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "sanggiau bui",
+    "rating": 4,
+    "review_text": "Giá cả cũng hợp lý nhưng nhân viên chưa nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "BO BO",
+    "rating": 4,
+    "review_text": "Thức ăn khá ngon, nhưng khá đắt, không bình dân."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Tú Võ Anh",
+    "rating": 5,
+    "review_text": "Ngon, giá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Bùi Hiếu Thảo",
+    "rating": 5,
+    "review_text": "Đồ ăn ổn, đông quá, dịch vụ bt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Khánh Duy",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Ba Chanh Cao",
+    "rating": 5,
+    "review_text": "Phục vụ rất nhiệt tình , nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Oanh Luu",
+    "rating": 4,
+    "review_text": "Ngon, rẻ.  Hợp vệ sinh,  hải sản luôn tươi mới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "An Nguyễn",
+    "rating": 5,
+    "review_text": "OK ngon mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Minh Khiêm Nguyễn",
+    "rating": 3,
+    "review_text": "Nhiều món ngon, giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Ngọc Quý Nguyễn",
+    "rating": 4,
+    "review_text": "Hải sản tươi sống, không gian không quá rộng nhưng đủ thoải mái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Đoàn Phú Bình",
+    "rating": 4,
+    "review_text": "Thức ăn đa dạng. Chế biến ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "TRAN DUC DUNG",
+    "rating": 4,
+    "review_text": "+ Món ăn tươi, ngon\n+ Giá cả ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "pham van chuong",
+    "rating": 4,
+    "review_text": "Phục vụ tốt, giá hợp lí."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Chánh Nguyễn Trung",
+    "rating": 4,
+    "review_text": "Ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Cường TV",
+    "rating": 3,
+    "review_text": "Giá đắt với lại không gian chật khó chịu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Phat nguyen bui",
+    "rating": 4,
+    "review_text": "Phục vụ rất khuya.vị trí đông người qua lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Hảo Hán Vlog",
+    "rating": 4,
+    "review_text": "Quan rộng rãi nhiều món hải sản tươi sống"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Bin Giải Trí",
+    "rating": 4,
+    "review_text": "Có bà chị phục vụ rất chi là dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Đoàn Trung Diệp",
+    "rating": 5,
+    "review_text": "Phục vụ vui vẻ, nhiệt tình không quạo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Trai Ly",
+    "rating": 3,
+    "review_text": "Thức ăn không phù hợp, không có bãi đe xe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nguyễn Đoàn Giang",
+    "rating": 4,
+    "review_text": "Cũng ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nguyen Phuc Huy",
+    "rating": 4,
+    "review_text": "Giá vừa phải,  hải sản tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "VKT CA",
+    "rating": 5,
+    "review_text": "Quán đông khách, phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "hieu's log",
+    "rating": 3,
+    "review_text": "Giá hơi đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "TRẦN NGỌC NHƯ Ý",
+    "rating": 5,
+    "review_text": "Ngon và rất tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Tony Nguyen",
+    "rating": 4,
+    "review_text": "Quán rộng rãi, đồ ăn ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "tâm lê",
+    "rating": 4,
+    "review_text": "Ngon, giá hơi mắc do bán khuya"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Tuan Minh",
+    "rating": 5,
+    "review_text": "Ngon, giá hợp lý, nv nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Cuong Nguyenphi",
+    "rating": 3,
+    "review_text": "Cung không chuyên nghiêp lăm vê cach phuc vu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Cuong Vo",
+    "rating": 4,
+    "review_text": "Thực đơn đa dạng, mặt bằng rộng, dài."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "dao ngoviet",
+    "rating": 5,
+    "review_text": "Phục vụ nhanh, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Ocean Vui Vẻ",
+    "rating": 5,
+    "review_text": "Ngon nhưng ko rẻ đâu nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Thảo Trần",
+    "rating": 2,
+    "review_text": "Tạm ổn. Nhân viên chưa nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Công Định",
+    "rating": 3,
+    "review_text": "Nằm sát mặt đường chiếm hết vỉa hè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Toàn Đoàn Xuân",
+    "rating": 3,
+    "review_text": "Thuận tiện nhưng giá cả bây giờ hơi đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Hai Luong",
+    "rating": 3,
+    "review_text": "Phục vụ nhanh. Hải sản ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Tiến Hưng Trịnh",
+    "rating": 5,
+    "review_text": "Món ăn và cách phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Thùy Trần",
+    "rating": 3,
+    "review_text": "Lên món nhanh, vị ăn được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Hoàng Phạm",
+    "rating": 3,
+    "review_text": "Tạm gọi là có chỗ ngồi nhậu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "LAMINATE ANH KIÊM",
+    "rating": 5,
+    "review_text": "Quán ăn ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nghe -Nhìn - Hưởng Thụ",
+    "rating": 4,
+    "review_text": "Lên đồ hơi chậm chút, đồ ăn khá ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Thiện Trần",
+    "rating": 4,
+    "review_text": "Quán ăn cũng ok, giá rẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "TOÀN NGUYỄN VĂN",
+    "rating": 5,
+    "review_text": "Giá cả phải chăng, ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "hung bui",
+    "rating": 4,
+    "review_text": "Thích nhất món rau gỏi vịt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Lợi Lê",
+    "rating": 3,
+    "review_text": "Vị trí đẹp, đồ ăn bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Tuan Pham",
+    "rating": 4,
+    "review_text": "Ngon,rẻ,sạch sẽ thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Ho Khac Hieu",
+    "rating": 5,
+    "review_text": "Phục vụ tốt. Giả cả phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Duc hien",
+    "rating": 4,
+    "review_text": "Ok giá cả cung hợp lý.."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Bảo Nguyễn Long Quốc",
+    "rating": 3,
+    "review_text": "Quán nhậu món ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "HIẾU HẠNH HUỲNH NGỌC",
+    "rating": 1,
+    "review_text": "Cho em xin số dt của quán vs"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Dao Duc Quoc",
+    "rating": 4,
+    "review_text": "Quán lớn, view thoáng và tiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nhật Minh",
+    "rating": 5,
+    "review_text": "Ngon, sạch, phục vụ tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Thế Chính Nguyễn",
+    "rating": 4,
+    "review_text": "Chỗ ngồi rộng rãi, giá vừa phải."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Huy Nguyễn",
+    "rating": 5,
+    "review_text": "Ok dịch vụ tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Ngọc Long Nguyễn",
+    "rating": 5,
+    "review_text": "Món ngon phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Cuong Phanxico",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Văn Lành Võ",
+    "rating": 4,
+    "review_text": "Khá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Tân Phan",
+    "rating": 4,
+    "review_text": "Quán thoáng mát và sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "long duong hai",
+    "rating": 5,
+    "review_text": "Chưa trải nghiệm tặng 5 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Hai",
+    "rating": 5,
+    "review_text": "Quán ăn bình dân, thức ăn ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nguyễn Văn Trọng",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Nguyen hong duc",
+    "rating": 5,
+    "review_text": "Rộng rãi, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Diệp Quý",
+    "rating": 5,
+    "review_text": "Ăn được giá bn cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Hoai Nam Pham",
+    "rating": 4,
+    "review_text": "Phục vụ không tốt lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Dung Le Minh",
+    "rating": 4,
+    "review_text": "Dia diem ly tuong , fuc vu tot !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Thanh Tranvan",
+    "rating": 5,
+    "review_text": "Ngon hết sẩy..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Phong Tran",
+    "rating": 4,
+    "review_text": "Thức ăn và phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "nghia tran",
+    "rating": 4,
+    "review_text": "Cửa hàng đáp ứng khá đủ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "Mai Phương Vũ",
+    "rating": 2,
+    "review_text": "Thái độ nhânh viên ko tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dc39e42f4b27:0x9c30ab4ea593e0b3",
+    "shop_name": "Hải Sản Tường Vy 2",
+    "user_name": "TRÁNG ĐÀO CÔNG",
+    "rating": 4,
+    "review_text": "Ngon, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tran Minh Tuan",
+    "rating": 4,
+    "review_text": "Cá tươi, rau ăn kèm khá nhiều giúp đỡ ngấy. Phần nước chấm rất ngon nhưng phải tranh thủ ăn sớm vì để lâu dễ trở nên rất mặn. Một phần gỏi cá được cho khá nhiều cá. Món lươn um thì thịt lươn chắc, tuy nhiên chuối và đậu còn hơi cứng. Đi 3 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Hân Ngọc",
+    "rating": 4,
+    "review_text": "Nhóm mình ghé tầm 11h trưa, 5 người\n- Gỏi cá thì không hợp khẩu vị team mình lắm, nó hơi tanh nè, rau lá thì nhiều loại nhìn hấp dẫn, nước nhúng cá cũng là nước chấm luôn, sệt sệt kiểu có pate, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Phát Ngô Quang",
+    "rating": 5,
+    "review_text": "Gỏi cá Đồng Nai 1 – Hương vị dân dã đầy cuốn hút\n\nGỏi cá là một trong những món ăn đặc trưng của vùng sông nước miền Nam, và tại …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Linh Tran",
+    "rating": 5,
+    "review_text": "gói cá ngon, quán kiểu gia đình nên ít ng làm, gọi đồ thêm hơi lâu tẹo xong anh chị cũng hay quên nhưng tổng thể trải nghiệm ok. 2 người 1 phần gỏi cũng no nha, lúc đầu mình tưởng ít mà hông ít đâu 🙂‍↔️ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Doan Lap",
+    "rating": 5,
+    "review_text": "Gỏi cá Tân Mai sử dụng nguyên liệu chính là cá tươi cùng với các loại rau sống, nước sốt. Mỗi phần gỏi cá đều được cuốn trong bánh tráng, chấm vào nước sốt đậm đà làm từ gan, riềng, sả, hành phi, tạo nên cảm giác vừa béo ngậy vừa đậm đà, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Phương Nguyễn Minh",
+    "rating": 5,
+    "review_text": "Vị béo mặn khá ổn, có cả trứng cá rất to, không tanh, 2 người ăn 1 nồi gỏi cá không hết nổi nhưng riêng mình thấy không đặc biệt lắm, do có bạn ở HN vào chơi nên dắt đi cho biết, mực sate thấy hơi khét bề ngoài nhìn hơi chán nhưng vị khá …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Dang Hoang",
+    "rating": 4,
+    "review_text": "Gọi 1 gỏi cá điêu hồng giá 220k, chắc ăn không quen nên thấy vị cũng tạm,  có nhiều loại rau rừng ăn kèm.  Không gian cạnh bờ sông mát mẻ.  Quán gia đình,  bình dân nên có nhiều cha mẹ dẫn con đến ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Quỳnh Như",
+    "rating": 4,
+    "review_text": "Địa điểm mới rộng rãi hơn\nĐồ ăn vẫn tương đối ổn, rau ăn kèm gỏi hơi ít đa dạng hơn so với trước đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "0294_Đặng Đăng Khoa",
+    "rating": 5,
+    "review_text": "Quán phục vụ dễ thương, đồ ăn nhiều và ngon, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thanh Thanh Ta",
+    "rating": 4,
+    "review_text": "Lần đầu tiên được trải nghiệm món gỏi cá mai lạ như thế này. Đi từ Thủ Đức xuống tới Biên Hoà để thẩm e ấy qua sự giới thiệu dẫn dắt từ chị bạn. Ban đầu cứ nghĩ e ấy là 1 món gỏi cá như bao món gói ngó sen hay gỏi bồn bồn gì đấy, nhưng k E …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Nhi Phương",
+    "rating": 5,
+    "review_text": "Lần đầu tiên mình ăn món này thấy cũng ngon, lạ miệng. Gỏi cá tai tượng phần nhỏ là 220k, bánh đa 15k. Quán sát sông nên chiều tối ngồi siêu mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Nuna Jully",
+    "rating": 5,
+    "review_text": "2 tụi em chạy từ SG lên ĐN để ăn thử nhưng mà đồ ăn ngon nha quý dị. Mọi người nhất định phải thử gỏi cá, 10 đỉm hông có nhưng nha. Ăn xong trời mưa to quá trời mà 2 đứa đi lần đầu hông rành đường ra, được anh ở quán chạy xe dẫn đường cho tụi em ra luôn. Quá chời dễ thương ❤️ Tụi em nhất định sẽ ghé lại quán nhoa 🫶🫶🫶 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tuan Tran",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và giá ổn. Món gỏi cá signature như trong hình là 150k, phải 3 người ăn mới hết. Mình tới buổi trưa nên không khí rất nóng, vừa ăn vừa chảy mồ hôi. Lưu ý là nhà vs hơi dơ và nhân viên không tập trung"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Quỳnh Hương",
+    "rating": 5,
+    "review_text": "Bữa đó ăn Gỏi cá điêu hồng. Ngoài ra còn có 2 loại gỏi cá khác. Lần đầu ăn thử món gỏi cá này, khá lạ miệng. Nhưng ngon nha, đáng để thử lắm. Ăn đủ kiểu, ăn sống cuộn vs rau rồi chấm vs nước sốt còn nóng, còn kiểu khác thì nhúng vào nước …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Bác sĩ gia đình",
+    "rating": 5,
+    "review_text": "Gỏi cá tai tượng 220k/ phần, và lươn um chuối 200k. Ăn ngon, trong nước chấm có trứng cá.\nXe ô tô mini có thể đi vào. 8h tối chủ nhật là hết món."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Quang Minh Nguyen",
+    "rating": 5,
+    "review_text": "Đường vào quán đúng quanh co ngoằn ngèo luôn. Ai lần đầu đi nếu ko có GG map thì đố còn lâu mới vào được. Cái hẻm vào quán thì khá nhiều quán như Kim Yến, Tân Mai, Trung nhưng mình vẫn thích vào trong theo sự chỉ dẫn của 1 người bạn xem thế …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Ton",
+    "rating": 4,
+    "review_text": "Quán thoáng mát mẻ sát bờ kè, đồ ăn ngon nha, gỏi cá thì khỏi chê rồi. Anh chủ quán dể thương hỏi thăm nay ăn uống sao sao nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "minHu Nguyễn",
+    "rating": 4,
+    "review_text": "Quán khá yên tĩnh nằm cạnh sông bên kia là Cù lao nên chỗ ngồi tạm ổn. Đồ ăn khá ổn nhưng giá hơi cao so với mặt bằng và hình thức đầu tư của quán."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tue Nguyen",
+    "rating": 4,
+    "review_text": "Ngon nhưng mà phục vụ hơi chán, quán không thoáng mát lắm nên hơi ồn.\n\nCó chỗ đậu ô tô nhưng không lớn lắm, đậu được chừng 2 chiếc. Ra vào ô tô khó …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thuận Hồ",
+    "rating": 4,
+    "review_text": "Quán ăn ok, ngồi ngay bờ sông nên mát. Trưa thì hơi nóng. Có điều đường đi vô hơi nhỏ nhen, vừa 1 chiều xe hơi đi thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thịnh Hưng Đặng",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, nghe nói quán này người dân local hay ăn. Mình order gỏi cá diêu hồng ăn khá là lạ và thích, tôm sống cũng tươi ngon nữa. Tầm giá hơi cao do phần nhiều chứ không phải do đắt. Có điều đường vào quán hơi ngoằng ngoèo xíu nhưng mà không chê được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Rosie Zhou",
+    "rating": 4,
+    "review_text": "Lần đầu trải nghiệm đặc sản Đồng Nai - Gỏi Cá\n\nGỏi cá tươi, ăn ổn mà vị đối với mình hơi lạ nên chắc ko phải gu mình …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "HoaDNV Minh",
+    "rating": 4,
+    "review_text": "Quán đồ ăn ổn. Đồ ăn ra nhanh rộng rãi thoáng mát có điều đi xe hơi vô cực quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thành Trần Minh",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ nhiệt tình, nhìu khi đông phục vụ chậm tí nhưng vẫn ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Nhật Anh Nguyễn Lê Hoàng",
+    "rating": 5,
+    "review_text": "Quán này làm món gỏi cá đúng ngon, đánh giá theo quan điểm cá nhân thì hơn bên Kim Yến"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thủy Nguyễn Thu",
+    "rating": 4,
+    "review_text": "Lần đầu ăn thử gỏi cá đặc sản Biên Hoà\nMình đi 2 người kêu 1 gỏi cá tai tượng 220k, thêm 1 bánh đa 15k ăn rất no luôn.\nCá tươi, nước sốt chua nhè nhẹ của cà chua (anh chủ tự châm thêm khi thấy sắp …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Nguyễn Huỳnh Mai (黄梅)",
+    "rating": 5,
+    "review_text": "Goi ca phần nhỏ nhất là 220k, rau không tính tiền nếu gọi thêm. Nước sốt thơm ngon 🤤 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thanh Nguyễn",
+    "rating": 5,
+    "review_text": "Cá rất là tươi, phục vụ rất nhiệt tình. Món ăn lên nhanh nói chung là hiểu vì sao quán đông khách."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "An Nguyễn",
+    "rating": 5,
+    "review_text": "Gọi cá ngon , rất hợp khẩu vị , không gian mát mẻ\nBị ghiền gỏi cá ở quán này 👏🏻👏🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tuan Nguyen",
+    "rating": 5,
+    "review_text": "Món gỏi quá ngon, ngồi bàn ngay bờ sông mát mẻ là số dách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Như Hoàng",
+    "rating": 4,
+    "review_text": "Lần đầu ăn gỏi cá. Gỏi cá Không hạp lắm như cũng ngon\nCòn ếch xào lăn thì hơi nhạt và không được ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tuyết Nhung",
+    "rating": 5,
+    "review_text": "2 người ăn 1 phần này + thêm 1 cái bánh tráng + 2 lon nước nữa là no lắm nhen trời. vị nước chấm ngon lắm, đầy đủ lá ăn kèm, hổng uổng công tụi tui đi từ sg ra biên hoà để ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "xuantrinh laivan",
+    "rating": 3,
+    "review_text": "Mình từ nơi khác có xem trên toptop và đến trải nghiệm. Về cá nhân mình thì gỏi cá vị lạ, hơi mặn. Về dịch vụ thì anh chị rất nhiệt tình, giá hơi cao và trên menu cũng ko có giá, 220k 1 phần gỏi cá điêu hồng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thu Trang",
+    "rating": 5,
+    "review_text": "Quán nổi tiếng lâu đời ở Đồng Nai, đồ ăn ngon, giá rẻ, nhân viên dễ thương, quán view sông thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Linh Xíu",
+    "rating": 5,
+    "review_text": "Quán mát mẻ, đồ ăn làm nhanh. Thích bánh đa của quán lắm luôn 😜😜 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "TanKhoa do",
+    "rating": 5,
+    "review_text": "Quán đồ ăn ngon, phong cảnh thoáng mát\nPhục vụ chậm chút nhưng ổn\nSẽ quay lại lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Nguyễn Thị Hồng Nhung",
+    "rating": 5,
+    "review_text": "Quán ven sông rất mát, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Công Định",
+    "rating": 4,
+    "review_text": "Món ăn ngon, giản dị...vị trí ngồi sạch sẽ mát mẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Sound Hi Fi AudioNt",
+    "rating": 4,
+    "review_text": "Trãi nghiệm món gỏi cá ngon cùng tai tượng chiên giòn. Cả hai món đều cuốn bánh tráng. Ngồi bên bờ sông nước Đồng Nai.\nTới Biên Hòa nên đến nơi này. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "THfamilyN",
+    "rating": 5,
+    "review_text": "Không gian siêu thoải mái, tha hồ ngắm mặt trời lặn, đồ ăn ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "haily nguyen",
+    "rating": 3,
+    "review_text": "Quán ở bên sông khá mát. Gỏi cá tai tượng mình gọi phần 220k, quán cho khá nhiều rau ăn kèm.\nĐối với mình là người ở vùng khác tới ăn trải nghiệm thì mình thấy khá lạ miệng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Ly Nguyen",
+    "rating": 5,
+    "review_text": "ăn ngon. nhưng mới bị giải toả nguyên khu ven sông. không rõ quán dời về đâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thái Nam",
+    "rating": 5,
+    "review_text": "Đồ ăn giá cả ok. Quán gần sông khá mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Huỳnh Thanh Tùng",
+    "rating": 4,
+    "review_text": "Gỏi chế biến từ cá chép tươi, ăn cùng nhiều loại rau, chấm nước sốt được pha chế vị rất riêng. Rất nên thưởng thức khi ghé Biên Hòa. Ngon hơn khi ăn tại chổ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Ty TN",
+    "rating": 5,
+    "review_text": "ngon, 200k 1 phần 2 ng vừa đủ ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Long Đoàn",
+    "rating": 5,
+    "review_text": "Giá cả bình dân, thức ăn làm khá ngon, quán cạnh bờ sông nên rất mát.\nCuối tuần ra đây nhậu là hết ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Hung Dao",
+    "rating": 4,
+    "review_text": "Quán này đã có khá lâu, ưu điểm là nằm sát đường bờ kè buổi chiều rất mát, đồ ăn ổn, giá cả thì cũng bình dân và hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Sỹ Phạm",
+    "rating": 4,
+    "review_text": "Quán ăn ngon . Không gian bờ sông thoáng mát . Đường vô hơi khó kiếm tí ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Linh Hai",
+    "rating": 5,
+    "review_text": "Gỏi cá rất ngon nhưng phục vụ hơi chậm. View bờ sông yên bình và đẹp. Mặt trời lặn rất đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "LỘC DC",
+    "rating": 4,
+    "review_text": "Quán sát bờ kè, có mái che bạt lưới. chiều thì mát..mưa thì ko biết. 😂.. quán mở cửa đến 21h. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "DOAN QUOC HUY",
+    "rating": 5,
+    "review_text": "Món ăn dân dã đậm chất miền sông nước đồng nai. Tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Phuc Huynh Ngoc",
+    "rating": 1,
+    "review_text": "Gỏi cá chỉ tạm chấp nhận đc , lẩu thái thì quá chua , giá cả thì quá đắt so với chất lượng của món ăn\nKhông bao giờ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "làng chuột fc",
+    "rating": 5,
+    "review_text": "Chủ quán nhiệt tình\nĐồ ăn ngon giá cả hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "kiểm lâm",
+    "rating": 4,
+    "review_text": "Quán gỏi cá hơn 40 năm, ngon thứ 2 Đồng nai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Dong Phan",
+    "rating": 5,
+    "review_text": "Chị Chủ Quán Rất Nhiệt Tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "ARO ZONE",
+    "rating": 3,
+    "review_text": "Nâng cấp toilet lên quán ơi.\nVệ sinh dụng cụ lại cho sạch sẽ.\nĐồ ăn ngon nhưng các thứ kia kém quá."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tho Nguyen",
+    "rating": 1,
+    "review_text": "Quán rất tệ xe du lịch vào k được mà quán kêu vào được xong ép khách lấy đồ thái độ rất rất tệ k nên ghé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Wilber Le",
+    "rating": 1,
+    "review_text": "Tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Di Phan truong",
+    "rating": 4,
+    "review_text": "Cá và mực tươi. Vị ok. Giá ổn áp. Quán kế bờ sông mát mẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "HUU PHUC CHAU",
+    "rating": 5,
+    "review_text": "Gỏi cá ngon. Cứ thèm là phải chạy từ Sài Gòn lên Biên Hòa ăn cho đã. 🤤🤤 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Nha Tran Quang",
+    "rating": 5,
+    "review_text": "Món ăn ngon, lối vào khá hẹp xe oto đi khó khăn, đi xe máy thuận tiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Vương Mr",
+    "rating": 5,
+    "review_text": "Tuyệt vơi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Bình Lê",
+    "rating": 5,
+    "review_text": "Gỏi cá rất ngon nên thử 1 lần,mấy món khách bthuong"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Phan Thị Hồng Hạnh",
+    "rating": 5,
+    "review_text": "Quán ăn ngon không gian mát gần bờ sông .phục vụ được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thuận Vũ",
+    "rating": 5,
+    "review_text": "Quán đồ ăn ngon , sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tú Nguyễn",
+    "rating": 5,
+    "review_text": "Mát mẻ, đồ ăn tươi ngon , mực chiên siu tươiiii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "hong hoa nguyen",
+    "rating": 5,
+    "review_text": "Món ăn ngon, vừa miệng, mọi người nên thử 🤗 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "hoà minh",
+    "rating": 5,
+    "review_text": "Cũng ngon ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Đăng Nguyễn An Bình 4/18",
+    "rating": 5,
+    "review_text": "Món ăn gon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Phuc Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn rất ngon, mọi người nên thử ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Danh Nguyen thanh",
+    "rating": 1,
+    "review_text": "Quán nhỏ , xe hơi vào ko dc , phục vụ tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tung Tran Thanh",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Nguyen Dinh Phung",
+    "rating": 5,
+    "review_text": "Món ăn truyền thống vị ngon nổi tiếng từ lâu , vị gia truyền."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Bảo Ngọc Nguyễn",
+    "rating": 4,
+    "review_text": "Món ăn ngon , giá bình dân , rất tốt 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Trangsupinsuhi Trangsupinsuhi",
+    "rating": 5,
+    "review_text": "Quá ngon,nhân viên chất lượng 10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Dũng Nguyễn Tiến",
+    "rating": 5,
+    "review_text": "Thoáng mát lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tấn Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon giá cả hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "hoang bao",
+    "rating": 5,
+    "review_text": "đã ăn nhiều lần, chất lượng vẫn như xưa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Nguyen Huy",
+    "rating": 5,
+    "review_text": "Ngon bổ rẻ mát mẻ nice"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tuấn Phạm",
+    "rating": 5,
+    "review_text": "Sát bờ sông, mát mẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "thai nguyenvan",
+    "rating": 4,
+    "review_text": "Quán ăn nhỏ, món khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "phong le",
+    "rating": 5,
+    "review_text": "Ghé lại quán đã từng ăn 25 năm trước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "DAVID HUYNH",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, mát mẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "dung nguyen",
+    "rating": 5,
+    "review_text": "Món ăn ngon, mà đường khó đi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Trần Thành",
+    "rating": 5,
+    "review_text": "Ngon, rẻ nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Miu Cherry",
+    "rating": 1,
+    "review_text": "Giá cả không đi đôi với chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Kim Tham Tran Thi",
+    "rating": 3,
+    "review_text": "View chill, gỏi cá tạm ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Hong Vy Nguyễn",
+    "rating": 5,
+    "review_text": "Gỏi cá nhứt cái nách, xuất sắc 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Phung Vo",
+    "rating": 5,
+    "review_text": "Ok hết mat me thoải mái đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Son Truong Van",
+    "rating": 1,
+    "review_text": "Ăn được, ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Hòa Phạm",
+    "rating": 4,
+    "review_text": "Ổn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Công ty Palang Cầu trục Nhật Hàn",
+    "rating": 5,
+    "review_text": "Quán ăn rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tú Võ Anh",
+    "rating": 5,
+    "review_text": "Ngon, lạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Ân Nguyễn",
+    "rating": 1,
+    "review_text": "Đá quá dơ hành tây ch chín"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Yupoong VN",
+    "rating": 5,
+    "review_text": "quán ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tien Hung Ngo",
+    "rating": 4,
+    "review_text": "Quán đổi địa chỉ từ bờ sông, đồ ăn okay, gỏi cá ăn được. Nếu ngồi ở bờ sông thì tốt hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thinh Vu Ngoc",
+    "rating": 5,
+    "review_text": "Ngon, quán local"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Nguyen Sang",
+    "rating": 5,
+    "review_text": "Quán bán gỏi cá đồng nai ngon, mình thường ghé ăn. Nên order trước hoặc ăn trước 7h30 8h tối, vì quán không nhận khách trễ . Nên lựa chọn cung giờ dưới 7h tối là phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thảo Đặng",
+    "rating": 5,
+    "review_text": "Ngon ! nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Thuy Trang Pham",
+    "rating": 4,
+    "review_text": "Ăn cũng vừa vị, cá cắt dày nha nhúng lâu chín xíu hoi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Mai Tuyet",
+    "rating": 5,
+    "review_text": "đồ ăn ngon chủ quán vui vẻ nhiệt tình xuât sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Tâm Đặng",
+    "rating": 5,
+    "review_text": "Quán ngon phục vụ nhiệt tình . Quán quá ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "TỬ VĂN",
+    "rating": 4,
+    "review_text": "Đồ ăn tươi. Tuy nhiên không có gì quá ấn tượng.\nQuán nằm ngay nghĩa trang Tân Mai. Taxi vẫn vào được và chờ ở đầu hẻm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Duy Tân Tống",
+    "rating": 5,
+    "review_text": "Gỏi cá tai tượng ở đây ngon lạ miệng, thịt cá chắc sừng sực, nước sốt thịt đậm đà ăn kèm bánh đa hết sẩy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Prudential Thanh Duy",
+    "rating": 3,
+    "review_text": "Nhóm mình từ SG đến ăn thử, ăn được nhưng không quá ấn tượng. Không như nhóm mình mong đợi, chấm 6/10. Được cái quán phục vụ tận tình. Quán kiểu gia đình, hơi nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Ji Sup Kang",
+    "rating": 4,
+    "review_text": "Nay ăn thử quán mới mà thất vọng ghê...trước ăn bên quán kia vừa rẻ msf nước sốt rất đậm đà.Ăn là dính liền mà nay muốn thử qua quán này xem sao mà thất vọng ghê nước dùng ngang nvang không đậm đà.Giá cao mà khẩu phần lèo tèo...mất công đi tận Sài Gòn tới mà buồn ghê....tuy nhiên quán rộng thoáng mát và phục vụ nhanh nhẹn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Jaedong Shin",
+    "rating": 4,
+    "review_text": "Một nhà hàng nằm dọc theo sông Đồng Nai. Món sashimi cá nước ngọt được trộn với gừng, mè và các nguyên liệu khác, cuốn trong lá rau và ăn kèm với nước chấm. Nước chấm thậm chí còn ngon hơn cả sashimi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Daniel Huỳnh",
+    "rating": 5,
+    "review_text": "Món cá nấu canh rất ngon. Nhưng đường đến đó bằng ô tô thì quá khó đi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Oskar Sakaev",
+    "rating": 5,
+    "review_text": "Nhất định phải thử khi đến Đồng Nai."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Nguyễn Hoàng",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Hop Phan",
+    "rating": 4,
+    "review_text": "Người yêu thích ẩm thực"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3174dffb7e8271f5:0xee3e041fee4b16b1",
+    "shop_name": "Gỏi cá Đồng Nai 1 - Tân Mai",
+    "user_name": "Chien Nguyen",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Tran Bao",
+    "rating": 1,
+    "review_text": "Mới mua ly sinh tố dâu cam với ép thơm , kêu làm ngọt mà làm chua không chấp nhận nổi , như không  bỏ đường vậy đó . Nhân viên thì vừa làm vừa chơi game , không lo làm làm thì sai yêu cầu rồi sao mà uống nổi. Kinh doanh buôn bán mà thiếu trách nhiệm quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Nguyen Thanh",
+    "rating": 5,
+    "review_text": "Lần đầu tiên uống sinh tố mà phần đá ít hơn phần trái cây. Mấy chỗ khác toàn đá không thấy trái cây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Nhân Tiết",
+    "rating": 1,
+    "review_text": "Lần nào mua cũng mang cục tức trong người , nói mua lần này là lần cuối coi có thay đổi gì không , tới mua thì khách tới sau người ta về hết trơn còn mình đứng chờ cả buổi không ai thèm hỏi , tới lúc la lên chửi tụi nó tụi nó mới bắt đầu …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Gia Nguyễn",
+    "rating": 1,
+    "review_text": "Quán tệ vler\nKhách ngồi uống nước lại yêu cầu xin dời bàn liên tục\nThanh toán ck cho quán đóng thuế thấy m"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Tuan Thanh",
+    "rating": 1,
+    "review_text": "Siêu bẩn . Chưa mấy quán nào bẩn v mua 2 ly nước 70k lấy ly đã sửa dụng bán khách . Dù đã cảnh báo trước là lấy ly mới nhưng vẫn lấy ly cũ ngkh đã dùng bán cho khách …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Ngọc P",
+    "rating": 5,
+    "review_text": "Sinh tố ngon, nhưng nên mua ít ngọt vì dù mình dặn ít ngọt rồi vẫn thấy hơi ngọt so với khẩu vị. Chanh leo xoài, dâu chuối và dừa cà phê rất đáng thử. Ở đây cho mix nhiều món với nhau. Nhưng nên mua vào buổi sáng (Sáng có 1 cô đứng tuổi bán sẽ thân thiện và nhanh nhẹn hơn, buổi tối có 2 bạn nhân viên trẻ hơi chậm chạp và lơ là)."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Lucie",
+    "rating": 5,
+    "review_text": "- My friend recommended this restaurant, I've been there a few times\n- The quality is also ok\n- It's too crowded so the restaurant collects money before delivering the food …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Hải Đăng Trần",
+    "rating": 4,
+    "review_text": "Một quán sinh tố khá nổi tiếng ở khu vực Bình Thạnh.\nQuán ngoài vỉa hè, lộ thiên 100% nên rất thoáng mát, đổi lại là trời mưa thì không ngồi được. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Châu Bảo Nguyễn",
+    "rating": 1,
+    "review_text": "Rất tệ nha. Mình order 4 ly nước mà chờ hơn 20p vẫn chưa có mà trong khi đó những khách đến sau đã có nước uống rồi. Lúc sau hỏi thì nhân viên trả lời là rớt bill. Thật sự lúc ấy mình ko hiều nổi luôn á. Rất tệ nha mọi ng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Út Mót ĐTV-C03",
+    "rating": 1,
+    "review_text": "Sinh tố cực kỳ tệ; nhân viên thì hách dịch, bất cần khách; Lấn chiếm ra tận đường nhưng chưa thấy xử lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Linh K' Su Tơngklòng",
+    "rating": 1,
+    "review_text": "600 Điện Biên Phủ 07/08/2025: (Mình cũng là bên mảng dịch vụ chăm sóc khách hàng mình xin góp ý đôi điều). 23:25 Đầu tiên vô quán, nhân viên không chú ý đến khách, gọi món 23:30 đã thanh toán trước khách đến sau và khách mua mang về. 23:45 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Dung Pham",
+    "rating": 1,
+    "review_text": "Sinh tố quá dở. Chất lượng ngày càng đi xuống .  Mình mua ly sinh tố dâu, đã dăn bỏ ít đá, làm đậm đà . Nv thì ờ ờ ko dặn pha chế mà đi hút thuốc .. thua.\nPha 1 ly sinh tố nếm 3 lần . Tại sao ko làm theo định lượng chuẩn cho ngon\nCuối cùng đem ly sinh tố toàn đá vs nước .. nhạt nhẽo ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "2685_ Châu Thị Quế Trân",
+    "rating": 1,
+    "review_text": "Mua 2 ly ( sinh tố bơ- ép dưa lưới ) 70k thật sự không đáng. Không bao h quay lại ở đây. Nhân viên cà rỡn, không ra oder cho khách. Đứng tuốt trong quầy vọng ra hỏi uống gì. Trong khi hồi lâu mua có anh nv niềm nở ra oder nhiệt tình chu đáo ( 12/4 )"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Phuoc Tran",
+    "rating": 4,
+    "review_text": "Sinh tố bình dân, đầy đủ các loại nước ép sinh tố.\nSize lớn 25k/ly.\nMọi người nên uống thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Hoan Bui",
+    "rating": 1,
+    "review_text": "Dơ dáy . Bà già nói chuyện vô lí . Siêu bẩn thiểu 1 ly dùng ly cũ của khách khác rửa lại bán tiếp . Ly tiếp thì mang ra có con ruồi con trung trong\nLàm nước có dơ hay s thì mình chấp nhận …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Minh Huy",
+    "rating": 1,
+    "review_text": "mấy bạn nhân viên buổi tối làm ăn đúng chán, 28k cho ly nước ép mà như vậy. bình thường mình hay mua buổi trưa mấy cô bán nước ép nhiều hơn nữa ly nhiều.\nMà hình như là tuỳ tâm trạng nữa thì phải vui thì mấy bạn cho nước ép nhiều …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Cao Văn Sơn",
+    "rating": 4,
+    "review_text": "Sinh tố Vân địa chỉ mới 600 Điện Biên Phủ nằm đối diện Pearl Plaza Văn Thánh. Trái cây ở đây tươi nên uống rất ngon. Menu phong phú, đa dạng cho mọi người lựa chọn. Nhân viên nhiệt tình, nhanh nhẹn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Bình Nguyễn Thanh",
+    "rating": 5,
+    "review_text": "Đồ uống ngon, đa dạng, không gian sạch sẽ, giá cả hợp lý khoảng 25k một lu, ngồi nhìn xe qua lại cũng rất chill, mình sugest quán này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "binh xitrumhamy",
+    "rating": 4,
+    "review_text": "2 quán gần nhau,quán cô chín và quán vân.quán cô chín sinh tố 20 k,nước ép lựu 30 k,cà rốt 20 k.nghe teen nói lại thì cô chín ngon hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Giang Lê",
+    "rating": 5,
+    "review_text": "30k cho ly sinh tố chất lượng\nBạn nào muốn ra ngắm phố phố, nhìn xe qua lại thì đây là địa điểm lý tưởng.\nPhục vụ cũng tùy bạn, có hôm gặp trúng bạn ko để tâm lắm. Khách đến ngồi cả buổi bạn vẫn chưa ra hỏi khách uống gì."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Anh Pham",
+    "rating": 1,
+    "review_text": "Ngồi chờ 1 tiếng chỉ để 2 ly nước , đã trả tiền trc quán chỉ lo bán manh đi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Thai Pham",
+    "rating": 1,
+    "review_text": "Sinh tố dâu quá tệ,kêu làm ngọt nhưng đem ra uống thì nhạt và đá còn chưa  nhuyễn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Mỹ An Cao",
+    "rating": 2,
+    "review_text": "Quán làm lâu quên món. 1 ly sinh tố dâu đem về bắt đợi 30p"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Joe Adex (Tuan)",
+    "rating": 1,
+    "review_text": "LẦN ĐẦU CŨNG NHƯ LẦN CUỐI.Mình và bạn mình có ghé quán mua 2 ly nước ép,nhạc thì mở cho To vào,xong mình nói đang đau họng cho e ýt đá nha chị.không thấy trả lời ,mình sợ không nghe mình dặn lần nữa.Xong quay qua nạt trừng mắt:nghe rồi anh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Tài Phạm",
+    "rating": 2,
+    "review_text": "Quán cần xem lại khâu order., mình đến mua order trước nhưng lại nhận sau cùng. Người đến sau lại nhận trước, đợi mỏi mòn 30P có hơn.. quán xem xét lại.. đồ uống thì k vấn đề. Nhưng tâm trạng lại ảnh hưởng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Pham Vu Tuyet Ngan",
+    "rating": 1,
+    "review_text": "Không vệ sinh an toàn thực phẩm, mọi người né giùm nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Thảo Nguyễn",
+    "rating": 1,
+    "review_text": "Nước ép thơm dở tệ, còn cáu trong ly, ko lọc sạch bã."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Vo Thanh Nhan Pham",
+    "rating": 1,
+    "review_text": "ghé mua ly sinh tố thấy hơn 6p chưa có nên hỏi thằng đứng pha chế thì nhăn mặt khó chịu cầm sốc bill lên nói cả đống đơn nè , xong đưa cái ly sinh tố dâu mà em thề là nó nhạt bảo đảm 100% k thể nào trên 3-4 trái dâu , chắc tại hối nên pha chế ghét :))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Gia Khánh",
+    "rating": 4,
+    "review_text": "Quán sinh tố vỉa hè dễ kiếm, có chỗ gửi xe ngay quán. Menu nhiều món siêu đa dạng, giá tầm 25k-35k/món.\nTuy nhiên làm hơi chậm & đồ uống bị khá ngọt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Ly Ngoc Nhu Y",
+    "rating": 1,
+    "review_text": "Nước cam 28k mà ko đc đầy ly ko dc ngọt uống cứ như 1 trái cam xong pha nước lọc vào. Uống 1 lần ko quay lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Tony Nguyen",
+    "rating": 4,
+    "review_text": "Một trong những tiệm sinh tố dọc đường Điện Biên Phủ, gần cầu Sài Gòn với nhiều loại sinh tố nước ép lhasc nhau, ly bự, sạch sẽ, giá khá mềm (25k)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Hyun Dương",
+    "rating": 1,
+    "review_text": "Kiu k đường nhiều sữa mà làm ít sữa. Sto toàn đá k s uống má"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Hoàng Mai",
+    "rating": 1,
+    "review_text": "Đặt grab dặn ít đường đá sữa , nhận về 1 ly đầy ắp , đầy đá , sữa , k thấy mùi bơ , cần chất lượng chứ k phải số lượng, k phải cứ ly nhiều to là ngon, hoặc do nguyên liệu k ngon nên dùng đường sữa để át vị bơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Lương Vũ Bằng",
+    "rating": 1,
+    "review_text": "sinh tố nước ép quá dở nhân viên thái độ là những gì quán này có quán nước thì mắc chả được cái gì nhân viên thái độ từ thg nhỏ đến bà chủ eo kinh nước thì có ruồi rồi bồ ngóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "P.N Gia Bảo",
+    "rating": 1,
+    "review_text": "1 số nhân viên có thái độ xấc láo, ko hiểu sao vẫn chưa bị đuổi hay thiệc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Lê Hoàng Thơ Nguyễn",
+    "rating": 3,
+    "review_text": "Mình tới quán, nhân viên order và đã thu tiền khách xong ngồi chờ 30p hơn mới có nước, trong khi đó các bàn vô sau mình thì đã lên nước rồi. Mình chờ lâu sốt ruột hỏi nhân viên tận 3,4 lần, nhân viên gật đầu \" để em hối cho ạ \" nhưng kết quả vẫn phải chờ rất lâu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Tuyết Trần",
+    "rating": 1,
+    "review_text": "không bao giờ uống lại lần 2 quan gi nước thi lam dơ kieu gi nhân viên nhu lz mặt nhăn như ai lam gi no v á chê nha !!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Love TheGame",
+    "rating": 5,
+    "review_text": "Ăn xong uống nước là y bài haha, Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "yejin",
+    "rating": 1,
+    "review_text": "Sáng sớm ngày lễ đặt sinh tố nhóm, shipper mới gọi xác nhận xong, xuống dưới nhà rửa mặt cái gọi đổi món hết món mình chưa kịp nghe ( cách 5 phút)\nMua sinh tố Vân n lần rồi nhưng chưa lần nào  tệ đến mức này. Sáng sớm nói …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Trâm Anh Vũ Thúy",
+    "rating": 1,
+    "review_text": "nước dở sinh tố uống bị đắng, thái độ phục vụ thờ ơ rất ko hài lòng, đưa nước cho khách như quăng cho khách z, không bao giờ tới chỗ này nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "To Minh Nhat Vincent",
+    "rating": 1,
+    "review_text": "Ngon nhưng làm đơn mà để cho người mua trước đợi rất lâu, người mua sau về cũng hết trơn. Thái độ và cách làm việc thiếu chuyên nghiệp, đồng thời đơn không được làm như yêu cầu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Tran Bao",
+    "rating": 5,
+    "review_text": "Sinh tố ngon, giá cả hợp lí. Ngồi hơi nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Thanh Le",
+    "rating": 5,
+    "review_text": "Sinh tố ngon bổ rẻ kính mời các bạn gần xa ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Chinhpham Pham",
+    "rating": 4,
+    "review_text": "Sinh tố Vân có nhiều loại để lựa chọn giải khát, sinh tố và nước ép là chủ yếu, tuy nhiên bạn cũng có thể yêu cầu mix hai loại với nhau tùy theo sở thích, giá 25k/ly. Ngon ngon vừa khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Elise",
+    "rating": 5,
+    "review_text": "Sinh tố ngon, giá cả hợp lý, phục vụ tốt, các bạn rất dễ thương, nếu bạn nào không thích uống ngọt có thể nói lúc order thì sẽ đc làm ly sinh tố bớt ngọt nghe."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Annie Le",
+    "rating": 5,
+    "review_text": "Uống chỗ này đc hơn 7 năm rồi đó. Tuần nào cũng xuống mua 2 ly sinh tố sapoche dặn cho thêm tí cafe. Mọi người rất vui vẻ và thân thiện. Mình mua cũng mấy năm trời mà giá tăng một chút cũng mới đây thôi. Tối ở đây sẽ có để bàn cho bạn nào …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Khánh Phương",
+    "rating": 4,
+    "review_text": "nước ngon mà mấy bạn nhân viên ở đây biểu cảm chán đời quá, mình biết lúc xay sinh tố và nước ép rất mệt nhưng mà thái độ vui vẻ tí với khách hàng khó lắm ạ?\ncó lần mình mua gặp một chị nhân viên mặt buồn bực với nói chuyện cộc lốc, trải …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Ngô Hoàng",
+    "rating": 1,
+    "review_text": "96% có pha nước lọc vào để đầy ly nha các bạn, ép thơm quá tệ, lạt nhách nhưng cặn quá trời, rát ngay. Nói chung quá tệ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Trinh Beii",
+    "rating": 1,
+    "review_text": "Đã từng mua nhiều lần. Nhân viên bán hàng nói chuyện cọc cần thái độ với khách.Mình mua hàng trả tiền đàng hoàng chứ đâu lại xin đâu mà ăn nói với khách như người ta ăn hết của nhà mình vậy.Chê nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Đoàn Ngọc Đan Nhi",
+    "rating": 1,
+    "review_text": "Nhân viên phục vụ thái độ với khách hàng vào lúc 20h42 ngày 15 tháng 04 năm 2025"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "NgKhNguyen91",
+    "rating": 4,
+    "review_text": "Sinh tố, nước ép giá tạm được\n."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Vinh siêu cấp",
+    "rating": 1,
+    "review_text": "Ly nước 25k đưa 200k rồi thối 125k mình kêu thối thiếu mình 50k mà bảo thối đủ rồi làm mặt khó chịu ủa ủa bán nước hay đi ăn cắp vậy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Lan Tran",
+    "rating": 2,
+    "review_text": "Sinh tố ngon, tươi nhưng vệ sinh hơi kém, nv mang găng tay thối tiền làm dơ găng tay rồi cầm trái cây ép nước, vậy việc mang găng tay giữ vệ sinh đồ ăn còn tác dụng gì nữa 🙄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Nghĩa Bùi Trọng",
+    "rating": 1,
+    "review_text": "Bán quá chậm, nhân viên thái độ, nói chuyện cộc lốc, nhỏ mà mặt xấc xấc lấc cấc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Minh Nguyễn Duy",
+    "rating": 1,
+    "review_text": "Hạt sapoche nó đâu có nhỏ mà lần nào cũng bị tình trạng xay luôn cả hạt, uống nó khó chịu gì đâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Keep Walking",
+    "rating": 4,
+    "review_text": "Siêu cam, bà chị bán 1 ly cam ép bốn quả cam, uống ngất ngây con gà tây lun :). Điểm trừ là hok đc vệ sinh lém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "sg heathotel",
+    "rating": 5,
+    "review_text": "Nước ngon, 56k 2 ly"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Vị Nguyễn",
+    "rating": 1,
+    "review_text": "Để số điện thoại gọi thì báo k đúng số vậy để làm gì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Quỳnh Thơ Cao Dương",
+    "rating": 1,
+    "review_text": "Sinh tố dở. Cộng thái độ phục vụ siêu tệ. Đừng ai đến nha :)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "KimThuan",
+    "rating": 1,
+    "review_text": "Làm quá ngọt, đã note ít sữa nhưng vẫn làm sai, làm sai món"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Duc Dinh",
+    "rating": 5,
+    "review_text": "Sinh tố mình uống nhiều chỗ ở Sài Gòn mà vẫn thèm chỗ này nhất! Ngon lắm luônn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Duc Tin Pham",
+    "rating": 5,
+    "review_text": "Uống ở đây cũng hơn 2 năm. Ly lớn giá tốt và chất lượng. Nên thử ép cóc ngon tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Dương Thanh Phong",
+    "rating": 5,
+    "review_text": "Quán có chỗ ngồi mát mẻ, sinh tố ngon. Nên thử món sinh tố bơ xoài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Nha Thach",
+    "rating": 5,
+    "review_text": "Ngon sạch sẽ phục vụ tốt nhiều loại Sinh tố Nước ép trái cây tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Phú Tân Nguyễn",
+    "rating": 1,
+    "review_text": "Anh em chú ý nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "q u i n g u y e n",
+    "rating": 4,
+    "review_text": "Nước ép sinh tố giá ổn, ly nước to,\nVị đậm đà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Luân Nguyễn",
+    "rating": 3,
+    "review_text": "Quán để đồng giá 20k lúc tính tiền 25k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "dinh huy nguyen",
+    "rating": 1,
+    "review_text": "Sinh tố ngọt quá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Hoàng Dân Phạm",
+    "rating": 2,
+    "review_text": "Nước ép thơm có vị bánh tráng trộn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Quý Media",
+    "rating": 5,
+    "review_text": "Sinh tố Bơ + Dâu. Nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Nana Komatsu",
+    "rating": 4,
+    "review_text": "Sinh tố toàn sữa đặc, k ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "HUY GAMINGTV",
+    "rating": 1,
+    "review_text": "Thái độ nv ncc lỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Tung Nguyen",
+    "rating": 1,
+    "review_text": "Chất lượng kém nhưng thái độ mất dạy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Nhàn Nhã Ngọc",
+    "rating": 5,
+    "review_text": "Sinh tố 24/7 ngon tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Tracy Truong",
+    "rating": 5,
+    "review_text": "Khá dễ tìm. 25k một ly"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Quốc hoài Nguyễn",
+    "rating": 5,
+    "review_text": "Oke lắm. Luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Anh Thuong Vo",
+    "rating": 1,
+    "review_text": "Quán làm vừa dở vừa mò vừa dơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "T Hà",
+    "rating": 1,
+    "review_text": "Kém chất luợng ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Vic Nguyen",
+    "rating": 3,
+    "review_text": "Uống dc thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Tuyết Vân Bùi Thị",
+    "rating": 1,
+    "review_text": "Mới mua nước ép cam về mở ra đã thấy 2 con ruồi bên trong rồi thật sự quán làm ăn quá tệ 1 ly 30k mà làm ăn như vậy thì quán nên coi lại nha , kêu làm ngọt uống vào rất là chua nói thiệt lần đầu tiên mua uống thử trải nghiệm rất là tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Seanny J",
+    "rating": 4,
+    "review_text": "Bạn sẽ luôn được chào đón bởi một bà chủ khó tính và cậu con trai hút thuốc của bà ấy, nhưng đồ ăn thì rất ngon. Đồ ăn được bán rất nhanh nên trái cây luôn tươi. Họ cho khá nhiều đường vào theo mặc định, vì vậy nếu bạn muốn uống không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "salah saleh",
+    "rating": 5,
+    "review_text": "Nhất định phải thử. Tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Maxwell Hackmann",
+    "rating": 5,
+    "review_text": "Quán sinh tố ven đường. Rẻ, tươi ngon, tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "J",
+    "rating": 5,
+    "review_text": "Ngon nhất... cả về hương vị lẫn số lượng... và dong gia 20k..👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Anh Trai",
+    "rating": 4,
+    "review_text": "Đồ uống đường phố. Đây là một địa điểm nổi tiếng trong khu vực này!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "Daniel Li",
+    "rating": 4,
+    "review_text": "Sinh tố tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752990d51a835b:0x4bf9a290792b23f6",
+    "shop_name": "Sinh Tố Vân",
+    "user_name": "anthony thientri",
+    "rating": 5,
+    "review_text": "Tốt và rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Huỳnh MAI",
+    "rating": 1,
+    "review_text": "Mua 1kg nho đen - lớp trên cùng cuống xanh cứng đẹp - lớp thứ 2 trái rụng nhưng vẫn cứng - lớp cuối cùng 200g nho đỏ khác loại mềm xèo …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Đạt Phan",
+    "rating": 1,
+    "review_text": "Hộp cherry 1kg mua về 40% quả bị mềm và nhạt, không được mở hộp để kiểm tra nên chỉ lựa cuống xanh, nhưng vẫn vị mềm, nhạt?"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "450 S",
+    "rating": 5,
+    "review_text": "1 địa chỉ quá phù hợp cho các tín đồ trái cây, ở đây có đủ các loại trái cây ngoại nhập xịn mà giá rẽ hơn hẳn các siêu thị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tấn Nguyễn Văn",
+    "rating": 5,
+    "review_text": "Mình vừa mua 1 giỏ trái cây ở cửa hàng 775 trần xuân soạn, trái cây tươi ngon, giá cả hợp lý, nhân viên hỗ trơ nhiệt tình, mình sẽ tiếp tục ủng hộ nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tuan Luong",
+    "rating": 5,
+    "review_text": "Nay  sáng mình có ghé cửa hàng q7 mua nho đỏ nhìn tươi ngon giá lại hợp với túi tiền nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "0125_ Phan Nguyễn Trinh Thư",
+    "rating": 5,
+    "review_text": "Mình rất thích mua nho bên đây , cuốn xanh tươi , nho thì giòn ngọt . Nhân viên tư vấn rất dễ thương . Hôm mình đi mua gặp bạn nhân viên trên Thùy tư vấn nhiệt tình , hổ trợ mình lựa trái cây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nha Le",
+    "rating": 5,
+    "review_text": "Hoa Biển đa dạng về trái cây tươi nhập khẩu thật tuyệt vời khi tôi biết đến Hoa Biển, ngoài trái cây ra còn rất nhiều loại đồ khô bánh kẹo và đồ đông lạnh cũng khá là phong phú..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Uyên Lý Phượng",
+    "rating": 1,
+    "review_text": "Đi mua trái cây mà tưởng đi tìm mẹ không á, tính làm mẹ tao hả NHÂN VIÊN QUÁT KHÁCH LA LÀNG. Mua trái cây mà không cho lựa hàiiii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thi Huong tran",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon, giỏ quà đẹp. Nhân viên tư vấn nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Ngọc Vũ",
+    "rating": 5,
+    "review_text": "Giỏ quà đẹp, nhân viên thân thiện với giá cả hợp lý, sẽ ghé mua nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Dinh Quy",
+    "rating": 5,
+    "review_text": "Sẽ ủng hộ nhân viên vui vẻ nhiệt tình trái cây ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Như Nguyễn",
+    "rating": 5,
+    "review_text": "Trái cây tươi, ngon. Mình đã mua ở đây nhiều lần, các bạn nhân viên đều chọn hàng cho mình rất kỹ, chịu khó tư vấn cho khách. Shop giao hàng bằng Ahamove nên còn cập rập, mong shop cải thiện hơn trong tương lai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Mỹ Uyên Phạm",
+    "rating": 1,
+    "review_text": "Nhân viên đứng Quầy Thanh Toán Thái độ giọng mẹ giữ ạ\nMấy bạn khác làm việc chân tay bưng bê mà có thấy thái độ mệt như bạn đâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thị Hiếu Lường",
+    "rating": 5,
+    "review_text": "Trái cây tươi, giá cả ổn. Thường xuyên mua ở đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "TT Nguyen",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình, trái cây tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nhi Đặng",
+    "rating": 1,
+    "review_text": "Trái cây không tươi nhưng giá lại rất cao nha  vị thì không giống như trên live quảng cáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tuấn Anh Lê",
+    "rating": 5,
+    "review_text": "Trái cây tươi, ngon, sản phẩm đa dạng rất vừa ý. Nhưng giá lên xuống chóng mặt nha shop ơi 😂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Gemini's",
+    "rating": 5,
+    "review_text": "Mình cảm thấy rất hài lòng về cửa hàng, trái cây thì tươi, nhân viên thì thân thiện. Sẽ quay trở lại ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "oanh huynh",
+    "rating": 1,
+    "review_text": "1 trái lựu gần 99k mua về không ăn được, nt shop không thấy được phản hồi, hơi hụt hẳn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tiên Trần",
+    "rating": 3,
+    "review_text": "Chất lượng ko được như trước , nhân viên tỏ thái độ nếu khách tới lựa hàng giảm giá. Cherry ăn rất dỡ, ko giòn cũng ko ngọt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Phu Nguyen Thien",
+    "rating": 4,
+    "review_text": "Ở đây có nhiều loại trái cây cũng như thực phẩm nhập khẩu. Gói quà nhạn nhẹn. Giá cả hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "thanh khiết hồ mai",
+    "rating": 5,
+    "review_text": "Trái cây thật giá thật, đa dạng hàng hoá bánh kẹo, luôn tin tường Hoa Biển"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tiến Khoa",
+    "rating": 5,
+    "review_text": "Nay cuối tuần mình có ghé chi nhánh 775 cửa hàng nay trưng bày nhiều sản phẩm nhìn rất đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "haiduong tranminh",
+    "rating": 5,
+    "review_text": "Mình có ghé ch q7 đặt 2 giỏ trái cây trang trí đẹp và giá phải chăng nữa 5*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Phạm Bích",
+    "rating": 5,
+    "review_text": "Trái cây chất lượng mà giá phải chăng. Nhân viên nhiệt tình, thân thiện. Sẽ ghé ủng hộ tiếp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Đức Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên Siêu Dể Thương và Thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Kin Nguyễn",
+    "rating": 5,
+    "review_text": "Cửa hàng trang trí trưng bày nhìn rất ok đa dạng sản phẩm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Lê Huyền Trang",
+    "rating": 5,
+    "review_text": "Nhân viên rất thân thiện, các mặt hàng phong phú. cửa hàng hay có chương trình sale sốc phù hợp với túi tiền của tui. Nói chung rất hài lòng 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Giàu Trần Ngọc",
+    "rating": 5,
+    "review_text": "Trái cây nhiều, đa dạng, rẻ nhiều khuyến mãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tính Nguyễn",
+    "rating": 5,
+    "review_text": "Shop bán trái cây tươi ngon , giá hợp lý , nhân viên dễ thương , sẽ ủng hộ tiếp ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "duong nguyen",
+    "rating": 1,
+    "review_text": "Buôn bán lớn mà quá ép tài xế , hàng quá cỡ vẫn muốn tài xế chạy . Nhân viên Duy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Vo Ngoc Dang",
+    "rating": 5,
+    "review_text": "nhân viên dễ thương , trái cây rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Giang Vũ",
+    "rating": 5,
+    "review_text": "Trái cây tươi ; giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Trâm Bảo",
+    "rating": 5,
+    "review_text": "anh chị nhân viên nhiệt tình dth, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "an hien tran nguyet",
+    "rating": 5,
+    "review_text": "Cửa hàng có nhiều loại trái cây nhập khẩu. Nhân viên nhiệt tình vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Khanh1980 Huynh",
+    "rating": 5,
+    "review_text": "thường mua ở đây vì trái cây rất tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Anh Minh",
+    "rating": 5,
+    "review_text": "trái cây chất lượng giá cả phải chăng nhân viên thân thiệt tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Quyên Trần",
+    "rating": 5,
+    "review_text": "Trái cây tươi,chất lượng lắm nhen."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tài Nguyễn",
+    "rating": 5,
+    "review_text": "Trái cây ngon giá rẻ gần nhà sẽ ủng hộ lâu dài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "nhatphi nguyen",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon, sẽ ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "chau kimthuy",
+    "rating": 5,
+    "review_text": "Trái cây nhập khẩu siu ngon,rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thy Hoàng",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình quá chời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "thanh khương nguyễn",
+    "rating": 5,
+    "review_text": "Trái cây rẻ , đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Hà Thanh Nguyễn",
+    "rating": 1,
+    "review_text": "Gửi đến chủ hoặc quản lí của cửa hàng\nKhông xét về sản phẩm , nhưng kĩ năng xử lý vấn đề của nhân viên quá TỆ\nKhách biết đến các bạn qua website , thì khi đến không có sản phẩm trên web thì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Binhson Le",
+    "rating": 5,
+    "review_text": "Mình có ghé cn q7 mua Cherry  nhìn rất tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Duyên Mỹ",
+    "rating": 5,
+    "review_text": "Em thích trái cây ở đây lắm, nhân viên cũng dễ thương nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Võ Phong Phú Đoàn",
+    "rating": 5,
+    "review_text": "Nhân viên thận thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Phúc Trần",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon , giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tuyết Mai Ngô",
+    "rating": 5,
+    "review_text": "Nhiều trái cây, giá rẻ, được dùng thử, có giao hàng tận nơi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "ThaiVu Ngoc",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon giá  hợp túi tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thị Hiếu Lường",
+    "rating": 5,
+    "review_text": "Giá cả cũng okila, khá đông khách nv cũng nhiệt tình giới thiệu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thành Lý Phạm",
+    "rating": 5,
+    "review_text": "Trái cây chất lượng uy tín ạ. Mua rất thường xuyên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Phong Huỳnh",
+    "rating": 1,
+    "review_text": "Trái cây ngon .Nhân viên tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "HÁN VĂN BÀNG",
+    "rating": 1,
+    "review_text": "Trái cây hư, phá giá, giá cao xúc phạm tài xế. Khách hàng không nên mua."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "kimsa1704 mèo",
+    "rating": 5,
+    "review_text": "Trái cây tươi ,giá cả phải chăng\nSản phẩm đa dạng ,mình thấy như siêu thị mini ,Sẽ ủng hộ lâu dài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "trang7701 nguyen",
+    "rating": 5,
+    "review_text": "Trái cây ngon, nhân viên nhiệt tình thân thiện🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Khương Đỗ",
+    "rating": 5,
+    "review_text": "Trái cây ngon rẻ hàng hóa đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Lộc Nguyễn",
+    "rating": 5,
+    "review_text": "Chất lượng dịch vụ tốt, các em dễ thương. Chúc shop buôn may bán tốt 👌🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Louis Nguyen",
+    "rating": 5,
+    "review_text": "Shop bán trái cây tươi, nhân viên nhiệt tình hỗ trợ cho mình rất tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Trinh Huỳnh",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon , giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Đạt Huỳnh",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Hiền Nguyễn",
+    "rating": 5,
+    "review_text": "Shop làm giỏ đẹp trái cây tươi nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nhà Oanh Anh Uyên",
+    "rating": 5,
+    "review_text": "Khách hàng thường xuyên ở cửa hàng, giá cả rất phải chăng và trái cây tươi ngon nên rất hài lòng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thu Hiền Phạm",
+    "rating": 1,
+    "review_text": "Mình là khách đã từng mua hàng của Hoa Biển rất nhiều lần, không lần nào bill dưới 800k. Thường mình hay mua ở Hoa Biển Premium Tân Bình, trải nghiệm rất tốt và nhân viên nhiệt tình, trái cây chất lượng. Nhưng hôm nay trải nghiệm tại Hoa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Ngọc Đặng",
+    "rating": 5,
+    "review_text": "Giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Hao Tuan",
+    "rating": 2,
+    "review_text": "Bán táo đóng khay mua về chuột ăn nữa nữa hết rồi . Sợ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nhung Chau",
+    "rating": 5,
+    "review_text": "Cherry tươi ngon, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Rei Tr",
+    "rating": 5,
+    "review_text": "Trái cây ngon, nhân việt nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Diep Nguyen",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon bổ rẻ 👍👍👍 Duyệt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thị Vân Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Sản phẩm hài lòng\nNhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Hoàng Đoàn",
+    "rating": 5,
+    "review_text": "Trái cây rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tấn Tài Trịnh",
+    "rating": 5,
+    "review_text": "Trái cây rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Hoàng Hiệp Trần",
+    "rating": 5,
+    "review_text": "Sản phẩm chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tham Le Thi Hong",
+    "rating": 5,
+    "review_text": "Trái cây rẻ mà chất lượng, đa dạng mẫu mã."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Quỳnh Như Nguyễn",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt đồ lúc nào cũng tươi mới hết nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tuấn Hoàng",
+    "rating": 5,
+    "review_text": "Trái cây tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Lương Trần Hiền",
+    "rating": 5,
+    "review_text": "nhân viên phục vụ việc tốt.và vui vẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Hoàng Trần",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Mai Nguyễn",
+    "rating": 5,
+    "review_text": "Trái cây tươi, giá tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Khang Phi",
+    "rating": 5,
+    "review_text": "Nay mình có ghé ch q7 mua giỏ trái cây nhìn giỏ rất là oke 5*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Vy Tranthao",
+    "rating": 1,
+    "review_text": "Đến cửa hàng mua trái cây mà bị nhân viên tỏ thái độ khinh thường khách hàng , mình mua đàng hoàng chứ không xin xỏ mà còn thái độ kiểu đó đó . Đăng bài lên trang fb thì bị gỡ liền . Mình đến mua nhiều lần chứ cũng k ít nữa là =)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tuan Nguyen",
+    "rating": 5,
+    "review_text": "Trái cây rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "YZF Hiếu Huỳnh",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, nhân viên thật kỹ tính\nTuyệt vời❤️❤️❤️❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tâm Trần",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Anh Linh",
+    "rating": 1,
+    "review_text": "Thái độ bán hàng cực kỳ tệ. Chất lượng tươi ngon của hàng thì ở tầm trung ko phải xuất sắc gì.\nIb mua hàng thì trả lời, ib phản hồi về chất lượng hàng ko tươi ngon thì lặn mất tăm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Cầm Lâm",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình 5☆"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Khánh Quốc",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Khái Trần",
+    "rating": 5,
+    "review_text": "Trái cây tươi giá hợp túi tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Cuong Luu",
+    "rating": 5,
+    "review_text": "Nhiều món giảm giá sốc 5*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "duyên nguyễn",
+    "rating": 5,
+    "review_text": "Trái cây rất ngon nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Huu Phu Huynh",
+    "rating": 5,
+    "review_text": "Toàn hành chính ngạch chất lượng rõ ràng\nAn tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "an vo",
+    "rating": 1,
+    "review_text": "Hồi trước cũng hay mua bên Hoa biển, bầu nên ăn trái cây nhìu, mỗi tuần ra HB mua cũng cả triệu tiền trái cây. Trước dịch vụ nhân viên ok lắm. Sau này thì cực kỳ tệ, đặt hàng giao thiếu, báo trên trang fb đọc nhưng ko thèm trả lời. Có lần …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "minh hoang",
+    "rating": 1,
+    "review_text": "Mua giỏ hàng trái cây tặng thầy cô mà còn bị tráo hàng bằng những trái cây hư thì tôi cũng chịu cách bán hàng của Hoa Biển"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Kim Khánh",
+    "rating": 5,
+    "review_text": "Nhân viên dth, hoa quả tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Như Nguyễn",
+    "rating": 1,
+    "review_text": "Mua trái cây của Shop từ năm 2018 đến nay , nhưng năm nay mua hơi khó :)) ib xem 2 3 lần ko rep , thậm chí mình chuyển khoản trước , nhưng tới lúc đặt Grab lấy hàng thì lại lèn èn , shop nên cân nhắc cho các bạn nhân viên về chăm sóc khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Mai Banh Thuc",
+    "rating": 5,
+    "review_text": "Hàng rẻ mà chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "VÕ VĂN SƠN",
+    "rating": 5,
+    "review_text": "Nơi mua sắm tuyệt vời! Trái cây tươi ngon, sẽ ủng hộ mua sắm lần tiếp theo!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tine Ngo",
+    "rating": 5,
+    "review_text": "Trái cây ngon, tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Dance Mộc",
+    "rating": 5,
+    "review_text": "Cửa hàng sạch sẽ và chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Luân Phan",
+    "rating": 1,
+    "review_text": "Bán hàng hết hạn, lừa đảo gian dối. Treo đầu dê bán thịt chó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Trang Mai",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình, dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tuyền Nguyễn",
+    "rating": 1,
+    "review_text": "Nhân viên nữ quá thái độ, từ nhân viên tư vấn đến nhân viên tính tiền. Vào mua mà tưởng đi xin không á. Mình mua 3 thùng khoai lang thì nhân viên kêu đợi đi lấy nhưng không lấy ngay chỉ tiếp tục giỡn bắt khách phải đợi ??."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Khoa Nguyen",
+    "rating": 1,
+    "review_text": "Buôn bán thì nói giá lộn xộn đặt hàng FB thì không một  bạn nhân viên nào nhắn tin kêu chuyển khoản đặt cọc Dưa đài 69K hết hàng trên kệ còn 1 loại dưa hỏi nhân viên thì 99K xong ra tính 1 bạn nữ nào hỏi giọng lớn tiếng nói ai giảm giá vậy …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nhi Lê",
+    "rating": 5,
+    "review_text": "Trái cây tươi mà giá cũng hời nữa😻 quá xịn lun …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Trung Phạm",
+    "rating": 5,
+    "review_text": "Trái câyngon giá lại hợp túi tiền 5*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Emily Pham",
+    "rating": 1,
+    "review_text": "Dịch vụ quá tệ, Mua hàng thì nhắn tin trả lời rất nhanh. Tới khi giao hàng thúi hư bảo giải quyết thì im re ko trả lời. Bán hàng ko có tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "hang phamthu",
+    "rating": 1,
+    "review_text": "Nếu bận quá ko bán được thì đừng nhận với khách nha. “Dạ được” và im luôn. Ngồi lo nhập hành đi và đừng bán nữa. Ít ra ko kịp thì phải báo cho ngta còn biết đường thu xếp. Lỡ việc của người khác."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Việt tiệp Hiếu viettiep",
+    "rating": 1,
+    "review_text": "Không biết chi nhánh khác như nào. Chứ ở đây cách phục vụ nhân viên rất thiếu chuyên nghiệp, khinh thường khách mua lẻ.\nMình đã đặt hàng từ trước và thanh toán rồi đến lấy thôi cũng chờ 30p"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "beuuu Na",
+    "rating": 1,
+    "review_text": "Đi mua hàng mà tưởng đi ăn xin không á :))) nhân viên tính tiền mà mình tưởng mình lại ngửa tay xin tiền ngta không á, thái độ kinh khủng đi làm nhân viên mà tưởng chủ tịch không luôn sợ hãi hahaa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Lộc Trần",
+    "rating": 1,
+    "review_text": "Làm ăn gian dối, nho bán sale để mấy trái ngọt ở trên, khách vô ăn thử thì ng ta hay lấy trái ở trên ăn thấy ngọt mua. Mua về ăn hết mấy trái ở trên thì mấy trái ở dưới chua lè. Ai mua thì cẩn thận. Còn dâu thì k phải dâu Hàn Quốc đâu nha. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Phuong Huynh",
+    "rating": 1,
+    "review_text": "Nhân viên trời thần đất lỡ ko á, không thèm đếm xỉa gì tới khách, giá cả thì lúc này lúc khác treo bảng vậy đến tt khác nói mới đổi giá, biết là rê hơn thị trường nhưng vậy sao tồn tại nổi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Phúc Nguyễn",
+    "rating": 1,
+    "review_text": "Chất lượng sản phẩm không xứng đáng với giá tiền. Nhân viên nữ thái độ không lịch sự với khách hàng, mua hàng mà tưởng như đi xin không chứ.Mua lần đầu cũng như lần cuối. Thất vọng ê chề 😠😠😠 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nhi Luong",
+    "rating": 1,
+    "review_text": "Mua trái cây bị hư ăn không được\nNhắn tin shop ko thèm phản hồi hỗ trợ j cả\nTệ thật sự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Đỉnh Phúc",
+    "rating": 5,
+    "review_text": "Trái cây chất lượng, nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Trung SG",
+    "rating": 1,
+    "review_text": "Dù đã đọc nhiều phản ánh tiêu cực về thái độ nhân viên, chất lượng hàng hóa,  nhưng vẫn bị bất ngờ khi ghé mua lần đầu, và cũng là lần cuối."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "duc do",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon ,nhân viên tư vấn nhiet tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "dai lao",
+    "rating": 5,
+    "review_text": "Nhân viên rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "dieuoanh to",
+    "rating": 1,
+    "review_text": "Bán hàng kém chất lượng ko đáng giá tiền, trái cây ko ăn đc, thái độ nhân viên tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Verhai Dd",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ khinh miệt khách hàng, mua không cho lựa, bán giá cao mà chất lượng không tương xứng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "tien nguyen",
+    "rating": 5,
+    "review_text": "Sản phẩm tươi chất lượng 👍🏻👍🏻👍🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Hoàng Phúc trần",
+    "rating": 1,
+    "review_text": "Nhân viên lạ lắm , vô mua đồ tưởng vô xin hỏi không thèm trả lời luôn nha , nể chủ mướn nhân viên về đuổi khách còn phải trả lương cho nó =))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Xuan Nguyễn",
+    "rating": 5,
+    "review_text": "Trái cây rẻ , nhân viên tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Châu Nguyễn",
+    "rating": 1,
+    "review_text": "Đồ sale nó độn trái dập, hư với chua không mọi người cẩn thận. Lên facebook bình luận nó block lun. Buôn bán không có tâm thì sớm muộn sml"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Loan Nguyen",
+    "rating": 1,
+    "review_text": "Mình nhán tin mua hàng bên shop quận 7. Nhân viên nhắn tin keu qua lấy. Đến khi ghé lấy thì báo hết hàng ..tuột cảm xúc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Lumine - The Traveler",
+    "rating": 5,
+    "review_text": "Trái cây  nhập khẩu ngon, đẹp, giá hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Yen Pham",
+    "rating": 1,
+    "review_text": "Sao tự nhiên nay vô gặp nhân viên tư vấn vô duyên vậy trời? Ủa?? Shop ơi làm ơn ai kì quá cho nghỉ giùm nha, chứ làm nhân viên mà tưởng chủ ko á 😂 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "HUNG LA HONG",
+    "rating": 5,
+    "review_text": "Trái cây tươi, ngon , rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Do Huong",
+    "rating": 1,
+    "review_text": "quảng cáo trên fb thì ngon lành nhưng mua nho thì toàn là nho rụng, chua lè. Nhân viên ko lịch sự. Một lần và mãi mãi. Không nên mua hàng ở đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Oanh Phạm",
+    "rating": 5,
+    "review_text": "hàng ok chất lượng hay mua trái cây ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Linh Truong",
+    "rating": 5,
+    "review_text": "Hàng chất lượng tốt,giá phải chăng ,nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thanh Nhan Nguyen",
+    "rating": 1,
+    "review_text": "Rất tệ mua trái cây ko cho lựa thái độ nhân viên ko tốt tính tiền thì thờ ơ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "LÂM NGUYỄN",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình 5*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "thanhlinh la",
+    "rating": 5,
+    "review_text": "Sản phẩm tốt, nvien nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "LIEN HA",
+    "rating": 5,
+    "review_text": "OK, hay mua đồ tại đây. Hoa quả tươi. Bánh kẹo ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "pham thi anh ha",
+    "rating": 5,
+    "review_text": "Trái cây ngon rẻ chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Đạm Phạm",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon nhân viên phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tâm Phan",
+    "rating": 4,
+    "review_text": "Hàng oki"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "thanhtoan ngo",
+    "rating": 5,
+    "review_text": "Trái cây ngon, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "thao nguyen",
+    "rating": 5,
+    "review_text": "Sạch sẽ, nhiều loại trái cây, nhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Ngoc Doan",
+    "rating": 5,
+    "review_text": "Trai cây tươi. Giá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Khanh Le",
+    "rating": 1,
+    "review_text": "Cách tiếp xúc khách hàng có vấn đề,buôn bán mà cách cư xử tệ vậy thì khó lòng có khách,chỉ mua 1 lần,và không có lần sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tửu Cao Thiên",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thi Minh Hong Nguyen",
+    "rating": 5,
+    "review_text": "Nhân viên rất nhiệt tình dễ thương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Trang Đài Huỳnh",
+    "rating": 5,
+    "review_text": "Trái cây rất ngon ạ, sẽ ghé thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nguyen Dung",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon. Nhiều chương trình khuyến mãi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "VanLam Pham",
+    "rating": 5,
+    "review_text": "Hàng . Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Công Đinh",
+    "rating": 5,
+    "review_text": "Nv thân thiện dễ thương, giá cả hợp lý. Quá tuyệt vời ❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Lan Quynh",
+    "rating": 5,
+    "review_text": "Trái cây ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Mỹ Hoa Phùng Thị",
+    "rating": 5,
+    "review_text": "Trai cay ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thuylinh Phanhuynh",
+    "rating": 5,
+    "review_text": "Trái cây đa dạng, dễ lựa chọn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nhân Lê Hoàng",
+    "rating": 5,
+    "review_text": "phục vụ tốt thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nguyễn Mỹ",
+    "rating": 5,
+    "review_text": "Hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Trân Bao",
+    "rating": 5,
+    "review_text": "Trái cây tươi , nhân viên tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Heomoji",
+    "rating": 5,
+    "review_text": "Nv nhiệt tình de thương, hang chất lượng nha❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Khang",
+    "rating": 5,
+    "review_text": "Trái cây tươi 5*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nhân Dương",
+    "rating": 5,
+    "review_text": "Quá ok toàn nhân viên dễ thương đánh yêu lắm luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Dung Nguyen",
+    "rating": 5,
+    "review_text": "Nhân viên phục vụ tận tình chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "_T M",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Cường Trần",
+    "rating": 5,
+    "review_text": "5*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Minh Ly Le Thi",
+    "rating": 5,
+    "review_text": "Sản phẩm tươi ngon, giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Obito",
+    "rating": 5,
+    "review_text": "Trái cây tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Hiếu dk Trung",
+    "rating": 1,
+    "review_text": "cửa hàng ngay 15a đường số 15 nhân viên mất dạy vô học nên xem xét cho nghỉ việc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nhuyen Pham",
+    "rating": 1,
+    "review_text": "Bà chủ ăn nói nghe mê lắm, mà nhân viên làm việc lừa đảo nhắn complaint khoá luôn Facebook."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Loan Luong",
+    "rating": 5,
+    "review_text": "Mình rất hài lòng trái cây Hoa Biển nầy !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "tho nguyenthihoang",
+    "rating": 5,
+    "review_text": "Đa dạng sản phẩm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "my hang",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon-chất lượng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Kiều Family",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tuyet Anh",
+    "rating": 5,
+    "review_text": "Trai nghiem tuyet voi. Mai ung ho ♥️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Ngọc Tuân Phạm",
+    "rating": 5,
+    "review_text": "5*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Hoa Kim",
+    "rating": 5,
+    "review_text": "Giá rẻ trái cây tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nguyen HAI LONG",
+    "rating": 5,
+    "review_text": "Shop quá ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "GIUSE MARTINO LƯU TRẦN VŨ",
+    "rating": 5,
+    "review_text": "5*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Linh Đặng",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời. 😍😍😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Nghia Nguyen",
+    "rating": 5,
+    "review_text": "Của hàng đẹp nhiều mặt hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "uyen bao",
+    "rating": 5,
+    "review_text": "Trái cây nhập khẩu đẹp chất lượng tốt nên mua nhé!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thảo Nguyên Trần",
+    "rating": 5,
+    "review_text": "nhân viên phục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "NGOC DUYEN BUI",
+    "rating": 5,
+    "review_text": "Trái cây hop giá tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Hạnh Nguyễn",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Tâm Đỗ Thị",
+    "rating": 1,
+    "review_text": "Nhân viên mất dạy vô học thái độ khinh bỉ khách hàng, trải nghiệm rất rất rất tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Bui Ishitar",
+    "rating": 5,
+    "review_text": "Hàng tươi ngon, chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "châu Bảo",
+    "rating": 5,
+    "review_text": "Raats ngon nhaaaa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "LUCY Tran",
+    "rating": 5,
+    "review_text": "Trái cây tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Thap Dinh",
+    "rating": 1,
+    "review_text": "Bán nhiều hàng Trung Quốc nhưng nhân viên  toàn nói hàng Đài Loan"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "CH H",
+    "rating": 1,
+    "review_text": "Giao hàng hư không ăn được, nhắn tin không trả lời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "mai bui thi quynh",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Hieu Phạm",
+    "rating": 5,
+    "review_text": "Trái cây ngon sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x31752f0caf137953:0x30bad410c9935582",
+    "shop_name": "Trái cây nhập khẩu Hoa Biển",
+    "user_name": "Băng Băng",
+    "rating": 5,
+    "review_text": "Trái cây tươi"
+  }
+]

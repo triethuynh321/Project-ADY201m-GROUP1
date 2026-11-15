@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Toản Trần",
+    "rating": 4,
+    "review_text": "Quán đồ ăn rất tươi ngon giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Dũng Vũ",
+    "rating": 5,
+    "review_text": "Ăn ngon,ổn giá cả hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Quảng Trương Chí",
+    "rating": 4,
+    "review_text": "Nhà hàng sạch sẽ, thoáng mát, món ăn ngon, giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Quang Ninh",
+    "rating": 3,
+    "review_text": "Sạch sẽ đồ ăn tươi ngon phục vụ chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Trung Tien",
+    "rating": 4,
+    "review_text": "Đồ ăn tươi, giá cả hợp lý!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Tư Nguyễn",
+    "rating": 5,
+    "review_text": "Rất ngon và giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Hải Nam Vũ",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Nguyen Philips",
+    "rating": 4,
+    "review_text": "Nấu khá ngon, giá cả chấp nhận đc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Dung Viet",
+    "rating": 5,
+    "review_text": "Không gian rộng, đồ ăn tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Quang Nguyen",
+    "rating": 3,
+    "review_text": "Quán ăn rộng, phục vụ bàn hơi châm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Van Hoang",
+    "rating": 3,
+    "review_text": "Ngon, rẻ. OK!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "M M",
+    "rating": 4,
+    "review_text": "giá cả chất lượng phù hơp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Minh Hai",
+    "rating": 3,
+    "review_text": "Nấu ăn được, giá phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Gam Cao",
+    "rating": 5,
+    "review_text": "ngon và phục vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Ha Ngo",
+    "rating": 4,
+    "review_text": "Quán đẹp, phong cảnh tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Phương Lý Đông",
+    "rating": 3,
+    "review_text": "Phòng ăn thoáng đãng, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Thế Hiển Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon bổ khá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Trần Hào",
+    "rating": 3,
+    "review_text": "Sạch sẽ giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Tuấn Anh Phương",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Bùi Minh Tiến",
+    "rating": 3,
+    "review_text": "Sạch, thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Thủy Nguyên Hà",
+    "rating": 1,
+    "review_text": "Không ngon còn đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Nguyễn Văn Trụ",
+    "rating": 5,
+    "review_text": "Hợp lý với người tiêu dùng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "lung quang",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Đức Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon, sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "ngọc lê",
+    "rating": 5,
+    "review_text": "Đồ ăn tươi sống"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Ngọc Mai",
+    "rating": 5,
+    "review_text": "Chất luợng nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Van Giang",
+    "rating": 3,
+    "review_text": "Cũng ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "thanh nguyen",
+    "rating": 5,
+    "review_text": "Hàng tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Hùng Nguyễn",
+    "rating": 3,
+    "review_text": "Ngon bổ rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "phạm ngọc tuyền",
+    "rating": 4,
+    "review_text": "Ăn rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Quốc Minh",
+    "rating": 5,
+    "review_text": "Ngon rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Hoang Hoi",
+    "rating": 5,
+    "review_text": "❤❤❤"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Thuyên Nguyễn",
+    "rating": 3,
+    "review_text": "Cũng tàm tạm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Đức Dũng Đào",
+    "rating": 4,
+    "review_text": "Ăn cũng được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Trung Phạm",
+    "rating": 4,
+    "review_text": "Giá cả hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Quang Trần Hồng",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Nguyễn Hiếu Khanh",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "H Helen",
+    "rating": 5,
+    "review_text": "Chất luợng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Ly Ninh",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Nam Nguyen",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon nếu ăn nên trải nghiệm khoai và ốc , bề bề và tôm rất tươi . Phục vụ chán nhưng 1 số nv vẫn rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Trịnh Minh",
+    "rating": 3,
+    "review_text": "Nhà hàng nằm trong khu quy hoạch đô thị, trên con phố hình bàn cờ, dễ tìm, có chỗ đậu xe thuận tiện vì nằm ở góc phố, ít nhân viên nhưng nhanh nhẹn và hiệu quả. Tên nhà hàng là Quán Bãi Trị Kỳ nhưng không nằm bên bờ sông hay biển. Có lẽ vì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Brown Forest",
+    "rating": 4,
+    "review_text": "Không gian nhà hàng khá đơn giản. Nhân viên có suy nghĩ rằng khách hàng phải tự biết thực đơn và cách ăn mà không cần hướng dẫn gì thêm. Các món ăn trong nhà hàng khá lạ lẫm với tôi, nhưng khi tôi hỏi về chúng, thái độ của nhân viên lại như …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "박병선",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon với giá cả phải chăng. Món cá hầm đặc biệt ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Thắng Smas",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314affb473785c89:0xec20fe766d4f0550",
+    "shop_name": "Nhà Hàng Tri Kỷ 1",
+    "user_name": "Toan Nguyen",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "PAKA VIVU",
+    "rating": 4,
+    "review_text": "Mình đã từng đi tắm khoáng ở Kim Bôi, Thanh Thủy, Yên Bái và Tuyên Quang, nên có thể tự tin đánh giá dịch vụ và cơ sở vật chất tắm khoáng ở Yoko Onsen Quang Hanh thực sự thuộc hàng đầu miền Bắc hiện nay. Tuy nhiên, trải nghiệm tổng thể lại bị kéo xuống khá nhiều. Mình đi vào đúng dịp lễ nên lượng khách cực kỳ đông. Điểm trừ lớn nhất là thái độ của nhân viên, không rõ do quá tải hay do khâu training chưa tốt mà mặt các bạn rất khó chịu, thiếu hẳn sự niềm nở và không được thân thiện với khách.\n\nVề phần buffet đồ Nhật ăn cùng gói tắm: Ai thích ăn Sashimi thì sẽ thấy ổn, nhưng các món chiên rán thì thực sự rất tệ. Nhìn chung, Yoko Onsen có nền tảng không gian cực tốt, nhưng khâu phục vụ và một phần ẩm thực cần cải thiện rất nhiều để xứng tầm với một dịch vụ cao cấp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Ngọc Nguyễn",
+    "rating": 4,
+    "review_text": "Phòng nghỉ đẹp, tiện nghi, sạch sẽ\nCác bồn ngâm bình thường, nước phun sục rất yếu\nTổng quan đẹp nhưng so với giá thì chỉ 4*"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Henry Vũ",
+    "rating": 5,
+    "review_text": "Không gian đậm chất Nhật Bản, cực kỳ yên tĩnh và thư giãn. Khu tắm khoáng Onsen sạch sẽ, nhiều bể nóng lạnh giúp cơ thể thả lỏng sau những ngày làm việc căng thẳng. Dịch vụ chuyên nghiệp, cảnh quan đẹp rất thích hợp để nghỉ dưỡng, chụp ảnh và tận hưởng cảm giác “chữa lành”. Một điểm đến đáng trải nghiệm khi đến Quảng Ninh. ♨️🌿📸\n\nNếu bạn muốn, tôi có thể viết thêm:\n•\t1 phiên bản review hài hước dễ đăng Facebook\n•\t1 phiên bản review chuẩn Google Maps 5⭐ ngắn gọn hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Chumichan",
+    "rating": 4,
+    "review_text": "Buổi sáng trong tuần buffet trên quầy sẽ khá giới hạn, bạn sẽ được mời ăn menu chọn món.\nMình rất thích trải nghiệm nghỉ dưỡng tại Yoko, mọi thứ thật sự hoàn hảo cho gia đình mình trừ duy nhất việc các bạn nvien quầy lễ tân tại khu vực sảnh ăn không được tinh tế lắm!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Sophia Tran",
+    "rating": 3,
+    "review_text": "Check in quá chậm chạp cứng nhắc, gia đình tôi tới trước giờ check in, lễ tân có nói khách đã trả phòng và sẽ hỗ trợ cho gia đình tôi nhận phòng sớm, nhưng tôi ngồi đợi 2 tiếng đồng hồ cũng chưa được nhận phòng. Cũng không có welcome drink. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hoàng Thanh Hòa",
+    "rating": 5,
+    "review_text": "Không gian yên tĩnh, relax tuyệt đối nhưng xa trung tâm và các khu mua sắm quá nên nói chung đến nghỉ dưỡng 1 ngày thì khá ổn.\nĐồ ăn sáng khá ít, nước dùng của các món phở, bún khá mặn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Mai Trần",
+    "rating": 5,
+    "review_text": "Dịch vụ rất tuyệt vời! Mình rất ấn tượng với đồ uống của anh Hùng và anh Thái tại quầy bar Genji. Highly recommend mọi người ghé qua nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "HÀ MY LÊ",
+    "rating": 5,
+    "review_text": "Khoáng nóng rất tốt , mình và chồng mua vé có bf ăn tối. Các bể đẹp, riêng tư vì ở đây không được quay chụp, đồ ăn ngon, thích ăn sashimi thì sẽ rất thích bf ở đây, sẽ quay lại thêm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Lam Huong",
+    "rating": 5,
+    "review_text": "Mình đến đây 2 lần, bạn nên chú ý thời gian đến để có nhiều thời gian ở bể. Như lần 1 mình đến là 12h vào được rất ít vì 1h chiều họ thau bể. Bạn bắt buộc mang quần áo tắm mới được vào, ko thì có thể mua tại đó 350k/ bộ. Trẻ em k được vào. Sau khi tắm có buffe ăn cũng tiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "An Nguyên",
+    "rating": 5,
+    "review_text": "Khu tắm suối đẹp, hiện đại, thư giãn, đồ ăn cũng khá đa dạng.\nNếu lần sau quay lại thì mình sẽ vào khu nữ luôn chứ không ra khu tập thể nữa vì khu riêng vắng vẻ và riêng tư hơn nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Minh Nguyen",
+    "rating": 3,
+    "review_text": "Nhân viên cứng nhắc. 2/5\nOnsen đẹp nhưng ko chất với tầm giá. 3/5\nBuffet chỉ phù hợp người thích ăn sashimi. 4/5 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Le Na Hoang",
+    "rating": 4,
+    "review_text": "Khu khoáng nóng thư giãn thoải mái. Đặc biệt buffet rất là tươi và ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Tran Anh (Luca)",
+    "rating": 5,
+    "review_text": "Kiến trúc và nội thất ở đây được thiết kế theo phong cách Nhật bản truyền thống, gợi hình ảnh ngôi làng nhỏ vùng Kansai, với mái ngói, đèn đá, vườn bon sai…khách lưu trú tại đây được miễn phí sử dụng dịch vụ onsen khoáng nóng công cộng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Quang Hải Trương",
+    "rating": 2,
+    "review_text": "Nước tắm khoáng ở Yoko Onsen Quang Hanh rất dễ gây dị ứng, tôi vừa ngâm người xuống bể tắm khoáng ở khu tắm tiên được 2 phút thì ngứa râm ran khắp ngưởi và chân nổi đầy nốt đỏ do bị viêm nang lông kích ứng. Khu vực buffet ăn trưa thì khá …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Nguyễn Phương Mai",
+    "rating": 4,
+    "review_text": "Mình vừa đi tháng 8/2026 vừa rồi. Cảm nhận 4 lần đi trước năm 2024 cơ sở còn mới, chỉn chu, đông khách. Thì đợt rồi mình đi thấy ít khách, nước bị vẩn đục, có lá rụng nhiều ở chum và bể nóng trung tâm. Bể nằm có rất nhiều lá rụng nhìn không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Pan Yuming",
+    "rating": 4,
+    "review_text": "Khu tắm khoáng mặn ok, các phòng xông hơi ok, nhưng nếu có thêm bể để bơi thì khách nghỉ phòng và khách tắm khoáng thư giãn sẽ cảm thấy thú vị hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Lo Gia Thuan",
+    "rating": 4,
+    "review_text": "ngoài lưu trú thì Yoko Quang Hanh còn bán vé dịch vụ tắm Onsen 1tr hơn bao gồm tắm khoáng nóng và buffet tối.\nKhá nhiều hồ ngâm nhưng chỉ xoay quanh khoáng nóng nước mặn, chỉ có hồ chanh thì …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Minh Hieu",
+    "rating": 5,
+    "review_text": "Review Yoko Onsen Quang Hanh\n\nNằm cách Tp Hạ Long 20km. Đây là khu nghĩ dưỡng theo phong cách Nhật Bản được …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hanh Nguyen",
+    "rating": 5,
+    "review_text": "Đi theo combo cùng FLC 2 ngày 1 đêm vào ngày thường giá tốt, lại đến tắm buổi chiều nên không đông khách.\nCó nhiều bể bơi với nhiệt độ ở các mức khác nhau, khu tắm tiên lúc mẹ con mình …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Le",
+    "rating": 5,
+    "review_text": "Dịch vụ xông hơi tắm khoáng tuyệt vời.. quang cảnh đẹp.. đồ ăn ngon.. nhân viên phục vụ nhiệt tình chu đáo.."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hong Nguyen",
+    "rating": 3,
+    "review_text": "Cuối tuần vừa rồi, cả nhóm rủ nhau đến Onsen Quang Hanh để trải nghiệm. Giá vé cuối tuần 1.650.000 đồng/người lớn gồm vé tắm và ăn buffe trưa, nên ai cũng kỳ vọng đây sẽ là một chuyến đi thư giãn đúng nghĩa. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "kiều vũ",
+    "rating": 5,
+    "review_text": "Sạch đẹp, dịch vụ tốt, buffet ngon, nhân viên nhiệt tình. Mình có sử dụng dịch vụ Massage và được chị Mai Hương tư vấn nhiệt tình, tay nghề massage tốt, rất thoải mái. Massage xong thì tắm onsen thoải mái lắm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Huyen Pham",
+    "rating": 4,
+    "review_text": "Tôi nay trải nghiệm nhận thấy ,khu tắm tốt so sứng với giá tiền ,phòng ở sạch sẽ ok song đồ ăn bupfe quá dở tệ ,nếu 650k đến 700k 1 nguời thì tôi tự nhận thấy mình thật sự sai lầm và điên dồ khi đăng ký cho gd ăn bupfe ở đây ,tôm con nhỏ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Quỳnh Dương",
+    "rating": 5,
+    "review_text": "Khu dịch vụ nghỉ dưỡng, thư giãn và lưu trú khá ổn ở Quảng Ninh (mà hơi xa trung tâm nha)!\n- Dịch vụ: Mình mới chỉ được xài gói khoảng 1 buổi chiều ở đó có: tắm khoáng, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thảo Nguyễn Phương",
+    "rating": 4,
+    "review_text": "Mình đi nghỉ dưỡng gia đình vào 18/6/2024\n\nMình có lưu trú tại đây 2 tối …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "T. Quynh Anh Dam",
+    "rating": 1,
+    "review_text": "Trải nhiệm tệ với nhân viên kém chuyên nghiệp, thái độ không chuẩn mực. Cơ sở vật chất xuống cấp không xứng đáng với giá tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Giang Nguyễn",
+    "rating": 5,
+    "review_text": "Tắm nóng xong xuống bể tắm lạnh 12-14 độ phê chữ ê kéo dài luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Đức Nguyễn",
+    "rating": 5,
+    "review_text": "Lần đầu trải nghiệm dịch vụ tắm onsen kiểu Nhật thấy khá thú vị.\n- Địa điểm khá xa trung tâm, di chuyển từ Hòn Gai mất khoảng 25p. Tuy nhiên biệt lập ở một khu cũng tạo ra sự yên tĩnh, đường vào cũng rộng rãi. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Phạm Hà Anh",
+    "rating": 5,
+    "review_text": "Dễ chịu, dịch vụ ngọt ngào, khu nghỉ dưỡng tắm khoáng cao cấp, mình được mời đi khảo sát và nghỉ lại 1 đêm\n1. Vị trí: …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Tuấn Anh Cao",
+    "rating": 5,
+    "review_text": "1. Ấn tượng đầu tiên\n•\tKhông gian: Ngay khi bước vào, cả nhóm đều ấn tượng với thiết kế đậm chất Nhật Bản của khu nghỉ dưỡng. Kiến trúc, cảnh quan, các tiểu cảnh vườn đá và hồ nước …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hải Lê",
+    "rating": 5,
+    "review_text": "Không gian đẹp, rộng rãi.\nTắm thoải mái, đồ ăn ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Tuấn Vũ Thanh",
+    "rating": 5,
+    "review_text": "Không gian rất đẹp, mang đậm phong cách Nhật Bản, tạo cảm giác thư giãn và yên tĩnh. Nhân viên hướng dẫn nhiệt tình, chu đáo, khu vực tắm khoáng sạch sẽ và được vệ sinh tốt. Sau khi ngâm tắm còn được thưởng thức buffet khá ngon, giúp trải …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "VEC VIỆT NAM CÔNG TY TNHH",
+    "rating": 4,
+    "review_text": "Một trải nghiệm rất ổn! Khu nghỉ dưỡng yên tĩnh không gian khá hài lòng. Tuy nhiên đồ ăn chưa ổn, hy vọng cải thiện hơn nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Anh Hoang Nguyen",
+    "rating": 5,
+    "review_text": "YOKO QUANG HANH\n\nMình đã thử nhiều cơ sở tắm khoáng cả trong và ngoài nước, nên không kỳ vọng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Bao Tran",
+    "rating": 5,
+    "review_text": "villa 3n rất đẹp xịn. cơ sở vật chất xịn xò, nằm giữa núi nên cảnh rất đẹp không khí trong lành. spa thì siêu phê mình đi gói tinh hoa super vip 2. 100% recommended"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Duc Ha Van",
+    "rating": 5,
+    "review_text": "cảnh quan vị trí đẹp\nphòng xinh xắn với onsen trong phòng, có cả khu vui chơi cho bé cùng lounge thoải mái …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Phúc Thịnh Nguyễn",
+    "rating": 5,
+    "review_text": "LÝ DO VÌ SAO GIÁ HƠN 1 TRIỆU 1 VÉ - TUYỆT VỜI\nLần đầu tiên mình đến một cơ sở Onsen bài bản và chất lượng như thế này.\nVề tắm khoáng: các bạn tắm đúng quy trình xong sẽ thấy khác biệt thật sự so với …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "邓香江",
+    "rating": 5,
+    "review_text": "Một trải nghiệm tuyệt vời, rất tốt cho sk, mỗi lần ngâm khoáng nóng lên cảm giác da mịn mềm hơn :) tắm onsen ở đây rất khác với những nơi khác ở vn mình từng tắm, đúng chuẩn, chuyên nghiệp, sạch sẽ.. mình sẽ còn quay lại nhiều!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Dung Nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên lịch sự, nhiệt tình, chu đáo.\nDịch vụ tắm ở đây rất thích, không gian tắm ở ngoài sân vườn, có cây xanh và âm thanh nhẹ nhàng, rất thư giãn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Pham Minh",
+    "rating": 2,
+    "review_text": "Đi đúng đợt lễ!\nKhách đông quá bị đối xử quá tệ😭\nKhông cho khăn và bắt mua với giá 35k. Tiền thì ko đáng bao nhiêu nhưng cực thất …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Trung Mai Thanh",
+    "rating": 5,
+    "review_text": "Điểm đến lý tưởng cho những ai muốn trải nghiệm sự thư thái và thư giãn tuyệt vời. Phòng riêng tắm khoáng mang lại không gian riêng tư, được thiết kế lịch sự và thoải mái, giúp bạn thư thái mỗi khi đắm chìm trong nước khoáng ấm áp. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hoang Nghia",
+    "rating": 4,
+    "review_text": "Một nơi đáng ghé để trải nghiệm khi có dịp đến Hạ Long. Không gian sạch sẽ, đơn giản nhưng tinh tế, nhân viên khá thân thiện. Thức ăn đủ các món nhật từ Mì ramen, sashimi, sushi, đến các món bánh tráng miệng, bài trí khá bắt mắt. Điểm trừ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Oanh Nguyễn",
+    "rating": 1,
+    "review_text": "Ngày 1/3-2/3 mình và 1 gđ khác 4ng có nghỉ tại khu nghỉ dưỡng 2n1đ. Bữa sáng ngon chuẩn vị Nhật, phục vụ tốt, không gian thoáng và sạch sẽ..\nNgày 1/3 checkin xog mk có đi tắm, lúc ấy mk có mua 2bộ nữ tắm và 2quần nam để …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Mr Thang - Dusit Tran",
+    "rating": 4,
+    "review_text": "Phòng đẹp nhân viên nhiệt tình tuy nhiên cách xử lý còn cứng nhắc giá tương đối ổn tầm 11 tr / đêm phòng to"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Trang Nguyễn Thu",
+    "rating": 1,
+    "review_text": "Mình trả tiền vào đây tắm mà vào trong thay đồ xong nhân viên bảo đồ bơi này không được vào tắm, phải mua bộ khác bên ngoài, mà đồ bơi ở đây đâu có rẻ-.-. trong khi lúc đầu vào cửa không hề ai nhắc nhở phải mặc đồ như thế nào cả??? Cuối cùng vào onsen và k được tắm???"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Phạm Dũng",
+    "rating": 5,
+    "review_text": "Cực kì ấn tượng với YOKO ONSEN QUANG HANH. Trải nghiệm xuất sắc về mọi mặt. Đồ ăn trưa theo phong cách Nhật rất ngon và hợp khẩu vị. Bể tắm khoáng nhiều loại, nhiều kích cỡ phù hợp cho mọi lứa tuổi, thật tiếc là bể không bơi được vì mực …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "LẠI THU HÀ (Hà Lốp xe Anvietnhat)",
+    "rating": 5,
+    "review_text": "Đường vào osen rất đẹp , dịch vụ hoàn hảo 5 sao , đã đến và trải nghiệm 2 lần , phòng Shi và Ni đều rất đẹp , ăn sáng ngon , tắm khoáng trong phòng cực chill"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Ms. Q",
+    "rating": 4,
+    "review_text": "Mình vào onsen public chứ k dùng dịch vụ private. Mình đi ca chiều sau 14h.\nGiá cỡ hơn 1tr/ng nếu book tại nơi. Nhiều hơn 2ng giá ok hơn. Nên nếu ai định đi và có lịch thì book trước qua bên dvu rẻ hơi tẹo. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thanh Hoàng",
+    "rating": 4,
+    "review_text": "Xả stress rất tốt , mình thích cái không khí yên tĩnh này . Một chút góp ý nếu như nhiều dịch vụ đi kèm hơn thì thú vị hơn !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Tan-Thanh NGUYEN",
+    "rating": 5,
+    "review_text": "Khá hài lòng vì đi vào chiều 1 ngày trong tuần nên giá cả hợp lí, ko đông người.\nNv ngoan chỉ dẫn tận tình. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hung Nguyen",
+    "rating": 5,
+    "review_text": "Mình đi nghỉ cùng gia đình, nhìn chung mọi thứ khá ổn so với kỳ vọng, dù không phải quá xuất sắc nhưng cũng khá xứng đáng với số tiền bỏ ra. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Phuong Ha Nguyen",
+    "rating": 5,
+    "review_text": "Phục vụ rất chu đáo và nhiệt tình, tất cả được quản lí qua các vòng tay rất hiện đại và an toàn, giá ban đầu nhìn thì có vẻ hơi cao nhưng thực sự rất đáng tiền. Mình mua vé buổi sáng nhưng có thể tắm hết buổi sáng và ở đó chơi và tắm tiếp …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Cutie Hannie",
+    "rating": 5,
+    "review_text": "Một trải nghiệm rất tuyệt vời, thời tiết mát mẻ ngâm khoáng nóng quá hợp lí. Đồ ăn ngon, nhân viên nhiệt tình. Nhất định sẽ đưa gia đình đến vào lần tới."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thi Thanh Huong Tran",
+    "rating": 4,
+    "review_text": "Khuôn viên đẹp, thoáng, dịch vụ tốt, đồ ăn ngon. Điểm mọi người nên đến"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Đức Anh Trương",
+    "rating": 5,
+    "review_text": "Mô hình tắm khoáng Onsen không mới nhưng làm tới, dịch vụ & thái độ của nhân viên khá thân thiện. Tuy nhiên có mấy mục cần góp ý:\n- Khu vực Public Onsen chưa có biển chỉ dẫn khách cụ thể từng bể, nên có biển …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thúy Hằng Nguyễn Thị",
+    "rating": 5,
+    "review_text": "Bưã trưa rất ngon. Trải nghiệm tuyệt vời và đáng nhớ khi xông hơi xong thì nhảy tùm vào bể nước đá🌋🛀 🧖 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thao Nguyen",
+    "rating": 3,
+    "review_text": "Cơ sở vật chất của khách sạn khá ổn, sự riêng tư được đảm bảo với phòng rộng rãi, cách âm tốt, bồn tắm trong phòng cũng dễ chịu.\nĐiểm trừ là vị trí hơi xa, xung quanh có ít lựa chọn đồ ăn và bạn hãy cẩn thận …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Việt Anh Trần",
+    "rating": 5,
+    "review_text": "Khu nghĩ dưỡng tắm khoáng nóng đẳng cấp. Vào đây cứ ngỡ như đang ở tại Nhật Bản.\nVilla thì rất đẹp 6 sao, tắm khoáng ngay bên trong. Thích nhất là oto được đỗ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thắm Lưu",
+    "rating": 4,
+    "review_text": "Yoko Onsen Quang Hạnh có không gian yên tĩnh phù hợp để mọi người nghỉ ngơi. Trong vé đã bao gồm buffet, đồ ăn ngon và đa dạng nhưng chủ yếu vẫn là các món ăn Nhật. Lần này mình đi nghỉ mát, chưa trải nghiệm phòng ở đây. Mọi người nên thử …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Phạm Trọng Nghĩa",
+    "rating": 5,
+    "review_text": "Tắm suối nước nóng tốt cho sức khỏe.\nỞ đây có tắm bể nóng và lạnh với nhiều nhiệt độ khác nhau, mọi người có thể chọn bể phù hợp với mình, ngoài tắm thì có thể ngâm chân hoặc sục khí. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Annie Tr",
+    "rating": 4,
+    "review_text": "- Hôm mình đi thì cũng cuối tuần nên giá hơi cao một chút (mình có để bảng giá ở dưới cho mng tham khảo, giá book qua các trang thig sẽ rẻ hơn nhiều)\n- Phòng: nhà mình book 3 phòng (Ichi, Ni và Omotenashi) 3 phòng đều có bể tắm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "thị diệu quỳnh Chu",
+    "rating": 5,
+    "review_text": "Hài lòng tuyệt đối với dịch vụ ,chất lượng phòng ốc ,tắm khoáng .Gia đình mình đi có Ông bà và các bé đều rất thích , dịch vụ ăn uống tại phòng được phục vụ rất tốt,đồ ăn ngon ,sạch sẽ và đầy đặn . …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Trường Nguyễn Đoan",
+    "rating": 4,
+    "review_text": "Chưa nghỉ Phòng của YOKO ONSEN Quang Hanh. Nhưng dịch vụ của ONSEN rất tốt. Đặc biệt khu tắm khoáng!\nThật tốt trải nghiệm tắm khoáng giữa không gian xung quanh là núi với các bể tắm khoáng khác nhau!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Lim A",
+    "rating": 4,
+    "review_text": "Từ Hạ Long hay Bãi Cháy theo đường bao biển Trần Quốc Nghiễn tới đây rất thuận tiện và quang cảnh đẹp. Sau năm ngoái rất hot thì khu có vẻ vắng đi nhiều, ngay cả cuối tuần. Sau khi gửi giày dép, check in thì vào phòng thay đồ nam nữ riêng, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "hoi Mike",
+    "rating": 4,
+    "review_text": "Vị trí hơi xa. Dịch vụ chu đáo hơn, không vì khách ít hơn. Bữa ăn chu đáo và nhân viên thân thiện. Khoáng nóng rất thích. Giá KM hấp dẫn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hường Nguyễn Thu",
+    "rating": 5,
+    "review_text": "Không gian vô cùng trong lành, yên bình, cảm giác như đi Nhật thật luôn 😆 ngâm khoáng thì vô cùng nhiều lợi ích cho cơ thể rồi, hôm mình đi có bị đau vai nhẹ mà ngâm khoáng xong hết đau hẳn luônn 🥹 buffet cũng siu ngon, nhưng nên bổ sung thêm nhiều món hơn cho đa dạng. Xứng đáng để quay lại nhiều lần 🫶🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thu Hương Phùng",
+    "rating": 4,
+    "review_text": "Đi ngày thường nên giá khá ổn.Lưu trú 1 đêm.Tắm thích.Mỗi tội ổ điện làm bất hợp lý.Và không có chỗ treo quần áo.Chưa có bể bơi.Chỉ toàn bể ngâm là chính."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Mia Mia",
+    "rating": 5,
+    "review_text": "Mình đã đến trải nghiệm suối khoáng . Có 2 khu vực tắm chung cộng đồng và private. Tắm chung cộng đồng thiết kế đẹp và sạch sẽ như hình ảnh quảng cáo, vì không được phép đem máy điện thoại vào nên ko được chụp hình, tắm xong có phòng xông …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "phuong luong",
+    "rating": 1,
+    "review_text": "Dịch vụ CSKH cũng như vệ sinh quá tệ. 1 căn vila 13tr/ đêm mà khách hàng fai chịu cảnh kiến bò trên giường cho cả 3 phòng ngủ. Đến sáng, khi phản ánh với lễ tân. Chỉ nhận dc câu xin lỗi. Sau đó có nhân viên lên kiểm tra, cũng không biết có …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "T Minh",
+    "rating": 3,
+    "review_text": "Mình đi ngày trong tuần và ko phải mùa du lịch nên khá ok. Nhưng tưởng tượng mùa du lịch thì ….. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thuy Linh Dinh Thi",
+    "rating": 3,
+    "review_text": "Phòng đẹp và sạch ai nhà mình rất hài lòng.  Thất vọng mỗi ăn sáng. Nhà mình đặt 4 phòng double sáng mình có đặt ăn trước thêm một extra bữa ăn Âu để bà mình ăn. Sáng ngày 27/10 bạn lễ tân phục check lại menu mình đổi và giữ luôn một extra …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Kim Hường Đinh",
+    "rating": 2,
+    "review_text": "Mình thấy chỗ này làm ăn chán lắm. Phục vụ không nhiệt tình. Đồ ăn thì ngoài món cá hồi ra thì các món khác chán lắm. Chốt lại là ko nên đi chỗ này khi đi Hạ Long"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hảo Lê",
+    "rating": 5,
+    "review_text": "dịch vụ tốt, buffet ngon, giá vé hợp lý, nên đi khung giờ sáng ngày trong tuần sẽ đỡ đông hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Kuran Trang",
+    "rating": 5,
+    "review_text": "Mình đi rất nhiều nơi cung cấp dịch vụ 5 sao nhưng thiệt nhân viên ở đây không thể không khen, rất rất rất Ok luôn ý. Chỗ tắm không được sử dụng đt nên không chụp được hình nào. Khu tắm khoáng chia nam nữ riêng, phòng xông đá muối hơi lạnh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Đại Nguyễn",
+    "rating": 5,
+    "review_text": "Khu tắm khoáng chất lượng. Từ dịch vụ, không gian Nhật Bản sang trọng, ấm cúng, nhân viên thân thiện, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thi Thu",
+    "rating": 1,
+    "review_text": "KO THÍCH THÁI ĐỘ NHÂN VIÊN Ở ĐÂY (Chỗ tủ cấ đồ nữ có 2 chị nhân viên, 1 chị rất nhiệt tình, chị kia thì ngược lại)\nNhân viên lễ tân ko nhiệt tình, giá vé ko đắt cũng ko rẻ mà thái độ thua quán …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Anonymous no. 13",
+    "rating": 5,
+    "review_text": "Phòng ichi dành cho cặp đôi rất đẹp và tiện nghi. Suối nước nóng public sử dụng nhiều tiện nghi và thích hơn là bể khoáng private có sẵn trong phòng. Thích hợp đi nghỉ dưỡng xả stress. Giá phòng gần 5tr/đêm nhưng đáng đồng tiền, bao gồm 1 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "LÊ DANH THUỴ",
+    "rating": 4,
+    "review_text": "Điểm check in thuộc dạng top, ăn Buffet nhiều món, nếu ai ăn thích ăn gỏi thì tuyệt vời , có Cá Hồi, Cá Trích ép trứng, Cá Ngừ, Bạch tuộc, nhưng theo ý kiến cá nhân Cá Trích ép trứng vẫn là đỉnh nhất cảm giác ngậy, bùi và tiếng nổ lép bép của trứng cá khi cắn trong miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "nguyen thi hong nhung",
+    "rating": 3,
+    "review_text": "Gia đình mình đã có chuyến nghỉ 2N1Đ tại Onsen Quang Hanh cùng cơ quan chồng mình. Chúng mình ở phòng trong Villa. Mỗi Villa có 4 phòng và khu tắm khoáng với bể mini riêng, phòng xông nóng, lạnh, tắm tráng, khu vực bếp với bàn tiệc trà. Nói …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Lâm Nguyễn Phương",
+    "rating": 5,
+    "review_text": "Trải nghiệm 2 ngày một đêm cùng với cô bạn thân rất tuyệt - đặc biệt đúng ngày mưa bão, giá lạnh, ko biết đi đâu! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Linh Ling",
+    "rating": 5,
+    "review_text": "Phòng cực xinh, mặc kimono sống ảo trong nhà cũng đẹp. Nhân viên chăm chỉ thân thiện và nhiệt tình. Kimono khá đa dạng. Nhiều phụ kiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Tri Dũng TTYT-QY",
+    "rating": 5,
+    "review_text": "Mình nhà ở Quảng Yên -QN mình có dsi trải nghiệm trong tháng 7/23 vừa rồi. Mình thấy tắm suối nước lóng rất thích. Có mấy phòng sông hơi cũng OK. Có cả khu tắm tiên cho nam và nữ riêng biệt. Tắm xong thì ăn buffet cũng đầy đủ các món. Nói chung là tắm mệt xong ăn đồ ngon hết nước chấm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Phong Hải",
+    "rating": 3,
+    "review_text": "Vào tắm nước khoáng, khu vực có mấy hồ thôi, không đặc sắc bằng Bình Châu. Ăn buffet khá đa dạng. Không ở lại trong đó nên không đánh giá phòng được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Daniel Jobs",
+    "rating": 1,
+    "review_text": "Từ khi đổi vận hành chất lượng kém hẳn, nhân viên trực tổng đài nói khác nhau và lừa khách. Lúc thì bảo là được tắm public không giới hạn lúc thì bảo 1 lần, gây rối loạn. Phòng thì đắt mà cho tắm onsen có 1 lần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thảo Nguyễn Thị Phương",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, gia đình mình về nghỉ dưỡng cảm thấy khá thoải mái và vui vẻ, thư giãn sau khi xông hơi, đồ ăn ở đây cũng ngon lắm, nên thử nha ^^"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thuong Dang",
+    "rating": 5,
+    "review_text": "Không khí trong lành, dễ chịu. Thích hợp cho những ai cần đi chữa lành. Đồ ăn ngon, nhân viên thân thiệt và nhiệt tình. Sẽ đưa gia đình đến vào dịp gần nhất."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Do Quang Anh",
+    "rating": 4,
+    "review_text": "Mình không có $ lưu trú ở đây nên không đáng giá được phòng, nhưng công nhận giá cao thật. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "phamnguyen hai dang",
+    "rating": 5,
+    "review_text": "Khu tắm khoáng nước nóng với các loại bể và bồn. Ko có tắm bùn nhé.\nKhu xông hơi tập thể nam nữ chung."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thuỷ Vũ",
+    "rating": 5,
+    "review_text": "Khu khoáng hiện đại chuẩn Nhật, nhân viên phục vụ chuyên nghiệp tận tâm. Không khí biển trong lành rất tốt để nghỉ dưỡng, phục hồi sức khoẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Trang Mai",
+    "rating": 5,
+    "review_text": "Lần đầu đến Onsen mình đã có một trải nghiệm rất đáng nhớ cùng gia đình. Ấn tượng nhất là cảnh quan yên tĩnh, giản dị đậm chất Nhật Bản. Phòng nghỉ cũng rất xinh, có bể khoáng và phòng xông tại phòng khá riêng tư. Đồ ăn hợp khẩu vị với gia …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Le Tung",
+    "rating": 5,
+    "review_text": "Trải nghiệm thú vị, thư giãn phù hợp n gia đình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Huyền Đỗ",
+    "rating": 4,
+    "review_text": "Dịch tắm khoáng ổn. Khuôn viên thiết kế đẹp. Đồ ăn buffet buổi tối ok, vừa với sức ăn của mình. ( cháo cá hồi sake ngon, bún sườn chua ngon, mì ramen hơi chán vì đã ăn chỗ ngon rồi) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Minh Thanh",
+    "rating": 5,
+    "review_text": "Phòng Kazoko xinh đẹp. Nhân viên nhiệt tình. Bể tắm public đẹp nhưng khum dc chụp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Ngoc Anh Dao",
+    "rating": 4,
+    "review_text": "đc mỗi buffet. trẻ con chắc chờ đc duyệt vì k phù hợp với khoáng nóng này, dễ bị sốc, có chỗ vui chơi cho trẻ con.  view quang cảnh đã tầm mắt, ngắm nhìn thả hồn vào bầu trời trong xanh và nhiều mây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Linh Bạch",
+    "rating": 5,
+    "review_text": "Mình tự lái xe từ Hn. Đường dễ đi, trải nghiệm tốt, đồ ăn ngon, chu đáo. Có nhiều góc chụp ảnh. Nghỉ dưỡng nhẹ nhàng hợp đi cặp đôi hoặc gia đình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "グエントウイ リン",
+    "rating": 1,
+    "review_text": "Một cơ sở lưu trú nhưng trong thời gian hoạt động theo số hotline (đăng trên website chính thức) là từ 8AM-8PM nhưng không thể liên lạc được thì khách sao có thể yên tâm lưu trú được chứ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Xuan Khanh Trinh",
+    "rating": 5,
+    "review_text": "Xứng đáng để trại nghiệm, phù hợp với các đôi đang muốn có 1 không gian lãng mạn và hâm nóng tình cảm …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Lê Minh Phương Thanh",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời, phong cảnh đẹp, đồ ăn ngon. Đáng để trải nghiệm ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Tong Thai Ha",
+    "rating": 5,
+    "review_text": "Là nơi có nguồn khoáng tự nhiên tốt nhất thế giới, được tập đoàn Sun group đầu tư  theo mô hình tắm onsen của Nhật Bản. Giá cả nhìn chung hơi cao (so với điểm tắm khoáng kiểu Việt Nam tại Km4 Cẩm Phả) nhưng cũng đáng tiền vì dịch vụ tốt, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "huy hiep nguyen",
+    "rating": 4,
+    "review_text": "- Chú ý tình trạng thay đổi nhiệt độ toàn cơ thể khi tắm nóng\n- Ấn tượng nhất về Hoàng hôn trên đường từ Hạ Long đến Yoko Onsen Quang Hanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Tuan Minh Phan",
+    "rating": 5,
+    "review_text": "Tất cả dịch vụ đều ổn. Bãi tắm công cộng đi khá là đau chân và rát do nắng nóng và đá nhọn. Cần xử lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Cao Hoàng Trúc Thủy (Toyota Channel)",
+    "rating": 5,
+    "review_text": "Onsen Quang Hanh có giá từ 1.5tr-2tr/vé, phục vụ từ 9h-14h. Mình đánh giá là hơn onsen tại Nhật ở phần osen public. Nhật thì thích tắm tiên, nam nữ biệt lập. Ở onsen Quang Hanh tập trung vào public. Mình thích xông hơi nóng/lạnh/muối 10 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Jane Nguyen",
+    "rating": 5,
+    "review_text": "Dịch vụ chuẩn 5 sao, phòng đẹp tiện nghi đúng tiêu chuẩn Nhật, tắm khoáng tuyệt vời (nơi duy nhất có khoáng mặn ở VN)."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Vân Anh Nguyễn",
+    "rating": 5,
+    "review_text": "có 2 khu vực tắm khoáng. Khu công cộng có nhiều bể với chức năng khác nhau như bể khoáng, bể sục, bể tắm cốc... tắm chung nam nữ. Khu tắm tiên là khu tắm công thu nhỏ trong nhà, riêng tư. Vì ít ng nên khá yên tĩnh và thoải mái. Một nơi phù …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Phuong Thao Pham",
+    "rating": 4,
+    "review_text": "Trải nghiệm đủ 1 lượt tất cả các bể khoáng nóng, xông hơi, bể ngâm, khu tắm tiên...theo đúng thời gian được hướng dẫn chắc hết khoảng 2 tiếng. Nhiệt độ nc ở các bể giao động từ 14 độ (bể lạnh) tới trên 40 độ. Ng có bệnh lí cao huyết ap đc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Angel Lyn",
+    "rating": 5,
+    "review_text": "Mình đi đúng đợt đang mua một tặng một\nMọi thứ đều rất tốt từ nhân viên cho đến mọi thứ\nKhuôn viên khá rộng và có cả phòng đọc sách …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Huyen Mi Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, buffet ít nhưng chất lượng. Bể tắm hay ho, 3 tiếng chưa đủ để cảm nhận dc hết nhé, nên đi sớm để trải nghiệm nhiều hơn. đi vào mùa đông chắc sẽ tuyệt hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Khuê nguyễn",
+    "rating": 5,
+    "review_text": "Dịch vụ chất lượng tốt, sạch sẽ, đồ ăn ngon.\nĐoàn mình đi khung giờ đặc biệt giữa tuần, khách vắng nên trải nghiệm rất thích."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Kelly Tran",
+    "rating": 1,
+    "review_text": "My kid got hurt in her foot while walking in the buffet restaurant. They request guests to take off shoes but the floor is too old to be safe. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Khanh Huyen Nguyen",
+    "rating": 5,
+    "review_text": "Đi onsen thít nám, nhất là khu tắm tiên siêu siêu phê, khu xông hơi cũng đầy đủ xông nóng xông lạnh xông đá muối. Đồ ăn tươi và cực kì ngon, với mức giá gần 1tr được tắm khoáng và ăn buffet thoả thích thì mình thấy rất xứng đáng nha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Cường Minh",
+    "rating": 5,
+    "review_text": "Minh đi tắm khoáng cùng gia đình, nói chung mọi thứ khá ok, hiện đại, thân thiện, chu đáo và khoa học... kể ra có để mấy chai nước suối ở khu vực hồ tắm khoáng thì tốt hơn..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Trang Nguyễn",
+    "rating": 5,
+    "review_text": "Địa điểm lý tưởng để đến nghỉ dưỡng thư giãn\nKhông gian đẹp, sang trọng, phong cách Nhật Bản\nDịch vụ tốt\nNhân viên thân thiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Minh Tân Hà",
+    "rating": 5,
+    "review_text": "Vị trí rất đẹp, phòng rất đẹp và sạch sẽ , tiện nghi, đẳng cấp . Nhân viên nhiệt tình, tươi tắn 😁\nĐồ ăn tương đối ngon .\nHẹn gặp lại ❤️ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Gia An Nguyễn",
+    "rating": 5,
+    "review_text": "Yoko Quang Hanh có kiến trúc rất sang trọng và hiện đại, kết hợp với cảnh quan thiên nhiên tuyệt đẹp. Mỗi khu vực được thiết kế hài hòa với môi trường xung quanh, tạo cảm giác thư giãn thoải mái. Khu tăm onsen ngoài trời đặc biệt ấn tượng, mang lại trải nghiệm thư thái dưới bầu trời xanh mát."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Inbu Tung",
+    "rating": 4,
+    "review_text": "Cũng không có nhiều dịch vụ như mong đợi. Các khu tắm nhỏ, nước ko nóng. Có khu ngủ nghỉ khá ổn. Tuy ngủ chung nhưng có thể chấp nhận được. Nhân viên nhiệt tỉnh, rất năng động và tràn đầy năng lượng tốt. Đội hoạt náo viên và đội múa tập thể …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "hung long hotel",
+    "rating": 5,
+    "review_text": "Phòng sạch sẽ, nhân viên HK nhiệt tình đặc biệt là cháu Loan Phạm, luôn luôn nhớ khách và phục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "huong thu",
+    "rating": 5,
+    "review_text": "Không gian gần gũi thiên nhiên chữa lành thật sự\n, dịch vụ tốt sẽ quay lại lần tới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Minh Tuan Pham",
+    "rating": 4,
+    "review_text": "Khu nghỉ dưỡng được đầu tư công phu, có khu vực tắm chung hoặc một số căn có bể tắm khoáng ngoài trời riêng, không gian mát mẻ yên tĩnh, bên cạnh là sườn núi cao và có một con suối nhỏ chảy bên dưới. Tuy nhiên một số thiết bị và dụng cụ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Van Anh Nguyen",
+    "rating": 5,
+    "review_text": "Nhà mình đi theo Combo ở Premier village HL và tắm onsen trong ngày.\nThấy dịch vụ khá tốt, nhân viên tận tình.  Onsen rất đẹp bài bản.\nThời điểm gd đi là mùa hè nên ko đông, dễ chịu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Chang Chang",
+    "rating": 5,
+    "review_text": "Phòng đẹp, dịch vụ tốt, nhân viên nhiệt tình, xinh, dễ thương. Khu phòng ở yên tĩnh hợp chill. Lên hình xuất sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hưng Vượng (Vietlott)",
+    "rating": 5,
+    "review_text": "Xứng đáng là nơi nghỉ dưỡng và chữa lành sức khoẻ . Phân khúc cao cấp nên mọi thứ đều tuyệt vời , thật sự hài lòng ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hoàng Minh Long",
+    "rating": 2,
+    "review_text": "Tôi đi trước tết, giá cả vẫn thế nhưng 2 điểm trừ :\n1. Đồ ăn cá hồi sống và các loại không tươi\n2. 1/4 số bể đang bảo trì không dùng được, nhưng vẫn thu đủ tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Vui Sống",
+    "rating": 4,
+    "review_text": "Tắt hệ thống nước khoáng của khách lưu trú sớm quá. Tối muốn tắm không được, sáng 7h mà cũng không bật hệ thống để khách tắm. Đối với khách lưu trú sử dụng phòng nghỉ và bể ngâm khoáng riêng mà giới hạn để tiết kiệm chi phí như vậy chưa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thanh Hương",
+    "rating": 5,
+    "review_text": "A lễ tân nam đeo kính rất nhiệt tình chỉ bảo cho khách ạ, dịch vụ 10d, e đến Yoko lần đầu nên nhiều thiết bị sử dụng trong phòng và đặt vé sun còn nhiều bỡ ngỡ, a rất tận tâm giải đáp, kể cả ban đêm 🥰 take care khách siu siu kỹ. Địa điểm lý tưởng nghỉ dưỡng gần HN ❤️ Hẹn Yoko 1 ngày k xa ạ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "thoa đoàn thị",
+    "rating": 1,
+    "review_text": "Tệ không thể tưởng tượng được, giá thì cao mà dịch vụ thì kém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hoang Lai Do",
+    "rating": 5,
+    "review_text": "Khu này đẹp, vào như đang ở Nhật, đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Anh Nguyen",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt, đồ ăn tuy không đa dạng lắm nhưng khá ngon miệng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Đặng An",
+    "rating": 5,
+    "review_text": "Không gian yên tĩnh, relax tuyệt đối nhưng xa trung tâm và các khu mua sắm quá nên nói chung đến nghỉ dưỡng 1 ngày thì khá ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "tan le duc",
+    "rating": 5,
+    "review_text": "Cảnh đẹp. Đặc biệt dành cho chị em.\nMn đi nhớ tắm lần lượt, đủ thứ tự các bể, các khu xông nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "MC Hoang",
+    "rating": 5,
+    "review_text": "Xuất sắc, nơi lý tưởng để trải nghiệm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "nguyen hung",
+    "rating": 2,
+    "review_text": "Phòng gọi là biệt thự nhưng bé xíu, ngang ~5m sâu ~10m bao gồm cả wc, thiết kế k khác căn hộ studio với giường, bàn khách chung trong 1 k gian ~35m2, k có cảm giác sang trọng như PR. Vật liệu sử dụng nhiều chỗ tạo cảm giác hàng fake và hơi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thao Luu",
+    "rating": 5,
+    "review_text": "Mọi người nên thử trải nghiệm ở đây 1 lần, nhân viên phục vụ nhiệt tình, dịch vụ và cơ sở vật chất cũng rất  tốt, giá vé tuy không phải là ở mức rẻ nhưng vẫn có thể chấp nhận được, ngoài được tắm onsen, xông hơi còn kèm 1 bữa ăn buffet nữa, ai muốn tiết kiệm thì đi vào ngày thường và 7h tối vé sẽ rẻ hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Vivian Pham",
+    "rating": 5,
+    "review_text": "Mình vừa có một trải nghiệm thật sự đáng nhớ tại Yoko Onsen Quang Hanh, và điều khiến mình ấn tượng sâu sắc nhất không chỉ là không gian onsen tuyệt đẹp mà còn là sự tử tế, tận tâm của đội ngũ nhân viên nơi đây. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hiep Dinh Anh",
+    "rating": 5,
+    "review_text": "10 điểm không nhưng, kì nghỉ dưỡng quá ưng ý. Không gian đẹp, đồ ăn ngon. Giá cả hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Nam Thành",
+    "rating": 5,
+    "review_text": "địa điểm khá đẹp có khu tắm khá là thoải mái, nhân viên khu public nhiệt tình nhất là nhân viên trong tủ looker nữ bạn đấy tên là my thì phải nói chung là đáng để nghỉ dưỡng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hoài Anh Đặng",
+    "rating": 5,
+    "review_text": "Không gian đẹp, không khí dễ chịu, tắm khoáng cùng gia đình rất thích, hi vọng quay lại nhiều lần hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Trang Quynh Nguyen",
+    "rating": 5,
+    "review_text": "Không gian đẹp, dịch vụ tuyệt vời! Mình có để quên đồ ở phòng, nhân viên rất nhiệt tình tìm kiếm và gửi giúp lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Xuân Lê Thị",
+    "rating": 3,
+    "review_text": "Phần tắm khoáng, xông hơi ổn, nhân viên niềm nở nhưng buffet nghèo nàn nhất là đồ hải sản rất ko ổn (tôm , mực nướng ko tươi), ngày Thứ 7, CN giá cao hơn hẳn nhưng dịch vụ vẫn như ngày thường, 1 chai nước khoáng 49k ..cảm giác ko thoải mái bắt đầu từ cửa hàng lưu niệm..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Huyền Tô Thanh",
+    "rating": 3,
+    "review_text": "Chỗ này nghe kể trước bán vé 30k cho người dân vào tắm nước nóng sau này các big boss làm onsen bán vé 1 triệu 1 người 🙄🙄🙄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Fm. Bears",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời, đồ ăn đa dạng, phù hợp cho chuyến đi nghỉ dưỡng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Nhàn Hoàng",
+    "rating": 5,
+    "review_text": "Nhân viên thân thiện.\nPhòng rất sạch đẹp, tiện nghi. Phòng washitsu có bể ngâm khoáng và phòng xông hơi private rất riêng tư."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Đông Nguyễn",
+    "rating": 5,
+    "review_text": "Rất tuyệt , nhiều bể khoáng, nhiều nhiệt độ khác nhau. Không gian đẹp, buffet ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thu Huyền Nguyễn",
+    "rating": 5,
+    "review_text": "Mìng đã đến Yoko 2 lần và khá ấn tượng với không gian nơi đây. Thực sự yên tĩnh và thư giãn, nhân viên thân thiện, niềm nở, nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Minh Nguyen",
+    "rating": 5,
+    "review_text": "phòng đẹp thơm và bể tắm sục sạch và dùng rất ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Miro Nguyen",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời, phòng ở rất zen. Bữa sáng, bữa tối đều ngon. Tắm onsen nhiều lần cực thoải mái. Sẽ đi lại nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Tấn Duy Võ",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt, nhân viên Hồng Ngát nhiệt tình với khách hàng, sẽ còn quay lại tiếp nữa, cảm ơn vì một buổi thư giản thú vị."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Lương Nguyễn",
+    "rating": 5,
+    "review_text": "Đỉnh, sản phẩm tốt, nhân viên tốt, đồ ăn ngol, tắm khoáng nóng và xông nóng rất phê, sạch sẽ đẹp 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hanna Mai",
+    "rating": 5,
+    "review_text": "Vô cùng tuyệt vời. Nhiều bể khoáng. Sạch, trong. Giá trải nghiệm từ 18-21g là 500k VND/ng, hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Nguyễn Thu Ngân",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương, thân thiện, service tốt, phòng rộng rãi đẹp nhắmmm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thương Thương Trương",
+    "rating": 5,
+    "review_text": "Tuyệt vời ông mặt trời, mọi thứ ocer, tiếc mỗi bữa sáng chỉ mở đến 9h thôi ạ, nên bạn nào ngủ kĩ thì nhịn ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thuỳ Đoàn Thị Thanh",
+    "rating": 5,
+    "review_text": "Khu nghỉ dưỡng tuyệt vời, chất lượng dịch vụ tốt, nhân viên thân thiện, nhiệt tình hỗ trợ khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Quân Nguyễn",
+    "rating": 4,
+    "review_text": "Không gian gần gũi thiên nhiên, mang phong cách Nhật Bản. Nhiều điểm check in đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Mạnh Nguyễn",
+    "rating": 5,
+    "review_text": "1 nơi nghỉ dưỡng, tắm và xông hơi, cùng nhiều trải nghiệm thú vị khác. Giá hợp lý với từng gói dịch vụ , nhà mình đi 2 người chọn gói buổi sáng từ 9h-13h (4 tiếng) có bao gồm cả buffet nên mọi thứ đều thoải mái. Rất đáng để trải nghiệm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Ni Tran",
+    "rating": 2,
+    "review_text": "Mình có trải nghiệm 1 đêm lưu trú, phòng ốc nhân viên khá nhiệt tình dễ chịu. Tuy nhiên điểm trừ là hệ thống đặt phòng trên app và nhân viên không thể hỗ trợ tốt cho khách hàng giải quyết vấn đề này. Lúc nhận phòng nhân viên nói KH tải app …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Nguyen Thu Trang",
+    "rating": 3,
+    "review_text": "Nhân viên thân thiện dễ chịu. Tuy nhiên ở nhà hàng nên có quy định các nhóm khách cần giữ yên tĩnh. Hôm mình đến có nhóm khách 4-5 người đàn ông Việt ăn uống hát hò nói rất to khiến mọi khách đều cảm thấy phiền, nhưng KHÔNG CÓ BẤT KÌ NHÂN VIÊN NHÀ HÀNG NÀO NHẮC NHỞ HỌ. Không hề có spirit của khu onsen mà như ở quán bia."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Tu Vi",
+    "rating": 5,
+    "review_text": "Khu suối khoáng nóng rất sạch đẹp\nDịch vụ spa tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Haus Viet",
+    "rating": 1,
+    "review_text": "Rat tiec toi nghi o day trong chuyen di nghi cung gia dinh\nDich vu qua kem\nAn uong khong tot …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thuận Lê",
+    "rating": 5,
+    "review_text": "Cơ sở vật chất rất tốt, đẹp, sang trọng\nDịch vụ đẳng cấp, khác biệt tạo cảm giác thoải mái, dễ chịu cho du khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "S T",
+    "rating": 5,
+    "review_text": "Yoko Onsen - cảm hứng từ thiên nhiên mang phong cách Nhật Bản"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "alice ph",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời nhân viên nhẹ nhàng dễ chịu nhiệt tình hỗ trợ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thụy Hoàng Gia",
+    "rating": 5,
+    "review_text": "Đến đây trải nghiệm và hưởng thôi . Thật tuyệt vời 👍\nMình đang có dự định quay lại hưởng tiếp … ❤️ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hằng Trương",
+    "rating": 5,
+    "review_text": "Suối khoáng nóng trải nghiệm rất tuyệt vời, nhân viên hướng dẫn nhiệt tình, phong cách đậm chất nhật bản"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hải Nam Chu",
+    "rating": 2,
+    "review_text": "Ngày 2/1/2026:\nĐiểm trừ:\n- Khách vào mà đợi một lúc mới có người ra hướng dẫn. Cả quầy tiếp khách chẳng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thành An Nguyễn",
+    "rating": 5,
+    "review_text": "Mình đã tắm ở đây khá nhiều lần, dịch vụ tốt lắm luôn. Không gian rộng rãi, nhân viên tư vấn, hỗ trợ rất nhiệt tình. 10đ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Pép pờg",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt, không gian đẹp, cảnh quan xung quanh đẹp. Phục vụ chuyên nghiệp, tận tâm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Jimmy Trung (TRIPMAP)",
+    "rating": 5,
+    "review_text": "Nhìn từ trên cao suối nước nóng Yoko Onsen Quang Hanh trông như một ngôi làng Nhật nhỏ nhắn, xinh xắn, nằm lọt gọn yên bình giữa rừng núi hùng vĩ, xanh thẳm, bạt ngàn cây cối. Bởi vậy, không gian nơi đây vô cùng thanh bình, yên tĩnh, tươi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Nguyen Van Thanh",
+    "rating": 5,
+    "review_text": "đẹp và trải nghiệm tuyệt vời bạn nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Haley Phan",
+    "rating": 4,
+    "review_text": "Trải nghiệm nhìn chung là ổn.\nĐiểm cộng:\n- Thiết kế và cảnh quan tổng quan …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Nội Thất Đất Tiên Số 1",
+    "rating": 5,
+    "review_text": "rộng rãi thoải mái ăn ngủ nghỉ tắm khoáng rất tiện lợi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "TUAN ANH BUI",
+    "rating": 2,
+    "review_text": "Dịch vụ không tốt, khu tắm tiên không sử dụng được cũng không được thông báo và khi về tôi hỏi lễ tân có xin lỗi + thái độ khó chịu. Giá vé là 2tr/1ng. Đồ ăn tạm ổn, ko có nhiều lựa chọn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Tiến Phạm",
+    "rating": 5,
+    "review_text": "Các bạn nhân viên ở đây rất nhiệt tình, đồ ăn ngon. Phong cảnh đẹp, mình sẽ quay lại vào dịp gần nhất ❤️❤️❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thuy Nguyen",
+    "rating": 5,
+    "review_text": "Khu public onsen rất đẹp tuy hơi đông. Mình recommend khu tắm tiên sạch và vắng người. Mình ở villa rộng và đây đủ tiện nghi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Cute Siu",
+    "rating": 5,
+    "review_text": "Thích hợp cho ai muốn thư giãn, nghiện đi spa, tuy nhiên ban ngày nắng nóng thì đi trên đá rất nóng và rát chân, tắm suối thì suối nào cũng quá nóng do trời nắng. Nên tắm lúc chiều mát sẽ thoải mái hơn, nv phục vụ rất tốt, nên ăn buffet vì đồ ăn ngon và rất đáng tiền, món nào cũng ưng ý cả. Giá phòng hơi cao."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hoàng Hường Nguyễn Bùi",
+    "rating": 5,
+    "review_text": "Đã đi, các dịch vụ ok\nỞ villa rất thích, tiện nghi, thanh tịnh. Sẽ đưa gia đình đến thường xuyên"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thu Phạm Thị Hà",
+    "rating": 5,
+    "review_text": "Một trải nghiệm hết sức tuyệt vời! Mình đã trải nghiệm đầy đủ các dịch vụ và thấy giá tiền cực kì xứng đáng. Đi trong tuần giá rẻ hơn, từ t6-cn tính giá cuối tuần và đông hơn. Lúc bước vào nhiều phiền muộn và khi bước ra thấy cơ thể và tâm hồn được tái tạo hoàn toàn. Bữa ăn buffet ngon và tươi mới. Nchung nên trải nghiệm mọi người nhé 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Vũ Hải Yến",
+    "rating": 5,
+    "review_text": "Ở đây rất yên tĩnh và thơm nha, nhân viên nhiệt tình, tắm nước nóng bao phê , nên thử nha mn 😘😘😘😘 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Anh Khôi Nguyễn",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời dành cho những người yêu quý việc tắm onsen và đồ ăn chuẩn Nhật, nhân viên rất nhiệt tình và thân thiện, các khu vực bể tắm và không gian được bày trí rất đẹp và tỉ mỉ . Tuy nhiên, khu vực tắm tiên nên để nội quy rõ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "bump shehatemesis",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình, dịch vụ cực kì tốt xứng đáng 5 sao. Lần tới quay lại Việt Nam nhất định mình sẽ quay lại đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thương Đặng",
+    "rating": 5,
+    "review_text": "Không gian yên tĩnh , phòng nghỉ decor đơn giản chuẩn Nhật. Đồ ăn đa dạng, ngon và hợp khẩu vị gia đình mình. Các bạn nhân viên rất nhiệt tình và hiếu khách. Cảm ơn Yoko"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Nguyễn Thông (nov)",
+    "rating": 5,
+    "review_text": "Mới đầu tư xây dựng, đẹp và tiện lợi ...\nLấy cảm hứng từ nguồn năng lượng dồi dào và biểu tượng cho sự tốt lành của ánh nắng mặt trời (Yoko – 陽光 – Ánh Dương), Yoko Onsen Quang Hanh là mô hình Khu nghỉ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Tuan Nguyen",
+    "rating": 5,
+    "review_text": "Dịch vụ khoáng nóng mô hình nhật bản tuyệt vời 😍 nước sạch, các cháu nhân viên nhiệt tình chu đáo.Sẽ quay lại... …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Hải Yến",
+    "rating": 5,
+    "review_text": "nhân viên thân thiện chu đáo phong cảnh đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thiên Trần (Julian)",
+    "rating": 5,
+    "review_text": "Đi một lần mà mình mê chỗ này quá!!!\nGiá khá đắt nhưng đổi lại mọi trải nghiệm từ tắm khoảng, sauna, chụp hình, tận hưởng không khí ở đây đều xịn xò. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "hoang huy",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt. Nhân viên nhiệt tình, chu đáo !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thắng Tạ Hồng (Chu Han Bin)",
+    "rating": 5,
+    "review_text": "Rất thân thiện, nói chuyện duyên dáng dễ nghe. Chú đáo tận tình chăm sóc khách. Đã có một trải nghiệm tuyệt vời ở onsen"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Nè Linh",
+    "rating": 5,
+    "review_text": "Không gian yên tĩnh và thư giãn, phòng nghỉ phong cách Nhật xinh lắm. Nhân viên thân thiện, nhiệt tình. Cảm ơn Yoko!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Huyen Nguyen",
+    "rating": 4,
+    "review_text": "1 nơi dễ chịu để nghỉ ngơi trong ngày, đồ ăn gọi về phòng ngon, có máy pha cà phê và tắm khoáng trong phòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Ngoc Bui",
+    "rating": 5,
+    "review_text": "Mình có đi vài onsen, kể cả bên Nhật. Có vài nhận xét khách quan\n- Quang cảnh. Xây dựng, bài trí khá giống Nhật. Kế bên có núi non, suối nên phong cảnh khá ổn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Quốc Đông Nguyễn",
+    "rating": 3,
+    "review_text": "Dịch vụ cũng bình thường, phong cách Nhật bản và giá cao. Rất ồn ào khi có những người vô ý thức đến nghỉ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Cường Trương Văn",
+    "rating": 5,
+    "review_text": "Yoko Onsen Quang Hanh mang đến cho tôi một trải nghiệm nghỉ dưỡng vô cùng trọn vẹn và thư giãn. Không gian yên bình, thiết kế đẹp theo phong cách Nhật Bản, rất phù hợp để nghỉ ngơi sau những ngày làm việc căng thẳng. Dịch vụ chuyên nghiệp, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "HuyKashi",
+    "rating": 5,
+    "review_text": "Trải nghiệm cùng gia đình thật tuyệt vời!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thanh Nguyễn",
+    "rating": 5,
+    "review_text": "Đẹp xịn sạch đi 1 lần chỉ muốn ở lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Long Đào",
+    "rating": 5,
+    "review_text": "Trải nghiệm tuyệt vời, giá khá cao nhưg xứng đáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Giang Trần",
+    "rating": 5,
+    "review_text": "Trải nghiệm dv tắm và ăn buffet rất ấn tượng. Mọi ng nên thử nhé ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Thảo Đinh",
+    "rating": 3,
+    "review_text": "Phòng ốc ổn, chỉn chu, mình đã ở hạng Ichi và Omateashi, ichi thì giống ảnh web, lưu ý là bể Ichi hoàn toàn lộ thiên, sẽ bất cập nếu tắm vào thời tiết quá lạnh (vì phải di chuyển từ bề ngoài trời vào trong nhà mà không có mái che) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Lê Trần Cẩm Tiên",
+    "rating": 5,
+    "review_text": "Nhân viên dễ thương, nhiệt tình. Phòng sạch, đẹp. Có bể tắm và xông hơi. Thư giãn rất thoải mái sau ngày nhiều ngày làm việc mệt mõi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Vu Tung (Leo)",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, không gian thoáng, nước nóng tắm thích, đặc biệt khu private thì em bé nhỏ cũng tắm được vì bể nông.\nKhông gian cho em bé hơi tẻ, nên thêm một số trò chơi (kiểu jenga, daruma, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Baden Dương",
+    "rating": 1,
+    "review_text": "Khu vui chơi cho trẻ không có gì chơi, mỗi cái cầu trượt bé tý với mấy quả bóng, 2 cháu vào là hết chỗ.\nĐồ ăn uống cho trẻ cũng ko đc phục vụ. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Nguyen Hoang Duy",
+    "rating": 5,
+    "review_text": "Mình chỉ đến tắm onsen ở đây chứ không đặt phòng. Trải nghiệm sức khỏe thú vị. Kết hợp nhiều hình thức tắm khoáng và xông hơi, khi tắm xong cảm thấy rất thoải mái và khỏe khoắn. Chất lượng dịch vụ khá tốt, không gian đẹp, thoáng đãng thư thái."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff4697fe17ed:0xee4c7fbde9fdaef8",
+    "shop_name": "YOKO ONSEN QUANG HANH",
+    "user_name": "Do Huong",
+    "rating": 3,
+    "review_text": "Tôi thực sự thất vọng về dịch vụ tại Yoko onsen. Tôi đã chi ra 1 khoản tiền không nhỏ cho 2 đêm ở village. Tuy nhiên, buổi chiều 3/1/2026 khi đi tắm tại khu onsen public thì nhân viên nói khách đông hết khăn tắm chỉ phát cho 1 khăn tắm to. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Tìm về Tổ ấm",
+    "rating": 4,
+    "review_text": "Chợ cẩm phú và cọc 6 nằm cạnh nhau luôn. Rộng Cũng OK"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Bình Ngô",
+    "rating": 5,
+    "review_text": "chợ rất phong phú hàng hóa giá bình ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Thành Hồng",
+    "rating": 4,
+    "review_text": "Từng đi chợ ở đây, người bán làm việc chăm chỉ, hàng tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Huyền Đặng",
+    "rating": 1,
+    "review_text": "Quá tệ! NHÀ GỬI XE QUÁ TỆ! Tệ đến mức không thể nào chấp nhận nổi 😃 không biết sao nhưng rõ là xe mình bị đổ và hỏng. Tuy không biết do ai làm nhưng lúc mình hỏi những người trông xe thì họ nói là không biết và khẳng định rằng xe mình không …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "THUY NGUYÊN",
+    "rating": 5,
+    "review_text": "Đông đúc bán đa giạng mặt hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Nguyễn Văn Tuyến",
+    "rating": 3,
+    "review_text": "Ko đông và nhộn nhịp như trước, công nhân giảm, than thổ phỉ ko còn nên bớt sầm uất, bớt tệ nạn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Phương Tô mai",
+    "rating": 2,
+    "review_text": "Nơi mua bán thực phẩm hải sản,thịt cá,rau củ quả.giá bình dân."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Thanh Tùng Hoàng",
+    "rating": 4,
+    "review_text": "Có 2 khu - khu mới sạch sẽ nhưng ít hàng quán. Khu cũ thì đông nhưng chật chội và bẩn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "mạnh Cường nguyễn",
+    "rating": 2,
+    "review_text": "Là một vùng đất khai thác than đá lớn nhất, có các mỏ than cọc sáu, đèo nại, Cao Sơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Mạnh Nguyễn Văn",
+    "rating": 1,
+    "review_text": "Hải sản tươi sống giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Hồng Duy Nguyễn",
+    "rating": 4,
+    "review_text": "Không khí tấp nập , giá cả phải chăng .tuy nhiên hơi mất vệ sinh do đường đi lại còn đọng nước ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Thành Hồng",
+    "rating": 3,
+    "review_text": "Bán hàng ở đây khá ổn nhưng cần đảm bảo vệ sinh hơn chút, gọi là cũng đc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Hường Trần",
+    "rating": 5,
+    "review_text": "Chợ có nhiều thức ăn tươi hoa quả đẹp vài nhà bán quần áo cũng chất lượng cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Truong do xuan",
+    "rating": 5,
+    "review_text": "chợ cũ nhiều đồ mua sắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Thuy Bui Cam",
+    "rating": 4,
+    "review_text": "Chợ to. Giá cả phải chăng không  mấy nói thách. Đồ biển nhiều. Có nhiều lựa chọn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Phượng Nguyễn",
+    "rating": 3,
+    "review_text": "Chơ lơn ,nhieu mat hang hon.co đay đo re,nhung may ba o chơ hay tranh danh nhau that đang so🙄 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "NCT channel83",
+    "rating": 4,
+    "review_text": "Đa dạng về hàng tiêu dùng và đồ ăn, Hệ thống giao thông o được thuận lợi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Minh Hai",
+    "rating": 3,
+    "review_text": "Chợ tuy không đẹp, nhưng nhiều hàng, và giá cả cũng ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Duy Ta",
+    "rating": 5,
+    "review_text": "Chợ đông cả ng bán lẫn ng mua, giá khá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Hải Lục",
+    "rating": 1,
+    "review_text": "Vệ sinh kém . Quy hoạch không có tổ chức , nhưng có nhiều mặt hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Đức Vinh Vũ",
+    "rating": 4,
+    "review_text": "Mấy năm mới ghé thăm,thay đổi và phát triển mạnh quá.K nhận ra..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Buiducquyen Bui",
+    "rating": 3,
+    "review_text": "Chợ nhỏ chủ yếu bán rau quả và thực phẩm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Binh Hoang",
+    "rating": 4,
+    "review_text": "Thực phẩm đa dạng rẻ phục vụ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Jessi",
+    "rating": 4,
+    "review_text": "Thân thiện nhưng như mọi chợ khác, vẫn không sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "NGỌC Bùi Bảo NGỌC",
+    "rating": 1,
+    "review_text": "giá điện cao quá tiểu thương gù lưng mà trả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Thầy Nghĩa Dạy Lái Xe",
+    "rating": 5,
+    "review_text": "Hải sản giá tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Ly Nguyễn",
+    "rating": 4,
+    "review_text": "Vi chờ đa dạng về mặt hàng.an linh tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Nam Ẩm Thực",
+    "rating": 5,
+    "review_text": "Bún Đậu Mẹt Cọc 6"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "tuấn thanh",
+    "rating": 5,
+    "review_text": "Chỗ đỗ rộng. Bán xăng nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Nguyen Huong",
+    "rating": 4,
+    "review_text": "chợ mà,-ồn ào ,vội vã ,tấp lập .nhưng Trân thật!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Lợi Nguyễn",
+    "rating": 4,
+    "review_text": "Wow nhiều hàng hóa để mua"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "atuan do",
+    "rating": 5,
+    "review_text": "Thật tuyệt vời, nay em đã gặp anh này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Zhs Suý",
+    "rating": 5,
+    "review_text": "Tốt ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "hồng ánh nguyễn thị",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "vu thiep",
+    "rating": 5,
+    "review_text": "Nhiều hàng hải sản tươi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Thắng Đào Đức",
+    "rating": 5,
+    "review_text": "Một thời gắn bó"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Thủy Nguyễn",
+    "rating": 2,
+    "review_text": "Hàng hóa rẻ. Đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Anh Hải",
+    "rating": 5,
+    "review_text": "Tặng chợ 5 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "hai bui",
+    "rating": 1,
+    "review_text": "Hàng hóa nhiều, tươi sống"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Ly San",
+    "rating": 4,
+    "review_text": "Hàng tiêu dùng đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "BÌNH Xuân",
+    "rating": 3,
+    "review_text": "Hải sản giá rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Thanh Hiển Lê",
+    "rating": 5,
+    "review_text": "Nhiều hải sản ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Cường Bùi",
+    "rating": 5,
+    "review_text": ":))) 5 sao quê hương tuii"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Bean Channel",
+    "rating": 3,
+    "review_text": "Hơi không được sạch lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "trung nguyen",
+    "rating": 5,
+    "review_text": "Chợ cọc 6 nhiều đô vui"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Game Center",
+    "rating": 3,
+    "review_text": "Bẩn. Hàng quán thấp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Chien Nguyen",
+    "rating": 4,
+    "review_text": "Gần dg quốc lộ\nSạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Đua Anh",
+    "rating": 3,
+    "review_text": "Được nhiều hải sản."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Đình anh Lê",
+    "rating": 3,
+    "review_text": "Chợ cọc 6"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Vu Hoanghien (TL hiển)",
+    "rating": 4,
+    "review_text": "Nhiều đồ ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Trung Khanh Nguyễn",
+    "rating": 5,
+    "review_text": "đa dạng mặt hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Phương Nguyễn",
+    "rating": 5,
+    "review_text": "Rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Come Takey",
+    "rating": 4,
+    "review_text": "Nhiều hải sản"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Quyết Hương Rèm",
+    "rating": 5,
+    "review_text": "Giá cả hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "thanh thuan",
+    "rating": 1,
+    "review_text": "Ngoc tran"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Quảng Dương",
+    "rating": 5,
+    "review_text": "Nơi tôi sinh sống"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Vũ Thành Yên (H2SO4)",
+    "rating": 5,
+    "review_text": "Đa dạng hàng hóa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Hung Tran",
+    "rating": 5,
+    "review_text": "Đi chợ hàng ngày"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "khom chien",
+    "rating": 4,
+    "review_text": "Ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Ly Do Hương",
+    "rating": 5,
+    "review_text": "Hữu ích"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Phúc Phạm",
+    "rating": 5,
+    "review_text": "Rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Minh Phạm",
+    "rating": 1,
+    "review_text": "Quá lụp sụp.."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Tuấn Phạm",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Thi Phạm",
+    "rating": 3,
+    "review_text": "Vệ sinh kém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Linh Hoàng",
+    "rating": 3,
+    "review_text": "Hơi khó tính"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Tuấn Đoàn",
+    "rating": 5,
+    "review_text": "Ok lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "THÂN NGUYỄN VĂN",
+    "rating": 5,
+    "review_text": "Chinh xac noi da song"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Nguyenhaianh Nguyen",
+    "rating": 5,
+    "review_text": "Tết 2020"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Hương Nguyễn",
+    "rating": 2,
+    "review_text": "Đông đúc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "buithanhlong bui",
+    "rating": 3,
+    "review_text": "Cải thiện nh hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Nam Nguyễn Vlog",
+    "rating": 5,
+    "review_text": "Chợ cóc cọc 6"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "anh thợ máy",
+    "rating": 4,
+    "review_text": "Chợ cóc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Tuan Nguyen",
+    "rating": 5,
+    "review_text": "Rất ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Ngoc Pham Van",
+    "rating": 5,
+    "review_text": "Đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Anh Tuấn Phan",
+    "rating": 5,
+    "review_text": "Chợ lắm đôg"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Đạt Phan",
+    "rating": 5,
+    "review_text": "tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Lại Tô",
+    "rating": 3,
+    "review_text": "Cũng bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Phạm Đức Lộc",
+    "rating": 4,
+    "review_text": "Bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Tiến Trần",
+    "rating": 5,
+    "review_text": "Hàng hóa đa dạng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Kha Han Pham",
+    "rating": 4,
+    "review_text": "Cẩm phả Quảng Ninh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "cuong nguyen",
+    "rating": 4,
+    "review_text": "Tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "tam anh",
+    "rating": 5,
+    "review_text": "Sạch"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "sàn viên vlog",
+    "rating": 5,
+    "review_text": "Đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Venus K.",
+    "rating": 5,
+    "review_text": "Đô an tuoi moi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Việt Phương Hoàng",
+    "rating": 3,
+    "review_text": "Hoangphuongtkv's home"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Duy Duy",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Hung Tran",
+    "rating": 4,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Hai Nguyen",
+    "rating": 5,
+    "review_text": "tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Tiêu Diêu Du",
+    "rating": 4,
+    "review_text": "Nhộn nhịp bình dị, thi thoảng có tiếng chửi nhau. Phở bò bà hồng ngay ngã ba chợ ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Tick Tock",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Kumar Gaurav",
+    "rating": 5,
+    "review_text": "Chúa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Lê Duy Bình",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "TRUNG BUIQUANG",
+    "rating": 4,
+    "review_text": "già nua và chậm chạp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "quang thanh",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "Huỳnh Thảo",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "SÌN SÚ TÂY NGUYÊN",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01a8d030f187:0xb73632eb9da63bd9",
+    "shop_name": "Chợ Cọc 6",
+    "user_name": "chăm sóc dưa hấu kỹ thuật và",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "Dịu Trịnh",
+    "rating": 5,
+    "review_text": "Nếu bạn là một người đam mê địa lý và muốn khám phá những giá trị công nghiệp thực tế, hãy ghé thăm Công ty Tuyển than Cửa Ông (Quảng Ninh). Trải nghiệm đứng từ trên cao nhìn xuống toàn cảnh nhà máy tuyển than lớn và hiện đại bậc nhất Việt …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "hai 3dpro",
+    "rating": 5,
+    "review_text": "Gần đây có bãi tắm Phương Đông Vân Đồn, tắm biển gửi xe miễn phí, có khu vui chơi nước rộng có mất phí."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "Vuong Nhat Pham",
+    "rating": 4,
+    "review_text": "Chỗ sân khấu và tổ thể công ty khá đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "lê thái sơn",
+    "rating": 5,
+    "review_text": "Biểu tượng của công nhân tuyển than cửa ông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "Bùi Minh Tiến",
+    "rating": 3,
+    "review_text": "An ninh tốt, sân bãi đỗ xe rộng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "Tân Vương văn",
+    "rating": 5,
+    "review_text": "Tòa nhà công ty to lớn , hiện đại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "Trần Ly",
+    "rating": 5,
+    "review_text": "Đây la ̀một điều tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "Bui Duong Tuan Ngoc",
+    "rating": 5,
+    "review_text": "Thuộc tập đoàn than"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "yen yen",
+    "rating": 5,
+    "review_text": "Tôi thik đến nơi này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "Tùng hà 2016",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "Thắng Nguyễn",
+    "rating": 4,
+    "review_text": "Đạt tiêu chuẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01679e314423:0x47e13c278aa16e82",
+    "shop_name": "Công Ty Tuyển Than Cửa Ông",
+    "user_name": "Thang Nguyen",
+    "rating": 5,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Kts Cao Biên",
+    "rating": 5,
+    "review_text": "Công ty than uy tín ở Cẩm phả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Chien Le",
+    "rating": 4,
+    "review_text": "Nhưng tôi sẽ ca-hát về sức-lực Chúa: Phải, buổi sáng tôi sẽ hát lớn tiếng về sự nhân-từ Chúa; Vì Chúa là nơi ẩn-náu cao của tôi, Một nơi nương-náu mình trong ngày gian-truân."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Thu Trần",
+    "rating": 4,
+    "review_text": "Chúc công ty luôn phát triển"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Nhật thanh Trần",
+    "rating": 5,
+    "review_text": "Thành viên mới tên trần nhật thanh xin chào cả nhà."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "hoanvu",
+    "rating": 5,
+    "review_text": "Công ty Than Thống Nhất - TKV có trụ sở tại 1 Lê Thanh Nghị, Cẩm Đông, Cẩm Phả, Quảng Ninh, là công ty sản xuất than hàng đầu Việt Nam. Nơi đây có quy mô rất hoành tráng và chuyên nghiệp. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Cu Chiến",
+    "rating": 5,
+    "review_text": "Nói tôi  đã ghé thăm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Duy Vườn lan Duy Dương",
+    "rating": 4,
+    "review_text": "Công ty sản xuất than lớn của Việt Nam"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Trung Nguyen",
+    "rating": 5,
+    "review_text": "CTY rất ưu ái"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "TO MAX",
+    "rating": 3,
+    "review_text": "Trụ sở Công Ty Than Thống Nhất - TKV to quá ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Liêm Phạm Thanh",
+    "rating": 4,
+    "review_text": "Tòa nhà văn phòng đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Hieu Bui Trung",
+    "rating": 5,
+    "review_text": "Rất đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Thàng Lù",
+    "rating": 5,
+    "review_text": "Quá tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "fruit slime",
+    "rating": 5,
+    "review_text": "Đẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Ba Bui",
+    "rating": 5,
+    "review_text": "hoành tráng, quy mô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Thai Truong",
+    "rating": 3,
+    "review_text": "Đó thực sự là một hội trường lớn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Tran Nhu Hung",
+    "rating": 5,
+    "review_text": "Quá nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Thuy Linh Le",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "Cường Trần Văn",
+    "rating": 4,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314b01d45608a4e5:0xe200bedd9147485f",
+    "shop_name": "Công Ty Than Thống Nhất - TKV",
+    "user_name": "huong ho",
+    "rating": 1,
+    "review_text": "Được rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "thinh nguyen",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt tư vấn tuyệt vời anh em thợ+nhân viên rất nhiệt tình rất OK"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Lưu Vĩnh Linh",
+    "rating": 3,
+    "review_text": "Bão dưỡng phải chờ rất lâu, nhân viên thiếu nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Ngọc Khánh",
+    "rating": 5,
+    "review_text": "Rất hài lòng bạn Hà tư vấn nhiệt tình, giao xe chuẩn ngày đẹp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "bach dang",
+    "rating": 5,
+    "review_text": "Đại lý chuyên nghiệp , mua xe bạn Trâm tư vấn bán hàng nhiệt tình chu đáo 👍🏻👍🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "hằng Phan",
+    "rating": 5,
+    "review_text": "Gia đình tôi thấy rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Nguyễn Thị Nguyệt",
+    "rating": 5,
+    "review_text": "Đại lý tuyệt vời . Sẽ giới thiệu bạn bè ủng hộ đại lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Kiên Ná Thun",
+    "rating": 5,
+    "review_text": "Trải nghiệm tốt, nhân viên tư vấn kỹ càng, đảm bảo quyền lợi của khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "hiếu nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình , Chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "ngoc dung",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình khách đói là mua mì tôm cho khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Phạm Thu Tình",
+    "rating": 5,
+    "review_text": "Gia đình tôi nhận xe Toyota Cẩm Phả, các bạn hỗ trợ rất nhiệt tình, chu đáo. Gia đình tôi rất hài lòng!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "dat ty tien",
+    "rating": 5,
+    "review_text": "Tôi đã mua xe, rat hai long"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Lam Pham",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình, chu đáo.\nRất hài lòng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Quang Lê",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình.. đánh giá 5 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "mạnh đỗ",
+    "rating": 5,
+    "review_text": "Tư vẫn bán hàng nhiệt tình , tận tâm , tôi rất hài lòng !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "SeaStar TMDV Hàng Hải",
+    "rating": 5,
+    "review_text": "Công ty tôi đã nhận xe tại Toyota Cẩm Phả. Dịch vụ uy tín, chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Bình Vũ",
+    "rating": 5,
+    "review_text": "Khách sạn đẹp, phòng sạch sẽ , yên tĩnh , vị trí gần khu vui chơi và gần biển , ngay trung tâm. Nhân viên dễ thương , thân thiện . Nói chung là rất tuyệt vời , đã giới thiệu nhiều bạn bè cùng gia đình tới đây ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Duy Nguyen",
+    "rating": 5,
+    "review_text": "Rất hài lòng với sự nhiệt tình của hãng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Vân Tú Nguyễn Thị",
+    "rating": 5,
+    "review_text": "- Tư vấn nhiệt tình, chăm sóc, hỗ trợ khách hàng chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Quynh Nguyen",
+    "rating": 5,
+    "review_text": "Trải nghiệm rất tốt. Bạn nhân viên đại lý Toyota Quảng Ninh - Cẩm Phả rất nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Nga Vũ",
+    "rating": 5,
+    "review_text": "Sale Dũng rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Duong Vu",
+    "rating": 5,
+    "review_text": "chuyên nghiệp nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Tien Tran",
+    "rating": 5,
+    "review_text": "Tôi nhận xe tại Toyota, bạn Ngô Hải tư vấn rất nhiệt tình và chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Đức Dũng Đào",
+    "rating": 4,
+    "review_text": "Thuận tiện, thân thiện nhưng tay nghề thợ chưa đươc cao, chỉ sửa chữa những bệnh bình thường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Lan anh Nguyễn thị",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình chuyên nghiệp . Nhất định sẽ quay lại để ủng hộ các bạn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thanh Mỹ Nguyễn",
+    "rating": 5,
+    "review_text": "Rất tuyệt vời 😍❤️, bạn Trâm tư vấn hướng dẫn rất  tận tâm, nhiệt tình cho mình khi mua xe. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "son pham",
+    "rating": 5,
+    "review_text": "Nhân viên tận tình, sản phẩm chất lượng và uy tín, sự lựa chọn tin cậy cho mọi nhà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Đức Huy",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình, đại lý uy tín. Rất hài lòng với dịch vụ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "kd",
+    "rating": 5,
+    "review_text": "đại lý uy tín, giá tốt, nhân viên tư vấn chuyên nghiệp, có bạn mua sẽ giới thiệu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "xuân long",
+    "rating": 5,
+    "review_text": "Nhân viên sale nhiệt tình chu đáo 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Tran Luan",
+    "rating": 4,
+    "review_text": "tôi thấy rất là ok . dịch vụ và cách phúc vụ rất chi là ok. có dịp sẽ quay lại đây thật nhiều lần hơn nữa. quả là một doanh nghiệp quá ok luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "HongMo Tran",
+    "rating": 5,
+    "review_text": "Dịch vụ tuyệt vời , Em Hiếu Bán Hàng Xuất Sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thảo Phạm",
+    "rating": 5,
+    "review_text": "Nhân viên bán hàng vô cùng nhiệt tình, chu đáo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Cậu buồn vì ai",
+    "rating": 3,
+    "review_text": "Duy nhất có 2 dịch vụ thực sự BỰC MÌNH là:\n1- nhân viên đi chuyển xe vào nơi bảo dưỡng - sửa chữa thì cứ như là xe của riêng họ ấy, thay đổi các cài đặt theo ý họ, xem đồ trên xe. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Hải Đinh hữu",
+    "rating": 5,
+    "review_text": "Nhân viên Hà tư vấn chuyên nghiệp, rất hài lòng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "thu hang Tran",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình, chuyên nghiệp! Chất lượng dịch vụ rất tốt❤️"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "vanquan tran",
+    "rating": 5,
+    "review_text": "Đại Lý chính hãng, uy tín. Tôi đã có một trải nghiệm tuyệt vời khi sử dụng dịch vụ ở đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Uyên Hoàng",
+    "rating": 5,
+    "review_text": "Nhân viên Hà tư vấn chuyên nghiệp tận tâm!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "viet le",
+    "rating": 5,
+    "review_text": "Trải nghiệm ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Duc Tran",
+    "rating": 5,
+    "review_text": "Trải nghiệm oki, tư vấn bán hàng Nguyễn Trung Chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "anh The",
+    "rating": 5,
+    "review_text": "Mình đã mua ở đây. Rất hài lòng với nhân viên phục vụ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "hai nguyen",
+    "rating": 5,
+    "review_text": "Rất nhiều dòng xe, chất lượng uy tín giá cả hợp lý.\nDịch vụ chăm sóc tốt rất hài lòng về cách phục vụ của Ford phú thọ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "trung nguyễn",
+    "rating": 5,
+    "review_text": "Nhân viên Dũng rất nhiệt tình!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Tùng Trần",
+    "rating": 5,
+    "review_text": "Đại lý Ford chính hãng tại Việt trì, Uy tín và giá bán ưu đãi. Nên tham khảo."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "hoa Nguyen van",
+    "rating": 5,
+    "review_text": "Du lịch đầu năm yên ả không khác gì nhật bản"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thu Phạm",
+    "rating": 5,
+    "review_text": "Tôi nhận xe tại toyota cẩm phả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Trường Nd",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình. Showroom lịch sự, sang trọng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Ngọc Việt Phạm",
+    "rating": 5,
+    "review_text": "đại lý thuận tiện đường đi, nhân viên tư vấn nhiệt tình, người thân bạn bè mua sẽ ủng hộ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Yuna Takizawa",
+    "rating": 5,
+    "review_text": "Toyota Quảng Ninh với đội ngũ nhân viên nhiệt tình tận tụy. Bảo dưỡng và tư vấn rất có tâm, giá cả phải chăng. Đương nhiên chất lượng cũng tuyệt vời. Phụ kiện, phụ tùng đảm bảo chính hãng Toyota. Đều được bảo hành theo chế độ riêng của phụ kiện Toyota. Hàng năm tôi mua luôn bảo hiểm tạo Toyota Quảng Ninh khi sửa chữa khắc phục rất tiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Quý Lê Trí",
+    "rating": 5,
+    "review_text": "Nhân Viên hỗ trợ nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Duc Luong Tran Minh",
+    "rating": 5,
+    "review_text": "Giám đốc Tuấn tư vấn nhiệt tình, mua đc xe ưng ý! 10 điểm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "hiếu Nguyễn",
+    "rating": 5,
+    "review_text": "Đại lý uy tín, nhân viên phục vụ chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thảo Phương",
+    "rating": 1,
+    "review_text": "Mang tiếng showroom to đùng mà để cái định vị sai cả cây số. Ai đi theo google map còn lâu mới thấy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "minh khang",
+    "rating": 1,
+    "review_text": "địa chỉ kém uy tín, làm việc không ra gì. đề nghị bỏ địa chỉ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "truongthuong truonghuyen",
+    "rating": 5,
+    "review_text": "Toyota Cẩm Phả với đội ngũ nhân viên nhiệt tình tận tụy. Các bạn chăm sóc khách hàng rất tốt, Toyota Cẩm Phả hãy thường xuyên nhắc mình bảo dưỡng nhé! Năm tới mình sẽ đến ủng hộ Toyota Cẩm Phả thêm 1 chiếc xe nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "TiTo Thắng",
+    "rating": 5,
+    "review_text": "Đại lý thuận tiện đi lại. Nhân viên chu đáo nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Minh Khánh",
+    "rating": 5,
+    "review_text": "Toyata Cẩm Phả  nhân viên tư vấn nhiệt tình, chế độ bảo hành chu đáo, mọi người nên lựa chọn làm nơi mua ô tô."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "xaylap coloa",
+    "rating": 5,
+    "review_text": "đại lý uy tín, giá bán ưu đãi. nhân viên nhiệt tình, sẽ ủng hộ đại lý khi lên đời xe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "thuhuong nguyen",
+    "rating": 5,
+    "review_text": "Nhân viên Hà rất tận tâm!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Linh Nguyễn",
+    "rating": 5,
+    "review_text": "mình khá là vừa lòng đại lý, tư vấn viên nhiệt tình và tâm huyết...\ngood...."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Tiến Anh Dư Vũ",
+    "rating": 5,
+    "review_text": "Đại lý uy tín, giá tốt, hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Trí Nguyễn Quảng Cáo",
+    "rating": 5,
+    "review_text": "dịch vụ chu đáo , nhiệt tình, thân thiện, good good"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thủy Chi Bùi",
+    "rating": 5,
+    "review_text": "Nhân viên Dũng thật tuyệt !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Lại Viết Thu",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình 👏🏻 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Sơn Tạ",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình. Có tiền mua thêm xe bạn này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thảo Nguyễn",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình tôi rất hài lòng khi mua xe ở Ford Việt trì"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Anh Thế Lê",
+    "rating": 5,
+    "review_text": "Nhân viên ở đây tư vấn nhiệt tình,  chế độ sau bán hàng rất tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "bảo ngọc",
+    "rating": 5,
+    "review_text": "Nhân viên tư vấn nhiệt tình, chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Hùng Châu",
+    "rating": 5,
+    "review_text": "toi nhan xe tai toyota cam pha"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Giang Tạ",
+    "rating": 5,
+    "review_text": "Đã xinh gái lại tư vấn nhiệt tình chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "ef illus",
+    "rating": 5,
+    "review_text": "Tôi đã trải nghiệm sản phẩm đa dạng, sẽ quay lại sau khi có bằng lái. toyota cẩm phả Quảng Ninh mang lại sự lựa chọn mới"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Quang Thành Trần",
+    "rating": 5,
+    "review_text": "Nhân viên hà rất nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Manh Vu",
+    "rating": 5,
+    "review_text": "Rất tốt, phục vụ nhiệt tình chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "duy hien Nguyen",
+    "rating": 5,
+    "review_text": "Tôi nhậ xe tại ToYota Cẩm Phả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thanh hải Ngô",
+    "rating": 5,
+    "review_text": "Tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Duy Đỗ",
+    "rating": 5,
+    "review_text": "Nhân viên sale nhiệt tình. Giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Vạn Phạm Đức",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình. Đại lý thuận tiện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Ngọc Hiếu",
+    "rating": 5,
+    "review_text": "Tôi nhận xe tại toyota Cẩm Phả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Hà Vũ",
+    "rating": 5,
+    "review_text": "Nhiệt tình, chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "hưng hoàng",
+    "rating": 5,
+    "review_text": "Tôi nhận xe tại toyota cẩm phả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Trần Minh",
+    "rating": 5,
+    "review_text": "phục vụ  chuyên nghiệp, rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Manh nguyen the",
+    "rating": 5,
+    "review_text": "Nói chung khá chuyên nghiệp\nkhuyến mại Vios hơi ít nhưng ủng hộ địa phương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "liên đào",
+    "rating": 5,
+    "review_text": "Nhân viên bán hàng tư vấn chuẩn giá và tiện ích, phù hợp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thao Hoang",
+    "rating": 5,
+    "review_text": "Bạn Hà tư vấn tận tâm!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Hiền thu",
+    "rating": 5,
+    "review_text": "Tôi nhận xe tại tokyota"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Khanh Chi Vu Tran",
+    "rating": 5,
+    "review_text": "đã nhận xe, rất hài lòng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thị thu sinh Trần",
+    "rating": 5,
+    "review_text": "Tôi đã nhận xe tại toyota"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "JDL VN Ocean Dept",
+    "rating": 5,
+    "review_text": "Đại lý rộng to thuận tiện đi lại, tư vấn nhiệt tình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Ánh Tạ ngọc",
+    "rating": 5,
+    "review_text": "Sản phẩm chất lượng, tư vấn tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Long Truong",
+    "rating": 5,
+    "review_text": "Địa chỉ đại lý toyota cẩm phả này rất chất lượng, nhân viên tư vấn nhanh nhẹn, rất nhiệt tình, tôi rất vui,,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Hùng Bùi Văn",
+    "rating": 5,
+    "review_text": "Toyota Cẩm Phả có đội ngũ kỹ thuật viên lành nghề.. Chu đáo, tư vấn sửa chữa nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Văn Cường",
+    "rating": 5,
+    "review_text": "hài lòng về dịch vụ sản phẩm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Nguyễn Thương",
+    "rating": 5,
+    "review_text": "Tôi nhận xe tại toyota cẩm phả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "man designer",
+    "rating": 5,
+    "review_text": "Toyota Cẩm Phả rộng và rất đẹp, thoáng mát và đội ngũ thợ sơn và sửa xe nhiệt tình chu đáo lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Trung Nguyễn",
+    "rating": 5,
+    "review_text": "Quá tuyệt với tư vấn nhiệt tình của Trường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Hoàng Bảo Long",
+    "rating": 5,
+    "review_text": "Quá tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Ghế Nails Jaroken",
+    "rating": 5,
+    "review_text": "Xe lexus có được bảo dưỡng tại Toyota Cẩm Phả không ah. Mình muốn bảo dưỡng tại đây cho gần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Quang Hiệp",
+    "rating": 5,
+    "review_text": "Chuyên nghiệp!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "mai hoang",
+    "rating": 5,
+    "review_text": "Toi nhan xe tai toyota rat uy gin"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "MeoMeo vlog",
+    "rating": 5,
+    "review_text": "Phục vụ chu đáo, Giao Dịch nhanh gọn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Hạnh Đoàn",
+    "rating": 4,
+    "review_text": "Đại lý Toyota Cẩm Phả chăm sóc khách hàng rất tốt, xe bán giá cả phải chăng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Huyen Vu",
+    "rating": 5,
+    "review_text": "Chuyên nghiệp, nhiệt tình!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Hoang Vu",
+    "rating": 5,
+    "review_text": "nhân viên nhiệt tình , giá tốt , dịch vụ quá ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Dandy Chanel",
+    "rating": 5,
+    "review_text": "Giá tốt , nhân viên nhiệt tình chu đáo , ủng hộ dài dài"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "vũ phạm",
+    "rating": 5,
+    "review_text": "Địa điểm thuận tiện. Đại lý rộng rãi. Dịch vụ khá tốt👍🏼 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Hiền Đinh",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình, giá tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Trung Hoang",
+    "rating": 5,
+    "review_text": "Tư vẫn nhiệt tình, chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thanh Nguyễn",
+    "rating": 5,
+    "review_text": "Tư vấn nhiệt tình ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thu Hương Vũ",
+    "rating": 5,
+    "review_text": "Tôi nhận xét tại Toyota Cẩm phả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Hien ha",
+    "rating": 5,
+    "review_text": "Toi nhan xe tai toyota"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "SBM Film",
+    "rating": 5,
+    "review_text": "Xe đẹp, chắc khỏe, vẫn luôn đẳng cấp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Limitless Ideas Kizazo",
+    "rating": 5,
+    "review_text": "Toyota Cẩm Phả Bảo dưỡng và tư vấn rất có tâm, giá cả phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Hải Sơn Ngô Bá",
+    "rating": 5,
+    "review_text": "Chuyên nghiệp và chu đáo với khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Quyền Lương",
+    "rating": 5,
+    "review_text": "Phục vụ tận tình chu đáo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Toyota Quảng Ninh Tư vấn xe",
+    "rating": 5,
+    "review_text": "Chuyên nghiệp , dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Đạt Vũ",
+    "rating": 5,
+    "review_text": "Tôi nhận xe tại Toyota Cẩm Phả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Quy Trần",
+    "rating": 5,
+    "review_text": "Bán hàng uy tín, dịch vụ tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thao Pham",
+    "rating": 5,
+    "review_text": "Nhân viên nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Tram KD",
+    "rating": 5,
+    "review_text": "Đại lý chuyên nghiệp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Cuong Nguyen",
+    "rating": 5,
+    "review_text": "Ít xe quá muộn lấy ngay ko dc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Đức Bền Ô TÔ",
+    "rating": 5,
+    "review_text": "Đại lý chuyên nghiệp nhất tỉnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "tuan anh nguyen",
+    "rating": 5,
+    "review_text": "😎 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Tuấn Đặng",
+    "rating": 5,
+    "review_text": "Rất tuyệt vời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Trung Tien",
+    "rating": 5,
+    "review_text": "Dịch vụ tốt, hợp lý!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Thu Minh",
+    "rating": 5,
+    "review_text": "Tôi nhận xe tại toyota"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Kiên Hoàng",
+    "rating": 5,
+    "review_text": "Đại lí chuyên bán toyota chính hãng, mặt bằng rộng dãi !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "kiet luran",
+    "rating": 5,
+    "review_text": "Mẫu mã đa dạng, Cảm ơn Toyota Quảng Ninh tư vấn nhiệt tình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x314aff004056204f:0xf488b05661f59f10",
+    "shop_name": "Toyota Cẩm Phả",
+    "user_name": "Quyền Nguyễn",
+    "rating": 5,
+    "review_text": "Đại lý tuyệt vời"
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Nguyen Thanh Thong",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, quán đông nhưng đợi cũng ko lâu lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Trần Đức Tùng",
+    "rating": 4,
+    "review_text": "Phở truyền thống ngon nhất HN (trừ phở Thìn 13 Lò Đúc là phở tái lăn) đặc biệt là phở chín."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Minh Duc Nguyen",
+    "rating": 5,
+    "review_text": "Một trong những quán phở bò ngon của Hà Nội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Phuong Nguyen",
+    "rating": 2,
+    "review_text": "Kém so với trước rất nhiều. Nói chung là bần cùng thì đành phải ăn tạm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Anh Nguyễn Tuấn",
+    "rating": 4,
+    "review_text": "Ngon, đúng chất phở bò xưa song hơi đắt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Quý Phi Nguyễn",
+    "rating": 4,
+    "review_text": "Phở khá ngon, quán hơi chật, 50k 1 bát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "AN PHAT INDUSTRY COMPANY",
+    "rating": 3,
+    "review_text": "Thịt thì tạm. Nước phở quá tệ. Kiểu nước bún. Never come back."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Thao Hien",
+    "rating": 3,
+    "review_text": "Ngon ở mức tạm ổn không có gì đặc sắc mấy"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Trung Nguyễn Hữu",
+    "rating": 4,
+    "review_text": "Phở ngon, thịt chín thơm, nước đục!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Lee Phong",
+    "rating": 4,
+    "review_text": "Phở ngon, chỗ đỗ xe rất hạn chế"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Tien Thanh Nguyen",
+    "rating": 5,
+    "review_text": "Phở thứ 2 phải ăn ở hà nội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Thao Le",
+    "rating": 4,
+    "review_text": "Phở bình thường. Dịch vụ tốt. Chỗ ngồi eo hẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Tang Tran",
+    "rating": 5,
+    "review_text": "Ngon. Phục vụ tốt . Quán nhỏ, hơi ít chỗ ngồi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "nguyen havi",
+    "rating": 5,
+    "review_text": "Rất ngon ! Giá bình dân  .Chất lượng tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Viet Anh Khuat",
+    "rating": 4,
+    "review_text": "Phở ăn ok, duy trì được chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "nguyen trung quan",
+    "rating": 4,
+    "review_text": "Ăn ngon cũng tùy hôm! Giá cao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Lê Duy Bình",
+    "rating": 5,
+    "review_text": "Rất ok mọi thứ chỉ sợ mỗi lũ gián ở ngoài đường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Hang Le",
+    "rating": 5,
+    "review_text": "Gia đình mình rất thích ăn ở đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Thu Hà Nội",
+    "rating": 4,
+    "review_text": "Lâu lâu lên phố ăn phở tái chín mà 50k, căng phết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Anh Vu",
+    "rating": 3,
+    "review_text": "Ăn hơi nhạt nhẽo, chưa đủ để được gọi là ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Tùng Nguyễn",
+    "rating": 5,
+    "review_text": "Mấy chị chạy bàn phục vụ rất tận tình, chấm 5 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Vũ Đăng (Bill)",
+    "rating": 4,
+    "review_text": "Vị trí: 5/5.\nKhông gian: 3/5.\nĐồ ăn: 4/5.\nDịch vụ: 4/5."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Michael Hoàng",
+    "rating": 2,
+    "review_text": "nước nóng, nhưng hơi nhìu bột ngọt, ăn không ngon lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Dũng Võ",
+    "rating": 4,
+    "review_text": "Thịt chín ăn thơm, nước bình thường. 4* động viên."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Vi Vu",
+    "rating": 5,
+    "review_text": "Rất hợp khẩu vị, mỗi tội giá ko bình dân đc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Hung Nguyen",
+    "rating": 3,
+    "review_text": "Bỉnh thường. K ngon như trước đây."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Dam Khanh Ly",
+    "rating": 5,
+    "review_text": "thịt ngon nước dùng trong"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Long Win",
+    "rating": 5,
+    "review_text": "Món bò nhừ ngon lắm các ông ạ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Nguyen Long",
+    "rating": 2,
+    "review_text": "Chất, mộc mạc. Thịt chín rất \"tươi\" không bị bở. Tạm ổn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Phuong Chu",
+    "rating": 4,
+    "review_text": "Ăn ngon chô ăn hơi chật chội."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Ngô Trọng Quân",
+    "rating": 5,
+    "review_text": "Quán hơi chật, phở ăn được!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Truong Nx",
+    "rating": 4,
+    "review_text": "Đúng chất quán ăn đường phố."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Hung Nguyen Quoc",
+    "rating": 4,
+    "review_text": "Rất ngon đặc biệt là Phở Số Vang"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Sắc Màu Mới",
+    "rating": 3,
+    "review_text": "Giá hợp lý. Không gian cũ và nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "56 Nguyễn",
+    "rating": 5,
+    "review_text": "Phỏ bò ngon nhất khu vực"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Cham Dao",
+    "rating": 4,
+    "review_text": "Ăn ngon, nóng, thịt bò mềm nhừ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "yabu Kz",
+    "rating": 5,
+    "review_text": "Phở bò tái chín với quẩy 55k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Bá Phúc Trần",
+    "rating": 5,
+    "review_text": "Ăn đc. Có cả phở dừ và phở sốt vang"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "A Grey",
+    "rating": 5,
+    "review_text": "Ngon, nhiều, giá vừa chất lượng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Le Tung",
+    "rating": 4,
+    "review_text": "Phở ăn ngon, ngọt nước xương."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Cam Van Dinh",
+    "rating": 5,
+    "review_text": "Tôi thấy ở đây rất vui và ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Nguyễn Trọng Đại",
+    "rating": 5,
+    "review_text": "Phở đường phố ngon và đầy đặn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Tùng Lê",
+    "rating": 5,
+    "review_text": "Dạo này ko ngon như trc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Nguyễn văn Tâm",
+    "rating": 4,
+    "review_text": "Ngon nhưng không sạch sẽ lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "TxIOu TbIOHr",
+    "rating": 4,
+    "review_text": "Phở ngon, bát đầy đặn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Linh Dokhanh",
+    "rating": 5,
+    "review_text": "Phở ngon,  quán nhỏ nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Tuấn Phương Nguyễn",
+    "rating": 3,
+    "review_text": "Ăn cũng được, mà giá hơi đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "hanh nguyen do",
+    "rating": 5,
+    "review_text": "Phở ngon, chỗ ngồi thoáng mát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "vad vietnam",
+    "rating": 5,
+    "review_text": "Rất ngon. Trọn vẹn niềm tin"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Tài Xế Du Lịch",
+    "rating": 2,
+    "review_text": "Nhìn thực sự không đảm bảo vệ Xinh chút nào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Phuc Nguyen Xuan",
+    "rating": 5,
+    "review_text": "Phở ngon giá hợp ví."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Duy Do",
+    "rating": 4,
+    "review_text": "Hơi mỡ tí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Bảo Lân",
+    "rating": 4,
+    "review_text": "Ngon nhưng bán hơi muộn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Tài sy Lê",
+    "rating": 4,
+    "review_text": "Ăn tạm chờ mẹ khám bệnh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Nguyen Duy Hung",
+    "rating": 4,
+    "review_text": "Phở ngon. Nước phở rất đặc biệt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Thái Anh Nghiêm",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, ko mì chính"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Hùng Nguyễn",
+    "rating": 2,
+    "review_text": "Đắt và ko ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Hi im Aighn",
+    "rating": 5,
+    "review_text": "Phở ngon, đáng ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "thuong trinh",
+    "rating": 5,
+    "review_text": "Khá ngon và nhiều thịt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Bach",
+    "rating": 5,
+    "review_text": "Chỉ 1 câu Ngon nhất Hà Nội!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Quang Huy Nguyễn",
+    "rating": 3,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Lê Hoàng",
+    "rating": 4,
+    "review_text": "Chín, sốt, nhừ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Nghĩa Channel NTHD",
+    "rating": 1,
+    "review_text": "Mình ko thích phở, thế thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "giap van",
+    "rating": 4,
+    "review_text": "Món ăn bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Dr Le Manh Ha",
+    "rating": 5,
+    "review_text": "Gần 20 năm gắn bó."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Thanh Chung Nguyen",
+    "rating": 4,
+    "review_text": "Nói chung ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "LE SEPS",
+    "rating": 4,
+    "review_text": "1 quán phở ngon !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "dat tran",
+    "rating": 5,
+    "review_text": "Phở ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Hau Thai Xuan",
+    "rating": 3,
+    "review_text": "Không ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Xuân Ninh Trương Huỳnh",
+    "rating": 5,
+    "review_text": "Ngon :3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Bách Nhẫn",
+    "rating": 3,
+    "review_text": "Giá hơi chát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Hà Nguyễn Mạnh",
+    "rating": 3,
+    "review_text": "Giá chưa hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Dan Than",
+    "rating": 5,
+    "review_text": "Ngon vãi cả lều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Son Duong",
+    "rating": 4,
+    "review_text": "Khá đông người vào."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Thang phan cao",
+    "rating": 3,
+    "review_text": "Ăn khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Đạt Mai",
+    "rating": 4,
+    "review_text": "Cũng được hơi đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Hoang Bac",
+    "rating": 5,
+    "review_text": "Sốt vang ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Hung Trinh Huy",
+    "rating": 4,
+    "review_text": "Sốt vang Khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "viet le",
+    "rating": 3,
+    "review_text": "Chất lượng kém đi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Cẩm Tú Lương",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Thanh Tho Huynh",
+    "rating": 3,
+    "review_text": "Nước dùng mặn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Thang Nguyen",
+    "rating": 1,
+    "review_text": "Quán đông"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Minh Hoàng Dương",
+    "rating": 3,
+    "review_text": "Ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Nguyen Leanh",
+    "rating": 2,
+    "review_text": "Không ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Cong Leduc",
+    "rating": 5,
+    "review_text": "Phở ngon Hà Nội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "thành Phú Lê",
+    "rating": 3,
+    "review_text": "Rất bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Nguyễn Trọng Đức",
+    "rating": 5,
+    "review_text": "Tốt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Quốc Toàn Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon top hanoi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Ngọc Tú Phạm",
+    "rating": 5,
+    "review_text": "Best Phở in town"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abf29b4facff:0xc3c6d40b31e4c23e",
+    "shop_name": "Phở Biên",
+    "user_name": "Minh Nhật Nguyễn",
+    "rating": 5,
+    "review_text": "Hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hải Đông",
+    "rating": 5,
+    "review_text": "Mình ghé Bún Ốc Cô Béo theo lời giới thiệu của bạn bè và thực sự rất ấn tượng. Bát bún đầy đặn, nước dùng chua thanh vừa phải, đậm vị ốc truyền thống nhưng không bị gắt. Ốc tươi, giòn, được làm sạch kỹ nên ăn rất yên tâm. Đậu rán vàng thơm, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tra Mi",
+    "rating": 5,
+    "review_text": "bún siêu ngon nha\nanh chủ rất nhiệt tình khi mình hỏi về món ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Cháo Sao Mai 43 Chi Lăng HD",
+    "rating": 5,
+    "review_text": "Quán ăn ngon, hôm mình vào buổi quá trưa không khí hơi nóng lực chút thôi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "SEN THIẾT BỊ VĂN PHÒNG",
+    "rating": 5,
+    "review_text": "1 phần rất nhiều, ai ăn giỏi mới hết.\nBún ốc ngon, nên thử."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hùng Phan",
+    "rating": 5,
+    "review_text": "40k mà bát bún đầy ú ụ. Hương vị ổn nhưng chưa quá đặc sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tùng Nguyễn",
+    "rating": 5,
+    "review_text": "Đồ ăn hợp khẩu vị xíu của ng Sài Gòn ra ăn (mặc dù mình k thích ăn bún ốc). Đồ ăn nhiều, bạn nào ăn yếu thì kêu lấy ít bún thôi nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Quân Ngô Hồng",
+    "rating": 5,
+    "review_text": "Bún ngon, rất nhiều giá rẻ nhất 35k và mắc nhất 65k rất no\nRa món nhanh\nCó chuyển khoản có wifi luôn he"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Quỳnh Đỗ",
+    "rating": 5,
+    "review_text": "A chủ quán nhiệt tình hỏi yêu cầu của khách kĩ lắm nha. Mà rất là tinh tế chu đáo, bảo nhân viên chỉnh quạt cho khách rồi chỉ khách gửi xe các kiểu 1 mình cân hết, hướng dẫn nv cx nhẹ nhàng. Riêu ốc to ngon, mắm tôm thơm, mỗi tội hơi ít ốc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Minty Vo",
+    "rating": 4,
+    "review_text": "Mình gọi 1 tô thập cẩm. Nước dùng thì không quá ngon đối với mình. Nhưng topping thì khá ngon và nhiều."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Jane Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, phục vụ nhanh, chủ quán vui tính. Trên tầng hai có điều hòa nên ngồi thì mát hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "TQT",
+    "rating": 4,
+    "review_text": "Ốc nhỏ hơi tanh nên gọi ốc to bò ăn ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tran Dieu Linh",
+    "rating": 5,
+    "review_text": "Bún đầy đủ 50k, riêu thật, nước hơi đậm đà chút, đồ lên nhanh, a chủ quán vui tính, phục vụ cũng rất nhanh. Giữa lòng thủ đô mà có quán riu hịn như này là rất hiếm, vote 5sao nhé."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Mẫn Thị Hương Loan",
+    "rating": 5,
+    "review_text": "Bát bún đầy, ngon, nước thanh thanh không bị mặn như một vài quán khác trên đường Hoè Nhai mình từng ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Vân Anh Mai",
+    "rating": 4,
+    "review_text": "Không gian và chỗ để xe hơi nhỏ chút\nQuán cô Béo nổi tiếng từ lâu, gần đây cô ko bán mà chắc con trai bán\nChủ quán nhiệt tình, đồ ăn lên nhanh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tuan Anh Nguyen",
+    "rating": 4,
+    "review_text": "Bún ốc ở đây ăn ở mức ổn, nước dùng chua nhẹ, dễ ăn. Ốc sạch, không bị tanh nhưng hương vị không quá nổi bật. Topping đầy đủ, ăn no và hợp với khẩu vị số đông."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyen Hoang Anh",
+    "rating": 4,
+    "review_text": "Bún ốc & bún riêu ăn đều ngon, nhưng có vẻ chung nồi nước dùng. Ốc và riêu chất & hơi nhiều với vc mình, ăn đã miệng. Mỗi bát 40k, có đậu, 2 giò (giò ăn ngon). …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Royal Jelly",
+    "rating": 4,
+    "review_text": "bún ốc ngon, nước dùng chua thanh, ăn bát đầy đủ no quá trời. Anh chủ quán nhiệt tình chu đáo. Mình người SG nhưng đây là một trong những quán mình phải ghé khi có dịp ra HN."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hung Nguyen",
+    "rating": 5,
+    "review_text": "Mình tới hà nội đây là quán duy nhất mình thấy ngon và hợp khẩu vị anh chủ hiền hòa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyen Tran Thanh Hong",
+    "rating": 5,
+    "review_text": "Quán có chỗ để xe hẹp, nhưng tiện cho người đi xe máy, chợ đông đúc nhưng quán luôn mở cửa đều. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Vũ Anh Nguyễn",
+    "rating": 4,
+    "review_text": "Ok hơn rồi, nước trong, thanh, vị chua vừa phải, ko lẫn lộn tạp nham như trc, trước có đợt còn cho đường lờ lợ khó ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Phương Vũ",
+    "rating": 4,
+    "review_text": "Bún ăn khá ngon, phục vụ nhanh, quán hơi nhỏ và ko sạch lắm tuy nhiên chấp nhận được với 1 quán khu vực chợ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Bui Trang Thu",
+    "rating": 3,
+    "review_text": "Ăn cô Béo từ hồi vẫn ở trong cái bát xanh và cô ngồi giữa làm đồ cho đến khi đưa cho anh con trai làm. Kỉ niệm tại quán Ốc top 1 trong lòng mình suốt tuổi thơ. Nhưng chất lượng ngày càng không còn như trước, về các topping thì đa dạng hơn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "BimBonBe",
+    "rating": 4,
+    "review_text": "Quán bún ốc ngon, vị chua vừa vị, ốc giòn, nước thanh, ớt chưng chuẩn.\nNên ăn ốc to nhỏ lẫn lộn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Lien Bui",
+    "rating": 2,
+    "review_text": "Hà Nội nổi tiếng bún ốc nhưng ko phải quán nào cũng ngon. Quán thì nhỏ, nhìn ko được sạch sẽ, nước bún thì mặn, giá tô bún thì khá đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tu Vo",
+    "rating": 5,
+    "review_text": "Mình đánh giá 5 sao vì địa điểm dễ tìm, quán rộng rãi, thoáng mát. Hương vị thì mình đánh giá là hơi nhạt, phải nêm thêm một chút thì mới cân bằng vị chua và thanh. Tô bún đầy đặn với nhiều topping. Phố Hoè Nhai có nhiều hàng quán nhộn nhịp."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Pei Yi Nan",
+    "rating": 5,
+    "review_text": "Nước dùng ngon, mình ko thích ăn thập cẩm nên chỉ chọn ăn ốc to.\n\nĐiểm siêu cộng là kèm với quẩy, no mà rẻ. Bát chỉ ốc to có 30k. Thêm quẩy là 10k hai phần quẩy."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Quang Nguyen",
+    "rating": 4,
+    "review_text": "Bún ốc ngon. 1 phần đặc biệt 50k đầy đủ ốc đậu chả thịt bò."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hoàng Nguyễn",
+    "rating": 3,
+    "review_text": "Mình ăn bún ốc bò, giò, đậu. Bát đầy đặn, ăn no, rau thơm ăn kèm đầy đủ. Nước dùng không quá đặc biệt. Quán cũng từ xưa nên nhỏ, chỗ để xe hạn chế."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Lê Minh Hoàng Trần",
+    "rating": 5,
+    "review_text": "Giá cả hợp lí, nêm nếm thanh vừa ăn, 1 tô đầy đủ 60k ăn no căng bụng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Bích Phạm",
+    "rating": 4,
+    "review_text": "quán hương vị ko quá đặc biệt, chỗ ngồi chật"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "An Châu",
+    "rating": 5,
+    "review_text": "Quán hơi chật nhưng đồ ăn ngon, rẻ, đầy đặn, anh chị chủ siêu nhiệt tình. Nói chung là 10đ cho quán."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Jimmy Hải",
+    "rating": 5,
+    "review_text": "Nước chua thanh ngon\nỐc tươi sạch, nhiều topping"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "VANNAM BOOKING",
+    "rating": 3,
+    "review_text": "Đồ ăn không còn hương vị cổ truyền của bún ốc nữa... Con trai bán nhiệt tình, vui vẻ hơn nhưng tiếc Là bát bún lại không ngon bằng ngày xưa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Cao Minh Nguyễn",
+    "rating": 5,
+    "review_text": "Bún ốc truyền thống lâu đời, ăn vị ngon nguyên bản, bát đầy ú ụ ăn no phải biết!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hera Thanh",
+    "rating": 5,
+    "review_text": "Đồ ăn tuyệt vời, không gian có nhiều tầng tuy hơi nhỏ tí, có nhiều giá khác nhau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyễn Thành Trung",
+    "rating": 5,
+    "review_text": "Tô bún hơi mắc nhưng rất nhiều, vừa ăn vừa thở no căng bụng. Ly nước sấu ít nhưng hơi mắc 15k 1 ly."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hải Khâm",
+    "rating": 5,
+    "review_text": "Ngon nha, tô đầy ắp ạ, thịt bò mềm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "HanoiTV Tuấn Nguyễn",
+    "rating": 4,
+    "review_text": "Bún ốc ngon, phục vụ nhanh và nhiệt tình. Quán đông khách, rác rưởi ko kịp dọn và ăn uống vỉa hè nên nhìn khá mất vệ sinh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tung Son Nguyen",
+    "rating": 5,
+    "review_text": "Quán phục vụ nhanh, bún khá ngon, nước chua vừa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Thuy Ha",
+    "rating": 5,
+    "review_text": "Bún khá ngon và dễ ăn, nhân viên quán nhiệt tình lễ phép"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Dat Dinh Tan",
+    "rating": 5,
+    "review_text": "Món bún ốc đầy đủ khá ngon, hợp vị với đa số."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Sooraj Rathi",
+    "rating": 3,
+    "review_text": "Bún đông ngày Tết, chất lượng vẫn thế."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "SM. Hồ Việt Hùng",
+    "rating": 3,
+    "review_text": "Không quá xuất sắc so với danh tiếng của Bún ốc Hoè Nhai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyễn Lê Minh (Vagabond)",
+    "rating": 5,
+    "review_text": "Quán nhỏ. Món ngon, giá cả phải chăng. Một nơi đáng để ghé lại."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Van Yen Nguyen",
+    "rating": 2,
+    "review_text": "Vị ổn\nGiá tết ăn mùng 3 cao so với menu, bún riêu bò 70k, ốc đầy đủ 90k\nĂn xong bát ốc đau bụng mất mấy hôm 😤 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Thao Nguyen",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon, siêu đầy đặn, nước dùng topping ê hề, giá rẻ, nhân viên ân cần so với chất lượng 1 quán vỉa hè"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Trinh Đây",
+    "rating": 2,
+    "review_text": "Mình thấy nước dùng nhạt, không có gì đặc sắc, vệ sinh kém, bàn bên cạnh mình có bạn dính 1 con ruồi trong bát 😭 trộm vía bát mình không sao …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Chung Nguyen",
+    "rating": 2,
+    "review_text": "Quán mở tầm 20 năm nhưng làm cái biển 30 năm. Bún ốc nhưng bát đầy thứ hổ lốn, thập cẩm đủ loại giò, thịt, chả, bò, không phải kiểu bún ốc nhanh tao, nhã nhặn của người Hà Nội. Với người Hà Nội chuẩn, bún ốc là món quà, ăn chơi, thanh cảnh chứ ko phải món thập cẩm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Mỹ Đặng",
+    "rating": 4,
+    "review_text": "Bún ốc ngon!!! Nước súp đậm đà, chua thanh!!! Bát ntn giá 45k khá ổn, hàng trên phố nên giá thế ok rồi, ăn thêm topping thì giá tăng xíu, nch là tuỳ vào topping thêm vào giá khác nhau!! Nên ghé nhé!! Vote 5 sao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Long Nguyen Hoang",
+    "rating": 4,
+    "review_text": "Nhanh, sạch, nước dùng tạm ổn, giá hợp lý. Chỗ để xe hơi khó."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Trung Quản Quốc",
+    "rating": 3,
+    "review_text": "Đây là quán bún ngon tuy nhiên giá món ăn cao. Không gian quán chật, chỗ để xe hạn chế. Món ăn không chỉ bún ốc thuần túy bạn có thể gọi thêm đồ ăn kèm như thịt bò, giò, quẩy,..... bún riêu cũng là lựa chọn ngon miệng. Vị nước dùng chua …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Thanh Hằng Ngô",
+    "rating": 4,
+    "review_text": "Bún riêu đủ loại topping ốc giò bò đậu\nGiá rẻ khoảng 30-50k\nNước cốt hơi ngọt so với khẩu vị của mình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tiện Vũ",
+    "rating": 4,
+    "review_text": "Đồ ăn ngon,giá cả bình dân.chủ quán vui vẻ,thân thiện,chỗ đậu xe hơi chật hẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Xuân Cường Dr. Đỗ",
+    "rating": 5,
+    "review_text": "Ko thấy cô béo nào cả mà chỉ có anh chủ quán không gầy. Nói chung dịch vụ tốt từ khâu dắt xe đến nói chuyện nhẹ nhàng. Bún bò giò vừa miệng, nói chug trời cũng mát nên ăn hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Dang Giang",
+    "rating": 2,
+    "review_text": "Mình mới ăn hôm 7.2. Bún giờ ko ngon, ko thanh, ko dậy mùi dấm bỗng. Ốc to dai. Nước đục. Được cái cách bán hàng tốt hơn xưa, thân thiện và biết hỏi han khách hơn xưa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Ngocng",
+    "rating": 1,
+    "review_text": "Tết quán phục vụ kém, ăn lần 1 gọi bún riêu thì bưng lên bún ốc, đông quá bê nhầm đồ, lần 2 tăng giá gọi bán bún riêu bò giò với bún riêu bò, mỗi bát 60k, 4 cái quẩy 10k. Lúc đưa ra ko đậu, ko riêu, bún lèo tèo, thịt bò được vài miếng, đũa …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "tea nguyen",
+    "rating": 1,
+    "review_text": "Mất vệ sinh. Đồ ăn có gián. Chủ quán còn ko nhận lỗi. Bao biện cãi nó mới bay vào"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Thùy Trang",
+    "rating": 5,
+    "review_text": "Bát như ảnh chỉ 55k. Quá ấm bụng cho một buổi chiều lang thang Hà Nội.\n\nBún cua, ốc, bò, chả ạ. Vị rất thanh và đặc trưng so với các hàng khác mình đã ăn qua. 🥰 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tai Le Thanh",
+    "rating": 5,
+    "review_text": "Thức ăn ngon, trang trí nhà hàng rất thanh nhã, giá ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tien Ngoc",
+    "rating": 3,
+    "review_text": "Đồ ăn b.thường, bún ốc nhg bỏ vào nhiều thứ, thậm chí cả mọc, làm mất đi hương vị chuẩn bún ốc, quán nhỏ, chỗ ngồi chật chội. Điểm cộng là phục vụ nhanh!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "tâm bùi",
+    "rating": 1,
+    "review_text": "Giá ngày Tết 75K / bát toàn ốc bươu ăn rất tanh, nước mặn chát không ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "이숭빈",
+    "rating": 1,
+    "review_text": "Gọi bát đầy đủ, không có đậu 3 con ốc to, 4 miếng thịt bò, 2 miếng chả hay gi đó bé bé, 3 miếng mộc :v dù không có đậu và ít đồ nhưng vẫn cứ là 60k. Ăn tạm được thôi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "TRƯỜNG ĐỖ VŨ",
+    "rating": 3,
+    "review_text": "Bún ngon nhưng cơ sở vật chất nó cứ bẩn bẩn sao ý. Nhân viên phục vụ ko niềm nở cho lắm. Chắc là tại mình chưa quen vs dịch vụ HN."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Trung Kiên",
+    "rating": 5,
+    "review_text": "Chỗ ngồi hơi chật - chấp nhận được.\nChỗ để xe hạn chế.\nBún ngon. Nhiều topping. Quẩy mềm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hòa Đặng",
+    "rating": 4,
+    "review_text": "Đọc review thấy ai cũng khen ngon\nNhưng vào ăn thấy bình thường,hơi nhạt nhẽo.Giá cả thì bình dân,rau sạch sẽ.Nhân viên đông,nhanh nhẹn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Ha Long Tran",
+    "rating": 4,
+    "review_text": "nước dùng ngon, thức ăn nhiều.. Với mức giá 45k là hợp lý khi ăn ở HN. Phục vụ tốt, nhanh nhẹn, vui vẻ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Anh Lê đức",
+    "rating": 5,
+    "review_text": "đồ ăn ngon , tô to , rất nhiều , ốc ngon , mọc ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Ánh Ngọc Nguyễn",
+    "rating": 4,
+    "review_text": "Mình cũng hay ăn ở đây. Kiểu nước ko phải là nước cà chua đỏ đỏ như riêu bình thường, nó giống kiểu dạng chuối đậu dấm bỗng, vị vừa phải, hợp khẩu vị với mình."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Cương Đỗ",
+    "rating": 4,
+    "review_text": "Khá ngon, chỉ là không gian ăn uống ko được đầu tự về nội thất. Phuc vu nhanh gọn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Huy Tùng Bùi",
+    "rating": 4,
+    "review_text": "Vị nước dùng thanh thanh rất hợp với bún ốc, phải nói là tinh tế. Tuy nhiên không gian trong phố cổ thì không được thoải mái cho lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Quyen Pham",
+    "rating": 4,
+    "review_text": "Không ngon như trước đây"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Huy Nguyễn Đình",
+    "rating": 5,
+    "review_text": "Đồ ăn siêu siêu ngon. Mình đi HN ăn phải 2 lần quán này mới chịu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hổ Vương Công Ty",
+    "rating": 5,
+    "review_text": "Bún ốc cô béo đầy đặn. Khẩu vị bây giờ đã thay đổi không còn như xưa.Mình vẫn thích hương vị ngày xưa hơn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyen hai trung",
+    "rating": 3,
+    "review_text": "Quán phục vụ nhanh nhưng thịt bò hơi dai, nước dùng bình thường. Giá hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Quy Dang",
+    "rating": 4,
+    "review_text": "Ăn ở đây vài lần,  quán khá đông khách, bún ăn ổn,  phục vụ nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Van Nguyen",
+    "rating": 3,
+    "review_text": "Vị ngon, mà hơi mất vệ sinh. Có lần thấy cả sâu trong bát bún =)))"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Trường Trần",
+    "rating": 2,
+    "review_text": "Chả có j khác biệt,nước mặn,ko có vị thanh mát của Bún Ốc.ko ngon bằng 1/2 Bún Cô Thêm ở Hàng Chai."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Lê Nguyễn Hữu An (Ku Pốp)",
+    "rating": 2,
+    "review_text": "Giờ chuyển cho con trai bán nên ăn không ngon bằng hồi bà béo bán. Cảm giác lèo tèo, đồ ăn ko tươi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Manh Vu",
+    "rating": 5,
+    "review_text": "Quán bún ốc quá ngon , bát bún đầy nhiều thứ như ốc tô, ốc nhỏ , sườn sụn , giò , riêu cua"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "phihung ngo tran",
+    "rating": 3,
+    "review_text": "Giá cả đắt đỏ. 50k cho 1 bát đầy đủ. Ko chặt chém. Có thể đi để biết thêm về hàng ăn trong nội đô"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tùng Lâm Nguyễn",
+    "rating": 5,
+    "review_text": "Một địa điểm an uống được ưa thích trên phố hòe Nhai. Món ốc thơm ngon, đậm vị và giá thành cũng rất phải chăng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Trần Phong Nam",
+    "rating": 1,
+    "review_text": "Đã ăn thử và cá nhân thấy không ngon 1 chút nào - nhìn sơ qua thì khâu vệ sinh khá tệ - Bẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "hà vũ",
+    "rating": 3,
+    "review_text": "Lần đầu tiên vào ăn quán này, trước toàn ăn quán cô Thủy. Nước không đậm, hơi thiếu vị chua"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Thanh Local Guide",
+    "rating": 4,
+    "review_text": "Bún ốc nấu rất ngon vị đậm đà, quán nằm khu phố cổ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Ngọc Ánh Ha",
+    "rating": 3,
+    "review_text": "Nước dùng ngọt vị mì chính, nếu thêm sa tế thì mất hết mùi bún ốc luôn, không quay lại lần nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyen Dzung",
+    "rating": 5,
+    "review_text": "20 năm vẫn trên đình HN về món ăn tân kỳ bún ốc bò giò đậu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Giang Nguyen",
+    "rating": 4,
+    "review_text": "Bún ốc ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Sera Shady Gesso",
+    "rating": 4,
+    "review_text": "Quán phục vụ nhanh nhẹn, nước dùng hơi ít chia với mình, đậu ngon ~"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyễn Đức Thắng",
+    "rating": 5,
+    "review_text": "Quán bún ốc ngon nhất ở Hà Nội mà tôi đã từng ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Phuong Ngo",
+    "rating": 4,
+    "review_text": "Món ăn ngon, nên thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Thành Tuyên",
+    "rating": 5,
+    "review_text": "Nước dùng ngon,bún dai mềm,nhiều đồ ngon.ăn thập cẩm no căng bụng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Dang Tran Hoang",
+    "rating": 5,
+    "review_text": "suất bún ốc đầy đủ ăn ngon, rất tuyệt vời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Ken J.",
+    "rating": 3,
+    "review_text": "Ăn ok,no nê,cơ sở thì trông rất mất vệ sinh,giá ok so với suất ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Le Phan",
+    "rating": 4,
+    "review_text": "Không còn ngon như dĩ vãng xưa cũ.."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Mai Đình Lực",
+    "rating": 5,
+    "review_text": "Nước ngon, phục vụ nhanh. Hơi đắt nhưng chấp nhận được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Trịnh Tới",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon\nQuán rộng rãi chỗ để xe máy ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Như Nguyễn",
+    "rating": 4,
+    "review_text": "K hợp vị Miền Nam lắm :))) nhiều, ăn đc. Chả (giò) ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tuan Anh Tran Quang",
+    "rating": 4,
+    "review_text": "Được, ko chém khi nghe giọng miền Nam, đã ăn nhiều lần"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Vân Võ",
+    "rating": 3,
+    "review_text": "Bún ốc ăn tạm đc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hung Le Viet",
+    "rating": 3,
+    "review_text": "Bún ôvs đậm vị, bát đầy đặn, ăn khá ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tý Tồ",
+    "rating": 4,
+    "review_text": "Quán đông. Quẩy nóng dòn ngon.múc bát đầy ăn no"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Trung Mai",
+    "rating": 1,
+    "review_text": "Thật sự là không ngon so với mức giá bán ra !!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Cloudian VN",
+    "rating": 5,
+    "review_text": "Ăn hơn 20 năm rồi"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "vn house",
+    "rating": 1,
+    "review_text": "Đồ ăn bình thường , giá cả cao , không vệ sinh lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Dat Hoang",
+    "rating": 4,
+    "review_text": "Đồ khá ngon, phong cách phục vụ khá thân thiện."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Huyền Ngọc Vlog",
+    "rating": 5,
+    "review_text": "phải nói rất tuyệt vời các bạn ở hà nội lên đi thưởng thức chắc nghiện luôn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Cuong Gia",
+    "rating": 2,
+    "review_text": "Không nên ăn, đắt, ko hợp khẩu vị, quán nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyen Chi Thanh",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "DoDesign by HuynhNguyen",
+    "rating": 5,
+    "review_text": "Anh chủ quán thân thiện, cute. Nước dùng vừa vặn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Steven PT",
+    "rating": 5,
+    "review_text": "Ngôn và giá cực hợp lý, không gian hơi nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Vân Vân",
+    "rating": 5,
+    "review_text": "Bún ốc siêu ngon, đầy đặn, có cả bún riêu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Văn phòng phẩm khắc dấu Minh Khuê (Vppminhkhue)",
+    "rating": 5,
+    "review_text": "Ngon , sạch , giá cao nhưng đồ ăn xứng tầm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Do Thuy Linh",
+    "rating": 4,
+    "review_text": "Khá ngon, nhân viên nhanh nhẹn, quán hơi bé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyen Sinh Nam",
+    "rating": 4,
+    "review_text": "Ăn tạm ổn, nhưng chỗ ngồi hơi chật"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Thành Nguyễn Đức",
+    "rating": 4,
+    "review_text": "Quán ăn ngon nhưng chỗ hơi hẹp"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Lê Ngọc Thùy Vy 6A1",
+    "rating": 1,
+    "review_text": "Ko ngon như cô béo bán ngày xưa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Chi Nguyễn Huỳnh Lan",
+    "rating": 5,
+    "review_text": "Bún ngon, vị vừa ăn. Thích."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Long Đỗ Hoàng",
+    "rating": 3,
+    "review_text": "Ăn k ngon như cách đây 3 năm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "nancy may",
+    "rating": 2,
+    "review_text": "chất lượng quá kém, bún ăn vừa nhạt vừa dở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Phương shop",
+    "rating": 5,
+    "review_text": "Đồ ăn được. Phục vụ khá nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Giỏi Phan Tấn",
+    "rating": 4,
+    "review_text": "Ngon, sạch sẽ, vệ sinh, giá bình dân"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "NVTveron",
+    "rating": 1,
+    "review_text": "Ăn xong về đau bụng. Cạch quán này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Lan Phuong Nguyen",
+    "rating": 4,
+    "review_text": "Ăn vào dịp tết, thấy bình thường không xuất sắc lắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Dũng Nguyễn Văn",
+    "rating": 5,
+    "review_text": "Bún ốc ở đây rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Anh Tuan Do",
+    "rating": 4,
+    "review_text": "Quán ăn lâu năm. Bún thanh tao"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Vũ Minh Tiến (Vespa6789)",
+    "rating": 5,
+    "review_text": "Ngon !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Anh Dũng Lê",
+    "rating": 4,
+    "review_text": "Nước dùng ngon, ốc giòn, béo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Phong Nguyen An",
+    "rating": 5,
+    "review_text": "Quán này làm bún ốc ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Dark Kazansky",
+    "rating": 2,
+    "review_text": "Quá thường so với hàng đầu đường đối diện"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Eba Yuzuki",
+    "rating": 1,
+    "review_text": "Quán làm bẩn, ăn xong bị đau bụng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "VIET HVAC",
+    "rating": 3,
+    "review_text": "Không ngon lắm, giá quá đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Bjen Ha",
+    "rating": 5,
+    "review_text": "Chất lượng kém hơn xưa nhưng vẫn đậm chất 😉 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Ngoc Ngo",
+    "rating": 5,
+    "review_text": "Ngon, giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hanh Nguyen",
+    "rating": 5,
+    "review_text": "Rất ngon, m sẽ quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Sheena Tran",
+    "rating": 5,
+    "review_text": "Ngon, topping nhiều"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Phương Hà",
+    "rating": 5,
+    "review_text": "Nơi ăn ưa thích từ cấp 3"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Quân Minh",
+    "rating": 5,
+    "review_text": "Quá ổn luôn 👌 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Chu minh Phan",
+    "rating": 4,
+    "review_text": "Ngon, rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Manh Hung Pham",
+    "rating": 5,
+    "review_text": "Rất ngon mà không sợ nóng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Trang Nguyen thu",
+    "rating": 4,
+    "review_text": "Ngày trước ăn ngon hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Ngo Tran Phuong",
+    "rating": 3,
+    "review_text": "Bún ốc phố cổ ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "AKC Fitness",
+    "rating": 5,
+    "review_text": "Bún rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hồ Đức",
+    "rating": 4,
+    "review_text": "Tạm tạm. Rau không ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "le minh",
+    "rating": 5,
+    "review_text": "Ngon giá gợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hạnh Nguyễn",
+    "rating": 1,
+    "review_text": "Ăn dở tệ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Jason Timble",
+    "rating": 5,
+    "review_text": "Cơ bản ok"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Ngọc Long Trần",
+    "rating": 5,
+    "review_text": "ngon tuyệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Lê Việt Hải (OZZO1009)",
+    "rating": 4,
+    "review_text": "Bún ốc rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Quang Nhân Cao",
+    "rating": 4,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Trinh Ngoc Tuan",
+    "rating": 4,
+    "review_text": "Khá ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Vu Thai",
+    "rating": 4,
+    "review_text": "Ngon nhưng hơi nguội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nhan Cao Quang",
+    "rating": 4,
+    "review_text": "bún ngon,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "hải ngọc",
+    "rating": 3,
+    "review_text": "Khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Ngoc Nguyen",
+    "rating": 5,
+    "review_text": "Tuyệt hảo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Marilinita16",
+    "rating": 5,
+    "review_text": "Bít tết ngôn nhất ở Hà Nội 😍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "to uyen nguyen thi",
+    "rating": 3,
+    "review_text": "Nước dùng hơi cay."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyen Quang Minh",
+    "rating": 3,
+    "review_text": "Ngon vừa phải"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "hien phan",
+    "rating": 3,
+    "review_text": "Quá đắt!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "nam nguyễn",
+    "rating": 2,
+    "review_text": "Ốc khô không béo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Dũng Nguyễn Tiến",
+    "rating": 5,
+    "review_text": "Khá hợp khẩu vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Bùi Đình Hưng",
+    "rating": 3,
+    "review_text": "Ăn cũng được nhưng vị vẫn k đặc biệt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "ktshung Pham",
+    "rating": 3,
+    "review_text": "Tạm được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Phú Cương Nguyễn",
+    "rating": 5,
+    "review_text": "Quán ốc Ngon Hòe Nhai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Kiru Kiru",
+    "rating": 5,
+    "review_text": "Ngon hơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Thai Thanh Binh",
+    "rating": 3,
+    "review_text": "Giá cả tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Khoa Le",
+    "rating": 4,
+    "review_text": "Vẫn kinh doanh truyền thống!!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Quang Huy Nguyễn",
+    "rating": 5,
+    "review_text": "Ăn no luôn được."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Minh Trần",
+    "rating": 5,
+    "review_text": "Bún ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hung Ho",
+    "rating": 5,
+    "review_text": "Ngon . Giá hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Phương Đạt Chu",
+    "rating": 1,
+    "review_text": "Ốc đểu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Viet Hai Nguyen",
+    "rating": 5,
+    "review_text": "Ngon!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Chương Lâm",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Roy Tran",
+    "rating": 3,
+    "review_text": "Mình thấy cũng mình thường."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hoang Thanh Hieu",
+    "rating": 5,
+    "review_text": "Khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Phạm Chánh Tân",
+    "rating": 4,
+    "review_text": "Ăn khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nhật Lai Đỗ",
+    "rating": 2,
+    "review_text": "Chán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Le Huong",
+    "rating": 2,
+    "review_text": "Không ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tran Le",
+    "rating": 4,
+    "review_text": "Được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Dinhquangminh2003@yahoo.com Pham Xuan Truc",
+    "rating": 4,
+    "review_text": "Hơi đắt, hơi ...bẩn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hoàng Huy",
+    "rating": 5,
+    "review_text": "Ăn ngon.rẻ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Lâm Vũ Hoàng",
+    "rating": 3,
+    "review_text": "Đắt"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyen ha nguyen",
+    "rating": 3,
+    "review_text": "Tạm được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyễn Việt",
+    "rating": 5,
+    "review_text": "Goo"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Minh Quang Tran",
+    "rating": 3,
+    "review_text": "Tạm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Văn thăng Phạm",
+    "rating": 2,
+    "review_text": "Bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "TùngBi (ɯɐu ʇǝıʌ nǝʎ ıoʇ)",
+    "rating": 5,
+    "review_text": "Bún Ốc Hoè Nhai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Đào Huyền Thương",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Hiếu Bùi Trung",
+    "rating": 5,
+    "review_text": "Khá ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Cty CP Xây dựng và Nội thất Eurocon Viet Nam",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Tien Nguyen",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Quân Nguyễn ích",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Jaime Luong",
+    "rating": 5,
+    "review_text": "Bún ốc chua thanh, ngon. Bát đầy đặn lắm. Cô phục vụ niềm nở nhiệt tình. Quán sạch sẽ, nhùn hũ dấm ưng là thấy ưng r. Giữa phố mà rổ rá quá hợp lý luôn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Lilylands",
+    "rating": 5,
+    "review_text": "Bún ốc siêu ngon và chất lượng, 1 tô nhiều đồ ăn và nêm nếm vị vừa phải."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Thiết Bị Đóng Đai ĐQP",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon và hợp khẩu vị ạ!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Minh Chau",
+    "rating": 5,
+    "review_text": "Mình mới ăn ở đây lần đầu. Cảm quan mình đánh giá ở đây ốc ngon, tươi. Nước dùng thanh ngọt, thơm mùi bỗng và nước ốc, có tí mì chính, nhưng không sao. Gía rẻ so với bên Phủ Tây Hồ. Nói chung là rất ưng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "BAO AN HOTBOY TV",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Jenny nguyen",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyễn Đức Phú (Phund86)",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Nguyễn Toàn",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abba1d0145fb:0x6c332fb9695aedf1",
+    "shop_name": "Quán Bún Ốc Cô Béo",
+    "user_name": "Quốc Huy - Chaien otofun",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Đăng Huy",
+    "rating": 5,
+    "review_text": "Phở Sướng có hương vị truyền thống Hà Nội đặc trưng với nước dùng trong, ngọt thanh tự nhiên và béo ngậy. Thịt bò mềm, không dai, được chần kỹ và thái lát mỏng bản, kết hợp với bánh phở dai mềm, hành chần vừa tới tạo nên một tô phở hấp dẫn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Thu Van",
+    "rating": 4,
+    "review_text": "Quán phở trong ngõ nhỏ, chỗ ngồi cũng hơi hạn chế nhưng khách ra vào thường xuyên nên chỉ cần chờ xíu là sẽ có bàn. Khẩu phần nhiều, đầy đặn. Mình gọi ít bánh mà ăn xong vẫn khá no. Phở nước trong, vị hơi đậm/mặn và khá nhiều bột ngọt nha, …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "hong truong",
+    "rating": 5,
+    "review_text": "Phở ngon, nước trong, lượng thịt cũng tương đối. Quán có 2 mặt bằng, 1 bên nấu phở và 1 bên để ngồi ăn. Nếu đến vào giờ cao điểm hoặc đi nhóm đông người có thể sẽ phải đợi hoặc không đủ chỗ ngồi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Thế Anh Nguyễn",
+    "rating": 5,
+    "review_text": "Đường vào hơi khó tìm =))) Theo mình cảm nhận, nước dùng của quán này có sự khác biệt so với nhiều quán phở khác ở điểm không bị nồng mùi gia vị mà rất thanh, giống như phở nấu tại nhà. Tuy nhiên, bánh phở lại có vẻ khá nhanh bị nát. Giá cả hợp lý, chủ quán dễ tính, bát phở đầy đặn. Nói chung là must try 👍 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Minh Nhật",
+    "rating": 5,
+    "review_text": "Rất ngon, tô đặc biệt nhiều loại thịt cảm giác xứng đáng với giá tiền.\n\nVới cá nhân Tôi, đây là quán phở ngon nhất khu Phố Cổ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Bằng Khánh",
+    "rating": 1,
+    "review_text": "Từ miền Nam ra, đây là quán đầu tiên muốn thử. Và thật sự thất vọng về dịch vụ phục vụ. Kêu 1 tô tâi gầu, trứng chần và quẩy, kêu mà bạn cứ lơ lơ. Phải lần thứ 3 mới nghe. Mang ra tô phở, thêm 2 lần nhắc nữa mới mang tô trứng chần ra. Cho …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Thai Son",
+    "rating": 5,
+    "review_text": "Quán ăn local, đồ ăn cực chuẩn bị miền Bắc Việt Nam, vị Thanh. Thịt đúng chuẩn từng bộ phận.\nQuán hơi nhỏ, nhưng ăn rất ngon, đáng để ăn thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Quỳnh Anh",
+    "rating": 5,
+    "review_text": "Có thể là bát phở ngon nhất cho tới thời điểm hiện tại ❤️‍🔥 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Boom Hùng",
+    "rating": 5,
+    "review_text": "Nằm trong hẻm, quán nhỏ những Phở 🍜 thì tuyệt vời và rất ngon. Nước phở quá ngon. Thịt gà và thịt bò đều rất ngon. Bánh phở thì ngon và thơm.\nNằm ở khu vực phố cổ Hà Nội, nếu không phải quán phở thực sự ngon, chất lượng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Mif Ngo",
+    "rating": 5,
+    "review_text": "Nghe qua đã lâu mà giờ mình mới thực sự có dịp thử, quán nhỏ và có 2 mặt bằng, một chỗ để nấu và một chỗ đối diện cho khách ngồi :Đ không rõ các hàng khác thì phở có gì khác biệt không nhưng mà phở ở quánthực sự rất ngon và rõ ràng vị Bắc, lượng thịt và bánh trong một phần cũng nhiều nữa huhu rất chất lượng á"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Linh Nguyen",
+    "rating": 5,
+    "review_text": "Lần nào về Việt Nam mình cũng phải ghé vào quán ít nhất 2-3 lần."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Oanh Nguyen",
+    "rating": 5,
+    "review_text": "Quán này thấy ngon nhất nhì HN, chất lượng ko hề giảm qua năm tháng,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Loan Mai Mai",
+    "rating": 5,
+    "review_text": "Chỉ đi theo gg map đánh giá thôi . Không có gì để chê cả"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Thảo Vânnn",
+    "rating": 5,
+    "review_text": ":3 Phở siuuuu ngonnnnn, mình ăn nhiều hàng Phở nước dùng mặn nên k hợp vị, phở Sướng ăn đúng vị mình nghĩ luôn, quẩy cũng ngon, đặc chứ không rỗng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Minh An",
+    "rating": 5,
+    "review_text": "Ăn phở ngon, vị thanh, thịt đầy đặn, phục vụ ổn!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Hơ Lim Giản",
+    "rating": 5,
+    "review_text": "Phở ngon, chuẩn bị bắc, 1 phần khá nhiều. Lần nào ra HN mình cũng ghé ăn.\nChỉ là quán nhỏ nằm trong hẻm khu phố cổ nên đi hơi khó."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Trang Nguyen Ngoc Minh",
+    "rating": 1,
+    "review_text": "Quán phở Sướng Ngõ Trung Yên, thái độ lồi lõm với khách hàng. Mình đến order 1 phần đặc biệt và gọi thêm bánh quẩy, người phục vụ tỏ thái độ khó chịu, kiểu như mình làm gì họ vậy đó."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Le Minh Anh",
+    "rating": 5,
+    "review_text": "Thấy quán được review nhiều lần rồi và hot hit nên cũng không định đi, phải đến hôm trước người yêu mình tạt qua tranh thủ quán vắng khách vào giờ dở dang thì mình mới đồng ý ăn thử. Và đúng như các review, phở thực sự ngonn nha. Thịt nhiều …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Tung Dao",
+    "rating": 4,
+    "review_text": "Ai chê thì chê chứ đây vẫn là 1 trong những quán phở yêu thích của tôi trên khu phố cổ. Quán nằm trong 1 con ngõ nhỏ mà có đến 3-4 quán nổi nhưng vẫn giữ được lượng khách đông và ổn định trong rất nhiều năm. Cảm nhận về đồ ăn thì phở ở đây …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Viet Anh Dang",
+    "rating": 3,
+    "review_text": "Trải nghiệm chưa thực sự hài lòng. Phù hợp với những khách hàng không khó tính.\nĐồ ăn: thịt bò vụn, không thơm, ngọt. Thịt gầu không giòn, hơi bã. Nước dùng không rõ vị …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Juno Tùng",
+    "rating": 4,
+    "review_text": "Ẩn mình trong con ngõ nhỏ Trung Yên giữa lòng phố cổ, phở Sướng là địa chỉ quen thuộc với tín đồ phở Hà Nội – đặc biệt là những ai yêu thích sự mộc mạc và chuẩn vị Bắc xưa. Một tô phở tái chín giá 60.000đ, nghe tưởng “không rẻ”, nhưng khi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Lannie",
+    "rating": 5,
+    "review_text": "Quán tủ từ ngày còn xanh, giờ mấy chục năm qua vẫn ngon. Nước phở thanh, ko gây mùi bò. Thịt mềm và đặc biệt cho nhiều hành trần bao nhiêu tùy ý. Highly recommended !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Taro Doboba",
+    "rating": 4,
+    "review_text": "Tuỳ vào mỗi người, nhưng với mình thì phở Sướng khá nồng mùi bò và nước dùng không được thanh lắm. Vì vậy, nếu ai là người thích ăn đậm vị, đậm đà, mình nghĩ rằng quán sẽ phù hợp. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Mia",
+    "rating": 5,
+    "review_text": "cách khách sạn mấy căn nên mình ăn đại để đi làm chứ ko xem trước review mà cúi cùng ngonnn nha :))) cứu vớt tâm trạng mình sau mấy ngày công tác ăn món Bắc ko hợp khẩu vị 🥲 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Bích Liên Nguyễn Thị",
+    "rating": 4,
+    "review_text": "Phở Sướng - lần đầu tiên m thấy 1 quán phở có tên lạ như vậy và trải nghiệm xem sau khi ăn có \"sung sướng\" như lời đồn k 😂.  Quán nằm trong ngõ Trung Yên phố Đinh Liệt, Hàng Gai, Hoàn Kiếm, HN. Quán có 2 gian 1 bên nhỏ và 1 bên đối diện lớn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Hà Nguyễn Ngân",
+    "rating": 5,
+    "review_text": "Không có vệ sinh, còn lại phở ngon nhiều thịt, làm nhanh, hẻm hơi nhỏ nên khó để xe, còn lại 9.5/10"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Đăng Trần",
+    "rating": 5,
+    "review_text": "ăn mấy năm không bao giờ chán. Đúng như slogan, nơi cảm nhận giá trị đích thật"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Phúc Nguyễn Trần",
+    "rating": 3,
+    "review_text": "Mình gọi một suất tài gầu 65k. Cảm nhận thì nước dùng bình thường, mình bị xếp ngồi ngay cạnh chỗ thái thịt sống. Ông a zai vừa hút thuốc vừa làm rất phiền người đang ăn, còn cáu kỉnh. Một quán phở overated."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Ngọc Minh Nguyễn",
+    "rating": 2,
+    "review_text": "Nhiều hành ngon. Bát nạm thịt nạm ngon nhưng giá cả đắt. Tóm lại nóng nực như mình k quay lại lần 2. Ăn phở khoái ơt hà đông cá nhân thấy ngon ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Cornell Ngo",
+    "rating": 5,
+    "review_text": "Phở đỉnh và ngon nhất hà nội, ăn thôi!!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Nguyen Nhung",
+    "rating": 5,
+    "review_text": "Phở ngon, nhiều thịt.\nQuán khá đông khách du lịch, trong khi chỗ ngồi hạn chế nên đôi khi phải kiên nhẫn chờ đợi 1 xíu."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Như Ngọc Nguyễn",
+    "rating": 5,
+    "review_text": "Phở Sướng\nBữa sáng của mình là 1 tô phở tái gầu, siêu ngon, siêu béo và siêu thơm.\n+1 quán phở yêu thích vào giỏ hàng hehe"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Thu Hương",
+    "rating": 5,
+    "review_text": "Phở rất ngon và nhiều thịt. Thịt tươi và ngon. Dù đông khách nhưng anh chủ take care rất tốt. Quán ngay đầu ngõ Trung Yên nên tìm khá dễ dàng. Quán ra phở nhanh 👍👍 nên ăn nha mọi người 💯 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Khanh Hoa Pham",
+    "rating": 5,
+    "review_text": "Phở đậm hương vị Hà Nội, quán nhỏ nằm trong ngõ nhỏ. Phục vụ nhanh."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Nguyen Trung Hieu",
+    "rating": 5,
+    "review_text": "Mình rất thích ăn phở và lê la hết các quán phở dù là hang cùng ngõ hẻm ở Hà Nôi và đây là một trong 2 quán phở mà mình thích nhất bởi vì\nnơi  đây phở còn giữ được hương vị thơm, ngon đúng vị (từ tự nhiên như xương hay …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Tran Tuyen",
+    "rating": 5,
+    "review_text": "Dc ng dân chỉ quán này quán nằm trong hẻm cũng k khó tìm lắm. Vị rất ngon và thơm thịt bò mềm k bị dai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Dang Hoang",
+    "rating": 4,
+    "review_text": "Phở tái nước trong 55k\nPhở thập cẩm đầy đủ 80k\nNhiều khách nước ngoài tới ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "tuan nguyen",
+    "rating": 5,
+    "review_text": "Quán khá nhỏ,phục vụ nhanh ,giá hơi cao một chút so với mặt bằng chung 60k cho tái chín hoặc tái nạm.Nước dùng theo cảm nhận của mình thì chưa đậm vị lắm có thể do cuối ngày.Thịt tươi ngon.Điểm nhấn của quán có lẽ nằm ở sợi phở.Phở ở đây …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "Do Ngoc",
+    "rating": 5,
+    "review_text": "Mình ăn phở gầu chín\nPhở ngon, nước dùng đậm, bò tươi béo giòn! Quẩy ổn, chắc các quán phở đều lấy 1 mối quẩy 😁. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abbf7fc64821:0x2516078ba439535f",
+    "shop_name": "Phở Sướng",
+    "user_name": "gowithSerin",
+    "rating": 5,
+    "review_text": "Mình đến lúc 9h sáng quán không đông lắm.\n• Quán có 2 chỗ ngồi, trong nhà chung với bếp và nhà đối diện\n• Mình gọi Phở tái chín và Phở tái nạm, thịt bò tươi, nước phở thanh thanh, ăn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Lela (Lomo laca)",
+    "rating": 4,
+    "review_text": "(English below)\nPhở Hải Anh – Hà Nội xưa trong một bát phở\nMột quán phở nhỏ nằm trong căn nhà xưa cũ. Mình gọi một bát phở gà, nước dùng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "DoDo",
+    "rating": 5,
+    "review_text": "Ăn ở đâu lâu rồi mà nay mới đánh giá.\nPhở ngon. Cả quán đều vui vẻ, niềm nở. Khách và chủ hòa đồng, những câu chuyện vui rất làng xã, thân thiện mà nó như cả Hà Nội xưa thu nhỏ qua bát phở. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Bốn Mùa House",
+    "rating": 5,
+    "review_text": "Phở gà rất ngon. Chủ quán chỉn chu từ việc \"luộc nóng\" cả cái bát. Món chân gà rút xương ăn kèm rất đặc biệt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "moli Mon",
+    "rating": 5,
+    "review_text": "Mình ăn gà đùi ít bánh + trà đá hết 75,000\nBát rất nhiều thịt, đầy đặn cực kỳ. Khẩu vị của mình là ăn thanh, đơn giản chỉ vắt chanh thì nước dùng rất vừa. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Phươnh Thảo",
+    "rating": 5,
+    "review_text": "Đồ ăn: Sợi phở thái tay, bản to, bâyh k còn nhiều hàng phở có sợi phở như vậy nữa\nThịt gà: chắc thịt, da sần sật, ăn k bị bã …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Nguyen Hoang Anh",
+    "rating": 3,
+    "review_text": "Nếu là fan của gà dai thì bạn tìm đúng chỗ rồi đấy. Thử thách phết nhé. Tiếc là không phải gu nhà mình. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Đông Bùi",
+    "rating": 5,
+    "review_text": "Sợi phở thái tay rất ngon, gà thì siêu nhiều, nước dùng thanh, không bị lợ vị mì chính"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Kurt Cobain 9",
+    "rating": 5,
+    "review_text": "Phở gà rất ngon!\n- Mình ăn vào buổi tối nhưng vẫn cảm nhận được vị ngon của tô phở, nước dùng thì mình ko quan tâm nước trong hay đục (mà có khi nước đục lại chất lượng hơn nước …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Trịnh Duy Anh",
+    "rating": 4,
+    "review_text": "Quán phở gà ta nhiều người khen ngon nhưng riêng mình thấy thì gọi là ăn được thôi.Nước hơi đục không thích lắm- thanh niên chặt gà không găng tay.Chỗ để xe ổn gà ăn ngon - mọc ăn được quán hết sạch quẩy và trứng vào khoảng 11g."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Mai Anh",
+    "rating": 5,
+    "review_text": "Quán Phở bình dân , ngon , thịt gà ta thật . Điểm cộng cho quán là vẫn giữ cách làm sạch bát đũa truyền thống của người Hà Nội xưa : Ở ngay phía ngoài,  có 1 nồi nước nóng to trên bếp để tráng bát đũa . Rất hay và văn minh . Bát vừa sạch …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "qi qi",
+    "rating": 4,
+    "review_text": "Phở gà Hải Anh quá nổi tiếng. Tô này 60k, có thêm mọc, tô cực đầy, ăn mãi mới hết. Gà rất ngon. Tuy nhiên hôm mình ăn quán bị dềnh nước nên rất mùi."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Chu Tuấn Anh",
+    "rating": 1,
+    "review_text": "Tôi vốn là khách quen của quán từ hồi bà vợ bán hàng và hay ngồi quán cà phê đối diện ăn, thậm chí còn gọi mang về. Lần này ăn do ông chồng đứng bán vào gọi bát phở lẫn thì không có một miếng thịt nào toàn da và bánh đòi giá 50k. Đã thế còn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Richie Bird",
+    "rating": 2,
+    "review_text": "Phở quá dở cho lần quay lại này. Bát phở đùi 70k toàn da, thịt không thơm và quá dai, nước dùng gà  hơi đục và không thanh.  Ống đũa, bàn ghế và các vật dụng trong không gian quán quá bẩn. Thiết nghĩ chủ quán cần có sự thay đổi hợp theo xu hướng thị trường nếu không muốn dần bị đào thải."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Lan Oanh",
+    "rating": 4,
+    "review_text": "Nước phở ngon đậm đà, nhiều thịt, giá cả fai chăng\nCó chỗ đỗ xe oto\nKế bên có quán Cat cafe, có thể ngồi ăn phở bên quán cafe này"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "N Phung",
+    "rating": 1,
+    "review_text": "Buổi sáng ra cùng bạn làm bát phở đùi và lườn. Quán bẩn, nước đục và chua, bảo nhân viên lấy chanh thì bày ra một rổ chanh đã vắt hết. Ăn nửa bát bỏ xuống tính tiền thì được chém đẹp 120k hai bát. Quá phí mồm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "thoai ngo",
+    "rating": 4,
+    "review_text": "Gà dai vừa, nước dùng tạm ổn, chỗ ngồi hơi chật."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Local guide Ha Noi",
+    "rating": 5,
+    "review_text": "Phở gà nhon tuyệt. Nên gọi bát thường chứ không ăn không hết"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "ken faridabad",
+    "rating": 5,
+    "review_text": "Ngon\n50k 1 bát nhiều siêu no đáng tiền"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Quốc Bảo Trần",
+    "rating": 3,
+    "review_text": "hương vị tạm ổn, không gian nhỏ ít bàn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Bình Lê Anh",
+    "rating": 2,
+    "review_text": "Lần đầu tiên mình thấy thất vọng về một quán phở ở HN đến như vậy. Chỗ để xe tạm ổn, quán bé rồi không có menu nữa, khách vào ăn cũng chẳng biết có món gì, nghĩ bụng thì quán phở gà thì gọi 2 bát phở gà (mình đi cùng bạn) lát ăn xong xuống …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Hai Namauto",
+    "rating": 5,
+    "review_text": "Ngon bá cháy. Tiết mềm nhiw thacj, nước phở thơm ngon, sợi phở to mướt, gà chất lượng, pha chút lá canh đúng vị.\nTrước kia ở HN tuần nào cũng phải lên ăn 1 bữa. Giờ về tận Thanh Hóa, có dịp ra HN là xa mấy cũng ghé quán để ăn. 70k/bát. Ăn ngon đã đời."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "dinh tien",
+    "rating": 3,
+    "review_text": "Tôi là một người ăn phở và biết nấu phở gần 40 năm đã mở nhà hàng phở ở khắp nơi kể cả mỹ hay châu âu , nay có dịp ra hà nội chơi, khách sạn gần quán phở hải anh nên ghé ăn thử, để nói về chất lượng phở tôi cho 8/10 vì lý do ra 10 ngày tôi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Liên Ha",
+    "rating": 2,
+    "review_text": "Phở ngon nhưng nhân viên rất thái độ. Sáng nay mình đi 3 người và gọi 3bát phở gà và lúc bạn nữ nhân viên mang lên rồi bọn mình đã nhờ gọi hộ 2lon coca, nhưng bạn bạn đó không tl và bọn em có hỏi lại là có gọi hộ được không ạ thì bạn nhân …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Tung Duy Nguyen",
+    "rating": 5,
+    "review_text": "Hàng phở gà gây thương nhớ ở khu vực Ngũ Xã.\n\nNhiều khách từ khu phố cổ cũng tìm đến quán. Cá nhân mình thấy ngon hơn các hàng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "lva n",
+    "rating": 4,
+    "review_text": "Phở ngon, khác biệt. Chỗ ngồi chật, dịch vụ trung bình ông chủ quán hơi cá tính,"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Dang Giang",
+    "rating": 4,
+    "review_text": "Chuyên phở gà. Hàng này còn có tên là phở Bộ trưởng. Bộ trưởng ( BT) là xuất phở bình thường có giá 50k. Phở nhà này có bánh thái tay, nhiều gà. Chủ quán là bác giai phải nói là khỏe nói vô địch. Bác này nói nhiều kinh dị và nói khá là phũ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Nguyen Thien An",
+    "rating": 4,
+    "review_text": "Tuyệt ngon,nói không quá thì là Số 1 Hà Nội trong suốt hàng chục năm qua tới nay.Bánh Phở to bản, mềm nhưng vẫn dai,chắc.Nước Phở quá tuyệt ,ngọt dịu thanh,thơm,trong đặc trưng của Nước dùng Gà tươi.Thịt Gà Ta giòn, được xé dài 3-5cm dày …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Hoang Chu Huy",
+    "rating": 4,
+    "review_text": "Chỗ này chỉ để được 3 xe oto, phở cũng tương đối khá. Ăn phở xong có cà phê bfon tráng miệng. Giá cả hợp lý với lkhu vực lân cận."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Thien An Nguyen",
+    "rating": 4,
+    "review_text": "Phở ngon tuyệt vời,đứng đầu HN về Phở Gà Ta (thả nuôi tự nhiên).Bát Phở Gà To cỡ lớn với rất nhiều Thịt Gà cực ngon,xé tay vừa miệng nhai và rất giòn mềm,thơm, ngọt thịt Gà nuôi thả.Bánh Phờ thái to nên ăn không nát cho dù người ăn có đảo …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Tien Cuong HA",
+    "rating": 5,
+    "review_text": "Phở rất nhiều thịt, vị phở ngon, muốn ăn thong thả thì nên ghé qua vào ngày thường, nhất là với ai thích ăn phở đùi vì cuối tuần đông nên sớm hết :)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "nam hoai",
+    "rating": 4,
+    "review_text": "Phở cũng ngon, nhưng không phải chuẩn vị phở gà Hà Nội vì nước không trong, hơi có mùi nước mắm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Hải Ly Nguyễn",
+    "rating": 5,
+    "review_text": "Phở Gà phong vị ngày xưa - kết nhất Tương ớt vị thơm cay nồng. Cực kỳ hợp với phở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Chau Pham",
+    "rating": 3,
+    "review_text": "Nhà hàng thiếu sáng, cảm giác nhìn không sạch sẽ. Tầng 2 rất bí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "G 'n' G",
+    "rating": 3,
+    "review_text": "Ăn cũng bình thường. Giá 50k bát gà da là hơi chát"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Phạm Đỗ Minh Trí",
+    "rating": 5,
+    "review_text": "Ngon. Gà chất lượng. Tô 50k ăn bao ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Bonbon6789",
+    "rating": 4,
+    "review_text": "Ăn ngon, chỉ có vấn đề là chờ lâu mới đc ăn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Quynh Nguyen",
+    "rating": 5,
+    "review_text": "Phở gà rất ngon, phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Meiji 905",
+    "rating": 4,
+    "review_text": "Phở nóng, nhiều thịt gà, hơi nhạt so với vị của mình nhưng cũng tạm ổn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "dongquy le",
+    "rating": 4,
+    "review_text": "Gà ta ăn rất ngon nhưng nhiều thịt quá..."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Kaylene",
+    "rating": 5,
+    "review_text": "Tasty Phở Gà fresh, tender chicken.\nPhở Gà tươi ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Thanh Vu Hong",
+    "rating": 1,
+    "review_text": "Nước đục gà bã. Ko quay lại nữa"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Kim Phượng Lê",
+    "rating": 5,
+    "review_text": "Gà ngon, nước dùng vừa miệng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Nguyen Tien",
+    "rating": 4,
+    "review_text": "Phở ngon nhưng mở mỗi buổi sáng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Vườn địa đàng Eva",
+    "rating": 2,
+    "review_text": "Đắt đỏ,chủ quán bố đời"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "ngoclam pham",
+    "rating": 1,
+    "review_text": "Ăn ngon, chỗ ngồi chật chội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Thanh Huong Le",
+    "rating": 5,
+    "review_text": "Hanoian pho."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Thanh Bui Duc",
+    "rating": 4,
+    "review_text": "Ngon, rất truyền thống HN"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "BacH Tram",
+    "rating": 2,
+    "review_text": "Phở ngon, chỗ ngồi nhỏ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Anh Đoàn Phan",
+    "rating": 5,
+    "review_text": "Ngon nhé"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "tung vy",
+    "rating": 5,
+    "review_text": "Rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Việt Hoàng",
+    "rating": 5,
+    "review_text": "PhởGà Hải Anh ăn ngon thơm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Hau Thai Xuan",
+    "rating": 4,
+    "review_text": "Ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Đức Phạm",
+    "rating": 5,
+    "review_text": "Rất OK"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Ho Minh Khanh",
+    "rating": 3,
+    "review_text": "Đông khách, quá ầm ĩ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Lê Viết",
+    "rating": 3,
+    "review_text": "phở cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Linh Hoang",
+    "rating": 5,
+    "review_text": "Đồ ăn ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Thuy Nguyen Hoang",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Trà Phan",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Khanh Linh Tran",
+    "rating": 1,
+    "review_text": "Chủ quán bị ai dẫm phải đuôi hay sao mà khách chưa kịp vào đã hất hàm kêu “hết rồi”, nhân viên thì bảo còn. Khách hỏi lại “còn k ạ?” thì trả lời “vào thì mới biết đc chứ đứng ngoài k trả lời đc”. Ý là tự chủ quán nói thì khách mới hỏi …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Sky Access",
+    "rating": 5,
+    "review_text": "Ôi tuyệt vời. Thật là một phát hiện thú vị. Hôm trước được một người dân địa phương giới thiệu. Gà Tả - nghĩa là gà vườn. Nước dùng thanh nhẹ, vị chanh thơm lừng, tương ớt tự làm hoàn hảo. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "손주영",
+    "rating": 4,
+    "review_text": "Đây là một quán phở gà địa phương. Rất hợp vệ sinh. Nếu bạn hơi mờ mắt, bạn vẫn có thể ăn phở gà, ngon tuyệt vời... (Nước dùng là sự kết hợp giữa phở bò và phở gà gomtang, và sợi phở thì to và mỏng!) …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Trang Nguyen",
+    "rating": 5,
+    "review_text": "#phởgà #phở #mónănHàNàng #ẩmthựcViệtNam\nQuán phở này luôn làm một tô đầy ắp thịt gà. Cảm giác như bạn có thể thưởng thức gà và mì đến miếng cuối cùng. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "HO JUNG (LULABABY)",
+    "rating": 5,
+    "review_text": "251123 Đây là bát phở cay nhất tôi từng ăn khi đi du lịch Việt Nam. Nó cay đến mức cảm giác như đang ăn súp gà vậy. Tuy nhiên, nước dùng gà không đậm đà lắm. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Henry Jan",
+    "rating": 4,
+    "review_text": "Món bún của quán này khá độc đáo, chủ yếu là bún gà. Hương vị khá ngon, nhưng nước dùng quá cay, và giá cả tương đối đắt, khoảng 70.000 đồng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Tim Swettlen",
+    "rating": 4,
+    "review_text": "Phở gà ngon, đơn giản và nhanh chóng. Vị trí quán bị sai vào ngày 22/12/2020, nhưng quán nằm gần hơn (phía đông) gần đường chính. Tôi thích nước dùng phở gà hơn vì cảm thấy đậm đà hơn nước dùng phở bò."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Stella Oh",
+    "rating": 3,
+    "review_text": "Thịt gà quá khô và có mùi khó chịu.\n\nBàn ghế cũng có vẻ không được bảo dưỡng tốt. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Andrew Shih",
+    "rating": 5,
+    "review_text": "Hầu hết các quán phở gà đều có nước dùng thanh nhẹ, nhưng quán này lại vô cùng đậm đà. Gà được giữ nguyên da, tạo nên độ dai, vị mặn đặc trưng của gà. Hiện tại, đây là quán phở gà ngon nhất mà tôi từng ăn ở Hà Nội."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Tom Huynh",
+    "rating": 5,
+    "review_text": "Đây là một tô phở gà rất đầy đặn với nhiều thịt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Christopher G",
+    "rating": 1,
+    "review_text": "Con chó trong ảnh bị xích trong lồng ở đây, tai cụp ra sau; hãy tránh xa nơi này."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Nguyen Phuong Ha",
+    "rating": 5,
+    "review_text": "Phở gà ngon nhất thành phố, nước dùng đậm đà, thơm ngon với thịt gà mềm ngọt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Chu Thi Linh Giang",
+    "rating": 5,
+    "review_text": "Quán phở yêu thích nhất mọi thời đại của tôi ở Hà Nội"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "huy huyyy",
+    "rating": 3,
+    "review_text": "Gà có quá nhiều xương, và cả quán khá bẩn. Bà cụ chặt gà còn dùng tay trần cầm tiền nữa."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Vincent Baby",
+    "rating": 4,
+    "review_text": "Rất được người dân địa phương ưa chuộng, đó là lời khen ngợi tốt nhất. Phần gà rất nhiều. Mì mềm và trong."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Long Pham",
+    "rating": 4,
+    "review_text": "Phở ngon, vị trí tốt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "Bi Nguyen",
+    "rating": 4,
+    "review_text": "Giá hơi cao, nhưng hương vị rất ngon."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "thai thanh long",
+    "rating": 5,
+    "review_text": "Tuyệt vời nhất."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "jungil park",
+    "rating": 5,
+    "review_text": "nhà hàng địa phương"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb1b73219b1:0x5fa65ea6fab40a76",
+    "shop_name": "Phở Gà Hải Anh",
+    "user_name": "R P",
+    "rating": 5,
+    "review_text": "Có thể bạn sẽ phải chờ nên hãy kiên nhẫn vào buổi sáng sớm. Nếu cần máy lạnh, hãy yêu cầu ngồi ở tầng trên. Món ăn ở đây thực sự rất ngon, nước dùng đậm đà và trong veo, mì mềm nhưng vẫn dai vừa phải. Thịt gà được thái mỏng, tan chảy trong …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Joly Tran",
+    "rating": 2,
+    "review_text": "Đợt lễ thèm phở gà trộn. Hôm ord được thì chờ mấy tiếng đồng hồ, shipper nhận đơn rồi mà cửa hàng vẫn tự huỷ. Hôm thấy quán mở, ra tận nơi thì ko bán cũng ko báo đóng cửa haizzz… …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Cassie Batie",
+    "rating": 5,
+    "review_text": "Quán này nổi trên app, mình hay ăn. Mà nay đi ăn thử mới thấy trên map đánh giá thấp vậy :)) không hiểu sao. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Bibo Bibo",
+    "rating": 5,
+    "review_text": "Bún thang ăn ổn trong khu vực này. 1 tô trung bình 60-80k"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "hà phan",
+    "rating": 3,
+    "review_text": "Nước dùng ngon, gọi bát bún lưng gà 50.000, nhưng không hiểu sao bát toàn thịt trắng, mang bát ra hỏi thì nhân viên vẫn cứ bảo là đây là thịt lưng, chán không buồn đôi co. Thịt trắng ăn bã 😢 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Diễm My",
+    "rating": 4,
+    "review_text": "Mình ăn phở gà, thấy cũng tạm chứ chưa ấn tượng lắm, thịt đùi hơi khô, bù lại trứng non rất to và chất lượng. Không gian quán rộng rãi sạch sẽ, phục vụ ok, giá cũng hợp lý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Thanh Minh",
+    "rating": 1,
+    "review_text": "quán ăn làm ăn quá chộp giật 1 bat phở 75k lèo tèo 3 miếng thịt thái độ với khách , mình là khách nhưng vứt rác vào thùng rác họ , họ bắt mình nhặt lên bằng được bốc rác vứt chỗ khác vì họ kêu đây là thùng rác nhà họ quá chán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Nhu Anh Le (Lena)",
+    "rating": 5,
+    "review_text": "Bún thang ngon, đậm đà và rất \"HN\".\nXôi chả trứng, xôi gà quay mua mang về, khi mở ra phải ồ lên vì suất đầy đặn, xôi dẻo thơm thấm nước thịt ăn nóng rất ngon. Miếng chả mỡ núng nính dày đến ngạc …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Minty Vo",
+    "rating": 4,
+    "review_text": "Mình đặt qua Grabfood 2 lần:\n- Phở Trộn: vị hơi ngọt với mình\n- Bún Thang: ăn rất ngon luôn. Thấy quán có giới thiệu trên Grab là không dùng …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Hồng Hưng Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon và sạch sẽ.\nBún tháng nước dùng là vị thanh ngọt của nước gà. K như nhiều chỗ ngụm đầu tiên toàn mùi ngọt mì chính. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Okabe Rintarou",
+    "rating": 5,
+    "review_text": "Đặt hàng ở đây nhiều rồi, ăn rất ngon nha."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Anh Nguyen",
+    "rating": 4,
+    "review_text": "2026: ức gà mà mềm oãi chưởng. Bún thang  bình thường miến trộn ngon mỗi tội tại sao lại cho đầu cánh vào miến. Nhìn xôi vẫn có vẻ ngon mà chưa đc thử\n2024: Phở trộn thường 55k. Phở trộn thấm, vị quyện vào nhau, gà hơi béo, có độ …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Linh Thuy",
+    "rating": 4,
+    "review_text": "Xôi ngon hợp vị mình . Quán nhân viên cãi chửi nhau , sau sẽ mua về k ăn tại chỗ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Phương Nguyễn",
+    "rating": 2,
+    "review_text": "Sao mà ăn phở thấy bth vô cùng. Nhạt nhẽo. Nhưng ở đây có pate gan gà rất ngon. Mỗi tội các món ở đây đều khá đắt."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Jasmine Nguyen",
+    "rating": 4,
+    "review_text": "Mình gọi grabfood về, hương vị ok nhé, nhưng nếu ai ăn khoẻ thì bát nè ko đủ no.\nBát của mình là bún gà đùi mọc, cả mã code là 92k, hơi chát nha 🥹 …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "toan nd",
+    "rating": 4,
+    "review_text": "Phở gà khá ngon ! Sẽ quay lại !"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Chloe Dinh",
+    "rating": 5,
+    "review_text": "Không hiểu sao ít sao thế nhỉ chứ đây là quán ngon nhất mình từng ăn trong đời, là người ăn ít chứ lần nào gọi cũng húp sạch cả cái lẫn nước, thề không seeding."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Hai Tám Chín",
+    "rating": 4,
+    "review_text": "Phở gà trộn ngon, quán sạch sẽ. Nhưng nộm thì không hợp gu mình lắm :(("
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Viet Huong Nguyen",
+    "rating": 4,
+    "review_text": "Quán rộng rãi, lịch sự. Thực đơn đa dạng phong phú món xoay quanh gà như phở nước, phở trộn, bún thang, xôi… Giá khá cao (60k/bát bún thang) nhưng đầy đặn nhiều thịt. Nước dùng ổn, gà hơi bở. Phục vụ nhanh nhưng mình đến đúng lúc các bạn …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Lana Nguyen",
+    "rating": 3,
+    "review_text": "Mình gọi phở trộn gà đùi.\nThịt gà mềm.\nBát đầy đặn. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Duyên Hà",
+    "rating": 4,
+    "review_text": "Ngon nha mọi người, bún ngon, nước đậm vị, thịt xôi hơi ko hợp khẩu vị, gia full topping  giao động 50-70k, trải nghiệm thì cũng được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Tram Nguyen Tran Ngoc",
+    "rating": 5,
+    "review_text": "Ăn tại chỗ hay ship về đều ngon lành sạch sẽ. Bún thang, phở gà, xôi gà pate rất ngon. Giá không cao không thấp nhưng đồ ăn rất chất lượng . Khoảng 50-80k / người giá trung bình"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "cerenity",
+    "rating": 5,
+    "review_text": "Đã tìm được quán phở gà trộn yêu thích mới mà gần nhà hơn :3 Quán rất sạch sẽ, phở gà trộn siêu ngon và khác những quán mình đã ăn do có dưa góp. Nghe nói những món gà khác cũng rất ok, mình sẽ quay lại thử"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Meow Lùn",
+    "rating": 5,
+    "review_text": "Phở ngon và vừa miệng, không gian thoáng đãng sạch sẽ. Menu nhiều món đa dạng, nhiều mức giá"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Ngọc Nguyễn Hoàng",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ. Phục vụ nhanh. Nước dùng phở ngon, gà ta vàng ngon. Xôi mềm, thịt gà ta mềm thơm vừa tới, đặc biệt xì dầu ăn kèm xuất sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Linh Bro",
+    "rating": 1,
+    "review_text": "Đơn grab phi 2km đến nơi ! Song hỏi còn mới biết có đơn mà làm\nQuán này ưu tiên bán ăn ở quán ! Ae tài xế grab né ra hoặc gẩy ! Huỷ tuỳ ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Huyen Lam",
+    "rating": 3,
+    "review_text": "Quán nhỏ, không được vệ sinh lắm, nhưng đồ ăn thì ok."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Chu Chu",
+    "rating": 3,
+    "review_text": "Order về cảm thấy ổn hơn ăn tại chỗ, ship nhanh, cẩn thận, còn ăn tại chỗ thì bàn bẩn, nhân viên không nhiệt tình, có ý dọn đồ trên bàn của khách khi khách đang ăn (cho dù đã hỏi thì cũng không ổn), thái độ nhân viên không đồng đều, người …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Jason Nguyen",
+    "rating": 5,
+    "review_text": "Cả phở/ bún thang và xôi gà pate đều ngon nhưng món xôi thì có thể nói là ngon hơn các hàng lâu đời trên phố …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Xuka Nhien",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ kém , gà vẫn treo 3 con , gọi phần lưng kêu hết , còn phục vụ trên app , các đơn khác"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "PHUONG LE",
+    "rating": 5,
+    "review_text": "Phở gà, xôi gà rất ngon, quẩy ăn cũng tuyệt... Quán sạch sẽ ngồi mát. Giá rất ok."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Ngọc Tú Cao",
+    "rating": 5,
+    "review_text": "Bún thang Hà Nội 60k, nước dùng trong vắt, trứng cắt sợi vàng óng, ăn với ca la thầu giòn sần sật"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Quân Đặng",
+    "rating": 1,
+    "review_text": "đồ ăn tạm, bún thang xuất sắc.\nthái độ nhân viên tệ, chủ ngồi hút thuốc phả như cháy nhà"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Thiem pham thi thiem",
+    "rating": 5,
+    "review_text": "Xôi mềm ngon , nhiều hành , phở vừa vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Nguyễn Ngọc Tân",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ , gà ngon ,phục vụ nhanh"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Nhu Quynh",
+    "rating": 1,
+    "review_text": "Đồ ăn thì rất ngon,vị thanh gà tươi,tuy nhiên thái độ phục vụ thì âm vô cực,cả chủ và nv thấy khách vào mặt hầm hầm,chủ thì giọng dạ vâng(cô ấy lớn tuổi)nhưng mặt thì tỉ lệ nghịch,nv thì xin 1 bạn nữ thêm ít mắm tôm bạn ấy ko vâng k dạ quay …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Công Enter 5 Ngón TV",
+    "rating": 1,
+    "review_text": "Đơn grab phi 2km đến nơi ! Song hỏi còn mới biết có đơn mà làm\nQuán này ưu tiên bán ăn ở quán ! Ae tài xế grab né ra hoặc gẩy ! Huỷ vào phần nhà hàng đã đóng cửa vì bọn quán chưa xem đơn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "nang le",
+    "rating": 1,
+    "review_text": "1 món đợi 21phút. Người đến trước k làm. Làm cho người đến sau"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Giang Trường",
+    "rating": 1,
+    "review_text": "Chuẩn bị món ăn quá lâu, thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Hải Đăng",
+    "rating": 1,
+    "review_text": "Rau héo như này mà dám mang bán cho khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Man Le Huy",
+    "rating": 4,
+    "review_text": "Phở vị ngon nhưng giá cao so với mặt bằng chung ( chắc do giá thuê nhà cao).\nHơi ít bánh phở, bác nào ăn khoẻ thì ra khỏi quán đã thấy đói."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Hai Minh Nguyen",
+    "rating": 1,
+    "review_text": "Đến quán không có chỗ để xe nhân viên không chỉ dẫn. Xong ngồi vào chỗ gọi đồ xong hết rồi, ngồi đợi 15p thì lúc sau nhân viên mới lên báo hết đồ. Cuối cùng ra về thanh toán 2 cốc trà đá 10k và không được ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "NGO THI VAN ANH",
+    "rating": 5,
+    "review_text": "Mình order trên grabfood và thaya thật sự vui vì được ăn cơm gà ngon ở HN, nên phải lưu quán ngay. Tuy đu đủ nộm không hợp vs mình vì shop ko có ướp gì hết, nhưng khen thịt gà ở đây thơm, mềm và ngọt thịt nhé. Mình gọi thêm măng ăn rất bánh …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Duy Phạm",
+    "rating": 1,
+    "review_text": "Trước làm grab đến lấy đồ quán này đang định vào ngồi đợi lấy đồ ông làm phở đuổi luôn ra ngoài mặc dù ngoài trời nắng rất to không có sự tôn trọng con người mình đi lấy đồ ship kiếm thêm doanh thu cho quán mà cứ làm như vào quán ăn trộm ăn cắp không bằng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Gia Thái",
+    "rating": 1,
+    "review_text": "nhân viên đóng gói thái độ rất láo làm mất cảm tình ngay khi bước vào quán"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Tuan Hoang Anh",
+    "rating": 5,
+    "review_text": "Quán sạch sẽ, phục vụ tận tình,đồ ăn hợp vị"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Hùng Nguyễn Sỹ",
+    "rating": 1,
+    "review_text": "nhân viên phục vụ thái độ trơ trẽn, láo toét với khách hàng và shipper, không tôn trọng con người, công việc và sức lao động của người khác. Chủ của hàng nên để ý đến nhân viên mà mình bỏ tiền ra để thuê nhé. không có ngày sập tiệm."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Wu Mark",
+    "rating": 1,
+    "review_text": "Lần thứ 2 ăn sáng ở đây bị đau bụng. Đũa rửa rất bẩn. Mùi hôi của của đũa gỗ thực sự khủng khiếp dù đã lau bằng chanh. …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Nam Hoàng",
+    "rating": 5,
+    "review_text": "Chế biến cầu kì và cẩn thận. Vị rất vừa miệng. Gà ta rất dai và giòn, nước dùng thanh thanh. Quán bún gà bún thang ngon ở khu vực Ba Đình không phải lên phố ;)"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Lê Xuân Hồng",
+    "rating": 4,
+    "review_text": "Bạn mình có chia sẻ rằng gà ở đây rất ngon. Riêng mình thấy nó khá mềm và dễ ăn. Phần nước dùng thì không có gì đặc biệt hơn nhưng gà khá ổn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Phuong Tran",
+    "rating": 1,
+    "review_text": "Giá quá cao so với chất lượng đồ ăn. Rất ít gà."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Ha Thu",
+    "rating": 3,
+    "review_text": "Quán ăn này chủ yếu là phở gà, bún gà. Không rộng rãi nhưng cũng tương đối sạch sẽ, chất lượng ở mức chấp nhận được. Giá cả rõ ràng."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Thi Nguyen Nguyen",
+    "rating": 5,
+    "review_text": "Xôi gà, phở trộn các thứ rất ngon, nhân viên và chị chủ rất nhiệt tình. Quán sạch sẽ, giá hợp lí"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Minh Đào",
+    "rating": 1,
+    "review_text": "Mình có đặt 3 bát phở thì thấy tài xế bảo là quán làm cho khách ngoài trước không theo thứ tự"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Thinh Trinh",
+    "rating": 1,
+    "review_text": "Nhân viên tệ từ lúc xe vào cho đến lúc mở cửa xe đã k muốn vào ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Anh To",
+    "rating": 4,
+    "review_text": "Khá ngon, sạch sẽ\nCó thể quay lại"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Le Van Hao",
+    "rating": 1,
+    "review_text": "Để khách đợi 30p vẫn chưa có đồ, đã phàn nàn nhưng vẫn không xử lý, đến sau lại phục vụ trước"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Mít Bé",
+    "rating": 1,
+    "review_text": "Tx công nghệ đến lấy hàng mà nv rất thái độ. Cứ như đi xin chúng nó ý"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Sơn Nguyễn văn",
+    "rating": 2,
+    "review_text": "Cầu ngắn, đủ hai làn ô tô tránh nhau. Khu vực sung quanh cầu ngày nắng thì bụi, ngày mưa thì bùn bẩn."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Giang Quynh Anh",
+    "rating": 4,
+    "review_text": "Phở gà ăn ổn, xôi gà ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Nguyen Vietduong",
+    "rating": 3,
+    "review_text": "N'c phở gà quá đậm, giá cả thấp xuống một chút."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Khoi viet Tuvi",
+    "rating": 4,
+    "review_text": "Giá cao mà chất lượng đồ ăn thì bình thường"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Mr. LAX",
+    "rating": 4,
+    "review_text": "Phục vụ tốt, các món gà rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Ngọc Quyền Nguyễn",
+    "rating": 4,
+    "review_text": "Đồ ăn cũng bình thường, ko có gì đặc sắc."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Lam Bang Pham",
+    "rating": 5,
+    "review_text": "Phở và gà ở đây ngon lắm ạ."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "bee nguyen",
+    "rating": 5,
+    "review_text": "Ở đây là phở gà bún thang 87 GVM"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Chi Nguyen Thi Phuong",
+    "rating": 5,
+    "review_text": "ngon vl nhưng nvien hơi cứng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Trang Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon lắm yum yum sạch sẽ uy tín!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Xikkk Thảo",
+    "rating": 1,
+    "review_text": "Thái độ khinh thường shiper"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Quyết Thắng Phạm",
+    "rating": 1,
+    "review_text": "Quán vệ sinh không sạch sẽ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Hoàng Huy",
+    "rating": 1,
+    "review_text": "quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Ong Tre",
+    "rating": 1,
+    "review_text": "Cách phục vụ ứng sử quá kinh người."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "dao Tuyen",
+    "rating": 1,
+    "review_text": "Làm đồ lâu vai"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Khuat Long",
+    "rating": 5,
+    "review_text": "Các món gà rất ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Duy Thành Nguyễn",
+    "rating": 3,
+    "review_text": "Vị cũng bình thường không có gì đặc sắc"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Ngọc Thanh Nguyễn",
+    "rating": 5,
+    "review_text": "Ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Văn ngọc Phạm",
+    "rating": 1,
+    "review_text": "Làm đơn quá lâu"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Nguyen Hong Quan",
+    "rating": 5,
+    "review_text": "Gà ngon"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Nguyễn Tuấn",
+    "rating": 1,
+    "review_text": "Nhân viên thái độ"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Nguyen Ha Chinh",
+    "rating": 4,
+    "review_text": "Tạm được"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Hanh Dang",
+    "rating": 1,
+    "review_text": "Chặt trội, bí thở"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Thịnh Vũ văn",
+    "rating": 3,
+    "review_text": "ko ngon lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Thanh Nguyen",
+    "rating": 3,
+    "review_text": "Bà chủ hơi cứng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Đạt Nguyễn",
+    "rating": 1,
+    "review_text": "Thái độ phục vụ kém"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Quỳnh Chi Nguyễn",
+    "rating": 5,
+    "review_text": "Quán ngon, chiều khách quá lun"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Bùi Ngọc",
+    "rating": 1,
+    "review_text": "Ông làm phở thái độ với khách hàng,đợi đồ ăn lâu mặc dù mình là người đến trước oder nhưng lại làm cho người đến sau và rồi bị muộn làm thanh toán 2 cốc trà đá rồi ra về không được ăn"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Đức Lê Văn",
+    "rating": 1,
+    "review_text": "Thái độ nhân viên cực kỳ tệ, nói chuyện lấc cấc, thiếu tôn trọng khách hàng"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Manieee",
+    "rating": 1,
+    "review_text": "Đồ ăn bẩn khách phải chờ lâu 30p có một bát thảo nào quán k có khách"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Nguyễn Thị My Sa",
+    "rating": 5,
+    "review_text": "Mình đặt grab của quán lúc đi du lịch Hà Nội. Ấn tượng quán đóng gói chỉn chu, 1 tô giấy như này cũng nhiều như tô ăn ở quán, topping siêu nhiều á. Áp mã trên grab thì tô còn hơn 60k xứng đáng lắm"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Dr Barry Burris",
+    "rating": 5,
+    "review_text": "Phố gà và bún thang ở đây đều rất ngon và luôn nóng hổi. Thức ăn và rau củ luôn tươi ngon. Quán thường khá sạch sẽ và nhân viên thân thiện. Giá cả cũng hợp lý."
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Raquel Romero Diaz",
+    "rating": 5,
+    "review_text": "Chúng tôi không dịch được thực đơn, nhưng chúng tôi đã gọi món phở gà nổi tiếng và một ít mì với gà, đậu phộng, bắp cải, rau mùi... ngon tuyệt!\nMọi người đều rất tốt bụng và thân thiện, và bia thì lạnh ngắt. Thật tiếc là chúng tôi không thể quay lại vì hôm nay chúng tôi phải rời Hà Nội. Xin chân thành cảm ơn!"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Cristina Padilla Silva",
+    "rating": 5,
+    "review_text": "Một địa điểm rất đáng để ghé thăm!\n\nĐồ ăn ngon tuyệt! …"
+  },
+  {
+    "platform": "GoogleMaps",
+    "restaurant_id": "0x3135abb57aceb32b:0xcc1abd102c039013",
+    "shop_name": "Phở Vị Mộc",
+    "user_name": "Huy Thanh Hoang",
+    "rating": 2,
+    "review_text": "Đồ ăn tạm được nhưng phục vụ tệ hại - nhầm lẫn món ăn và mang ra sai món mà không hề xin lỗi."
+  }
+]
