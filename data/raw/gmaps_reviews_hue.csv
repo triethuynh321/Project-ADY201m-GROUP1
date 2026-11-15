@@ -1,0 +1,761 @@
+﻿platform,restaurant_id,shop_name,user_name,rating,review_text
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Long vu,5,"Trà chỗ ni thấy đậm vị, thơm, lạp xưởng khá ok, chân gà mình thấy hơi ít cay, nhưng cũng thấm
+Nói chung là khá ok …"
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Anh Đạt Huỳnh,1,"Mình đã mua trà sữa ở quán vài lần nhưng chất lượng rất tệ. Đã từng góp ý vì đồ uống có dấu hiệu bị thiu, nhưng lần sau vẫn không cải thiện. Thật sự thất vọng khi quán không quan tâm đến phản hồi của khách hàng và chất lượng sản phẩm. Mong …"
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Từ ruf,3,Trà sữa matcha ngon <3 nhưng địa điểm quán ngay đèn giao thông nên hơi ồn và bụi
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,vũ phúc nguyễn,5,"Thức ăn ngon, địa điểm đẹp"
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Su Bo,4,Địa điểm mua lạp xưởng nướng đá yêu thích của tôi. Bây giờ đã thành quán trà sữa 🥹 …
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Trần Khôi Nguyên,4,"Nước uống ngon, giá rẻ, nhân viên vui vẻ nhiệt tình. Nhược điểm là mặt bằng nhỏ nên khá chật."
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Nhu Uyen Nguyen,5,"có không gian mở, ngồi uống cf vừa có thể ngắm khung cảnh ở bên ngoài, đặc biệt trà sữa ngon đậm đà"
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Hy Lâm,4,"Ts ngon, ngay mặt bằng nên hơi hẹp , ít chỗ, nhưng ts cực ngon luôn ý, giá cả hợp lí"
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Tinh Ly Dac,3,"Quán ngay ngã tư ngồi cf cũng thú vị, buổi trưa hanh nắng, nóng, ngồi sáng sớm hoặc chiều tối thì ok"
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Đạt Trần,3,"Trà sữa tạm được , không gian hơi chật do quán khá nhỏ"
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,linh vũ,4,Đồ uống ok . Rất phù hợp vs các bạn tuổi teen 😊 …
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Linh Nguyễn Văn,5,"Không gian bố trí hiện đại, phục vụ lịch sự, đồ uống khá được"
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Thành Công Võ Trọng,5,"Đồ uống ngon, ăn vặt đa dạng"
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Võ Đức,5,Rất ngon và rẻ
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Nam Cường Thịnh,1,Ko bao h quay trở lại
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Châu Thị Thảo Nguyên,5,Trà sữa ngon
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Hoàng Lưu Nguyễn,5,"Phục vụ nhanh, chuyên nghiệp."
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Phong Le Dinh,4,Nói chung là ok
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Ha Ma,5,Đồ uống ngon
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Vũ Lê Đình,1,Nghe nói bị phốt
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,hoang xuan Loc,3,Phục vụ chưa tốt
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,CƯỜNG NGUYỄN MẠNH,3,Khá ngon
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Hiệp Văn,5,Rất tốt
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,nhật tuấn đỗ,5,Tuyệt vời
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Dung Nguyen,5,Quá ngon
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Phạm Thanh Bình,1,Không gian hơi nhỏ...
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Minh Lê,4,Quán chật
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Manuel Hinze,5,Các loại đồ uống ở đây rất đa dạng và ngon miệng; ai cũng có thể tìm được loại phù hợp với mình.
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,M KIM,4,"Giá rất rẻ và một nhân viên hỏi tôi có nói được tiếng Anh không, nhưng nhân viên đó lại không nói được tiếng Anh, điều đó thật buồn cười. Họ rất tốt bụng và luôn tươi cười haha"
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Théo Duguesclin,4,"Trà sữa trân châu rất ngon, có cả một sân hiên nhỏ."
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Cao Văn Thắng,4,Được rồi
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Hạnhh Boss,5,Tốt
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Woody Ho,4,Tươi
+GoogleMaps,0x3141a115c8520209:0x4452be199eb8b294,Green tea,Phuc,3,Tốt
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Tri Huynh,5,Quan bán rất ngon mà rẻ. Sẽ ủng hộ quán nhiều
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Thiyen Lê,5,"Đồ uống ngon,nv nhiệt tình thân thiện"
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Công Đặng,5,"Nước uống ngon, quán vệ sinh, NV vui vẻ,nhiệt tình"
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Hung Doan,5,Nhân viên khá nhiêth tình. Đồ uống giá cả phù hợp sẽ ủng hộ nếu có dịp
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Gia Thèng (1T),5,"Trà sữa ngon, nhân viên quán nhiệt tình, sẽ ghé thăm lại ở tương lai 🥰 …"
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Khang Minh,5,Nước uống cực kỳ ngon nha.nhân viên nhiệt tình 5sao nha mm
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Tuyền Thanh,5,Đồ uống tuyêth vời. Nhân viên nhiệt tình lắm ạ
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Vân Nguyễn,5,"Rất ngon,rẻ,nhân viên nhiệt tình"
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Hien Nguyen,5,"Vị ngon lạ, khác các quán khác"
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Man Huynh,5,Đồ uống hợp khẩu với. Nhân viên nhiên tình lắm. Sẽ ủng hộ lại
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Hoàng Duy Võ Nguyễn,5,"Trà  sữa ngon ,nhân viên phục vụ tận tình, đáng cho 5 sao"
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Linh Kiều,5,mới uống rất ngon
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Quynh Nhu Van,5,"Nước ngon, nhân viên nhiệt tình"
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Thảo Nguyễn Thị Phương,5,Đồ uống ngon đó
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Vo Duyen,5,"Nước ngon, đúng y vị mà tôi muốn"
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,My Phan,5,Đồ uống ngon
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Oanh Đoàn,5,Trà sữa vị ngon mới thử 3 ly
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Hiệp Hồ,5,Rất ngon ạ
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Trần Thị Hồng Hoa,5,Ngon mê luôn ❤️
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,thanh loan,5,Nước uống ngon
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Huỳnh Tố Uyên,5,Nói chung là ngon
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Nghĩa Nguyễn,5,"Món nào cũng ok, nói chúng ổn"
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Trần Gia Bảo Lớp 2A,5,Trà sữa ngon lắm
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Lài Đặng Thị,5,Trà ngon á
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Phạm Hà,5,Nước vừa uống.
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Tâm Nguyễn,5,Rất tuyệt vời
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Tài Đặng Đức,5,Nước ngon.nhân viên nhiệt tình
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Minh Pham,5,Trà sữa ngon
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Hoàng Lê,5,Khá ngon
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,dang thao,5,Uong ngon
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Trang Thuỳ,5,Yummy ngon đỉnh ạ 😗 …
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Long Nguyễn thanh,5,Đồ ăn nước uống ở đây ngon.nhân viên phục vụ nhiệt tình và chu đáo
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Xương Rồng,5,Trà sữa ngon
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Hiếu Mai phước,5,Trà sữa ngon nhân viên tư vấn nhiệt tình
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Van Phan,5,"Nước uống ngon , nhân viên thân thiện"
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Bình Đoàn Thanh,5,Nước ngon
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Diễm Trương,5,Đồ ăn ngon.phục vụ tốt .
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Kien Phan,5,"Chất lượng, tuyệt vời"
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Thương Trịnh Văn,5,Rất nhonn
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,My Tran,5,Đồ uốn ngon - hợp khẩu vị
+GoogleMaps,0x3141a729f732818d:0xfad1352fbde6220c,Hue Cha - Trà Sữa Huế,Ray Travis “Fraida Felcher”,5,Giá cả hợp lý và rất ngon.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,huyentrang tran,4,"Mình đến quán muộn nên ko fai đợi bàn
+Nhưng quán vẫn siêu đông và ồn
+Chắc do đông quá nên sàn la liệt giấy ăn và vỏ cua …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Khánh Linh Đỗ,5,"22h mới đến nhưng quán vẫn nhận, đồ ăn ở đấy rất chất lượng cua chắc thịt, lên đồ nhanh, siêu rcm cho mn khi đến Huế nhé"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hagiel,3,"Quán đông đúc, ồn ào. Mình cảm nhận đồ ko tươi, 3c cua giá 850k nhưng ít gạch lắm. Các món khác ko tươi, đông lạnh. Phục vụ chắc đông quá nên bơ khách. Chủ quán nói chuyện thờ ơ và lớn tiếng, bạn mình ko quen kiểu phục vụ thế nên hơi sốc :))"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,diep dao,1,"Tôi đến quán ăn vào buổi tối ngày thường, quán không đông nhưng đồ ăn lên chậm, gọi lẩu cua nhưng cua không tươi, ọp, nước lẩu ngang k có vị ngọt thanh như các hàng lẩu cua khác tôi đã từng ăn. Khuyến cáo mọi ng không nên trải nghiệm thử."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Anh Đỗ Ngọc,2,"Nhóm mình 7 người có ăn ở đây tối ngày 9/4, đánh giá thì đồ ăn ok (cua, nước lẩu ngon), không gian rộng, có điều hoà, nhân viên phục vụ cũng nhanh nhẹn, đáng lẽ là bữa ăn ổn áp trong ngày nhưng không, kiếp nạn đến liền …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,LAN HUONG LUU,1,"Nghe review trên tiktok đến thử quán này mà thất vọng tràn trề, hiểu lý do vì sao trên gg map bị đánh giá thấp z. Đồ ăn mắc mà còn k ngon, lẩu rất ít, 2 người ăn yếu may ra mới no. Rau ăn lẩu thì héo vàng, nước lẩu mỡ nhiều ăn k nổi."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thanh Bạch Ngọc,4,"Quán đông lắm nên hơi ồn, nhân viên phục vụ tốt. Mình ko thích lẩu cua lắm nhưng nước dùng ở đây ngọt đậm đà, cua chắc thịt rất đáng thử nha, món bò bóp thấu thì hơi mặn, vắt cả quả chanh vẫn thấy mặn 😓 …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Linh Nguyễn,4,"Cũng nghe mọi ng khen nên cũng đi ăn cách đây 3 năm đi dịp tết. Ăn k hợp, k thích. Mới quay lại lần 2 dịp tết vừa rồi ( mùng 6) đi quá giờ ăn tối vãn vãn khách thì thấy nhân viên phục vụ rất nhiệt tình, lên đồ cũng nhanh. Tư vấn có tâm, …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Ngoc Bich Vo,1,nếu có 0 sao tôi sẽ cho liền đánh giá 0 . đồ ăn dở tệ. loe hoe . keu ếch chiên bơ đem ra ếch lăn bột . ếch đông lạnh lạt nhách như ăn giấy . miến xào mặn chát ứot chèm nhẹp . uổng phí . đừng bao giờ phí tiền vào cái quán như hạch này …
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hân Phạm Ngọc,4,Hến xào xúc bánh đa và lẩu cua mình đánh giá ngon. Mọi người nên thử nhé!
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Quỳnh Yên Hoàng,5,Lẩu cua và cơm rang hải sản rất ngon rất đáng thử nha. Quán hơi đông nên hơi ồn
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Ford Eden,3,"Quán nóng, do không bảo trì máy điều hoà. Máy điều hoà chạy mà không có tí gió mát. Lâu nay ghé lại thì thấy đồ ăn càng tệ hơn trước đây"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,y lan nguyen,1,"Thèm lẩu cua, chạy từ Đn ra tới Huế tìm ăn. Để rồi nhận lại thái độ ko thể chấp nhận của quán. Quán khá đông, m vào xin bàn. Nv chỉ bàn sát bên nvs, m báo có thể dọn bàn bên kia dc ko, gần nvs m ko ngồi đc. Bạn quản lý hất cái đĩa trên bàn dằn mặt ko ngồi thì thôi. Rồi bỏ đi. Ko bjo quay lại dù chỉ 1 lần nào nữa"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Jang Dong Gun,5,"Một quán làm mình có ấn tượng cực tốt với nhà hàng quán ăn ở Huế : hoàn toàn không chặt chém khách du lịch 👍 Giá ca cực phải chăng, thậm chí mình ko đi cân cua nhưng tính con cua 0.45 kg đúng như mình nhận được. Món ăn rất ngon, cua tươi …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Perman Blow,4,Quán rộng thoáng mát. Phục vụ nhanh gọn. Đồ ăn hợp lí
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Phuong Nguyen,5,"Xem video là hiểu luôn độ tươi. Siêuu ngon. Giá hợp lí
+Nhân viên nhanh nhẹn lễ phép phục vụ tốt"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Phúc Luân Võ,5,"Bàn ghế sạch sẽ. Không gian rộng rãi. Nước lẩu cua ăn rất ngon. Cua gạch rất nhiều gạch, thịt cua chắc. Rất recommend lẩu cua ở đây"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Huyen Ngoc,4,"Nhà hàng không gian rộng rãi ngồi được đoàn đông. Nước dùng lẩu cua vị chua thanh, nhưng cho hơi nhiều bột ngọt, mình bị dị ứng bột ngọt nên ăn vào cảm nhận được ngay. Cua tươi, chắc thịt, gạch cua ngậy. Rau bí xào bị nhạt, không ngon lắm. Do quán đông khách nên phục vụ cũng hơi chậm, hỏi nhân viên gọi thêm món thường hơi lâu mới ra."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,An The,5,"Mọi người ơi rất đáng để ăn nha.
+Ban đầu mình đọc đánh giá cũng hơi suy nghĩ chút.
+Nhưng đến thử mới biết. Đây là một quán ăn lâu đời của dân địa phương. Đồ ăn …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Jimin Cutie Sexy Lovely,5,"Lẩu cua ngon lắm mà có vẻ ít ng biết tới. Cua ngon, hải sản mình thấy ngon, món rau muống xào tôm rất ngon nha. Các món ăn đều hợp khẩu vị mình, giá thành lại rẻ. Cua gạch rất nhiều gạch cua"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Ưng Thị Huệ,1,"Đúng ra k được xếp hạng để đánh sao luôn ý :)))  Trải nghiệm cực kì tệ hại, k nên tin review tiktok nha mn :))) khách đặt bàn 8g khách chờ đến 8g40 lên đc 1 đĩa bún và 1 đĩa rau, hỏi 3 lần 4 lượt mới lên cho thêm được vài cái cốc và bát ướt …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Cường,4,"Quán ăn cho trải nghiệm nhẹ nhàng, đơn giản, tập trung vào thực phẩm, không cầu kì.
+Riêng đối với bản thân tôi thì đồ ăn ở quán này chưa đủ NGON, nhưng trên giá …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Đà Nẵng,1,"Đến quán khá đông, mình vào quán thì nv thấy như không (chắc do phục vụ nhiều) k sắp xếp chỗ, nhà mình đứng hơn 15 và bỏ đi quán khác, quán này kém quá, chắc do đông quá nên cả chủ và nv k muốn phục vụ thêm , chán thật"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,iuvivu,4,"Quán quá nổi tiếng,  ăn lâu rồi mà giờ mới review.
+Lẩu cua ngon,  tươi.
+Điều hòa mát mẻ. …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Ha Ngan Lai,5,"Lẩu cua ngon giá hợp lý, nhà hàng rộng, có vẻ xây dựng cũng khá lâu rồi vì mình thấy style decor hơi cũ, nhưng đồ ăn ngon nhé không chặt chém"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Chung Đoàn,5,"Lẩu cua tươi, ngon. Vị nước dùng khá wow nha. Con của mình bị óp nhà hàng còn đổi sang con khác luôn cho mình.
+Một trong những quán địa phương mn nên ghé thử nha"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hong Ngo,5,"Phải nói là nếu đọc review chắc mọi người sẽ không muốn đến quán như mình :)))) mình đến lúc quán đìu hiu, quán to mà chỉ có 1 bàn khác, thêm quả review ít sao trên này nên hơi lăn tăn, nhưng rất đáng để thử nhé các bạn ơi. Bò bóp thấu của …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thuy Vu,5,"Hai lần đến Huế mình và bạn đều ghé đây ăn.
+
+Lẩu cua ngon, bổ, rẻ. Cua gạch chắc và ngon. …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Van Anh Tran,1,"Ăn gần 2 củ , mà Chủ và nhân viên mặt như khách đi xin ! Ba chủ là người đáng ghét nhất bảo sao nhân viên nó vậy không sai nha … ăn thì đắt mà phục vụ như đấm vào mặt , nhờ lấy cái bát thôi cũng khó , mẹ đi ăn như đi xin , đồ ăn cũng quá bthuong ăn đắt ko xứng đáng giá tiền. Trải nghiệm cực tệ hại ở quán này"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nhi Thao,4,"Mấy món ăn ngoài lẩu không ấn tượng lắm, nhất là món Vả được giới thiệu là đồ địa phương, không hợp khẩu vị mình và để thừa nhiều
+Lẩu ngon đau đầu luôn, hôm ý chỉ thích mỗi nồi lẩu thui, nên gọi lẩu nha cả …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Midori,1,"Quán ăn nằm ở mặt đường trường chinh, địa điểm rộng nhưng bài trí không đẹp, mùa hè ngồi ăn nóng, hải sản mình ăn có mực hấp thì trắng phau không ngọt tí nào, sò không tươi, có sạn, cua hấp giá cao mà cũng không ngon. Mắm tôm chua là món …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hoàng Nhân,4,"Lẩu ngon, vừa miệng nhưng cua thịt quán chọn cho mình lần này khá nhỏ. Bò bóp thấu đậm đà."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,thieu nguyen,4,"Đồ tươi, nêm gia vị ngon. Giá hơi mắc so với mặt bằng chung ở Huế"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Candy Thao,4,"Nghe nhiều người giới thiệu đến và bản thân mình cảm nhận qua 2 món ăn.
+Vả trộn : quả vả quá mềm, gia vị chưa thấm. Điểm cộng là bánh tráng ngon
+Lẩu cua: món best seller của quán: điểm cộng là cua rất ngon, chắc điểm trừ gia vị hơi mặn!"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Dương Thùy,4,"Đọc nhiều review thì mình cũng phải công nhận lẩu cua ngon nhất, cua khá chắc và chất lượng. Món đi kèm vì tụi mình biết k ngon nên cũng chỉ gọi trìa hấp, rau xào và ếch nướng (cho 4 người). Trìa ngọt nhưng ếch mình bị làm nhầm"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Trang Nguyễn,3,"🦀MƯA LẠNH THỬ NGAY MÓN LẨU CUA TRỨ DANH CỦA NHÀ HÀNG BÀ CHANH
+📍Địa chỉ: 09 Trường Chinh, Tp. Huế
+⏰Giờ mở cửa: 10.00 – 22.00 …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Trung Đỗ,1,"Phục vụ tệ kể cả thu ngân, gọi cái gì mặt cũng khinh khỉnh, khó chịu
+Đồ ăn giá cao nhưng không xứng đáng chất lượng, cua gạch rất ít và ốp, nhà hàng không hỗ trợ đổi. Bàn 5 người cho 1 chén muối chấm cua, gọi thêm thì nhân viên …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thanh Trung Tran,5,"Đồ ăn rất ngon. Giá hợp lý.
+Là địa điểm phù hợp để đến ăn khi ghé thăm Huế. Mình thấy dân địa phương đến đây ăn nhiều."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Linh Việt,4,"Cua chất lượng , ngon. Tuy nhiên nước lẩu hơi chua, nếu có thêm nước chấm hải sản nữa thì tuyệt vời"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Minh Thi,2,"Về thức ăn thì cua tươi, nên lẩu cua ngon. Vả trộn và vài món lai rai thì bình thường, không có đặc sắc.
+Nhân viên hay chủ quán gì cách phục vụ cũng rất chán. Mình đi bốn người vào buổi …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Phi Long Nguyễn,1,"gia đình tôi bị ngộ độc sau khi dùng bữa ở đây, đang nhập viện ở bệnh viện y dược huế, nghi vấn về vấn đề vệ sinh an toàn thực phẩm"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thuy Trang Le,5,"Không gian sạch sẽ, thoáng mát. Món ăn đa dạng món, giá hơi cao. Cua ngon nhưng nước lẩu nấu chua quá làm mất vị. Thích nhất là món bò bóp thấu ở đây, các bạn nên thử."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thùy Dung Lê,3,"Nhân viên khó chịu, quán bẩn. Đồ ăn ở mức vừa phải, không quá ngon."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Lan Nguyen,1,"Món ăn ko có gì đặc biệt, ấn tượng cái thố nghêu hấp bị thối, kêu nhân viên nói mang vào đổi mang ra lần 2 vẫn bị thối xong họ kêu mang vô lại ko tính tiền, giống như ko biết xử lý cách nào cho hay hơn, đến Huế có người giới thiệu ngon đến ăn mà quá thất vọng."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,DEMOCA CÔNG TY,2,"Nước lẩu ngon, cua okela nhưng chả hiểu đun kiểu gì ko chín nổi rau. Nhờ nv bê vào đun cho chín thì bê ra rau vẫn cứng đơ như ăn rau sống. Chán chả buồn nói. Phục vụ 1đ. Ko bao giờ quay lại. Trời thì nóng hỏi phòng bật điều hoà ko thì chắc …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Saito Bin,4,"Không gian xuống cấp hơn xưa, dĩa nhựa phần đáy đen nhìn mất thẩm mỹ, ngoại quan không thu hút. Riêng đồ ăn ngon và nhân viên phục vụ nhiệt tình, món ăn ra nhanh"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Ngọc Thu Nguyễn,4,Lẩu cua khá ngon. Chất lượng cua đồng đều. Đã ăn thử cả của gạch và cua thịt đều khá ngon. Nước lẩu cay chua ngọt hợp vị (nếu không ăn được cay có thể nhắn quán không làm cay). Lần thứ 2 quay lại thấy thái độ nhân viên đã được cải thiện tốt …
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Ngan Ngan,4,"Quán ăn ngon, khẩu phần đầy đặn.
+Tuy nhiên quán đông quá mà không có người phụ trách theo khu vực nên 1 lúc là loạn lên. Mình gọi 2 món mà món đầu ăn hết được 30' vẫn chưa thấy món 2 nên tự vào …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thường Tại Tâm,5,"Đồ ăn tươi ngon, phục vụ chạy bật mặt nhưng vẫn tươi cười nhiệt tình. Like. Giá rẻ thì miễn bàn luôn. Người hướng dẫn đỗ xe cũng nhiệt tình nữa. Nên tới, nên ghé ăn nhé mọi người"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thủy Tiên Nguyễn,4,"Đồ ăn ngon, giá cả hợp lý, do quán đông, ít NV nên phục vụ hơi chậm. NV chưa chuyên nghiệp, nhiệt tình lắm"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,SOLAR GIA VINH,1,"Đồ ăn không ngon, trong menu giá chỉ dành cho 2-4 người ăn."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Huyen Tran,5,"Lẩu cua ngon, thịt cua rất chắc, mà rẻ so với HN"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Tùng Sơn Phan,4,"Quán được nhiều người khen là lẩu cua ngon nhất ở Huế. Theo cá nhân quán sạch sẽ, lịch sự, không gian rộng rãi phù hợp với đi gia đình, hội bạn bè. Hải sản thì khá tươi nhưng cũng tùy ngày, cua ở đây giá tầm 700-800k/kg, cua khá chắc thịt …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,The Minh Nguyen,5,"Mình đã ăn lẩu cua và vả trộn ở quán, nhân viên rất nhiệt tình, chu đáo, phục vụ nhanh"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Tuấn Anh Đào (mạp mạp),5,Quán rất tuyệt. Điểm đến rất đáng quan tâm khi tới Huế
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Chuột Jerry (Judy Thuỳ),5,Đặc biệt là đồ hải sản.Món lẩu cua ở đó rất chi là ngon...Hẹn gặp lại vào 2 tuần nữa😚 …
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,SUNSHINE KINDERGARTEN,4,"Cua tươi ngon giá hợp lí nhưng hơi ít món, phục vụ hơi lâu"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Khanhhung Nguyen,1,"Thức ăn rất bình thường. Phục vụ: 50% nhân viên phục vụ được, 50% còn lại rất kém. Hãy đến quán khác!"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hoàng Đặng,4,"Quán rộng và đẹp
+Thức ăn chỉ có lẩu. Tạm dùng"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Vô Danh,4,"Lẩu cua thì high recoment nha! Cua chắc bao to ko thua gì cua dì ba. Ăn có nửa kg mà 4 miếng cua ăn mệt nghỉ lun. Nước lẩu chua chua cay cay thích lắm.
+Rất đáng đồng tiên luôn á!"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Trung nguyen duc,5,"Cua tươi chế biến tại bàn. Vị của lẩu cua khá giống lẩu thái. Cho hơi nhiều gừng, khách hàng nên yêu cầu trước là bớt gừng hay không. Vị khá ổn. Thái độ nhân viên rất niềm nở. Phòng mát có tận 6 điều hoà"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,bvtb thanhtam,2,"Tụi mình có cv đi ngang qua Huế. Đã ăn và giá ko hề rẻ chút nào, phục vụ chậm nữa trong khi quán rất ít khách! Tụi mình vào ngồi mãi mới có đồ ăn.
+Chưa kể còn tính nhầm tiền lượng Cua của bàn khác qua cho bàn mình (chồng mình …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,HelloPhongMc,5,"Trời woi!! Nước lẩu cua ngon tuyệt cú mèo, thêm món VẢ TRỘN nữa nhé, khỏi chê lun 😋😋🥰🥰 …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Khanh Gia,2,Quán phục vụ chậm. đồ ăn bình thường. mình vào trước nhưng được phục vụ sau như kiểu gặp mình có 1 lần lên k cần thiết.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Lê Minh Ngọc,4,"Hải sản tươi, phù hợp nếu đi cùng gia đình"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Ming Kui Hkong,5,"Nên ăn từ 3 người trở lên, lẩu cua ngon nha"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nguyễn Quốc Toản,5,"Ngon bổ rẻ, phục vụ rất nhanh và nhiệt tình. Rất phù hợp cho khách ở xa đến du lịch."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,RKT Official,5,Ngon rẻ
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Đoàn Thu Hằng (GreenApple),5,Lẩu cua ngon cực kì dù vị nước hơi quá chua so khẩu vị của mình
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Pham Hoa,5,"Đọc review của mọi người thấy hơi rén. Nhưng trải nghiệm của mình rất oke. Quán siêu rộng, 12h trưa nhà mình vào không thấy có khách nào. Tầm 12h30 mới có thêm vài đoàn. Nước lẩu cua signature rất rất ngon. Cua thịt quán chọn cho thì đều …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Bao Nam Vu,1,"Phục vụ rất thái độ, không biết là chủ hay nhân viên mà khách gọi món, mặt cứ khó chịu, thức ăn lên quá chậm."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hieu Apple8,5,Ngon và thật
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nguyễn Ngọc,5,Chưa thật sự xuất sắc nhưng cũng đáng để thử.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Than Trong Huy,4,"Quán ăn Bà Chanh nổi tiếng từ rất lâu với món lẩu cua, đến nay vẫn thế. Các món ngoài lẩu cua thì chỉ ở mức trung bình.
+Nhà tôi đến ăn, đã dặn kỹ là có trẻ em, có 4 người không ăn được cay, nhưng tiếc …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Pham Khoi,1,Đồ ăn thì bình thường. Thái độ nhân viên thì èo ợt. Thấy nhiều đánh giá mà đến ăn trải nghiệm quá kém
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Trang Nguyen,5,"Nhìn reviews mình hơi e dè nhưng ko nhu mình tưởng tượng, món ăn cực kỳ ngon, cực kỳ đậm vị, ăn 8 người mà có 1tr7. Vừa rẻ vừa chất lượng"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Ánh Phương,1,"chờ quá lâu, phục vụ rất chán, rau ăn lẩu thì héo, hư"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Julie Harmon,4,Nhân viên không những thân thiện mà còn cực kỳ nhanh nhẹn. Không gian quán thoáng đãng và sạch sẽ.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Huyền Lê,5,"Cua rất chắc thịt, 2 kí nấu lẩu rất nhiều 10 người ăn k hết, quán bán đa dạng món ăn"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Trung Nguyen,5,"Nhiệt tình, vui vẻ, có ""tó"" để xem nữa!
+Nhưng trên hết là ngon!"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thanh Phương Lê Nguyễn,3,"Mình order cá chình nướng, nghêu hấp, ếch chiên bơ và lẩu. Riêng ếch chiên bơ mình đánh giá cao so với mặt bằng chung. Nghêu hấp tươi nhưng không có gì đặc biệt so với các quán mình ăn, lẩu cũng vậy, nhưng riêng đậu, tôm, mực thả lẩu không …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,V,5,Lẫu ngon. Riêng cua thì hơi đắt vì cua tuyển
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,trinh duc,5,"Lẩu cua ngon, a chủ phục vụ nhiệt tình và nhanh, nhà mình ko ăn cay a đổi ngay cho nồi khác, lần sau đến huế sẽ quay lại."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nguyễn Ngọc Hà,5,"Bạn phục vụ siêu nhanh đáng yêu. Đồ ăn thì ngon, nhất là lẩu cua nhé! Phù hợp đi đông/đi cặp đều okay."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Katty,4,"Đồ ăn tươi ngon, nước lẩu cua ngon, giá cả hợp lý. Điểm trừ là phục vụ hơi ít người so với lượng khách của quán nên gọi đồ là phải chờ hơi lâu. Mải ăn quên chụp hình 🤪 …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Phương Thảo Đỗ,4,"Không gian rộng rãi. Các món ăn khá đa dạng. Vị ngon và đặc trưng, giá cả vừa phải. Lẩu cua rất đậm đà. Cực kì thích hợp trong thời tiết se lạnh. Vote cho lươn xào miến, bò bóp thấu và lẩu cua."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nguyen Tien,4,"Nhiều món nhưng bọn mình chọn đặc sản lẩu cua trứng, thấy nấu ngon,  vị hơi ngọt.  Có món vả trộn mặn và giá hơi đắt. Nếu chỉ ăn thì bình quân ít nhất mỗi người 250k. Giá vậy cũng vừa phải. …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,U T,1,"K biết có phải thấy xách vali mà làm ăn lộm cộm k mà gọi nồi lẩu cua cua và tôm đều khô không tươi, có đĩa mực chiên tạm ổn k có gì đặc biệt"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hoang Dat Phan,2,"Quán nhậu mà thái độ phục vụ của chủ và các nhân viên rất kém. Tư vấn món ăn cũng rất qua loa, hời hợt. Tuy nhiên giá cả hợp lý và địa điểm tốt, dễ tìm."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hoang Son,2,Cua tươi ngon. Nhân viên ko có đồng phục đôi khi tưởng là khách ko dám kêu
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Chi Đỗ Phương,4,"Quán có không gian thoáng mát, sạch sẽ, món ăn ngon. Đặc biệt là món lẩu cua là món nổi tiếng của quán. Chế biến rất ngon, đậm đà, mùi vị hấp dẫn. Tuy nhiên, số lượng nhân viên ít nên phục vụ chưa kịp thời, chờ món lâu, muốn kêu thêm gì thì có chút khó khăn"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,VenusHuynh,4,"Mình có lẫu cua ngon, cua thịt 750k/1kg. Mình gọi 1 con 4.8kg + 2 bia. 390.000 VND. Hài lòng với giá. Tuy nhiên mình nghĩ mẫu có bột ngọt, bạn nào dị ứng bột ngọt nhớ dặn trc"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Tuan Le Minh,4,"Quán thức ăn ngon. Không gian ngồi thoải mái. Gia đình đi ăn hợp lý
+Gọi món cũng nhanh. Có điểm trừ là nhân viên chưa biết tư vấn các món ăn để khách chọn."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nguyen Thai,1,"Phục vụ rất thiếu chuyên nghiệp 5/10 hời hợt, đồ ăn không ngon,  cá mú làm k bỏ mang,  đồ ăn ở mức 5/10, giá cao so với tầm trung ở Huế. Đồ ăn k có gì đặc biệt"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,zin zin,1,"Đồ ăn ko ngon, phuc vụ rất kém. Nhân viên thiếu nhiệt tình. Gọi 3 lần mới mang đc mấy chai bia, lại phải gọi đá; bê được nồi lẩu cua ra nhưng thiếu đủ thứ, mỗi lần gọi mang 1 thứ, nhân viên ko quan sát, quán xuyến cv... ăn lẩu ko mang muôi …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Văn sơn Nguyễn,1,"Nhân viên phục vụ quá kém, khu du lịch mà phục vụ như vậy thì nên tránh xa,"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thang Chan Quyet,1,"Nghe nói rằng quán hải sản này ngon. Nhưng khi tới thì vô cùng thất vọng với thái độ của nhân viên nam phục vụ. Ăn nói khó chịu, cộc lốc, rất thô lỗ với khách hàng. …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Da Lam Van,3,Quán ăn bình dân.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,dụng lê,1,Phục vụ chậm và quá kém đồ ăn tạm được sẽ không quay lại nữa .
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Âu Hồng Hải,1,Tôi là người Miền Nam ra thăm Cố Đô. Buổi tối chúng tôi có kế hoạch thưởng thức ẩm thực Huế. Chúng tôi quyết định đến quán Bà Chanh. 8:32 P.M chúng tôi đến quán. Sau khi vào chờ 30 phút (đã gọi phục vụ) nhưng hỡi ơi về thái độ phục vụ có …
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Quan Nguyen,3,"Quán có nhiều món ngon, chỉ có đều là hơi mất vệ sinh, phòng vệ sinh thì rất  tệ. Giá cả ko quá đắt."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,pham tien,1,"Đồ ăn ko ngon như truyền miệng, quán rất mất vệ sinh và phục vụ chậm chạp, thái độ hách dịch"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,phuonganh lenguyen,3,"Khá đắt đỏ, nhưng lại ko ngon lắm. Ăn lẩu cua thịt+ dê tái chanh hết 900K. Cua ko tươi, thịt khá mền ko chắc"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Tien Dung Nguyen,5,"Quán nấu ngon, mà không hiểu sao điểm thấp."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Tuan Tran,2,"Quán Bà Chanh trước đây thì tuyệt vời, các món ăn ngon miệng , nhưng giờ đây thì xuống cấp... không biết lý do gì...?!?!"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Lưu Trần Sơn Tú,5,"Ngon, chu đáo. Mình phàn nàn về chất lượng cua (sọp) thì ngay lập tức quán đổi cua khác."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,"Tuan, Hoang Le Nhat",4,"Cua ngon, giác cả phải chăng, nhân viên nhiệt tình. Khá phù hợp cho ngày mùa đông bên ng thương."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,TÓC VIỆT QUỐC ANH,4,"Cua ăn ở quán luôn là ngon nhất,nếu muốn ăn cua hãy đến đây"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Huy Trần,5,"Quán ăn ngon, phục vụ tốt"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thuan Tran,5,"Quán bếp nấu rất ok ạ , mà hình như giá nó cũng đúng vs chất lượng nên chắc là k rẽ"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Vu Dang,1,"Quán vô văn hóa, từ nhân viên đến quản lý
+Bạn sẽ có 1 trải nghiệm Huế tồi tệ nếu lịch trình của bạn có ghé qua đây!"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Le Nguyen,5,Món ăn ngon mà rẻ. Đặc biệt monslaaux cua gạch rẻ không ngờ mà ngon tuyệt vời.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Tuan Anh Digitech,2,"Không ngon , nước lẩu mặn, cua vệ sinh không sạch."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,QA Fishing,3,Nhà vệ sinh quá tệ... Quán thì chật ko khí hơi ngột..
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Doan Manh Hung,2,Cua biển và tôm nên không phải hàng bình dân. Đồ ăn ổn. Nhưng nhân viên khá kém
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,tam tran,4,Quán ăn ngon nên đi ăn cùng gia đình vào những dịp cuoiis tuần hoặc lễ
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Luan Tran Duc,4,Thức ăn ngon. Điều hòa 4 cái/phòng lớn nhưng gần như không hoạt động. Phòng nóng.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thuan than dinh,4,Rất ngon giá cả hợp lý
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Châu Anh Nguyễn,5,"Cay quá, nên ăn các món về cua"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Huong Ly,5,"Lẩu cua ngon số 1, có điều lâu lâu mới ghé ăn vì đau ví lắm"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,canh nguyen,1,Ngày trước ăn bà chanh khá được. Giờ quay lại ăn thật không ăn nổi.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Kelvin Nguyễn,4,"Đồ ăn cực ngon
+Phục vụ hơi chậm chạp
+Vệ sinh tốt
+Giá thành hơi cao"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hoàng Kim Channel,3,"Lẩu cua ăn ngon, giá vừa phải vệ sinh chưa được sạch lắm"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Quang Thái,4,thức ăn ngon. mỗi tội chén đĩa rửa k sạch . còn bám  dầu  mỡ.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,MMoh Minh Ngô,5,"View đẹp, nhân viên thân thiện, có điều giá nước tăng so với các năm trước"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nguyen Hai,4,Cũng tạm ok
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,GIANG VŨ HOÀNG,3,Mải ăn quên cả chụp
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,hoang thai,2,"Món ăn k ngon, rau sống theo mực hấp tối 15.9 héo hết"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Trường Thành,4,Ăn được
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Le Do Quoc Linh,5,Ngon bổ rẻ
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Tú Đoàn,3,"Nhà hàng bình dân, thức ăn ngon, giá cả hợp lý"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Tuấn Ngoc,1,"Nhân viên phục vụ, thái độ k tốt, cụ thể quản lý năm tầm 30-40 tuổi."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Xuan Anh Nguyen,4,"Đông khách, phục vụ chậm, hải sản tươi ngon, giá phải chăng"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,SON THACH,3,"Cua k đc chắc, có con có mùi hơi khai, phục vụ k đc vui vẻ lắm. Giá ok."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thùy Linh Đinh,3,"Lẩu cua ngon
+Không gian rộng nhưng chưa sạch sẽ lắm"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,26. Minh Thư,2,"Quán phục vụ tệ , đồ ăn ko có gì đặc biệt"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hoàng Quân,4,Ngon vừa tiền .tuy nhân viên phục vụ ko tốt lắm
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Tin Phan,4,"Quán tồn tại lâu năm ở Huế, chỗ để ô tô hơi bất tiện."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,khoa dn,5,"Ngon nhất lẩu cua, quán sạch sẽ, rộng rãi"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,A Liệu BDS Phú Mỹ BRVT,4,Cũng ok phục vụ chưa bằng miền Nam
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Đặng Thanh Hùng,5,"Đồ ăn ngon, không gian thoáng, giá hợp lý"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nhan nguyen,3,Xôi ngon hơi khó tìm
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Linh Phạm,1,Tệ
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Holly Trần,3,"Cua ram me ngon, nghêu to, lẩu cá lát bình thường"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Pham Cong Thien,2,"Dạo này thức ăn dở quá, vệ sinh cần cải thiện nhiều."
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,my duyen le thi,1,Phục vụ chậm giá bán sau tết cao đắt.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nguyen Phi Hung,4,Đồ ăn ngon nhưng phục vụ hơi chậm
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Ngọc Phương Nguyễn,4,Quán ăn đồ hải sản tươi sống có tiếng ở Huế
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thanh Tống,5,"Rất ngon, phục vụ rất nhiệt tình"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,chuyen doan,5,"Đồ ăn ngon, giá cả ok,"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,nhân trần,5,Quán bà chanh có lẩu cua rất ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Naruto1999,4,Ở đó toàn các món rất ngon.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Mai Phùng,5,"Ngon, sạch sẽ, chủ quán xinh đẹp 👏 …"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Jacob,4,"Ngon, bổ, rẻ"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Tuấn Nguyễn,5,"Rộng rãi, ngon nhất là chình nướng, chình um"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Long Nguyen Hoang,3,Ăn cũng được nhưng không có nhiều món
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,456 User1234,1,"Đồ ăn ít lại đắt , thiếu quan sát"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thao Pham Le Ngoc,4,Đủ các thể loại... Nhưng giá rát...cho mùa Covid
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,hieu van thien,3,Làm đồ ăn quá chậm. Chất lượng bình thường
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Liêm Hoàng,3,Têta không có nhân viên nên phục vụ hơi chán
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,An Nhiên TV,4,Sạch sẽ thoáng mát là sự lựa chọn hàng đầu
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nguyễn Ngọc Thăng,3,"Món lẫu cua thật ngon, đậm đà"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Chương Thiên,3,Ngon! Mà đắt :D
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Phạm văn Thiên Hạ,5,Nhất bà chanh nhì duyên anh nếu ai đã từng đến huế
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,C Q,3,Hải sản là món chủ đạo tại đây
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Van Hoa75,4,Ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hoang Thanh Hang,5,Đồ ăn ngon và rẻ!
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Tran Thai,5,Lẩu cua ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Mai Anh Bui,4,Cua tươi phục vụ nhanh
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,phan xuan phuong,4,đồ ăn ổn giá hơi cao tí.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thinh Tran,2,Không ngon so với quảng cáo
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thiên Bảo Đinh,2,Đắt. K ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,do pandirus,4,Ngon thích nhất lẩu cua
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Lê Ngọc Thức,5,Lẩu cua ngon số 1
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Phúc HVR,4,"Hải sản tươi sống, đặc biệc là Cua"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Khánh Lê Đình,5,"Lẩu cua nhon, chất lượng"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Trân Huyền,3,Đồ ăn cũng khá ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Camera Smart View Huế,5,Ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thị Hiền Đinh,4,Các món ăn hai sản
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Clock Vn,1,quán đã đóng cửa
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Chế Pháp,2,Giá cao
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hồng Thiết Nguyễn,4,bún ngon lắm
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Vũ Võ Minh,5,Tuyet voi
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Hưu Ninh Bình Phước,4,Cua ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Home Smart,5,Khá nổi.
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Quảng-Bình Nguyễn,5,Lẫu cua rất ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,bui huu Thanh,4,Thức ăn ngon!
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,nguyen tuan,3,"Giá cao, ăn tạm"
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Thương Phạm Minh,5,Bình dân
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,tam duc tran ngoc,5,tuyệt với
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Lana Chu,4,Lẩu cua rất ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nam Trương,3,Đắt mà ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Nhat Ngo,3,Đồ ăn tạm được
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,An Võ Trọng,4,Nhà hàng nổi tiếng
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Doãn Hùng,5,Ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Văn Tài Nguyễn,5,Oke
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Quỳnh Anh Trương,5,Lầu cua chất lượng 👍👍👍 …
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Phước Hoàng,3,Lẫu cua ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Vinh Dương Vlogs,4,món ăn ngon
+GoogleMaps,0x3141a11435039471:0xe2943f1a277574c,Quán Ăn Bà Chanh,Quyenv Vuong,5,Cua ngon
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Quang Huy,5,"Quán có không gian cực kỳ đẹp, thoáng và rất chill, ngồi cả ngày không chán. Đồ uống ngon, pha chế vừa miệng. Không gian yên tĩnh, phù hợp để học tập và làm việc."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Vann Tu,5,"Quán yên tĩnh, nhạc nhẹ nhàng, cực hợp để ngồi học và làm việc. Điểm cộng lớn là các bạn nhân viên siêu dễ thương và nhiệt tình."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Thị Diệu Thảo Vương,5,Đã mê Thanh cafe từ rất lâu nhưng xa quá. Bây giờ có cơ sở 2 tại 04 Nguyễn hoàng mình có thể ghé thường xuyên để dành một chút thời gian để thưởng thức một món đồ uống ngon và thả hồn vào không gian thư giản… sống chậm cùng Thanh cafe
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Vũ Thanh Hằng,5,"Cafe ngon nước ngon không đợi quá lâu
+Không gian đẹp
+Nhân viên nhiệt tình nói chung ổn"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Quỳnh Như,5,"Đồ uống ngon, giá cả hợp lý. Không gian quán đẹp và ấm cúng. Nhân viên phục vụ nhanh và nhiệt tình."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Phat Truong,3,"No smoking! Khu rừng nào cũng cần cho Avatar hay ngôi nhà nào cũng cần có những lúc âm nhạc/(£) Như vậy, người Danang cần chỉ huy toàn tuyến AH01-95~120km/Satelite-WhiteWindowArHouse-VtnghiaArchitects"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Thuỷ Lưu,5,"Đồ uống ngon, nhân viên dễ thương thân thiện và phục vụ tốt lắm mn ạ 😍, không gian quán rấc rấc chill , MỌI NGƯỜI NÊN GHÉ THỬ TRẢI NGHIỆM Ạ. Hehe😍. Chúc quán Thanh cafe làm ăn phát đạt ạ. …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hơn Nhà Đất Huế,5,"Quán ở 97 Ngự Bình, gần đường Nguyễn Khoa Chiêm.
+Có sân để xe rộng rãi
+Không gian quán rất chill chill. …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Quốc Bảo,5,"Quán rất đẹp, nhân viên phục vụ dễ thương nhiệt tình chu đáo, cafe siêuuu ngonnn, WC luôn xịn xò sạch sẽ, không khí mát mẻ yên tĩnh và đặt biệt có hoa tươi để ngắmm rấtt đẹppp❤️❤️❤️"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Ly Trần Thị Mai,5,"Thức uống của quán ngon, giá thành hợp lý nhân viên vui vẻ thân thiện phục vụ nhiệt tình 10đ cho quán quá dễ thương. Sẽ quay lại thêm nhiều nhiều lần nữa😍😍😍😍 …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Minh khang Lê,5,"Cà phê muối rất ngon, mình đã mua một ít về làm quà.
+Nhân viên tinh tế, mình được che dù khi vừa cởi áo mưa ra. Vào quán, thấy khách bị mưa ướt liền đem khăn giấy. …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hà Thanhh,5,"Quán rộng thoáng mát, thức uống ngon giá cả phù hợp, nhân viên nhiệt tình, dễ thương, quán ruột của mình🥰 …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Phúc Đinh Quang,5,"Không gian không quá rộng nhưng đủ thoáng, bài trí khá ổn. Loại ghế gỗ không tựa hoặc có tựa không đệm sẽ không quá phù hợp để ngồi lâu. Món trà gạo uống thanh mát, khá ngon. Nhân viên dễ thương."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Thái Ngọc BùI,5,"Không gian đẹp, nhân viên dễ thương khỏi bàn. Đồ uống ngon, giá hợp lý. Recommend mọi người ghé nhé!"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,trần sơn,5,"không gian thoáng mát,đồ uống ngon nhân viên nhiệt tình, mới gạt chân chống là đã có nhân viên ra chào,dắt xe giúp khách quán view đẹp cứ phải gọi là hết nước chấm, wonderfull. Wc sạch sẽ, có cơ hội sẽ ghé quán amazing good job."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Bạch Dương,5,"Không gian quán thì tuyệt vời. Giá cả mức ổn, đồ uống thì uống ok nhưng chỉ cà phê rang xay Sài Gòn thì dở tệ 😀. Nhìn cốc cà phê rang xay Sài Gòn trông chán tệ…. …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Tài Lê Đức,5,"Quán có không gian rộng rãi thoáng mát, nhân viên phục vụ rất nhiệt tình, đồ uống rất ngon, wc siêu xịn xò sạch sẽ."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Nheo Nheo,5,"Bạn ghé Thanh Cf bao giờ chưa?
+Nếu chưa thì..lẹ lẹ ghé nha!
+Với các bạn thì mình không biết nhưng với mình và theo mình. Một quán cf ưng ý …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Bao Tran Ton,5,"Ánh mắt va vào quán khi đang đi dọc đường Ngự Bình vào buổi tối, vì quán mở đèn sáng quá
+Quán mang phong cách rất Hàn, từ cổng chào đến lớp gạch ngói phía trên …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Trần Phương Diễn,5,"Mình đi huế dừng ở đây nghỉ chân. Quán mát mẻ, nước ngon, giá oki. Có bạn nhân ziên dễ thương lắm á. 10 đỉm"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Dũng Nguyễn,5,"Đồ uống ngon, giá cả hợp lý, không gian đẹp, sạch sẽ"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Thi Minh Ly Nguyen,5,"Bài trí đẹp, đồ uống siêu ngon mà rẻ. Không khí tết ngập tràn !
+Nhân viên dễ thương ghê, vui vẻ, thân thiện lắm luôn.
+Không gian ni hạp với tất cả mọi người !"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hoàng Nguyên Lê Nguyễn,5,"Quán không gian đẹp, thoáng mát, sạch sẽ, nhân viên nhiệt tình, đồ uống ngon 10 điểm"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Thanh Son Nguyen,5,"Thức uống ngon, giá thành hợp lý. Anh chị chủ quán vui tính, nhân viên phục vụ dễ thương và nhiệt tình"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,GIA KIỆT ĐINH,5,"Quán cà phê ""làm sáng"" cả đường Ngự Bình về nghĩa đen lẫn nghĩa bóng. Từ phong cách, chỗ ngồi đến đồ uống đều rất chỉn chu. Giá cả thì quá sức ""ổn áp"" so với những gì nhận được, nếu ko muốn nói là khá rẻ trong thời cà phê bão giá và ""ngáo …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hiền Nguyễn,5,"Quán sạch đẹp, nvs sạch, nước ngon, nhạc hay, nhân viên phục vụ rất chu đáo (che ô cho khách), lần sau lại ghé quán tiếp"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hồng Ngọc,5,"Đồ uống ngon, mức giá ổn, không gian thoáng mát sạch sẽ và thường xuyên thay đổi🥰. Một nơi yêu thương khách hết mực bất kể trời nắng hay mưa. Các bạn nhân viên siêu nhiệt tình và dễ thương. Nói chung là 10 điểm không có nhưng💗
+Nên ghé Thanh Cafe một lần để có những trải nghiệm đáng nhớ nè🫶 …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Lethanhhai,4,"Quán khá chill với không gian mộc mạc, gọn gàng sạch sẽ
+Nhân viên nhiệt tình
+Decor khá đẹp"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Thị Nhông Đinh,5,"Quán sạch sẽ, đẹp để chill
+Thức uống ngon
+Giá phải chăng"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Trang Lê,5,Quán rất đẹp và phục vụ rất nhiệt tình 🤭🤭🤭 giá lại quá rẻ có view chụp ảnh và ngồi rất thoải mái …
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Lê Thị Trâm Nhi,5,"Quán dễ thương lắm, nhân viên phục vụ nhiệt tình và thân thiện. Nước pha rất ngon, sẽ quay lại nhiều lần! …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,thai nghi,5,"Quán ca phê sạch sẽ, đồ uống vị rất ngon giá cả vừa phải..."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Vân Trần Thu,5,Tết có ghé . Cafe muối ngon . Phục vụ tốt . Hôm mình đi mưa có mấy bán nhân viên hỗ trợ ra vào quán rất nhiệt tình
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Phan Hồ Thành Đạt (Embisu),5,"Thanh Cafe - Chiếc cafe ổn áp ở Ngự Bình
+
+Mới đến, mình khá ấn tượng với không gian quán. Quán có không gian ngồi rất …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Khoa Nhật,5,"Góc vườn mát mẻ, chỗ ngồi thoải mái, nhân viên đẹp trai siêu dễ thương.
+10 điểm nha ❤️"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Việt Quang,5,"Không gian kín , yên tĩnh với người hướng nội như mình , thức uống okila 9đ5 , mình sẽ ghé lại khi có dịp"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Lý ANH MINH,4,"Quán có nhiều món và kem. Nước uống chất lượng, đi vào cuối tuần nên hơi đông"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Trang Lê,5,"Mê nhất món kem bơ của quán, bơ và kem thơm lừng quyện vào nhau.. toẹt vời ạ. Bên cạnh đó menu của quán rất phong phú và hầu như món nào cũng ngon và đậm đà, giá cả phải chăng. Đặc biệt là view rất nhẹ nhàng chill chill, phục vụ nhiệt tình và ân cần, sạch sẽ. Nói chung xứng đáng vote 5* ạ"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,hd tran,5,"Thanh cafe không những quán cafe đẹp để checkin, thưởng thức ngon mà còn là một khu vườn mát mẻ thân thiện giữa lòng thành phố bạn nên ghé"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hà Nhật Duyên Nhi,5,"Quán biết lắng nghe ý kiến của khách hàng để ngày càng hoàn thiện hơn, chúc quán năm mới làm ăn phát đạt"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Phuong Tran,5,"Quán xinh,nhân viên dễ thương. Đồ uống ngon và rất rẻ"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Nhật Linh,5,"Khá thích. mát mẻ, có dắt xe dắt cho khách. Nước uống đc, ngon. Sẽ quay lại nếu có dịp.
+-> 1.1.2024 quán vẫn 100 điểm kh chê nha"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Anh Đức Hoàng,5,Mình tới quán này nhiều lần rồi. Không gian chill. Nhân viên nhiệt tình
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Thị Sen Bùi,5,"Mình ghé quán và thật sự rất hài lòng với trải nghiệm ở đây. Không gian quán thoáng, sạch và dễ chịu, ngồi vào là thấy thư giãn liền. Điều khiến mình thích nhất chính là thái độ của nhân viên. Các bạn cực kỳ dễ thương, chào hỏi lịch sự, nói …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,sơn trương quang,5,"Phục vụ thân thiện, pha chế rất ngon, không gian thể hiện được nhiều nét ấm áp , mình  vào lần đầu mà thấy  vô cùng ấn tượng. mọi người nên thể xem sao nhé."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,quyên nguyễn,5,"Quán dễ thương lắm, nhân viên phục vụ nhiệt tình và thân thiện. Nước pha rất ngon, sẽ quay lại nhiều lần!"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Phuc Tran,5,"Sân vườn thoáng đãng, trẻ em có thể vui chơi, cũng có không gian máy lạnh. Chỗ ngồi thoải mái, mát mẻ. Đặc biệt đồ uống đậm đà, cà phê muối rất ngon. Vote 10*"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Vũ Lê Quang,5,Chỉ 1 từ perfect !!! Nhân viên quá là dễ thươnggggg. Thức uống quá rẻ và 1 không gian thật chill
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Nguyen Linh (Hamilink),5,"Cafe muối rất ngon,giá rẻ,có kem cho trẻ con ăn cũng ngon"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Ngocha Ho,5,"Phục vụ tuyệt vời, nhân viên dễ thương và thân thiện. Nước ngon, trình bày đẹp nữa! …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Quý Nguyễn,5,"Không gian quán rất chill, giá hợp với sinh viên mình sẽ còn quay lại quán nhiều lần❤"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Rin Ngô,5,"Quán cà phê đẹp , đồ uống ngon , có điều hoà , nhân viên thân thiện vui vẻ"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Đặng đại hùng Phan,1,hôm nay mình tới quán cafe có mấy bạn nhân viên live ở tiktok và mình là nyc của 1 bạn ở quán mình lướt tiktok vô tình xem thấy và vào xem và bạn nhân viên nhận ra mình là nyc của bạn đó và nói các bạn nhân viên và các bạn nhân viên thái độ …
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Tam Tran Nhan,5,"Mình đã uống tại quán thanh không gian yên tĩnh, đồ uống ngon, phục tốt, thích hợp làm việc, học tập"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Gia Hiển Đinh Như,5,"Đã tìm thấy chân ái, nơi có thể đến mỗi ngày mà ko lo về giá, về chất và cả lượng !"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Trường Nguyễn,5,"Nhân viên chu đáo , nước ngon nha 10 điểm"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Châu Thị Thảo Nguyên,5,"Không gian đẹp, đồ uống ngon, phục vụ tốt"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Đat Phạm,5,"View đẹp , đồ uống tốt , nhân viên thân thiện , các bạn nên đến trải nghiệm"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Trần Thị Thanh Tuyền,5,quán rộng rãi thoải mái nhân viên phục vụ tận tình chu đáo sẽ quay lại nhiều lần nữa
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hien Hoang,5,"Nhân viên nhiệt tình, đồ uống okie ạ"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hue Phuong,4,"Đồ uống ngon, không gian ổn dù hơi chật vì nhiều bàn ghế. Nhưng chỗ đỗ xe ô tô hơi ít."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Xuân Hưng Nguyễn,5,"Cafe ngon, phục vụ nhiệt tình."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Lê Đình Lâm,5,Cà phê rất ngon. Nội thất của quán đẹp.
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Akdanpa,3,"Nay ghé trời mưa thì thấy đi ô tô không được bv che ô, mà đi xe máy thì được chào đón che ô, cf pha máy ngon"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Peter Phan,4,"Đồ uống ngon, phục vụ nhiệt tình."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Bob Beggi (BOBBY),5,"Phục vụ rất chu đáo, lịch sự, đồ uống khá ngon, không gian bài trí cũng được"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,H1DE,5,Món nước cà crush đậu khá ngon
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Đạt Phạm,4,"Không gian quán đẹp.
+Nhân viên phục vụ thân thiện.
+Đồ uống đa phần khá ngon 👌🏻 …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Mạnh Đức Phan,5,"Tiện đường ghé qua nhưng khá bất ngờ và hài lòng, không gian quán đẹp, bài trí chỉn chu, có nhiều hoa tươi trên mỗi bàn, đồ uống đậm đà, nhân viên cũng vui tươi thân thiện, và quan trọng là giá khá rẻ so với những gì mình nhận được. Quán …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Tuan Dang Van,5,"Cafe ngon chất lượng, không gian thoán, nhân viên phục vụ nhiệt tình. Ok"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Le Hoan,5,"Cafe Muối rất ngon, đậm vị. Chủ quán và nhân viên đều dễ thương."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hân Trương Đức,5,"Cafe muối ngon , thức uông rẻ , quán đẹp , nhân viên tận tâm"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Tiên Nguyễn Phạm Phượng,5,"Không gian quán đẹp, nhân viên rất nhiệt tình, tốt bụng, tinh tế, đồ uống rất ngon, mức giá hợp lí. Nên trải nghiệm!!"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Anh Quang Đào,5,"Một góc Chill ở 97 Ngự Bình. Thiết kế quán có 3 không gian riêng biệt. Một dành cho khách thích phong cách vỉa hè, ngắm phố; Một dành cho khách yêu âm nhạc nhẹ nhàng; Một góc khác dành cho khách thích yên tĩnh, cần làm việc hoặc cần bàn …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Bảo Nguyễn Thế,1,"nước tạm ổn,tuy nhiên giữ xe không dắt dùm khách nữ mà xe thì để sát rạt làm khách dắt mà đụng ống bô phỏng chân xèo xèo như miếng thịt bò luôn. Trải nghiệm lần đầu cũng như lần cuối"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Ngọc Trâm Nguyễn Thị,5,"Đồ uống ngon -rẻ, View đẹp, nhân viên phục vụ tốt"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,my kiều,5,"Menu đa dạng, giá cả ổn áp lắm nha. Cafe muối ngon lắmmmm luôn ạ. View đẹp: ngồi trong cũng có, ngồi ngoài để ngắm đường xá cũng có, cũng có sau vườn luôn. Đặc biệt, không gian sau vườn sống ảo thì nghìn ảnh đẹp nha. Nhân viên thân thiện, nhiệt tình quan tâm khách lắm :3 Đại thíchhh! Recommend mọi người đến quán để trải nghiệm ạ."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Huyền Phạm,5,"Đồ uống oke, giá ổn, nhân viên dễ thương nhiệt tình, đặc biệt là bạn trông xe, recommend mọi người nên đến quán này nhé 😍 …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Đình Văn Trịnh,5,"Quán có nhiều view đẹp, mang lại cảm giác ấm cúng. Thức uống đa dạng, chill với những bản nhạc nhẹ. Nhân việc cởi mở nhiệt tình. Quá tuyệt vờiiii!!!!"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Trọng Nghĩa Trần Phước,5,"Quán rất chill, đồ uống ngon, bổ và rẻ"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hung Phan Manh,1,Trong lúc gđ mình ngồi chơi uống cf thì có bạn nhân viên tới bảo mở điện thoại nhỏ tiếng....cảm thấy bực mình với thái độ nhân viên...mà trong lúc quán nch rất ồn và quán mở nhạc to...mà yêu cầu khách mở điện thoại nhỏ tiếng...từ đâu ra …
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Văn Hoàng,5,"Nhân viên nhiệt tình, thân thiện, vui tính."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Canh Huu,5,"Quán sạch sẽ. Đồ uống ngon giá phải chăng(10₫)
+Nv tận tình chu đáo !"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Michal Đặng “Hữu”,5,Thoáng mát sạch sẽ lịch sự yên tĩnh phục vụ nhiệt tình không gian rộng rãi.
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Emma Nguyen,5,Chị chủ và nhân viên rất dễ thương và thân thiện! Cà phê dừa muối cực ngon !
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Lê Hồng Tư,5,Một Huế trẻ trung và mến khách được truyền tải bởi những bạn trẻ.... Rất tuyệt
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hải Nam Lê Đức,5,"Nước ok , quán đẹp, mua về còn được voucher free 1 ly cafe nữa."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,James Vlad,5,"Không giận quán quá đẹp. Nhân viên nhiệt tình, thiện cảm!"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Uyên Nhi Hồ Thị,5,"Quán đẹp, nước siêu ngonn"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Khanh Đan,5,"Cf, xinh, đồ uống ngon"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Thanh Tin Nguyen,4,"Quán có vài thức uống lạ,ngon!"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Dũng Đoàn Minh,5,Rất ngon
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Đức Phan,5,không gian xinh lắm mn ơi iii
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Tuan Truong,5,Nhân viên tinh tế : )
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hung Nguyen,5,Quá xịn
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Tuân Trân,5,Nv nhiệt tính
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Quốc Thắng,5,"Quán đẹp, chill"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Tấn Hưng Hoàng,5,Được
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,scam tao,5,nhân viên vui vẻ thân thiện với tất cả mọi người
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Hai Nguyen Hong,5,"Khá ồn vào sáng sớm nhé (rất khá đông). Còn lại mọi thứ đều ổn, rất tốt. Nhân viên rất nhiệt tình, nước uống ngon. Không gian mát mẻ."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Madi Mireau,5,Rất đáng để ghé thăm!! Địa điểm vô cùng dễ thương. Khu vườn bên trong. Trang trí bằng gỗ tuyệt đẹp. Một trong những ly cà phê ngon nhất mà chúng tôi từng uống trong chuyến đi Việt Nam. Nhất định phải đến!!!
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,NIOlifer,5,Không gian cực kỳ thư giãn và một trong những ly espresso ngon nhất Huế! Tôi luôn đến đây để thư giãn sau những chuyến đi phượt bằng xe máy!
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,hary ryu,5,"Hôm nay trời tạnh mưa nên tôi lại đi xe máy ra ngoài. Đây là lần thứ năm tôi đến Huế, nhưng quán cà phê này vẫn là quán tôi thích nhất. Bàn ghế thoải mái và đồ uống giá cả rất phải chăng. Một ly cà phê sữa chỉ có 18k. Một số nhân viên nói được tiếng Anh và rất thân thiện. Tôi chắc chắn sẽ quay lại."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Jörg Schmid,5,"Một địa điểm lý tưởng để thư giãn. Chúng tôi đã thưởng thức những món cà phê đặc biệt thơm ngon, trà gừng thanh mát và nước ép chanh dây tươi mát. Nhân viên rất chu đáo và thân thiện. Chất lượng cà phê tuyệt vời. Chúng tôi chưa bao giờ được uống cà phê ngon đến vậy. Chúng tôi chắc chắn sẽ quay lại."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Ayaka,5,"Tôi tình cờ ghé qua quán cà phê này sau khi đi tham quan vào một ngày nóng nực, muốn uống một ly nước mát, và đó là sự lựa chọn hoàn hảo! Nội thất rất sạch sẽ, có Wi-Fi, và trông có vẻ như có thể dùng làm không gian làm việc. Nhân viên rất …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Mark Hoober,5,Cà phê ngon nhất Huế. Sân sau đúng là thiên đường trần gian.
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,iza hedstrom,5,Một quán rất ấm cúng với cà phê ngon và giá cả phải chăng! Chúng tôi đã thử cà phê kem và nó thực sự rất ngon!
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Jana Hoober,5,Quán cà phê đẹp. Nhân viên thân thiện. Tôi đã ở Việt Nam hai tuần rồi và đây là quán cà phê ngon nhất tôi từng uống!
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Mindy Hien Nguyen,5,Quán cà phê xinh xắn với phục vụ thân thiện. Đồ uống của chúng tôi rất ngon và được pha chế tốt. …
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Malte Lebermann,5,"Nơi yên tĩnh và mọi người ở đây cực kỳ chu đáo, một địa điểm bí mật để thư giãn, bầu không khí dễ chịu."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Pan,5,"Tôi đã gọi món sữa chua nha đam. Nó rất ngon và sảng khoái. Quán cũng rất đẹp, vì vậy tôi rất khuyên mọi người nên ghé thăm nếu đến Cung điện Andin!! …"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Fred Peyre,5,"Cà phê espresso tuyệt vời, nhân viên thân thiện, và rất nhiều khách hàng dễ mến. Nói chung, đây là một nơi tuyệt vời để thưởng thức một tách cà phê và các loại đồ uống khác. Tôi thực sự rất thích!!!"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Jet Hessing,5,Đây là cà phê ngon nhất mà chúng tôi từng uống ở Việt Nam và quán cũng rất dễ thương!
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Đình Thông Trần,5,"Giá cả rất hợp lý
+Đồ uống ngon
+Không gian mát mẻ và thư giãn"
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Artem Panin,5,"Tôi rất thích không gian và đồ uống ở đây, dịch vụ cũng hoàn hảo."
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,KI KI,5,Anh ta
+GoogleMaps,0x3141a1196615d305:0xf17b5c95a29767dc,Thanh Cafe,Halsey Liao,5,👍👍👍👍👍👍👍 …
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Trung Nguyen,3,"Cách đây 3 năm mình có ghé ăn thì quán có nhiều món đa dạng hơn so với lần này mình ghé.
+Vẫn khuôn viên rộng rãi như trước, đậu xe ô tô ngoài đầu hẻm rồi đi bộ vào quán. …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Bamboo Studio,4,"Đã quay trở lại quán lần thứ 2, mọi thứ rất ok. Giá cả phải chăng rất nhiều
+Đây là khu tổ hợp nên cũng có cà phê và trà sữa, không gian thoáng. Có chơi nhạc vào cuối tuần. …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Tracy Phan,4,"Khách sạn 2 sao, cũng gần trung tâm. Dịch vụ tiện nghi cơ bản có, có máy sấy tóc, thang máy. Không có ăn sáng trong giá phòng. Phòng sạch sẽ."
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Chan Vivi,3,"Mình là khách du lịch, đến Tự Do được 3 lần đều rất hài lòng và giới thiệu bạn bè đi. Những lần trước đều rất tuyệt vời, nhân viên dễ thương, chu đáo, không khí cũng hay ho. Vậy mà lần trở lại đây lại rất thất vọng. Mình đi vào dịp 20/10, …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Anh Tuấn Hoàng,5,"Một không gian mở, đang trong quá trình khởi động lại. Hy vọng sẽ tiếp tục phát triển"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,ha phước,5,"Đây là một quán nhậu bình dân. Nằm ngay trung tâm của thĩ xã hương trà Huế. Thuận tiện cho bạn có bãi đỗ xe an toàn. Nhưng món ăn rất phong phú từ hải sãn tươi sống đến các món khác. Như gỏi salad, đồ chien xào hay đồ nấu. Tối đã rất nhiều …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Dung Nô,5,"Mình đi cũng khá lâu rồi, hội chợ diễn ra với nhiều gian hàng thích lắm"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,KIỆT TRƯƠNG,5,"Đọc các bài đánh giá mình tưởng ko tốt, hnay mình tới trải nghiệm ,nhìn chung món ăn ngon ( rất ngon) hoặc là do hợp khẩu vị mình. Nhân viên tiếp khách cũng rất nhiệt tình và dthw, Tóm lại nên tới trải nghiệm 1 lần. Tai ngh ko bằng mắt thấy nhé"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Computer Hiếu “Hiếu Computer”,5,"Quán có các món đặc trưng của Huế, siêu cay và siêu ngon!
+Hợp để bạn bè lai rai. Trẻ em có khu quậy riêng và có quán trà sữa bên cạnh."
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Hanh Nguyen Hoang,5,"Tổ hợp các cửa hàng, nhà hàng và quán cà phê. Các cửa hàng ở đây đa số là của các local artist. Nhà hàng chủ yếu bán thức uống kèm các món nhậu, có khu vực quầy bar. Quán cà phê thì thuộc chuỗi Hotto Takoyaki, chuỗi quán cà phê khá nổi tiếng ở Huế. Cá nhân mình thích các không gian mở như thế này."
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Nga Tran,5,"lướt tiktok thấy quán , tới quán vào dịp cuối tuần, nên khá đông nhưng nhân viên rất take care khách nha, nên thử các loại bia thủ công nè , hợp miệng"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Binn Bin,5,"Quán vip bờ rồ có nhân viên cute dthw nên tới vì
+nhân viên rất chiềuuu kháchh"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Phan Hồ Thành Đạt (Embisu),5,"Tự do District
+
+Một không gian quán nhậu tích hợp với buôn bán áo quần khá lạ. Mình từng thấy …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,nguyên kha lê,4,"Quán là khu tổ hợp cafe, quán nhậu, và trưng bày sản phẩm bla bla. Mặt bằng quán rộng, nhiều góc rất đẹp và đa dạng phong cách. Không gian quán cafe có đầu tư với các bức tranh của Van Gogh, thiết kế vật thể và ánh sáng đẹp. …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,hb hien,5,"Không gian rộng rãi, thoáng mát, nhân viên nhiệt tình, nhanh nhẹn. Có các shop nhỏ handmade xung quanh cũng khá hay. Món ăn đa dạng."
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Nhật Trần Kim,3,"Cần cải thiện hơn phong cách phục vụ, thông tin chưa rõ ràng"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Dung Pham,4,"Nằm trong hẻm nhưng không gian cũng khá rộng, sạch sẽ. Có bàn trên lầu nhà nhưng mình thấy ngồi ở dưới vui hơn.
+Hát với ban nhạc 20-22h. …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Xuan Thao Hoang,2,"Bữa ăn rất tệ, hay có thể nói là kinh khủng.
+
+Không gian dễ thương, nên google và tìm đến trải nghiệm ăn tối cùng nhau. …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Yến Nguyễn Phúc Hoàng,5,"Quán ok, ko hiểu sao bị spam 1 sao. Mình đánh giá lại nha"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Rabeca,4,"Trải nghiệm cũng thú vị nhẹ, thức uống cũng dễ thưởng thức, không gian dễ chịu. Nhưng nếu nói 100% thích thú thì chưa..."
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,0047_Mai Trần Tiến,5,"Không gian chill thích hợp học bài và chạy dealine, nước ngon"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,MAI DUY LONG,5,"Quán cho gửi xe, sáng ra đến lấy đã thấy quán dắt vào trong cho khách rồi. đồ ăn ngon. nên ghé mn nha"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Nguyên Vũ Lưu,5,"Thức ăn ngon, nhân viên nhiệt tình, vui vẻ, không gian độc đáo, thoáng mát."
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Bình Minh Nguyễn,4,Đồ ăn cũng ok đều hơi đắt xíu
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,depgai ka,5,"Sáng nay mình ghé tự do, ở đây có bán cà phê sáng, có bạn nhân viên làm bánh dễ thương"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Thái Thị Ngân,2,"Món ăn không ngon. Dịch vụ tệ.
+Nhân viên lo làm việc của nhân viên, không care khách mình đợi mãi mới gọi được. …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Đức Nghĩa Hoàng Xuân,5,"Tuyệt vời, rcm đi vào thứ 7 có show nhạc"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Lâm Quang,5,Quán view đẹp' nhân viên dễ thương
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,An Tran,1,"quán phục vụ tệ, gọi món hơn 1 tiếng không ra món, ra món tré trộn thì quá mặn, đi 5 người đem 4 đôi đũa, lần đầu cũng như lần cuối"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Zareth Halcyon,5,"view đẹp, nhạc hay, món ngon❤️"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Trần Hương Giang,5,"Không gian thoáng đãng, thiết kế dạng tổ hợp có cafe. Thực đơn đầy đủ món ăn đa dạng, đầy đủ các cách chế biến. Nhân viên tư vấn nhiệt tình. Là nơi thích hợp cho các cuộc hẹn với bạn bè"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Nguyên Trần,3,"Mình vừa ngồi tại quán tối qua. không gian thoáng và mới lạ vi có tích hợp cả trà sữa lẫn bán áo dài ... đồ ăn tướng đối được . Duy nhât điểm mình không thích là quán đưa vào loại bia địa phương "" Đông ba market "" gì đó .Mình có uống thử vì …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Sakura,1,Đồ ăn dở tệ mà còn đắt
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Lê Thị Kim Hoa 31-,5,"Rất tuyệt nha, +1 quán guộc"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Dạ Hương 25. Nguyễn Ngọc,5,Đồ uống món ăn ngon
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Pham Nga,1,"Đợi món quá lâu, gọi một món phải đến 5, 6 lần. Ko nên đến thử"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,tu ntc,1,"Kêu  2 cái lẩu , 1 tiếng chưa có , hỏi báo lại 15’ nữa xong , báo huỷ thì huỷ được chứng tỏ chưa làm , khách thì không đến nổi đông"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Đức Sĩ,5,"Đồ ăn ngon, rẻ, nhân viên phục vụ nhiệt tình. Không gian quán khá chill, phù hợp cho cả sinh viên và gia đình"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Em Rin,5,"Quán chill, đồ ăn ngon"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Tài Nguyễn Phúc,5,Nhân viên trong quán cf đẹp trai
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Phan Ngọc Tú,5,"Đồ ăn tuyệt vời , không khí ca nhạc rộn ràng vui zẻ , nhân viên thái độ dễ thương, chu đáo , gọn gàng"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Tuấn Phan,1,"Mình nghĩ nhà hàng nên train lại nhân viên phục vụ thì khá kém không care khách hay gì cả, gọi 4 5 lượt mới để ý tới khách . đồ ăn thì mình thấy  khá ngon nhưng mà phần chăm sóc khách hàng thì mình nhà hàng hơi kém."
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,England Mr,1,"Quá tệ. đồ ăn tệ, nhân viên và chủ quán không hiếu khách lắm, quán bẩn.. nói chung không đến lân thứ 2"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Phi Nguyễn Trung,5,"Nhân viên thân thiện sai đẹp chiêu ( nhân viên nam), quá xai gính( nhân viên nữ)
+Mỗi ngày e đều đến hotto uống nước để mong tìm được real love của đời mình"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Vy Yến,5,Đồ ăn rất ngon nhân viên rất nhiệt tình chu đáo không gian mở nên rất thoáng mát thoải mái
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Mình nhật Hoàng,1,"Món lên quá chậm 1 tiếng vẫn chưa thấy, nhân viên ra hỏi lại món vì có vấn đề, mới 7h30 còn sớm mà menu hết món nhanh. Tệ"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Tài Phúc,5,"Ở trong hẻm mà không gian rộng rãi thoáng mát, có nhạc xập xình quá xá phê"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Phan Diễm Quỳnh,5,"Đồ uống rất hợp khẩu vị, nhân viên nhiệt tình vui vẻ lắm ạ, đồ ăn ngon nhé"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Bình Nguyễn Văn Thái,5,"Mồi ra tốc độ, nhạc chill nhẹ nhẹ."
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Huyền Trân,1,"kêu món mà hối 5 lần, đợi 1 tiếng hơn mà ko ai phản ứng gì cả"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Hòa Nguyễn,5,"Đồ ăn tạm được, do đi ngày tết nên phụ thu 20% thấy hơi mắc. Đồ ăn cũng ra lâu chắc do lễ tết"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Công Nguyên Nguyễn,5,"Không gian rộng rãi, thoáng mát, đồ ăn ngon, nhận viên nhiệt tình, thân thiện"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Duy Kiên Nguyễn,5,"Đồ uống ngon, nhân viên phục vụ nhiệt tình, đáng thử"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Phát Trần,5,"trải nghiệm ở đây rất tốt, đồ ăn ngon chăm sóc khách hàng tận tâm"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Trang Diệp Đinh Thị,1,"Tệ, món thì ít mà giá thì đắt"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Thành Trường,1,"Thái độ của chủ lôm côm, tư duy tiểu thương bày đặt tỏ vẻ doanh nghiệp:))))"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Vũ Hoàng Tuấn,5,đồ ăn ngon nhạc hay nha mng!
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Nam Bảo,1,Đi ăn một lần mà không dám đi lần thứ 2
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Út Nguyễn,5,"Quán Đẹp, Dịch Vụ Tốt, chắc chắn sẽ đến lầm nữa"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Tấn toàn Nguyễn,5,Nhân viên nhiệt tình chu đáo với khách
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,_cngtn,2,Đã đặt bang trước nhưng lên món cực kỳ lâu.
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Ba Hoang,5,"Quán ăn ngon, rẻ, khung cảnh đẹp, rất đáng để ghé!"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Zareth Halcyon,5,quán dễ thương chắc chắn sẽ quay lại
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Trần Anh Thy,5,"Thức ăn ngon, bia mát, nhân viên thân thiện"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Tài Phúc,5,Chưa gì đập vào mắt bạn nhân viên quá thân thiện dễ thương
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Foolish Persu,5,"nhân viên thân thiện, món ngon"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Quảng-Bình Nguyễn,3,"Tự do mà không tự do, bảo ngồi chơi thoả mái, chỉ đóng bếp nhưng 11h30 đóng cửa rồi"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Thủy thủ mặt mâm,5,"Đồ ăn ngon, không gian chill chill, thoả mái"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Võ Deim Thị,1,Đồ ăn mất vệ sinh
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,HẰNG N,4,"Tự do mà uống.
+Uống an toàn
+Không khí rạo rực. …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,lộc Nguyễn hữu tấn,5,Em toàn làm rất tốt phụ vụ rất chu đáo
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Trọng Đăng,5,"đồ ăn ngon, giá cả phải chăng"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Đinh Tường Huân,5,"Đồ ăn tạm dc , không gian ổn"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,thanh phong lê ngọc,5,"Mồi bén, bia mát lạnh, không khí vui vẻ"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Dũng Nguyễn,5,"Tốt, phục vụ tốt cafe ngon"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Hoangg Huyy,5,"Nước uống
+ngon view đẹp"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Duy Thức Đặng,5,"Bia ngon quá trời , quá đất🤭 …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Trương Công Đạt,5,Nhân vien giới thiệu nhiệt tình
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Tran Hoang,5,Bia ngon
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Minh Nguyễn,5,Tuyệt vời
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Uyên Nguyễn,5,"Chắc chắn sẽ đến lần nữa,"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Lê Minh Trí k53 DL2,1,Chất lượng phục vụ không tốt
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Bảo Lương Viết,5,Nhân viên nhiệt tình
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Tuan Cao,1,Quá ít ỏi và đắt
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Bảo Trần,5,bạn giữ xe thân thiện
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Ly Ly,5,Bia ngon
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,tuan le,5,Tốt ngon
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Lê Bá Thuỳ Châu,5,10đ không có nhưng
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Nguyễn Thị Thùy Trinh,5,Đồ uống oke ạ
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,trần thị phương nhi,5,tuyệt 🩷 …
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Nhung Nguyễn,5,Bia ngon
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Trường Nam Lê,5,tốt
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Dat Nguyen,4,Vibe tuyệt vời!
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Trang Khánh,5,NHÂN VIÊN TỐT
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Phạm Trần Thanh Phương,5,Bia ngon
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Dương Ngọc Tài,1,"Trải nghiệm tồi tệ, phục vụ chậm, gọi món k có, oder đồ từ bên ngoài về, gần 1 tiếng đồng hồ chưa ra món. Khuyến cáo mọi người k nên chọn khi đến Huế"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Jakub Železný,5,"Một quán rượu rất địa phương. Chúng tôi là những du khách duy nhất ở đó. Người quản lý ngay lập tức mời chúng tôi đến xem một buổi biểu diễn dự kiến ​​diễn ra vào ngày hôm sau, nhưng tôi đã phải rời Huế rồi, nên có lẽ tôi sẽ quay lại đây …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Nghĩa Bùi,5,"Tôi đã đến đây với bạn bè vào cuối tuần. Đây là một nhà hàng rộng rãi, thoáng đãng, phù hợp cho nhóm đông người hoặc gia đình. Đồ ăn không thực sự xuất sắc, có món ngon, có món bình thường nhưng nhìn chung là ổn. Món ăn được chế biến rất …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Xi Nguyen,5,"Có nhạc sống vào mỗi thứ Bảy.
+
+Đồ ăn ngon. …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Hieu Ngvan,3,"Tôi rất thất vọng về dịch vụ khách hàng của họ, họ không nói rõ với tôi về các chương trình khuyến mãi khi tôi đặt bàn tại nhà hàng của họ. Trên trang Facebook của họ, họ có 3 chương trình khuyến mãi và tôi nghĩ rằng mình sẽ được hưởng tất …"
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Fern Xtwo,5,"Địa điểm tốt để thưởng thức đồ ăn/bia địa phương. Không gian khá đẹp, nhiều chỗ ngồi ngoài trời. Đồ ăn ngon và giá cả hợp lý. Tôi đã đến đây hai lần rồi nhưng chắc chắn sẽ quay lại."
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,kosuke onishi,5,Một cửa hàng nơi bạn có thể thưởng thức bia thủ công.
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Calantha Yedda,1,Tệ quá!!!
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Quan Dien,5,Quá nhiều
+GoogleMaps,0x3141a14913d948c1:0x3e9f5c6ccd8ba435,Tự Do District,Quang Khoa,5,Đồ ăn rất ngon
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Thachphan,5,"Một địa điểm rất đáng để ghé thử. Trà ở đây có nhiều loại để lựa chọn, hương vị thơm ngon, uống khá thanh và chất lượng🙆‍♀️
+Đặc biệt nhân viên rất nhiệt tình, thân thiện và tư vấn kỹ nên chọn trà cũng dễ …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Tuấn Anh Trương,5,Không gian thoải mái. Được chị chủ tư vấn và thử trà ngay tại chỗ. Trà ngon. Rất phù hợp để làm quà biếu. 👍👍 …
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Quang Đào Đỗ,5,"Trà Việt- A truly memorable and fascinating tea experience at Trà Việt Huế. What made it even more special was the host’s deep knowledge and passion for Vietnamese tea, sharing stories and insights that helped us appreciate the rich tea …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Do Pham Mai Thanh,5,"Buổi tối loanh quanh Huế thèm trà quá, thật may mắn tình cờ thấy cửa hàng Trà Việt.
+Lại là ngày đầu tiên cửa hàng mở, Yến Nhi vô cùng dễ thương là đồng hương, thêm …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,An Triệu Thành,5,"Chị chủ là 1 người rất am hiểu về trà, tư vấn rất nhiệt tình. Dịch vụ tất là tốt. 10₫₫₫"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,My My,5,🍵 Trà ngon – Không gian đẹp – Phục vụ tận tâm. Chúc Trà Việt luôn đông khách! 🌿 …
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Thảo Châu Trương Hoàng,5,"Trà thơm, ngon, đóng gói đẹp và nhân viên thân thiện"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Mỹ Duyên,5,"Tư vấn dịch vụ tốt, phù hợp loại trà cho người biếu tặng. Nên tới thử nhé mn"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Tố Nga Phan,5,"Trà ngon, nhân viên dễ thương nhiệt tình
+Mình rất thích mua để làm quà"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Phuong Thu Vinh Thi,5,"Trải nghiệm tuyệt vời. Chủ và nhân viên đều rất dễ thương, nhiệt tình. Được trải nghiệm trà miễn phí và nghe kể chuyện rất hay, tìm hiểu được nhiều kiến thức"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nguyễn Hoàng Phương Nhi,5,"Trải nghiệm rất chạm. Đến Huế mình sẽ quay lại đây, chắc chắn bạn sẽ nhận được hơn những gì bạn mong đợi"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nhiem Le,5,"Trà ngon, được trải nghiệm đủ các loại trà, không gian sang trọng, phục vụ tận tình, chu đáo"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Titus Nguyen,5,"Không gian trà sang trọng
+Trà Việt ngon"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Minh Nguyễn Hữu,5,"Trà Việt dành cho người Việt, các bạn tư vấn rất nhiệt tình, giới thiệu đầy đủ về các loại trà, giúp mình hiểu thêm về trà."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,kytrung hohuu,5,"không gian ấm cúng chữa lành mọi nỗi đau, nhân viên dễ thương và nhiệt tình, trà để lại hương vị tuyệt vời."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Bùi Xuân Dũng,5,"Nhiều loại trà đa dạng và chất lượng tốt. Đóng gói đẹp, cẩn thận. Nhân viên tư vấn nhiệt tình, dịch vụ chăm sóc khách hàng tốt"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Như Quỳnh Huỳnh,5,"Trà ngon , view đẹp nhân viên nhiệt tình"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Dong Doan,5,Trà ngon và chị chủ dễ thương lắm ạ
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nguyen Van Tien Dung,5,"Nhân viên tư vấn nhiệt tình, thưởng trà miễn phí, trà thơm"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nhan Thuan Tran,5,"Cảm giác thoải mái và thư thái, thoải mái, phục vụ tận tình chu đáo"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Thoa Nguyen,5,Tiệm đẹp và trà ngon lắm ạ
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nhat Vu Tu,5,"Một trải nghiệm hiếm có khi về với cố đô Huế: được tìm hiểu về lịch sử nước Việt, được trải nghiệm và học hỏi thêm nhiều kiến thức về trà từ một người có chuyên môn như Linh. Hy vọng TRÀ VIỆT được lan toả rộng rãi, cả trong nước lẫn quốc …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,nguyễn hương,5,Sản phẩm ở đây rất tốt và đẹp mình rất thích
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,thông trần duy,5,Rất đáng thử khi
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Thị Khánh Linh Lê,5,"Không gian thưởng trà rất ấn tượng, nhân viên hướng dẫn tận tình, hiểu sâu vầ các loại trà, Ms. Venus làm tôi ấn tượng bởi kinh nghiệm của cô ấy, rất nên thử ghé quán và trải nghiệm"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nhật Nguyễn,5,"Bạn nhân viên ca tối nhiệt tình, trà hợp khẩu vị của mình, sẽ ủng hộ lâu dài."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Đình Anh Lê,5,Trải nghiệm rất tốt nhân viên tư vấn nhiệt tình
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Uyển Nhi Trương Bảo,5,"Ở đây có rất nhiều trà, có nhiều loại để thử. Nhân viên Uyên rất chu đáo, nhiệt tình, giới thiệu và pha trà để khách có những trải nghiệm thú vị"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Minh Khôi Phạm Nguyễn,5,"Nhân viên siêu thân thiện , không gian sạch sẽ , rất hơm , cảm thấy rất hình yên"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Đăng Nghĩa Nguyễn,5,Trải nghiệm thú vị. Nhân viên nhiệt tình. Trà ngon. 1 địa chỉ tốt để thưởng thức trà trước khi mua để dùng hoặc làm quà tặng.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Anh Hong,5,"Quá tuyệt vời. Trải niệm thú vị, đáng để tới tham quan"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Da Nguyễn Thị Quỳnh,5,"Trà sen từ thiên nhiên, hương thơm dịu nhẹ, mang lại cảm giác thư giãn và dễ chịu. Một trải nghiệm tuyệt vời mà bạn nhất định nên thử! 🍵 …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Do Thi Thanh Mai,5,"Vị trà ngon, đậm đà, nhân viên thân thiện chuyên nghiệp. Không gian nội thất thưởng trà ấm cúng thuần Việt. Khi thưởng trà ngắm khung cảnh Hoàng Thành thơ mộng lãng mạn. Một địa điểm nên trải nghiệm khi đến thăm xứ Huế. 💜🌿 …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Quang Duong,5,"Trà ngon , đa dạng , không gian rộng rãi , sạch sẽ ."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Phạm Julia,5,Không gian ấn tượng. Có nhiều loại trà đặc biệt. Đáng thử.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Phuong Phan,5,"Thông qua nghệ nhân trình bày và trãi nghiệm tại chỗ cho khách hiểu thêm về văn hoá Trà Vietnam, đặc biệt là trà Sen Huế. Rất đặc sắc và chuyên nghiệp"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Hải Cao Chí,5,"Thật tuyệt vời, con gái bán trà am hiểu rất sâu sắc về văn hóa trà! Mong gặp lại.Mr LuTa"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,bida Thiện Châu,5,"Nhân viên phục vụ nhiệt tình, sản phẩm đóng gói đẹp. Được thưởng thức test tại chỗ nhiều vị."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Xuan Tuan Hung Ho,5,"Không gian thoải mái, nhân viên quán tư vấn nhiệt tình."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Hoi An Car Transfer,5,Rất ok sẽ ghé lại lần tiếp theo
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Shinee needale,5,Trà ngon nhân viên nhiệt tình chu đáo
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Trúc Vân Phan Thị,5,"Trà ngon, nhân viên nhiệt tình, không gian ok"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Hai Nguyen,5,"Không gian tuyệt vời, tư vấn và phục vụ nhiệt tình. Sẽ ghé lại"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,le an khanh,5,"Trà ngon, nhân viên nhiệt tình"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Huu Tai Pham,5,"không gian sang trọng
+nhân viên tinh tế
+chủ quán dễ thương"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Linh Lê Diệu,5,Trà thơm lắm
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Linh Hoàng,5,Rất thú vị
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Tử Đằng,5,"Trà ngon, trải nghiệm tuyệt vời. Kiến thức bổ ích về trà. Nên trải nghiệm"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Trâm Ngọc,5,"May mắn khi được tham dự buổi wordshop, 1 trải nghiệm hữu ích, cảm ơn các anh chị nhiều"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nga Nguyễn,5,"We already had perfect experiences with Tra Viet Huế.
+Tuyệt vời! 🥰 …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Hợp Nguyễn,5,Chất lượng số 1
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Thị Ngọc Khanh Phạm,5,Chất lượng tốt
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Tnk Dtt,5,Sản phẩm tốt chất lượng
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Cơm Niêu Khải Hoàn,5,"Nhân viên thân thiện, nhiệt tình. Không gian sang trọng. Trà thanh, thơm. Đáng để quay lại lần tới"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Tánh Chơn,5,"Chị chủ tiệm dễ thương, trà rất ngon"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Tran Mai thuy,5,"Trà ngon, quán đẹp sạch sẽ, nhân viên nhiệt tình. Một điểm đến nơi bạn có thể tìm hiểu thêm nhiều về “ Trà Việt”."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Tera Pham,5,Rất tuyệt vời
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,phú lê,5,"Trà ngon , giá cả hợp lý"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Hongminh Pham,5,"Cửa hàng đẹp, nhân viên lịch sự, trà thơm và nhiều sự lựa chọn, mình rất thích design ở đây, đã mua 1 hộp trà về tặng bố mẹ"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,N Uyen,5,Chủ quán với nv đáng iu vô cùng tận
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Ngô Quốc Cường,5,"Nhân viên thân thiện, tư vấn nhiệt tình"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Hoàng Văn Phước 18L3191021,5,"⭐⭐⭐⭐⭐
+
+Một trải nghiệm rất dễ chịu khi ghé quán trà Việt ở Huế. Không gian mang nét …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Len Trương,5,"Trà ngon, không gian đẹp,
+Must try"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Thùy Dương Cao,5,"Em rất vui khi được tham gia Tea Show tổ chức bởi Trà Việt và Huetalk. Một buổi chiều mưa Huế thưởng thức trà ấm thật tuyệt vời. Em ấn tượng với câu chuyện 23 năm của Trà Việt. Tuy là người Huế, nhưng đây là lần đầu tiên em được uống trà …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nhân Bùi Nguyễn Thành,5,"Không gian: Đẹp, Chữa lành
+Nhân viên: Nhiệt tình, Chu đáo
+Trà: Hương vị đặc sắc, chuẩn vị trà"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Yến Nguyễn,5,Nhân viên nhiệt tình và trải nghiệm thưởng thức trà ở đây rất tuyệt vời
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Lan Huong Le,5,"Trà ngon thơm, nv ngoan"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Hồng Nhung,5,"Trải nghiệm vô cùng tuyệt vời. Chị chủ và nhân viên siêu tận tình, dễ thương cho mình thử rất nhiều loại trà ngon, thú vị và rất nhiều điều hay về trà mà trước đây mình chưa từng biết. Tuyệt vờiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii 🤩 …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Minh Nguyen,5,"Trà rất thơm. Em bán hàng rất tận tình hướng dẫn chi tiết về cách thưởng trà và pha trà. Ở đây có hai dòng chính là trà hương liệu và trà thảo mộc.
+Trà hương liệu thì thơm và dễ ngủ. Trà thảo mộc giống trà thái nguyên …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Huong Cam,5,"Cửa hàng bài trí hiện đại và rất đẹp. Nhân viên nhiệt tình. Có nhiều sản phẩm để lựa chọn từ trà thảo mộc, trà truyền thống cùng với các kiểu cách đóng gói sang trọng, rất thích hợp làm quà tặng."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Đạo Nguyễn Đình Minh,5,"Trải nghiệm rất tốt trà rất ngon nhân viên nhiệt tình .
+Sẽ gthiu bạn bè trải nghiệm"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Thị Thu Hằng Vương,5,"Một không gian Trà Việt giữa lòng Đại Nội Huế — nơi lưu giữ những giá trị văn hóa của trà, tôn vinh vẻ đẹp của trà Việt và kể lại những câu chuyện về trà qua từng giai đoạn lịch sử."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Long Tô,5,"10 điểm không có nhưng , trà rất ngon và chị pha trà siêu ngon và rất nhiệt tình ❤️❤️❤️"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Bình Nguyễn,5,Tuyệt vời
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,bao ngan duong,5,"Trà thơm, cô chủ dễ thương thân thiện"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Thư Nguyễn,5,"Dịch vụ tốt, nhân viên tuq vấn nhiệt tình"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Misuu,5,"Không nghĩ rằng ở Huế có nơi trải nghiệm quá trời hay ho, thử mệt nghỉ luôn. Nhân viên thân thiện siêu dễ thương, chị Venus siêu nhiệt tình và giải thích cho khách hàng"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Bn Hj,5,"Trà ngon, nhân viên dễ thương"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Chithanh Lê,5,Nhân viên tư vấn nhiệt tình. Trà ngon.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Khoa Huỳnh Đăng,5,"Trải nghiệm uống trà và biết được nhiều thứ hơn về trà ở Việt Nam, một trải nghiệm khá thú vị"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Anh Duy Tôn,5,Nhân viên Yến Nhi rất nhiệt tình và phong thái chuyên nghiệp.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Linh Phan,5,"Trà thơm, bạn nhân viên tư vấn nhiệt tình & đc thử trà trước khi mua"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Vu Hoai,5,"Quán trà xinh xắn với không gian yên tĩnh và ấm cúng. Nhân viên thân thiện và vui vẻ tư vấn các loại trà phù hợp với sở thích của tôi. Trà tươi, êm dịu và đậm đà hương vị. Tôi cũng rất thích bao bì đẹp mắt – rất thích hợp làm quà tặng. Nếu bạn đang ở Huế và thích uống trà, nhất định phải ghé thăm nơi này!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nora Kamp,5,"Tình cờ chúng tôi đi ngang qua địa điểm quyến rũ này và ngay lập tức được chào đón nồng nhiệt! ☕✨ Chúng tôi có cơ hội nếm thử một vài loại trà tuyệt vời, mỗi loại đều có hương vị độc đáo riêng. Cuối cùng, chúng tôi không thể cưỡng lại việc …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Louise,5,"Chúng tôi đã có một khoảng thời gian tuyệt vời tại Trà Việt! Nhân viên rất tốt bụng và thân thiện. Tôi chưa bao giờ được thưởng thức loại trà nào ngon đến thế trong đời. Chúng tôi thậm chí còn được trải nghiệm nếm thử trà, tìm hiểu về lịch sử trà sen và cách chế biến! Thật tuyệt vời!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Tram Pham,5,"Trải nghiệm tuyệt vời ở đây, người phụ nữ dễ mến đã cho chúng tôi nếm thử trà rất ngon."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Uyên Tú,5,"Trải nghiệm thưởng trà rất tuyệt vời. Nhân viên rất nhiệt tình giúp tôi chọn được loại trà ngon. Đặc biệt, họ cho phép tôi nếm thử trà miễn phí trước khi mua. Rất nên ghé thăm nơi này nếu bạn thích mua quà lưu niệm về trà khi đến Huế."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Pannita Kulwisit,5,Đây là địa điểm NHẤT ĐỊNH PHẢI GHÉ THĂM! Trải nghiệm vô cùng quý giá! Bạn không thể tìm thấy trải nghiệm này ở bất cứ nơi nào khác… Trà sen thật tuyệt vời! …
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Fish Black,5,"Tôi đến thăm Thành Citadel Huế và đang đi dạo thì thấy một quán trà rất đẹp, nên tôi ghé vào. Nó vượt quá sự mong đợi của tôi. Điều tuyệt vời nhất là quán có máy lạnh!🤣 …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,머머꼬살지,5,"Nhân viên rất thân thiện, và thật tuyệt khi tôi có thể nếm thử các loại trà mình muốn trước khi mua. …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,pannita GIFTIST,5,"Tôi sẽ không bao giờ quên trải nghiệm này… nó thực sự đáng giá tiền của bạn, thậm chí còn rẻ hơn so với những gì bạn nhận được từ trải nghiệm này. …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,谷,5,"Chúng tôi đến tham gia buổi nếm thử trà miễn phí để tránh mưa và được cô Luta đón tiếp rất nồng nhiệt. Cô ấy đã cung cấp cho chúng tôi rất nhiều thông tin về từng loại trà. Cuối cùng, chúng tôi đã được nếm thử 9 loại trà! Không gian tuyệt vời và rất yên bình, một trải nghiệm thú vị."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nick Duijvestijn,5,"Tôi đã có một trải nghiệm tuyệt vời ở đây. Chúng tôi được thử nhiều loại trà khác nhau và học hỏi được rất nhiều điều bổ ích. Nhi (người pha trà) thực sự rất giỏi và đã cá nhân hóa trải nghiệm cho từng khách hàng. Có rất nhiều hương vị và kích cỡ khác nhau, rất thích hợp để làm quà lưu niệm."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Seth G,5,"Tôi đã đến nhiều quán Trà Việt ở các thành phố khác nhau trên khắp Việt Nam và nhân viên luôn niềm nở và sẵn lòng phục vụ trà. Trải nghiệm trà sen ở Huế đặc biệt hơn cả vì đây là quán duy nhất sử dụng sen trắng, loại sen nguyên thủy mà nhà …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Thien Hoang,5,Nhân viên rất thân thiện. Chất lượng trà tuyệt vời. Rất nên ghé thăm nếu bạn là người yêu thích trà.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Gillian Marinakis,5,"Tôi ghé qua đây để mua quà, mua được một ít trà hoa nhài rất ngon và cũng được nếm thử một vài loại trà khác nữa!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Göknil Özer Fay,5,Huyen rất nhiệt tình giúp đỡ tìm những thứ tôi cần và hào phóng tặng mẫu thử. Tôi hoàn toàn khuyên mọi người nên dùng thử.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Eitan Friedmann,5,Trà ngon tuyệt vời và lại còn miễn phí nữa.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,施靜儀,5,"Không khí ở đó rất tuyệt, và có cả mẫu thử miễn phí. Nhân viên rất thân thiện, và cách pha chế cũng như giải thích về trà của họ rất chuyên nghiệp."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,York Lin,5,"Nhân viên ở đây rất thân thiện và chuyên nghiệp, cô ấy đã giới thiệu cho chúng tôi nhiều kiến ​​thức về trà Việt Nam. Trà ở đây cũng rất ngon và đậm đà. Chắc chắn đáng để bạn ghé thăm sau khi tham quan cung điện hoàng gia."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,林哲明,5,"Cửa hàng rất đẹp, và trà thì ngon tuyệt."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Kelly Gibson,5,"Một trải nghiệm trà đạo tuyệt vời. Các cô gái trẻ rất am hiểu, giải thích cặn kẽ về các loại trà và lợi ích của chúng. Thật sự là một kỷ niệm độc đáo và đặc biệt sẽ còn đọng lại trong tôi nhiều năm về chuyến đi Huế. Cảm ơn các bạn 🙏 💛 …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nazar,5,"Buổi thử trà thật là một trải nghiệm tuyệt vời. Cô gái phục vụ rất dễ thương, lịch sự và nói tiếng Anh tốt. Tôi đã chọn loại trà dựa trên buổi thử."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Diana,5,Một quán trà dễ chịu. Họ cho khách nếm thử bốn loại trà khác nhau. Lựa chọn rất đa dạng. Bạn cũng có thể mua trà thảo mộc. Cô gái dễ thương đã ân cần giải thích mọi thứ cho chúng tôi. Cảm ơn rất nhiều ❤️
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Denis Dick,5,"Chúng tôi đã có một trải nghiệm rất tốt.
+Nhân viên thân thiện và người pha trà giỏi."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Admin Admin,5,Một hành trình tuyệt vời của hương vị
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Linh Tran,5,"Trải nghiệm thú vị tại quán trà địa phương xinh xắn này! Họ hướng dẫn tôi cách pha trà sen hoàng đế và kể cho chúng tôi nghe về lịch sử của loại trà, rất thú vị và độc đáo! Rất đáng để ghé thăm!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,于佳,5,ngon
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Fan Pokemon Bin,5,"Không gian dễ chịu, nhân viên thân thiện (Flora Uyen), trà ngon và độc đáo. Nhất định phải thử!!!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Ngọc Đoàn,5,"Cửa hàng Trà Việt thật tuyệt vời, trà rất ngon với nhiều loại trà khác nhau, nhân viên rất thân thiện và chuyên nghiệp, đặc biệt là cô Floria Uyên, cô ấy rất tốt bụng và chuyên nghiệp."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Yurii Kalashnyk,5,"Trải nghiệm thưởng trà tuyệt vời, nhân viên dễ thương! Rất đáng yêu!!!!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Trương Xuân Thiên Tùng,5,"Mình rất thích không gian sang trọng ở đây 😘 Trà ngon, mình thích vị ngọt, thật là một trải nghiệm thú vị 🥰 Cô Flora là nhân viên tuyệt vời, cô ấy rất thân thiện 😍 Mình sẽ quay lại lần nữa. …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Đại Dương Nguyễn Châu,5,"Trải nghiệm ở đây thật sự ấn tượng 😍😍 Mình thích không gian ấm cúng, hương vị trà, và cô Flora Uyen rất thân thiện và tận tâm 😍😍 Mình nhất định sẽ quay lại lần sau 😍😍 …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Khánh Phương,5,"Quán trà sạch sẽ và ấm cúng, cô Flora thì rất dễ thương và thân thiện. Đây là lần đầu tiên tôi thử trà Việt Nam và tôi thực sự rất ngạc nhiên. Đó là một trải nghiệm tuyệt vời! Tôi rất khuyên mọi người nên ghé qua và thử nhé!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Eleanor Wilkinson,5,"Nếu bạn đang tìm kiếm trải nghiệm trà đạo đích thực, giàu lịch sử và mang tính giáo dục thì hãy chọn nơi này! Nhân viên phục vụ nói năng lưu loát và lịch sự. Rất đáng để thử!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nguyen Thinh,5,"Cô Flora rất tốt bụng, hiểu biết và chu đáo. Cô ấy đã giúp tôi hiểu biết rất nhiều về trà Việt Nam và văn hóa trà ❤️❤️❤️. Không gian ở đây rất đẹp và thư giãn."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,anh hong tran nguyen,5,Cô nàng Chiến đấu 💯 …
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Коля Красоткин,5,Nó ngon tuyệt!
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Семен Петрухин,5,"Nơi tuyệt vời, và trà cũng ngon nữa 🍵 …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Marc Thibaut,5,Trải nghiệm tuyệt vời tại quán trà này!
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Bánh ép Huế Tan -,5,"Tôi rất thích văn hóa trà Việt Nam và giờ đây, tôi đã có trải nghiệm tại Trà Việt, thật sự rất hào hứng. Cô Venus rất tốt bụng và thân thiện, cô ấy pha trà bạc hà rất ngon. Rất nên đến Trà Việt nhé!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Jonathon Yan,5,"Trải nghiệm thưởng trà thật tuyệt vời. Nhân viên vô cùng thân thiện đã giới thiệu chi tiết từng hương vị của các loại trà và việc nếm thử trà là một trải nghiệm thú vị. Ban đầu tôi khá phân vân không biết nên chọn loại trà nào, nhưng nhờ sự …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Jenny Nguyen,5,"Là một người không thường xuyên uống trà, đây là một trải nghiệm mở mang tầm mắt và là lời giới thiệu tuyệt vời đến thế giới của những người yêu thích trà. Khẩu vị của tôi có thể khá đơn giản, nhưng tôi rất thích mọi thứ ở đây và người phụ …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Mみあ,5,Nội dung rất thú vị. Các giải thích cũng rõ ràng và hữu ích.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,ばなな,5,"Đó là một trải nghiệm rất thú vị! Hoa sen tỏa hương thơm ngát, và trà thì ngon tuyệt. Venus là người phụ trách chúng tôi, cô ấy rất nhiệt tình, lịch sự, duyên dáng và dễ thương!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Martino Petri,5,"Một trải nghiệm tuyệt vời dành cho tất cả những người yêu trà! Không gian ấm cúng và được bài trí tỉ mỉ, với bầu không khí thư giãn giúp bạn lập tức thả lỏng. Buổi nếm thử được hướng dẫn với niềm đam mê và chuyên môn cao: chúng tôi được …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Đoàn Minh Vũ,5,"Hiện tại chúng tôi đang ở Trà Việt, một trong những không gian ấm cúng để thưởng thức các loại trà Việt Nam, trà ở đây rất tươi ngon và tuyệt vời. Tôi đã học được nhiều điều về truyền thống, kiến ​​thức về các loại trà, tôi rất thích nơi này."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Quốc Thìn Văn,5,Nơi tuyệt vời để uống trà.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Hương Vương Thị,5,"Trà ngon, không gian đẹp và yên tĩnh, nhân viên thân thiện."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,hương vũ thị mai,5,"Dịch vụ tốt
+Rất thân thiện"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Thị Hương Nguyễn,5,"Trà rất ngon, và nhân viên thì vô cùng thân thiện và niềm nở. Không gian ấm cúng, thoải mái và thư giãn, rất thích hợp để ngồi lại, trò chuyện với bạn bè hoặc đơn giản là tận hưởng những giây phút yên tĩnh. Tôi đã có một trải nghiệm thực sự tuyệt vời và chắc chắn sẽ quay lại lần nữa!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Me Chè,5,Tôi yêu trà Việt Nam
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Đức Đinh Thanh,5,Không gian ấm cúng với trà tuyệt vời!
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Kiều Thanh Thuý,5,Rất tuyệt
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Marone 01,5,Tư vấn rất thân thiện và trà rất ngon. Chúng tôi đã mua trà xanh với giá tốt.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,彩由郁,5,"Tôi đã có cơ hội nếm thử rất nhiều loại trà Việt Nam, và họ thậm chí còn giải thích chi tiết về nguồn gốc của từng loại. …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,bruno boccara,5,"Một trải nghiệm rất tuyệt vời. Và nếu bạn có cơ hội gặp cô Venus, bạn sẽ thấy sự tử tế và năng lực vượt trội của cô ấy."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Hien Huynh,5,"Không gian ấm cúng và thoải mái. Trải nghiệm tuyệt vời, đáng để thử và rất đáng để trải nghiệm."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Mari Sun,5,"Trải nghiệm tuyệt vời. Bậc thầy trà rất thân thiện, giải thích cặn kẽ và giới thiệu trà rất chu đáo. Hương vị cũng tuyệt vời."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Oualid Chakmakdji,5,"Cửa hàng rất đẹp, và chủ cửa hàng rất tốt bụng và thân thiện. Mọi thứ đều được trưng bày hoàn hảo, và chúng tôi đã có một trải nghiệm tuyệt vời!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Khaled Khelil,5,"Người phụ nữ đó đã có một bài thuyết trình tuyệt vời và cho chúng tôi nếm thử nhiều loại trà khác nhau, đồng thời giải thích rất say sưa.
+Tôi khuyên bạn nên ghé qua cửa hàng đó sau khi tham quan lâu đài hoàng gia."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Clara Kevin,5,"Trải nghiệm tuyệt vời, món ăn ngon, nhân viên dễ thương."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Devil Khoa,5,Cô bé Flora rất năng động và đáng yêu nên tôi cảm thấy vui vẻ vì có cô bé 🥴🥴🥴🥴 …
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Tiểu My Đoàn Đỗ,5,"Trà rất ngon, và nhân viên, cô Flora, vô cùng thân thiện và chu đáo. Rất đáng để thử! ✨"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Diệu Cử Nguyễn,5,"Tôi đã có một trải nghiệm tuyệt vời tại Trà Việt! Nhân viên vô cùng thân thiện và nhiệt tình. Không gian chuyên nghiệp và ấm cúng, và tôi thực sự đánh giá cao việc họ sử dụng tiếng Việt và tiếng Anh một cách trôi chảy. Chắc chắn là một nơi tuyệt vời để trải nghiệm!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Ilja Bannack,5,"Chúng tôi đã đặt một khóa học với cô Venus. Trước đó, có một bài thuyết trình rất bổ ích, và sau đó cô ấy đã hướng dẫn chúng tôi cách pha trà theo phương pháp truyền thống. Cô ấy rất thân thiện và dễ gần. Tiếng Anh của cô ấy cũng rất tốt. …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Lotte,5,"Khóa học trà đạo rất bổ ích và đẹp mắt. Trà ngon tuyệt và cô Venus rất, rất dễ mến! …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Đồng Ngọc Minh Thư,5,Trải nghiệm tuyệt vời với Trà Việt. Công việc đáng kinh ngạc của họ không chỉ tập trung vào trà Việt Nam mà còn kết nối văn hóa và lịch sử Việt Nam.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Minh Vũ Đoàn,5,"Một nơi tuyệt vời với nhiều loại trà truyền thống Việt Nam, tôi đã nếm thử khoảng 3-4 loại trà và chúng rất tươi ngon, tôi có thể cảm nhận được hương vị của từng loại trà 🥰 …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Sieg Warheit,5,Trải nghiệm thưởng thức tuyệt vời với nhiều loại trà khác nhau.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Liat Sarner,5,"Trải nghiệm tuyệt vời với Venus - trà ngon tuyệt, mời bạn ghé thăm."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Chris Thorne,5,Một cách tuyệt vời để tìm hiểu về cách làm và thưởng thức các loại trà Việt Nam.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Joe Thorne,5,Trải nghiệm rất tuyệt vời - nhân viên tư vấn rất am hiểu về các loại trà và buổi nếm thử rất ngon miệng. Rất đáng để thử!
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Alex Thorne,5,"Rất tuyệt, cô Venus rất nhiệt tình và thân thiện."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Mark Matyassy,5,"Tuyệt vời! Tôi ghé qua và được mời vào bên trong để trải nghiệm nếm thử trà, khám phá ra những hương vị mới. Người hướng dẫn và giải thích rất dễ mến."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Татьяна Задоя,5,Chúng tôi thực sự rất hài lòng với đội ngũ nhân viên và nghi thức trà đạo. Họ giải thích rất chi tiết về các loại trà và giới thiệu nhiều loại khác nhau. Rất đáng để trải nghiệm!
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,ron babkin,5,"Một chuyến ghé thăm Traviet là trải nghiệm mà mọi người yêu trà đều nên thử. Dịch vụ ở đây rất tuyệt vời, và nhân viên thể hiện kiến ​​thức sâu rộng và thú vị về tất cả các loại trà mà chúng tôi được phục vụ. Chúng tôi đã được nếm thử nhiều …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Anne INTEL,5,"Chúng tôi đã có một khoảng thời gian tuyệt vời tại quán trà này, tận hưởng trải nghiệm độc đáo khi học nghi thức trà đạo, đặc biệt là trà sen. Không gian đẹp và thanh bình. Nhân viên vô cùng thân thiện, chuyên nghiệp và am hiểu. Chúng tôi …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Wojciech Pulko,5,Món ăn rất ngon và phục vụ thân thiện. Chúng tôi rất khuyên bạn nên thử!
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Serhii Karelov,5,"Tôi đã có một trải nghiệm tuyệt vời tại Trà Việt. Tôi khuyên bạn nên thử trải nghiệm trà sen, chúng tôi đã được tìm hiểu ý nghĩa văn hóa của trà sen và có cơ hội tự tay pha trà. Bạn cũng có thể nếm thử nhiều loại trà khác nhau và mua về nhà …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,David Schober,5,Một buổi nếm thử trà rất thú vị. Bạn khó mà tin được nền văn hóa trà Việt Nam phong phú đến thế nào.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,David Krutonog,5,"Một địa điểm tuyệt vời. Trà chất lượng cao và dịch vụ rất chuyên nghiệp, chu đáo. Rất nên ghé thăm nếu bạn đến Huế!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Hoàng Yến Nguyễn,5,Một cửa hàng rất thú vị dành cho những người yêu thích trà!
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Charles Damien,5,Một trải nghiệm tuyệt vời khi tạo ra trà từ hoa sen.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Mohamed Samy,5,"Khi đến đây, bạn sẽ được chào đón bởi hai cô gái tuyệt vời Nhi và Uyen. Trong khi Nhi giới thiệu cho bạn quy trình làm trà, lịch sử trà ở Việt Nam và các loại trà khác nhau mà họ có, bạn sẽ được chứng kiến ​​Nhi trổ tài pha chế và chuẩn bị …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Takeo Hosoi,5,Bạn có thể nếm thử trà. Bạn có thể đưa ra quyết định sau khi được giải thích kỹ lưỡng về loại trà đó.
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Vik Piliak,5,"Một trải nghiệm tuyệt vời, cửa hàng được bài trí đẹp mắt với nhân viên rất thân thiện. Chúng tôi đã nếm thử và mua một vài loại trà. Rất đáng để ghé thăm."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Giovanni Costantino,5,Cửa hàng có đầy đủ các mặt hàng với nhiều chủng loại để lựa chọn. Nhân viên rất thân thiện!
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Sibylle Hubert,5,"Chúng tôi vừa có một khoảng thời gian tuyệt vời tại Trà Việt. Nhân viên đã giải thích rất nhiều điều thú vị về Việt Nam và trà, và chúng tôi có thể nếm thử nhiều hương vị khác nhau tùy thích. Một cửa hàng gia đình rất dễ thương. Cảm ơn rất nhiều vì khoảng thời gian tuyệt vời :)"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Emil Nygren,5,"Một trải nghiệm tuyệt vời mà bạn nhất định phải thử nếu có dịp đến Huế. Huyền đã dạy chúng tôi mọi thứ về văn hóa, lịch sử và những sự thật thú vị về trà trước khi chúng được thưởng thức. Tôi thực sự khuyên bạn nên thử."
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Nicolangelo Piscitelli,5,Có rất nhiều loại trà tuyệt vời và Nhi đã giúp chúng tôi nếm thử và chọn ra những loại trà ngon nhất!
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Mario Donati,5,"Một cửa hàng thực sự tuyệt vời, nơi bạn có thể nếm thử 40 loại trà khác nhau. Trà quế rất được khuyến khích. Hương vị và mùi thơm của nó sẽ lưu lại mãi. Họ không bao giờ thêm đường, và trà đã đủ ngọt; nó chứa fructose trực tiếp từ lá trà …"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,Archibald AMIR-HAERI,5,"Sản phẩm tuyệt vời và sự đón tiếp nồng nhiệt, đó là một trải nghiệm tuyệt vời!"
+GoogleMaps,0x3141a18c71a47dab:0xb0ea3fcb93db478a,Trà Việt – Tea Experience & Boutique,jean-claude pernes,5,Trà ngon nhất ❤️❤️❤️
